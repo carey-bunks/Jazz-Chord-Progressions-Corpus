@@ -1,9 +1,0 @@
-Title = Countdown
-DB Key = Bb
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 16
- bvm v7 | iM biii7 | bviM vii7 | iiiM |
- iiim iv7 | bviiM bii7 | bvM vi7 | iiM |
- iim biii7 | bviM vii7 | iiiM v7 | iM |
- bvm | v7 | iM | iv7 |

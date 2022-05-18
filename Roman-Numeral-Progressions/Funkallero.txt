@@ -1,9 +1,0 @@
-Title = Funkallero
-DB Key = Eb
-EstKeySig = Ab
-TimeSig = 4 4
-Bars = 16
- bv7 | vii7 | iiim | iiim |
- bv7 | vii7 | iiim | iiim |
- iim iim iim iim iim iim iim iim | v7 | iM iM iM iv7 iv7 iv7 iv7 iiim | vim |
- bv7 | vii7 | iiim | iiim |

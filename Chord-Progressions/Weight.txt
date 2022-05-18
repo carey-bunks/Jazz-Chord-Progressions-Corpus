@@ -1,8 +1,0 @@
-Title = The Weight
-DB Key = F
-TimeSig = 4 4
-Bars = 15
- F Am | Bb F | F Am | Bb F |
- F Am | Bb F | F Am | Bb F |
- F C Bb Bb | F C Bb Bb | F C Bb Bb | Bb |
- Bb | F C Dm Am | Bb |

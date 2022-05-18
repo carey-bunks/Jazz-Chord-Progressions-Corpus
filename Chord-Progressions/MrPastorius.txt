@@ -1,9 +1,0 @@
-Title = Mr. Pastorius
-DB Key = C
-TimeSig = 4 4
-Bars = 17
- C13 C13 A13#11 Ab7b5 | Gm6 Gm6 A13 D7b9 | Eb/A Ab7#11 | EbM7/G A13 Ab13 G13 |
- C13 C13 A13#11 Ab7b5 | Gm6 Gm6 A13 D7b9 | Eb/A Ab7#11 | EbM7b5 Ab13 |
- Dm7b5 D7b9 G7 G7#5 | AbM7b5/G Cm7 | Dm7b5 AbM7add13 | AbM7b5/G G7 |
- Cm9 Cm7/Bb Am7b5 Ab7b5 | Gm69 Gm69 A13 D7b9 | Am7b5 Ab7b5 | EbM7 D7b9 |
- G7sus4 G7 |

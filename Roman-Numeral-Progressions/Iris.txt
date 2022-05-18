@@ -1,9 +1,0 @@
-Title = Iris
-DB Key = C
-EstKeySig = Eb
-TimeSig = 3 4
-Bars = 16
- iim | iim | biiM | biiiM |
- v7 | bvii7 | ivM | ivM |
- vim | vim | bvii7 | vim |
- bvii7 | bviim | bvii7 | bvii7 |

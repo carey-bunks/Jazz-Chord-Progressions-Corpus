@@ -1,9 +1,0 @@
-Title = My Sweet Lord
-DB Key = F
-EstKeySig = F
-TimeSig = 4 4
-Bars = 14
- iim | v7 | iim | v7 |
- iim | v7 | iim | v7 |
- iM | vim | iM | vim |
- iM | io |

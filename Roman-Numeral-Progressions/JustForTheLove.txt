@@ -1,8 +1,0 @@
-Title = Just For the Love
-DB Key = Ab
-EstKeySig = F
-TimeSig = 4 4
-Bars = 12
- biiiM | iM biiM | iM | vm i7 |
- ivM | ivm bvii7 | iiim | vi7 |
- iim | v7 | iiim vi7 | ivm bvii7 |

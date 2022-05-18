@@ -1,9 +1,0 @@
-Title = The Old Country
-DB Key = C
-TimeSig = 4 4
-Bars = 16
- Dm6 | Em7b5 | A7b9 | Dm6 |
- Dm6 D7b9 | Gm7 | Gm7/C C7b9 | FM7 |
- FM7 | Em7b5 | A7b9 | Dm7 Dm7/C |
- B7alt | B7#11 | Em7b5 A7b9 | Dm7 |
-

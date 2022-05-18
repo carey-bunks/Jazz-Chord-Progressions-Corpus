@@ -1,7 +1,0 @@
-Title = Canon
-DB Key = C
-TimeSig = 2 4
-Bars = 8
- D | A7 | Bm7 | F#m7 |
- G | D | G | A7 |
-

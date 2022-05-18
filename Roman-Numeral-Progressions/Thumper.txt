@@ -1,8 +1,0 @@
-Title = The Thumper
-DB Key = Bb
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 12
- v7 | i7 | v7 | iim v7 |
- i7 | biio | v7 iv7 | iii7 iii7 viih bvii7 |
- vih | ii7 | v7 iii7 | vi7 ii7 |

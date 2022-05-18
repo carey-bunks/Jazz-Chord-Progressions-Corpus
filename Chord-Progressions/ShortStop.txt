@@ -1,8 +1,0 @@
-Title = Short Stop
-DB Key = Bb
-TimeSig = 4 4
-Bars = 12
- Bb | Eb7 | Bb Bb+ | Fm7 Bb7 |
- Eb7 | Eo7 | Bb | G7 |
- Cm7 | Ab7 | Dm7 DbM7 | GbM7 B7 |
-

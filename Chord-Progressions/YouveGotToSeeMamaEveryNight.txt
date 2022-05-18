@@ -1,9 +1,0 @@
-Title = You've Got to See Mama Every Night
-DB Key = Bb
-TimeSig = 4 4
-Bars = 16
- Bb F7+ | Bb G7 | C7 F7 | Bb |
- Bb F7+ | Bb Bb G7 G7b5 | F C7 | F |
- Bb7 | Bb7 | Eb7 | Gb7 |
- Bb F7+ | Bb G7 | C7 F7 | Bb |
-

@@ -1,8 +1,0 @@
-Title = Here Comes McBride
-DB Key = Eb
-EstKeySig = Ab
-TimeSig = 4 4
-Bars = 12
- iiim | iiim | iiim | iiim |
- vim | vim | iiim | iiim |
- vii7 | vi7 | v7 | iv7 |

@@ -1,7 +1,0 @@
-Title = Biencavo
-DB Key = Bb
-TimeSig = 4 4
-Bars = 8
- Em7b5 A7 | DmM9 | Em7b5 A7 | DmM9 |
- Em7b5 A7 | Dm Db7 Cm B7 | Bb7 Bb7 Em7b5 A7 | DmM9 |
-

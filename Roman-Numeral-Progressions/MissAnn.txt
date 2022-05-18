@@ -1,9 +1,0 @@
-Title = Miss Ann
-DB Key = C
-EstKeySig = Db
-TimeSig = 4 4
-Bars = 13
- vii7 | vii7 | iiio | iiio |
- vim | vim | iiim | bvii7 |
- iii7 | bvi7 | biiim iiio | iiim |
- iiim |

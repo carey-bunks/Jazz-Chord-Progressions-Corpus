@@ -1,9 +1,0 @@
-Title = Witch Hunt
-DB Key = C
-EstKeySig = Ab
-TimeSig = 4 4
-Bars = 16
- v7 | v7 | v7 | v7 |
- iiim | iiim | iiim | iiim |
- bvii7 | vi7 | bviM bviM bviM v7 v7 v7 v7 v7 | v7 |
- im | biiM | im | biiM |

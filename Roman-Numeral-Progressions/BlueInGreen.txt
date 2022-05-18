@@ -1,9 +1,0 @@
-Title = Blue in Green
-DB Key = F
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 14
- vim | vii7 | iiim iiim iiim biii7 | iim v7 v7 v7 |
- iM | vii7 | iiim | bv7 |
- viim | iiim | iM | vii7 |
- iiim | iiim |

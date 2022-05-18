@@ -1,9 +1,0 @@
-Title = Isn't She Lovely
-DB Key = E
-EstKeySig = Ab
-TimeSig = 4 4
-Bars = 16
- iiim | vi7 | vim | bviM |
- iiim | vi7 | vim | bviM |
- biiM | vii7 | iiim | vi7 |
- vim | vim | bviM | bviM |

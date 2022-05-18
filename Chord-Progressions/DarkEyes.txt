@@ -1,9 +1,0 @@
-Title = Dark Eyes
-DB Key = C
-TimeSig = 3 4
-Bars = 16
- A7 | A7 | Dm | Dm |
- A7 | A7 | Dm | Dm |
- Gm | Gm | Dm | Dm |
- A7 | A7 | Dm | Dm |
-

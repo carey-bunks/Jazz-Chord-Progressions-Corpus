@@ -1,9 +1,0 @@
-Title = Nefertiti
-DB Key = C
-TimeSig = 4 4
-Bars = 16
- AbM7 | DbM7 | Gm7b5 | C7b9 |
- BM7 | Bbm11 | AM7#11 | Eb7b9#11 |
- EM7#11 | A7sus4 | D7#9/Bb | E7#11 |
- E7sus4 | Eb7#11 | BbmM7 | A13b9 |
-

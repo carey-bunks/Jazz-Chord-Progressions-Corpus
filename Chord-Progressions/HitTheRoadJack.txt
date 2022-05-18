@@ -1,7 +1,0 @@
-Title = Hit the Road, Jack
-DB Key = Eb
-TimeSig = 4 4
-Bars = 8
- Cm Cm/Bb | Ab7 G7 | Cm Cm/Bb | Ab7 G7 |
- Cm Cm/Bb | Ab7 G7 | Cm Cm/Bb | Ab7 G7 |
-

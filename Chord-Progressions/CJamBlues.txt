@@ -1,8 +1,0 @@
-Title = C Jam Blues
-DB Key = C
-TimeSig = 4 4
-Bars = 12
- C7 | F7 | C7 | C7 |
- F7 | F7 | C7 | C7 |
- Dm7 | G7 | C7 | Dm7 G7 |
-

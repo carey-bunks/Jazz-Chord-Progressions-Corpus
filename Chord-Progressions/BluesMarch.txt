@@ -1,8 +1,0 @@
-Title = Blues March
-DB Key = Bb
-TimeSig = 4 4
-Bars = 12
- Bb7 | Eb7 | Bb7 | Bb7 |
- Eb7 Ab7 | Db7 Gb7 | Gm7b5 Ab7 | A7 Bb7b9 |
- Cm7b5 | F7 | Bb7 Db7 | Gb7 B7 |
-

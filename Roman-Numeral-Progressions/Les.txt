@@ -1,9 +1,0 @@
-Title = Les
-DB Key = F
-EstKeySig = F
-TimeSig = 4 4
-Bars = 14
- i7 | iv7 | i7 | im bv7 |
- iv7 | bvo | v7 | vim bii7 |
- iim | biiim bvi7 | iii7 i7 | biii7 |
- iM | iM |

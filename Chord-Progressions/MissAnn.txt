@@ -1,8 +1,0 @@
-Title = Miss Ann
-DB Key = C
-TimeSig = 4 4
-Bars = 13
- C7 | C7 | Fo7 | Fo7 |
- Bbm7 | Bbm7 | F#m7 | B7 |
- F7 | A7 | Em7 Fo7 | F#m7 |
- F#m7 |

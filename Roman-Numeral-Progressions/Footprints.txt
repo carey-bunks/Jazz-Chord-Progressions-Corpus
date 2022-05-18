@@ -1,8 +1,0 @@
-Title = Footprints
-DB Key = Eb
-EstKeySig = Eb
-TimeSig = 6 8
-Bars = 12
- vim | vim | vim | vim |
- iim | iim | vim | vim |
- iih bvi7 | bii7 bv7 | vim | vim |

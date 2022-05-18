@@ -1,8 +1,0 @@
-Title = Back Home Blues
-DB Key = F
-TimeSig = 4 4
-Bars = 12
- C7 | C+ | C6 | C7 |
- F6 | Fo7 | C Fm | Em7 Ebm7 |
- Dm7 | F/G G7b9 | Em7 Ebo7 | Dm7 G7b9 |
-

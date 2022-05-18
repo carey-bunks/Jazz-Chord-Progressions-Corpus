@@ -1,8 +1,0 @@
-Title = Eye of the Hurricane
-DB Key = C
-EstKeySig = Ab
-TimeSig = 4 4
-Bars = 12
- vim | vim | vim | vim vi7 |
- iim | iim | vim | vim |
- iv7 | iii7 | vim | viih iii7 |

@@ -1,8 +1,0 @@
-Title = Chasin' The Trane
-DB Key = F
-EstKeySig = F
-TimeSig = 4 4
-Bars = 12
- iM | v7 | vim ii7 | vm i7 |
- ivM | vm i7 | ivM | v7 iM |
- iim | v7 | iM iii7 | vim ii7 |

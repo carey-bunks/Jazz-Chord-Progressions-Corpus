@@ -1,9 +1,0 @@
-Title = Show Me The Way To Go Home
-DB Key = G
-TimeSig = 4 4
-Bars = 16
- G | G7 | C C C Cm | G |
- G | G Em7 | A7 | D7 |
- G | G7 | C | B7 |
- G | G Em7 | A7 A7 A7 D7 | G |
-

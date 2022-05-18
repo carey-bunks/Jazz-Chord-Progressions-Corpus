@@ -1,8 +1,0 @@
-Title = My Sweet Lord
-DB Key = F
-TimeSig = 4 4
-Bars = 14
- Gm | C7 | Gm | C7 |
- Gm | C7 | Gm | C7 |
- F | Dm | F | Dm |
- F | F#o |

@@ -1,9 +1,0 @@
-Title = The Core
-DB Key = Gb
-EstKeySig = B
-TimeSig = 4 4
-Bars = 16
- iiim | iiim | iiim | iiim |
- iiim | iiim | iiim | iiim |
- iiim | iiim | iiim | iiim |
- vM | bvm | ivM | ivM |

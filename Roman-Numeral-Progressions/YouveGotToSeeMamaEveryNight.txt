@@ -1,9 +1,0 @@
-Title = You've Got to See Mama Every Night
-DB Key = Bb
-EstKeySig = F
-TimeSig = 4 4
-Bars = 16
- ivM i7 | ivM ii7 | v7 i7 | ivM |
- ivM i7 | ivM ivM ii7 ii7 | iM v7 | iM |
- iv7 | iv7 | bvii7 | bii7 |
- ivM i7 | ivM ii7 | v7 i7 | ivM |

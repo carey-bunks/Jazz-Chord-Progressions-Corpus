@@ -1,9 +1,0 @@
-Title = Isn't She Lovely
-DB Key = E
-TimeSig = 4 4
-Bars = 16
- C#m7 | F#7 | F#m7/B | EM7 |
- C#m7 | F#7 | F#m7/B | EM7 |
- AM7 | G#7#5b9 | C#m7 | F#7 |
- F#m7/B | F#m7/B | EM7 | EM7 |
-

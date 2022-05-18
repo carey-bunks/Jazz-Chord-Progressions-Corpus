@@ -1,9 +1,0 @@
-Title = Pussy Cat Dues
-DB Key = D
-TimeSig = 4 4
-Bars = 16
- D7 Bb7 | D7 Bb7 | D7 Bb7 | D7 Bb7 |
- D7 Bb7 | D7 Bb7 | D7 Bb7 | D7 Ab7 |
- G7 | C7 | D7 Bb7 | D7 E7/G# |
- Em7b5 A7#9 | Fm7 Bb7 | Eb Ab7 | Eb7 |
-

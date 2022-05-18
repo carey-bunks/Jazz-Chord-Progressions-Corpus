@@ -1,8 +1,0 @@
-Title = Freight Trane
-DB Key = Ab
-EstKeySig = Ab
-TimeSig = 4 4
-Bars = 12
- iM | viih iii7 | vim | vm i7 |
- ivM | ivm | iiim | biiim |
- iim | v7 | iiim vi7 | iim v7 |

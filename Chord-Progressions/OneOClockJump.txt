@@ -1,8 +1,0 @@
-Title = One O'Clock Jump
-DB Key = Db
-TimeSig = 4 4
-Bars = 12
- Db7 | Db7 | Db7 | Db7 |
- Gb7 | Gb7 | Db7 | Db7 |
- Ab7 | Ab7 | Db7 | Db7 |
-

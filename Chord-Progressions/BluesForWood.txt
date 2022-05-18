@@ -1,8 +1,0 @@
-Title = Blues for Wood
-DB Key = Eb
-TimeSig = 4 4
-Bars = 12
- Fm7 | Fm7 | Fm7 | Fm7 |
- Db7#11 | Db7#11 | Fm7 | Fm7 |
- Db7#11 | BM7#11 | Gm7b5 C7alt | Fm7 |
-

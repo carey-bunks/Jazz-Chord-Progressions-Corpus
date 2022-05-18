@@ -1,9 +1,0 @@
-Title = Out of the Blue
-DB Key = F
-EstKeySig = F
-TimeSig = 4 4
-Bars = 16
- iM | v7 | iM | iim |
- iM | iim | iim | vim i7 |
- ivM | iim | iv7 | bviiM iiih |
- ivM viih | vm i7 | iv7 | iv7 |

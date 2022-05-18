@@ -1,8 +1,0 @@
-Title = Kansas City
-DB Key = C
-TimeSig = 4 4
-Bars = 12
- C | C | C | C |
- F | F | C | C |
- G7 | F7 | C | C |
-

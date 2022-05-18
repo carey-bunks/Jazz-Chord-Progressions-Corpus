@@ -1,8 +1,0 @@
-Title = Cousin Mary
-DB Key = C
-EstKeySig = Db
-TimeSig = 4 4
-Bars = 12
- NC vii7 ii7 ii7 | v7 | NC vii7 ii7 ii7 | v7 |
- NC v7 bii7 bii7 | i7 | NC vii7 ii7 ii7 | v7 v7 v7 bii7 |
- NC bii7 NC i7 | NC bii7 NC i7 | NC vii7 ii7 ii7 | v7 |

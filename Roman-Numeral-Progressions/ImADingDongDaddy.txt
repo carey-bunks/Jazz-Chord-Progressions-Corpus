@@ -1,9 +1,0 @@
-Title = I'm A Ding Dong Daddy (from Dumas
-DB Key = Bb
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 16
- iM ivM | iM vi7 | ii7 v7 | iM iM iM v7 |
- iM ivM | iM vi7 | ii7 | v7 |
- iM | i7 | vim | ii7 v7 |
- iM ivM | iM vi7 | ii7 v7 | iM |

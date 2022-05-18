@@ -1,8 +1,0 @@
-Title = Bag's Groove
-DB Key = C
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 12
- v7 | i7 biio | v7 | v7 |
- i7 | i7 biio | v7 | viim iii7 |
- vim | ii7 | v7 iii7 | vim ii7 |

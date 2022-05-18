@@ -1,9 +1,0 @@
-Title = Peg O' My Heart
-DB Key = Bb
-TimeSig = 4 4
-Bars = 16
- Bb6 | Bb6 | C7 | Gm7 C7 |
- Cm | Cm F7 | Dm7 G7 | Cm7 F7 |
- Bb6 | Bb6 | C7 | Gm7 C7 |
- Cm | Cm F7 | Bb6 G7 | Cm7 F7 |
-

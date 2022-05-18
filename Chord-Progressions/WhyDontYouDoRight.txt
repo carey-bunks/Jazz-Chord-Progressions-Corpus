@@ -1,8 +1,0 @@
-Title = Why Don't You Do Right?
-DB Key = F
-TimeSig = 4 4
-Bars = 12
- Dm6 Bm7b5 | Bb7 A7 | Dm6 Bm7b5 | Bb7 A7 |
- Gm7 | Gm7 A7 | Dm6 Bm7b5 | Bb7 A7 |
- Gm7 A7 | Gm7 A7 | Dm6 Bm7b5 | Bb7 A7 |
-

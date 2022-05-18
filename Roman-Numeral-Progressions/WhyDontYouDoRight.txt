@@ -1,8 +1,0 @@
-Title = Why Don't You Do Right?
-DB Key = F
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 12
- viim bvih | v7 bv7 | viim bvih | v7 bv7 |
- iiim | iiim bv7 | viim bvih | v7 bv7 |
- iiim bv7 | iiim bv7 | viim bvih | v7 bv7 |

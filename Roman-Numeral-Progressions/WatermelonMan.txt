@@ -1,9 +1,0 @@
-Title = Watermelon Man
-DB Key = Bb
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 16
- v7 | v7 | v7 | v7 |
- iM | iM | v7 | v7 |
- ii7 | i7 | ii7 | i7 |
- ii7 ii7 ii7 bii7 | i7 | v7 | v7 |

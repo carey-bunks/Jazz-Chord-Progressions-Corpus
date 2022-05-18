@@ -1,8 +1,0 @@
-Title = Warm Winds
-DB Key = Eb
-TimeSig = 4 4
-Bars = 12
- Cm Gm7 | Cm Gm7 | Cm Gm7 | Cm |
- Ab7 | D7 Gm7 | Cm | A7b5 |
- D+ | Fm6 G7 | Cm | G7alt |
-

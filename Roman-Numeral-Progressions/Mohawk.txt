@@ -1,8 +1,0 @@
-Title = Mohawk
-DB Key = Bb
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 12
- v7 | i7 | v7 | iim v7 |
- i7 | i7 | vM | vM iii7 |
- vim | ii7 | v7 | vim ii7 |

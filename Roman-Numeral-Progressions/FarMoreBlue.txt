@@ -1,8 +1,0 @@
-Title = Far More Blue
-DB Key = Ab
-EstKeySig = Ab
-TimeSig = 5 4
-Bars = 12
- vim vim vim ii7 ii7 | vim | ii7 ii7 ii7 ii7 v7 | vim vim vim vim vim |
- ii7 | v7 v7 v7 iii7 iii7 | vim vim vim vii7 iii7 | vim |
- iim iim iim iii7 iii7 | iim iim iim iim | iim iim iim iii7 | vim |

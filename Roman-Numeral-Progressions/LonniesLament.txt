@@ -1,9 +1,0 @@
-Title = Lonnie's Lament
-DB Key = Eb
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 16
- iim iiim | ivM iiim | iim iiim | ivM iiim |
- iim iiim | ivM iiim | iim iiim | ivM iiim |
- iim i7 | ivM bviiM | bvii7 vii7 | bvii7 vi7 |
- iim iiim | ivM ivM vim vi7 | iim iiim | iv7 iiim |

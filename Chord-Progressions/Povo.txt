@@ -1,8 +1,0 @@
-Title = Povo
-DB Key = Eb
-TimeSig = 4 4
-Bars = 12
- Cm7 | Cm7 | Cm7 | Cm7 |
- Ab7 | Ab7 | Cm7 | Cm7 |
- BM7#11 | AM7#11 | Cm7 | Cm7 |
-

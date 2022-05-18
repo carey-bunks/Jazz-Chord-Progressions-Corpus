@@ -1,8 +1,0 @@
-Title = Down For The Count
-DB Key = Ab
-TimeSig = 4 4
-Bars = 12
- Ab6 D9+ | Db9 Gb9 | Ab6 | Ab6 Ab9 |
- Db9 Ab13 | Dbm7 Gb9 | Ab6 | Cm7b5 F9 |
- Bbm7 E9 | E9 Eb9 | Ab6 | Ab6 |
-

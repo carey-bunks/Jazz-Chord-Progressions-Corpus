@@ -1,9 +1,0 @@
-Title = My Ideal
-DB Key = Eb
-TimeSig = 4 4
-Bars = 16
- Eb C7 | Fm | Db7 C7 | F7 |
- Bb7 Fm7 | Bb7 G7 | Cm7 F7 | B7 Bb7 |
- Eb C7 | Fm | Db7 C7 | F7 |
- Ab Abm | Eb Cm7 | F7 Bb7 | Eb Eb Fm7 Bb7 |
-

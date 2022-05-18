@@ -1,9 +1,0 @@
-Title = Blue Bossa
-DB Key = Eb
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 16
- vim | vim | iim | iim |
- viih | iii7 | vim | vim |
- im | iv7 | bviiM | bviiM |
- viih | iii7 | vim | viih iii7 |

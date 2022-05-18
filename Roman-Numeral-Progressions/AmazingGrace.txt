@@ -1,9 +1,0 @@
-Title = Amazing Grace
-DB Key = G
-EstKeySig = G
-TimeSig = 3 4
-Bars = 16
- iM | iM iM v7 | vim vim vim ivM | iM |
- iM | iM iM v7 | iM | iM |
- iM | iM | ivM | iM |
- vim vim iM | iM iM v7 | iM iM ivM | iM |

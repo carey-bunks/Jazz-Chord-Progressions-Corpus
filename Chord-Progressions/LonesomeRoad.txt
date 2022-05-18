@@ -1,9 +1,0 @@
-Title = The Lonesome Road
-DB Key = Eb
-TimeSig = 4 4
-Bars = 16
- Eb | Abm6 | Eb Eb Fm Bb7 | Eb |
- Eb | Abm6 | Eb Eb Fm Bb7 | Eb |
- Cm | Gm | Cm | Gm Bb7 |
- Eb | Abm6 | Eb Eb Fm Bb7 | Eb |
-

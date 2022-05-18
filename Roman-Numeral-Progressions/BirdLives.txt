@@ -1,8 +1,0 @@
-Title = Bird Lives
-DB Key = F
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 12
- v7 | i7 | v7 | bii7 |
- iM | i7 biio | v7 i7 | viim iii7 |
- vim | ii7 | viim iii7 | vim ii7 |

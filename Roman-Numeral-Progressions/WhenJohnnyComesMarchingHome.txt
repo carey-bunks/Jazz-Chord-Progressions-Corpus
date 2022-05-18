@@ -1,9 +1,0 @@
-Title = When Johnny Comes Marching Home
-DB Key = Bb
-EstKeySig = F
-TimeSig = 6 8
-Bars = 16
- iim | iim | ivM | iM |
- iim | iim | ivM | viM |
- ivM | iM | iim | viM |
- ivM iM | iim viM | iim vi7 | iim |

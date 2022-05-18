@@ -1,8 +1,0 @@
-Title = Sticky Wicket
-DB Key = Bb
-TimeSig = 4 4
-Bars = 12
- Bb7 | Eb7 | Bb7 | Bb7 |
- Eb7 | Eb7 A7 | Ab7 | Db7 |
- C7 | F7 | Bb7 | F7 |
-

@@ -1,8 +1,0 @@
-Title = Ju Ju
-DB Key = C
-TimeSig = 4 4
-Bars = 12
- B7+ | B7+ | B7+ | B7+ |
- Bb7+ | A7 | AbM7 | Em7 |
- FM7 | Bm7 | FM7 | Bm7 |
-

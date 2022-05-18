@@ -1,8 +1,0 @@
-Title = Blue Seven
-DB Key = Bb
-TimeSig = 4 4
-Bars = 12
- Bb7#11 | Bb7#11 | Bb7#11 | Bb7#11 |
- Eb7#11 | Eb7#11 | Bb7#11 | Bb7#11 |
- F7#11 | Eb7#11 | Bb7#11 | Bb7#11 |
-

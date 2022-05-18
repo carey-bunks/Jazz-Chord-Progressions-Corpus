@@ -1,9 +1,0 @@
-Title = Silver's Serenade
-DB Key = G
-TimeSig = 4 4
-Bars = 16
- Em9 | Em9 | Bbm9 | Bbm9 |
- Am9 | Am9 | Ebm9 | Ebm9 |
- Am9 | Am9 Am9 Bbm9 Bm9 | Cm9 | F7 |
- BbM7 Cm7 | Dm7 EbM7 | Am7 | D7b5 |
-

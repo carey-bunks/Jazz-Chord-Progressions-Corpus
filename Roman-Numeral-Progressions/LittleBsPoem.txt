@@ -1,9 +1,0 @@
-Title = Little B's Poem
-DB Key = F
-EstKeySig = Db
-TimeSig = 4 4
-Bars = 16
- ivM | iiim | ivM | iiim |
- iim | iM | iim | bvh bvh vii7 |
- iiim | iiim iiim bvii7 | biiiM | iiim iiim vi7 |
- iiM | iM | viiM viiM viiM | iiim iiim i7 |

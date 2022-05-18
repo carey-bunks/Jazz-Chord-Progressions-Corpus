@@ -1,9 +1,0 @@
-Title = It's Been A Long, Long Time
-DB Key = F
-TimeSig = 4 4
-Bars = 16
- F6 | F6 | F6 F#o7 | C7 |
- Gm GmM7 | Gm7 Gm6 | Gm7 C7#5 | FM7 |
- FM7 Am7b5 | D7 | Gm7 Bbm6 | Gm7 C7 |
- F6 | Am7 D7 | Gm7 C7 | F6 F6 Gm7 C7 |
-

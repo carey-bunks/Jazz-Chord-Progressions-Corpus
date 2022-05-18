@@ -1,9 +1,0 @@
-Title = The Autumn of My Life
-DB Key = Eb
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 16
- iM | vim | ivM | iM |
- iM | vim vim | iim | v7 v7 v7 v7 |
- iM | iiim | ivM | iM iiiM |
- vim | v7 v7 v7 v7 | iM iim | iM |

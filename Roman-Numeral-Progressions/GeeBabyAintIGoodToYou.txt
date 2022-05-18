@@ -1,9 +1,0 @@
-Title = Gee Baby, Ain't I Good To You
-DB Key = C
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 16
- ii7 bvii7 | vi7 ii7 | v7 v7 i7 i7 | ivM vi7 |
- ii7 bvii7 | vi7 ii7 | v7 v7 i7 i7 | ivM iv7 |
- bvii7 viio | ivM iv7 | bvii7 viio | iiim vi7 |
- ii7 bvii7 | vi7 ii7 | v7 v7 i7 i7 | ivM ivM bvii7 vi7 |

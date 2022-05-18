@@ -1,9 +1,0 @@
-Title = Up On the Housetop
-DB Key = Eb
-TimeSig = 4 4
-Bars = 16
- Eb | Eb | Ab Eb | Bb7 |
- Eb | Eb | Ab Eb | Bb7 Eb |
- Ab | Eb | Bb7 | Eb |
- Eb Eb Eb Eb7 | Ab | Eb | Bb7 Eb |
-

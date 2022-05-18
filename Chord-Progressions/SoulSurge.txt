@@ -1,8 +1,0 @@
-Title = Soul Surge
-DB Key = F
-TimeSig = 7 4
-Bars = 12
- F7 | F7 | F7 | F7 |
- Bb7 | Bb7 | F7 | F7 |
- C7 | Bb7 | F7 | F7 |
-

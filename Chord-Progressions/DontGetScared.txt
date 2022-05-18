@@ -1,8 +1,0 @@
-Title = Don't Get Scared
-DB Key = Db
-TimeSig = 4 4
-Bars = 12
- Db6 | Gb6 Go7 | Db6 | Abm7 Db7 |
- Gb7 | Gb7 | DbM7 | Fm7 Em7 |
- Ebm7 | Ab7sus4 | Db6 Bbm7 | Ebm7 Ab7 |
-

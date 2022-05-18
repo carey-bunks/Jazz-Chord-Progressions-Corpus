@@ -1,9 +1,0 @@
-Title = When Johnny Comes Marching Home
-DB Key = Bb
-TimeSig = 6 8
-Bars = 16
- Gm | Gm | Bb | F |
- Gm | Gm | Bb | D |
- Bb | F | Gm | D |
- Bb F/C | Gm/D D | Gm D7 | Gm |
-

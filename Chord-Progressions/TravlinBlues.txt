@@ -1,9 +1,0 @@
-Title = Trav'lin Blues
-DB Key = C
-TimeSig = 4 4
-Bars = 16
- C7 | F7 | C7 | Gm C7 |
- F7 | F#o7 | C B | Bb A7 |
- D7 | G7 | Cm7 B7 | Bbm7 A7 |
- D7 | D7 G7 | C | C |
-

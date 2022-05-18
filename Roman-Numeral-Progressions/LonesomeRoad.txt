@@ -1,9 +1,0 @@
-Title = The Lonesome Road
-DB Key = Eb
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 16
- iM | ivm | iM iM iim v7 | iM |
- iM | ivm | iM iM iim v7 | iM |
- vim | iiim | vim | iiim v7 |
- iM | ivm | iM iM iim v7 | iM |

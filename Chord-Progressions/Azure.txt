@@ -1,9 +1,0 @@
-Title = Azure
-DB Key = C
-TimeSig = 4 4
-Bars = 16
- Abm Am Am Am | Am Abm Abm Abm | Abm Am Gm7 C7 | F |
- Abm Am Am Am | Am Abm Abm Abm | Abm Am Gm7 C7 | F F7 |
- A Bb Em7b5 A7 | Dm F7 | A Bb Am7 D7 | G7 C7 |
- Abm Am Am Am | Am Abm Abm Abm | Abm Am Gm7 C7 | F |
-

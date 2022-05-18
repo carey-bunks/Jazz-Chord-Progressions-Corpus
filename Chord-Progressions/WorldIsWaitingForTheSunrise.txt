@@ -1,9 +1,0 @@
-Title = The World Is Waiting For The Sunrise
-DB Key = C
-TimeSig = 4 4
-Bars = 16
- C6 | G7+ | C6 | E7 |
- F F F F#o7 | Em7 A7 | D7 | Dm7 G7 |
- C6 | G7+ | C6 | E7 |
- F F F F#o7 | Em7 A7 | Dm G7 | C6 |
-

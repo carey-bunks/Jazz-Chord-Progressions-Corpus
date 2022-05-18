@@ -1,9 +1,0 @@
-Title = Tokyo Blues
-DB Key = Db
-TimeSig = 4 4
-Bars = 16
- Db7 | Db7 | Cm7 | Cm7 |
- Db7 | Db7 | Cm7 | Cm7 |
- Db7 | Db7 | Cm7 | Cm7 |
- Eb7 | Db7b9 G7 | Cm6 | Cm6 |
-

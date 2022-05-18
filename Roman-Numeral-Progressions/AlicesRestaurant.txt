@@ -1,9 +1,0 @@
-Title = Alice's Restaurant
-DB Key = C
-EstKeySig = C
-TimeSig = 4 4
-Bars = 16
- iM | vi7 | ii7 v7 | iM |
- iM | vi7 | ii7 | v7 |
- iM | i7 | ivM | ivo |
- iM | vi7 | ii7 v7 | iM |

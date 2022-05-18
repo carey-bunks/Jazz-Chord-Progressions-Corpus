@@ -1,8 +1,0 @@
-Title = Colour My World
-DB Key = F
-TimeSig = 4 4
-Bars = 13
- FM7 | Am7 | BbM7 | EbM7 |
- AbM7 | GbM7 | D7 | GM7 |
- Eb7 | C7 | C7 | FM7 FM7 BbM7 C7 |
- FM7 |

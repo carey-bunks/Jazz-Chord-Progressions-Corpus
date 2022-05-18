@@ -1,9 +1,0 @@
-Title = Wade in the Water
-DB Key = G
-EstKeySig = D
-TimeSig = 4 4
-Bars = 16
- iim | iim | iim | iim |
- iim | iim | iim | iM iim |
- iim | iim | iim | iM iim |
- iim | iim | iim | iM iim |

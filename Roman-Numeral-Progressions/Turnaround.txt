@@ -1,8 +1,0 @@
-Title = Turnaround
-DB Key = C
-EstKeySig = C
-TimeSig = 4 4
-Bars = 12
- iM | iv7 | iM | i7 |
- iv7 | ivm | iM | iiih vi7 |
- im biim | viim vim | iM | v7 |

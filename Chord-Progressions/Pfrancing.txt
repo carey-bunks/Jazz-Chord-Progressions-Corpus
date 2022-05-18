@@ -1,8 +1,0 @@
-Title = Pfrancing No Blues
-DB Key = F
-TimeSig = 4 4
-Bars = 12
- F7 | F7 | F7 | F7 |
- Bb7 | Bb7 | F7 | Ab7 |
- Db7 | C7#9 | F7 | F7 |
-

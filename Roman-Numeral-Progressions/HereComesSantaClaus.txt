@@ -1,9 +1,0 @@
-Title = Here Comes Santa Claus
-DB Key = F
-EstKeySig = F
-TimeSig = 4 4
-Bars = 16
- iM | iM | v7 v7 v7 vo | v7 |
- v7 | v7 | iM iM iM io | iM i7 |
- ivM vii7 | iM vi7 | iim iim v7 v7 | iM i7 |
- ivM vii7 | iM vi7 | iim iim v7 v7 | iM |

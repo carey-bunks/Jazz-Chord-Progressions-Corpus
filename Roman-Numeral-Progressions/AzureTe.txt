@@ -1,8 +1,0 @@
-Title = Azure-Te
-DB Key = Ab
-EstKeySig = Ab
-TimeSig = 4 4
-Bars = 12
- iM iim | iiim iim | iM iim | iiim i7 |
- ivM vm | vim v7 | iM iim | iiim vi7 |
- bv7 iv7 iii7 biii7 | ii7 bii7 v7 iM | iM vi7 | iim v7 |

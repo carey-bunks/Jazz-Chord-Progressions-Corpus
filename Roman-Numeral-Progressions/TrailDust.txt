@@ -1,9 +1,0 @@
-Title = Trail Dust
-DB Key = F
-EstKeySig = F
-TimeSig = 4 4
-Bars = 16
- iM | iv7 | iM | iv7 |
- iM | vi7 | iim | v7 |
- biiim | bvi7 | biiim | bvi7 |
- iim | v7 | iM | v7 |

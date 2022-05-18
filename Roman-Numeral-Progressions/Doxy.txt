@@ -1,9 +1,0 @@
-Title = Doxy
-DB Key = Bb
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 16
- iM bvii7 | vi7 | ii7 v7 | iM v7 |
- iM bvii7 | vi7 | ii7 | v7 |
- i7 | i7 | iv7 | bvo |
- iM bvii7 | vi7 | ii7 v7 | iM |

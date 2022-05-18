@@ -1,8 +1,0 @@
-Title = D Natural Blues
-DB Key = C
-TimeSig = 4 4
-Bars = 12
- D7 | G7 | D7 | D7 |
- G7 | G7 | D7 | D7 |
- Em7 | A7 | D7 G7 | D7 A7 |
-

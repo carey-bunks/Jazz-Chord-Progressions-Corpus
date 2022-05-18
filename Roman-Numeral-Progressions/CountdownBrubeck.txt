@@ -1,8 +1,0 @@
-Title = Countdown
-DB Key = Ab
-EstKeySig = Eb
-TimeSig = 5 4
-Bars = 11
- iim | iim iim iim iim vM | iim | vM |
- vM vM vM vM iM | iim | iim | vi7 |
- vM | ivM | biiiM |

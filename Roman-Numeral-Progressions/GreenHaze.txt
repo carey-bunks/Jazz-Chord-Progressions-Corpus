@@ -1,8 +1,0 @@
-Title = Green Haze
-DB Key = Eb
-EstKeySig = Ab
-TimeSig = 4 4
-Bars = 12
- ii7 | v7 | v7 | v7 |
- v7 | v7 | ii7 | bvm ivm |
- iiim | vi7 | ii7 ii7 v7 bvio | iiM vi7 |

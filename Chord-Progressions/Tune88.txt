@@ -1,8 +1,0 @@
-Title = Tune 88
-DB Key = C
-TimeSig = 4 4
-Bars = 12
- G13 | C13 | G13 | G13 |
- C13 | C13 | G13 | G13 |
- Eb13 | E13 F13 F#13 G13 Ab13 | G13 | G13 |
-

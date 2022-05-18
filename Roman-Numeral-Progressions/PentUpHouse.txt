@@ -1,9 +1,0 @@
-Title = Pent-Up House
-DB Key = G
-EstKeySig = G
-TimeSig = 4 4
-Bars = 16
- iim v7 | iim v7 | iM bii7 | iM |
- iim v7 | iim v7 | iM bii7 | iM |
- vm i7 | vm i7 | ivm | bvii7 |
- iim v7 | iim v7 | iM | iM |

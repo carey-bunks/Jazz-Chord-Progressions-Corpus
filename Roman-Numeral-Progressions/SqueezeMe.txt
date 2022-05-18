@@ -1,9 +1,0 @@
-Title = Squeeze Me
-DB Key = C
-EstKeySig = C
-TimeSig = 4 4
-Bars = 16
- v7 i7 | ivM ii7 | v7 i7 | ivM ii7 |
- v7 i7 | vi7 iim | v7 v7 | vm vm i7 ii7 |
- v7 i7 | ivM ii7 | v7 i7 | iv7 |
- viio bviio bviio vio vio bvio vo vo | ivo ivo ivo iiio iiio biiio iio iio | v7 | i7 i7 ii7 |

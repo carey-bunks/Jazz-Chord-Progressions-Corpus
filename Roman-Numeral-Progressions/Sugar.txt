@@ -1,9 +1,0 @@
-Title = Sugar
-DB Key = C
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 16
- vim | viih iii7 | vim | viih iii7 |
- vim | viih iii7 | vim | viih iii7 |
- vim | ii7 | iim | i7 |
- vii7 | iii7 | iv7 | viih iii7 |

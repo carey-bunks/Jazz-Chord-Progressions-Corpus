@@ -1,8 +1,0 @@
-Title = Spontaneous Combustion
-DB Key = C
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 12
- iM | iM | iM | i7 |
- iv7 | iv7 | iM | iM |
- iim | v7 | iM | iM |

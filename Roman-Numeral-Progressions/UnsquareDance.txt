@@ -1,7 +1,0 @@
-Title = Unsquare Dance
-DB Key = C
-EstKeySig = G
-TimeSig = 7 4
-Bars = 6
- iim iim iM iM iim iim iim | iim iim iM iM iim iim iim | vm vm ivM ivM vm vm vm | iim iim iM iM iim iim iim |
- vim vim vm vm vim vim vim | iim iim iM iM iim iim iim |

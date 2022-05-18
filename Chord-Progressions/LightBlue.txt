@@ -1,7 +1,0 @@
-Title = Light Blue
-DB Key = C
-TimeSig = 4 4
-Bars = 8
- FM7 FM7 G7 C7 | FM7 FM7 F7 Bb7 | CM7 | D9 G7#11 |
- FM7 FM7 F7#11 F#9 | FM7 FM7 F#m7 Fm7 | CM7 | D9 D9 G7#11 DbM7#11 |
-

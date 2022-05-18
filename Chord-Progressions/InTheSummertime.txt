@@ -1,8 +1,0 @@
-Title = In The Summertime
-DB Key = C
-TimeSig = 4 4
-Bars = 12
- C | C | C | C |
- F | F | C | C |
- G | F | C | C |
-

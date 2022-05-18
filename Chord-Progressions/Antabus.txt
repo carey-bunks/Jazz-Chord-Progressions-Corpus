@@ -1,8 +1,0 @@
-Title = Antabus
-DB Key = Bb
-TimeSig = 4 4
-Bars = 12
- Cm7 | Cm7 | Cm7 | Cm7 |
- Fm7 | Fm7 | Cm7 | Cm7 |
- Dm7b5 | G7alt | Cm7 | G7alt |
-

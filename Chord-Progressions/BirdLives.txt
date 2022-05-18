@@ -1,8 +1,0 @@
-Title = Bird Lives
-DB Key = F
-TimeSig = 4 4
-Bars = 12
- F7 | Bb7 | F7 | B7#5#9 |
- BbM7 | Bb7 Bo7 | F7 Bb7 | Am7 D7#5#9 |
- Gm9 | C7b9 | Am7 D7#5#9 | Gm9 C7b9 |
-

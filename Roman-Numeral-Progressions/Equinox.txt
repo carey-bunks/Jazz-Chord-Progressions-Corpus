@@ -1,8 +1,0 @@
-Title = Equinox
-DB Key = E
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 12
- vim | vim | vim | vim |
- iim | iim | vim | vim |
- bv7 | iii7 | vim | vim |

@@ -1,8 +1,0 @@
-Title = Soft Winds
-DB Key = Bb
-TimeSig = 4 4
-Bars = 16
- Bb6 Ab6/Bb | Bb6 Ab6/Bb | Bb6 Ab6/Bb | Bb6 Ab6/Bb |
- Eb6 Db6/Eb | Eb6 Db6/Eb | Eb6 Db6/Eb | Eb6 Db6/Eb |
- Bb6 Ab6/Bb | Bb6 Ab6/Bb | Bb6 Ab6/Bb | Bb6 Ab6/Bb |
- Gb7 F7 |  Gb7 F7 | Eb7 F7 | Bb |

@@ -1,8 +1,0 @@
-Title = Chitlins Con Carne
-DB Key = C
-TimeSig = 4 4
-Bars = 12
- C7#9 | C7#9 | C7#9 | C7#9 |
- F7 | F7 | C7#9 | C7#9 |
- G7 | F7 | C7#9 | C7#9 |
-

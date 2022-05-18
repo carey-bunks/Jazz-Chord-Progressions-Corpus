@@ -1,9 +1,0 @@
-Title = Auld Lang Syne
-DB Key = F
-EstKeySig = F
-TimeSig = 4 4
-Bars = 16
- iM vim | iim v7 | iM i7 | ivM |
- iM vim | iim iim v7 iii7 | vim vim iim v7 | iM iM iM v7 |
- iM iM iM vim | iim v7 | iM i7 | ivM ivM ivM iio |
- iiim iiim iiim vim | vm vm v7 iii7 | vim vim iim v7 | iM |

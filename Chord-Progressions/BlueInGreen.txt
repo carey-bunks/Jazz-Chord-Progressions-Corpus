@@ -1,8 +1,0 @@
-Title = Blue in Green
-DB Key = F
-TimeSig = 4 4
-Bars = 14
- Gm9 | A7#9 | Dm9 Dm9 Dm9 Db7#11 | Cm7 F7b9 F7b9 F7b9 |
- BbM7 | A7#5#9 | Dm69 | E7#9 |
- Am9 | Dm9 | BbM7 | A7#9 |
- Dm69 | Dm69 |

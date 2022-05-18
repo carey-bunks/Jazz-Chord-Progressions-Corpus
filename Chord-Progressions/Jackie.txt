@@ -1,8 +1,0 @@
-Title = Jackie
-DB Key = Bb
-TimeSig = 4 4
-Bars = 12
- Bb6 | Eb7 Eo7 | Bb6 | Bb6 |
- Eb7 | Eb7 Eo7 | Bb6 | Bb6 G7 |
- Cm7 | F7 | Bb6 | Cm7 F7 |
-

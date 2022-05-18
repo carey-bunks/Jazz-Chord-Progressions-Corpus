@@ -1,7 +1,0 @@
-Title = Moonchild
-DB Key = C
-EstKeySig = C
-TimeSig = 4 4
-Bars = 8
- im im iv7 vo | vm | iiim | im vm |
- iim iii7 | vim vim ivm bvii7 | vim | iiim |

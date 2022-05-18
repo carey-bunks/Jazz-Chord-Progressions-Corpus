@@ -1,8 +1,0 @@
-Title = Blue Hymn
-DB Key = G
-TimeSig = 4 4
-Bars = 12
- G | C | G | G7 |
- C7 | C7 | G | G |
- D7 | D7 | D7 | D7 |
-

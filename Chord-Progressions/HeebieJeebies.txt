@@ -1,9 +1,0 @@
-Title = Heebie Jeebies
-DB Key = G
-TimeSig = 4 4
-Bars = 18
- D7 | D7 | G6 | G6 Bbo7 |
- D7 A7/E | Fo7 D7/F# | G6 E7 | A7 D7 |
- D7 | D7 | G6 | G6 G7 |
- C6 C#o7 | G/D E7 | A7 D7 | G6 E7 |
- A7 D7 | G6 G#o7 |

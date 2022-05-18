@@ -1,9 +1,0 @@
-Title = There'll Be Some Changes Made
-DB Key = Bb
-TimeSig = 4 4
-Bars = 18
- G7 | G7 | C7 | C7 |
- D7 | G7 | C7 | Cm7 F7 |
- G7 | G7 | C7 | C7 |
- D7 | G7 | C7 F7 | Bb7 Ab7 G7 G7 |
- C7 F7 | Bb Bb A7 Ab7 |

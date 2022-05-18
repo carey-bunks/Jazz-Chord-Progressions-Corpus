@@ -1,9 +1,0 @@
-Title = Freedom Jazz Dance
-DB Key = Bb
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 16
- v7 | v7 | v7 | v7 |
- v7 | v7 | v7 | v7 |
- v7 | v7 | v7 | v7 v7 v7 v7 |
- v7 | v7 | v7 | v7 |

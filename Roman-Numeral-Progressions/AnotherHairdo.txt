@@ -1,8 +1,0 @@
-Title = Another Hairdo
-DB Key = Bb
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 12
- v7 | v7 | v7 | v7 |
- i7 | i7 | v7 | iii7 |
- vim | ii7 | v7 | v7 ii7 |

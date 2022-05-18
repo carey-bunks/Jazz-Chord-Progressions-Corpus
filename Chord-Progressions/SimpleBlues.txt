@@ -1,8 +1,0 @@
-Title = Simple Blues
-DB Key = U
-TimeSig = 4 4
-Bars = 12
-  F13 | Bb9 Bo7 | F13 | Cm9 F13 |
-  Bb9 | Bb9 Bo7 | F13 | D7alt |
-  Gm9 | C7b9 | F13 D7alt | Gm9 C7b9 |
-

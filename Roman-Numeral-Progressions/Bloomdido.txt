@@ -1,8 +1,0 @@
-Title = Bloomdido
-DB Key = Bb
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 12
- vM | v7 | v7 | v7 |
- i7 | i7 | v7 | bviim |
- vim | ii7 | v7 | vim ii7 |

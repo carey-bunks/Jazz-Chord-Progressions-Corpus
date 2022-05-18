@@ -1,8 +1,0 @@
-Title = Mr. P.C.
-DB Key = Eb
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 12
- vim | vim | vim | vim |
- iim | iim | vim | vim |
- iv7 | iii7 | vim | viih iii7 |

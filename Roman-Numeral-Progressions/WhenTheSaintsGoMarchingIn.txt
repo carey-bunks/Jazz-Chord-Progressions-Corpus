@@ -1,9 +1,0 @@
-Title = When the Saints Go Marching In
-DB Key = C
-EstKeySig = F
-TimeSig = 4 4
-Bars = 16
- iM | iM v7 | iM | iM v7 |
- iM | iM | v7 | v7 |
- iM | i7 | ivM | bvo |
- iiim vi7 | iim v7 | iM | v7 |

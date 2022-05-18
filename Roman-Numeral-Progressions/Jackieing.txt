@@ -1,9 +1,0 @@
-Title = Jackie-ing
-DB Key = Bb
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 16
- iM | iM | iM | iM |
- iM | iM | iim v7 | v7 |
- iM | iM | vi7 | v7 ii7 |
- ii7 iM | iM iM | iM iM | iM |

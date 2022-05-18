@@ -1,9 +1,0 @@
-Title = Card Board
-DB Key = C
-EstKeySig = C
-TimeSig = 4 4
-Bars = 16
- iM | biiio | iim v7 | iim biiim |
- iim | v7 | iM | iM iM iM v7 |
- iM | biiio | iim | v7 |
- iim | v7 | iM biiio | iim v7 |

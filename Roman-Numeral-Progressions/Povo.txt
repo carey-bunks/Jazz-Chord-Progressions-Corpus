@@ -1,8 +1,0 @@
-Title = Povo
-DB Key = Eb
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 12
- vim | vim | vim | vim |
- iv7 | iv7 | vim | vim |
- bviM | bvM | vim | vim |

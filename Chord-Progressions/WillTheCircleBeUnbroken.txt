@@ -1,9 +1,0 @@
-Title = Will the Circle Be Unbroken?
-DB Key = C
-TimeSig = 4 4
-Bars = 16
- G | G7 | C | G |
- G | G | G D7 | G |
- G | G7 | C | G |
- G | G B7 Em Em | G/D D7 | G |
-

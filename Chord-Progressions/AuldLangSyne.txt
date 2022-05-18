@@ -1,9 +1,0 @@
-Title = Auld Lang Syne
-DB Key = F
-TimeSig = 4 4
-Bars = 16
- F Dm | Gm C9 | F F7 | Bb |
- F Dm | Gm Gm C9 A7 | Dm Dm Gm7 C7 | F F F C9 |
- F F F Dm | Gm C9 | F F7 | Bb Bb Bb G#o7 |
- Am Am Am Dm | Cm Cm C9 A7 | Dm Dm Gm7 C7 | F |
-

@@ -1,8 +1,0 @@
-Title = Chasin' The Trane
-DB Key = F
-TimeSig = 4 4
-Bars = 12
- F | C7 | Dm7 G7 | Cm7 F7 |
- Bb | Cm7 F7 | Bb | C7 F |
- Gm7 | C7sus4 | F A7 | Dm7 G7 |
-

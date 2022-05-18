@@ -1,8 +1,0 @@
-Title = Freight Trane
-DB Key = Ab
-TimeSig = 4 4
-Bars = 12
- AbM7 | Gm7b5 C7#5#9 | Fm7 | Ebm7 Ab7 |
- DbM7 | Dbm7 | Cm7 | Bm7 |
- Bbm7 | Eb7 | Cm7 F7 | Bbm7 Eb7 |
-

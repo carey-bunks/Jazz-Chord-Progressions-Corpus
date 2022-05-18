@@ -1,8 +1,0 @@
-Title = Blues For Gary
-DB Key = F
-TimeSig = 4 4
-Bars = 12
- FM69 | Bb13 | FM69 | F#m9 B7 |
- Bb13 | Dbm7 Gb7 | FM69 | NC D7alt D7alt D7alt |
- Gm9 | C7b9 | F69 D7alt | Gm9 C9 |
-

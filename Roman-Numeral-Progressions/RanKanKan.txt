@@ -1,9 +1,0 @@
-Title = Ran Kan Kan
-DB Key = C
-EstKeySig = D
-TimeSig = 4 4
-Bars = 16
- iM vm | iM vm | iM vm | iM vm |
- iM vm | iM vm | iM vm | iM vm |
- iM vm | iM vm | iM vm | iM vm |
- iM vm | iM vm | iM | iM |

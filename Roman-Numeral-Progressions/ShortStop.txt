@@ -1,8 +1,0 @@
-Title = Short Stop
-DB Key = Bb
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 12
- iM | iv7 | iM iM | vm i7 |
- iv7 | bvo | iM | vi7 |
- iim | bvii7 | iiim biiiM | bviM bii7 |

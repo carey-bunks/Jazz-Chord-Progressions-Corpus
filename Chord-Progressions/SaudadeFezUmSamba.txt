@@ -1,9 +1,0 @@
-Title = Saudade Fez um Samba
-DB Key = D
-TimeSig = 4 4
-Bars = 18
- DM7 | DM7 | Em9 | A7b9 |
- DM7 | DM7 | Em9 | A7b9 |
- Am7 | D13b9 | GM9 | C#m7add4 F#7#5b9 |
- Bm7add4 Bm9 | Fo7 | Em9 | A9sus4 A7b9 |
- D69 | D69 |

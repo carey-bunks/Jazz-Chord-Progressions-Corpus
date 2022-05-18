@@ -1,8 +1,0 @@
-Title = I Remember Bird
-DB Key = F
-TimeSig = 4 4
-Bars = 12
- Fm7 Bb7 | Ebm7 Ab7 | Cm7 F7 Bb7alt C7alt | F7 |
- Fm7 Bb7 | Ebm7 Ab7 | Cm7 F7 Bb7alt C7alt | Am7b5 D7alt |
- Ab7 G7 D7alt D7alt | Gm7 C7 | FM7 D7alt | Gm7 C7 |
-

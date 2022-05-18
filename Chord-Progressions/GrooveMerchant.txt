@@ -1,9 +1,0 @@
-Title = Groove Merchant
-DB Key = Bb
-TimeSig = 4 4
-Bars = 16
- Bb7 | Eb7 | Bb7 | F7 |
- Bb7 | C7 | F7 C7 | F7 |
- Bb7 | Bb7 | Eb6 | Eo7 |
- Bb7 D7 | Gm7 Eb7 | Cm7 F7 | Bb7 |
-

@@ -1,8 +1,0 @@
-Title = Backup
-DB Key = Bb
-EstKeySig = F
-TimeSig = 4 4
-Bars = 11
- iM | iM | iM | iM |
- ivM | ivM | iM | iM iM iM bii7 |
- bii7 biii7 iii7 bv7 | v7 i7 | i7 |

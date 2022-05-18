@@ -1,9 +1,0 @@
-Title = Paper Doll
-DB Key = F
-TimeSig = 4 4
-Bars = 16
- F D7 | G7 | C7 | F6 |
- F/A Fm/Ab | C/G A7 | G7 | C7 |
- Gm7 C7 | F | Gm7 C7 | A7 |
- Bb Bo7 | F A7 D7 D7 | Gm7 C7 | F6 |
-

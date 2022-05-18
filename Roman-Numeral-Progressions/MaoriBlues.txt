@@ -1,8 +1,0 @@
-Title = Maori Blues
-DB Key = C
-EstKeySig = Eb
-TimeSig = 6 4
-Bars = 12
- iim | v7 | iim iim | vi7 iim |
- v7 | vM | iim vi7 | iim |
- vi7 | v7 | iim iim | v7 |

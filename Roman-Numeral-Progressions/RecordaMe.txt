@@ -1,9 +1,0 @@
-Title = RecordaMe
-DB Key = C
-EstKeySig = F
-TimeSig = 4 4
-Bars = 16
- iiim | iiim | iiim | iiim |
- vm | vm | vm | vm i7 |
- ivM | ivm bvii7 | biiiM | biiim bvi7 |
- biiM | iim v7 | iM iM iM vii7 | vii7 |

@@ -1,9 +1,0 @@
-Title = Hallelujah Trail
-DB Key = G
-TimeSig = 4 4
-Bars = 16
- G | C G G G | G D7 | G |
- G | C G G G | G D7 | G |
- G | Bm | Em | Am7 D7 |
- G | Bm | Am7 D7 | G |
-

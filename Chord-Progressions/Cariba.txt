@@ -1,8 +1,0 @@
-Title = Cariba
-DB Key = Ab
-TimeSig = 4 4
-Bars = 12
- Fm7 Fm7/Bb | Fm7 Fm7/Bb | Fm7 Fm7/Bb | Fm7 Fm7/Bb |
- Bbm7/Eb Bbm7 | Bbm7/Eb Bbm7 | Fm7 Fm7/Bb | Fm7 Fm7 Gb9 F13 |
- NC NC NC NC NC NC NC Eb13 | NC | Fm7 Fm7/Bb | Fm7 Fm7/Bb |
-

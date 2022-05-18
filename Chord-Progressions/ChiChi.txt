@@ -1,8 +1,0 @@
-Title = Chi Chi
-DB Key = Ab
-TimeSig = 4 4
-Bars = 12
- AbM7 | Gm7b5 C7 | Fm7 | Ebm7 Ab7 |
- Db7 | Dbm7 | Cm7 | Bm7 |
- Bbm7 | Dbm7 | Cm7 F7alt | Bbm7 Eb7 |
-

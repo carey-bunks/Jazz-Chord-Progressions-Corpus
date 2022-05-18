@@ -1,8 +1,0 @@
-Title = Playin' In The Yard
-DB Key = C
-EstKeySig = C
-TimeSig = 4 4
-Bars = 12
- v7 | i7 | v7 | vi7 ii7 |
- v7 | i7 | v7 | vi7 ii7 |
- v7 | i7 | v7 | i7 |

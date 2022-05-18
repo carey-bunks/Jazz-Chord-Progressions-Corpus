@@ -1,8 +1,0 @@
-Title = Bitches Brew
-DB Key = C
-TimeSig = 4 4
-Bars = 12
- NC | NC | NC | CmM7b6 |
- NC | NC | NC | CmM7b6 |
- F G Eb F | Db Eb NC NC | NC | NC CmM7b6 |
-

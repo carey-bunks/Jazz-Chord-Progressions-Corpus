@@ -1,9 +1,0 @@
-Title = Got A Match?
-DB Key = C
-EstKeySig = F
-TimeSig = 4 4
-Bars = 16
- vim | iii7 | vim | ii7 |
- iim | vi7 | iim | iim |
- viim iii7 | im iv7 | bviiM | viih iii7 |
- vim | viih iii7 | vim | iii7 |

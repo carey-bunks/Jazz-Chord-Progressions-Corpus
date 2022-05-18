@@ -1,8 +1,0 @@
-Title = Kansas City
-DB Key = C
-EstKeySig = C
-TimeSig = 4 4
-Bars = 12
- iM | iM | iM | iM |
- ivM | ivM | iM | iM |
- v7 | iv7 | iM | iM |

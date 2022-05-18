@@ -1,8 +1,0 @@
-Title = In Passing
-DB Key = C
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 12
- i7 bv7 | iv7 vii7 | bvii7 iii7 | biii7 vi7 |
- bvi7 ii7 | bii7 v7 | bv7 i7 | vii7 iM |
- iim | iiim | ivM vm | viM |

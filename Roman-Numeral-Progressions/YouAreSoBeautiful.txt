@@ -1,9 +1,0 @@
-Title = You Are So Beautiful
-DB Key = F
-EstKeySig = F
-TimeSig = 4 4
-Bars = 16
- iM iM iM i7 | ivM ivm | iM ivM | iM iM ivM v7 |
- iM iM iM i7 | ivM ivm | iM ivM | iM |
- vm i7 | ivM | iiiM | vim |
- ii7 ivm | iM iM iM i7 | ivM ivm | iM ivM |

@@ -1,9 +1,0 @@
-Title = Guataca City
-DB Key = Bb
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 16
- vim | vim | vim | vim |
- iim | iim | iim | iim |
- vim | vim | iii7 | iii7 |
- vim | ii7 | vim | ii7 |

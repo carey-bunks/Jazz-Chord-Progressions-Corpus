@@ -1,8 +1,0 @@
-Title = Oasis
-DB Key = C
-EstKeySig = F
-TimeSig = 4 4
-Bars = 12
- iM | iM | iM | iM |
- bviim | bvM | iM | iM |
- vim | ivM iii7 | iM | viiM |

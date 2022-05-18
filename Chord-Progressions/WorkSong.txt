@@ -1,9 +1,0 @@
-Title = Work Song
-DB Key = Ab
-TimeSig = 4 4
-Bars = 16
- Fm | Fm | Fm | Fm |
- Fm | Fm | C7 | C7 |
- Fm | Fm | Fm | Fm |
- F7 | Bb7 | Db7 C7alt | Fm |
-

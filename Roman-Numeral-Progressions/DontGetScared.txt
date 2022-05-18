@@ -1,8 +1,0 @@
-Title = Don't Get Scared
-DB Key = Db
-EstKeySig = Db
-TimeSig = 4 4
-Bars = 12
- iM | ivM bvo | iM | vm i7 |
- iv7 | iv7 | iM | iiim biiim |
- iim | v7 | iM vim | iim v7 |

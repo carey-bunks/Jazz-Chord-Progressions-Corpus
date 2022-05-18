@@ -1,9 +1,0 @@
-Title = Three Bass Hit
-DB Key = C
-EstKeySig = G
-TimeSig = 4 4
-Bars = 16
- iim | iim | iim iii7 | vi7 vi7 vi7 vi7 biii7 biii7 biii7 iim |
- iim | iim | iim biim | bv7 |
- bviim | iii7 | vim | ii7 |
- vM | iM i7 | iv7 | iv7 bv7 bv7 bv7 |

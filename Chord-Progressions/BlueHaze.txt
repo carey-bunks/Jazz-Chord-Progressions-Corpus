@@ -1,8 +1,0 @@
-Title = Blue Haze
-DB Key = Bb
-TimeSig = 4 4
-Bars = 12
- Bb7 | Eb7 Eo7 | Bb7 | Bb7 |
- Eb7 | Eb7 | Bb7 | Dm7 G7 |
- Cm7 | F7 | Bb7 G7 | Cm7 F7 |
-

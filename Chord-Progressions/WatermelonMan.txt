@@ -1,9 +1,0 @@
-Title = Watermelon Man
-DB Key = Bb
-TimeSig = 4 4
-Bars = 16
- F7 | F7 | F7 | F7 |
- Bb | Bb | F7 | F7 |
- C7 | Bb7 | C7 | Bb7 |
- C7 C7 C7 B7 | Bb7 | F7 | F7 |
-

@@ -1,9 +1,0 @@
-Title = When the Saints Go Marching In
-DB Key = C
-TimeSig = 4 4
-Bars = 16
- F | F C7 | F | F C7 |
- F | F | C7 | C7 |
- F | F7 | Bb | Bo7 |
- Am7 D7 | Gm7 C7 | F | C7 |
-

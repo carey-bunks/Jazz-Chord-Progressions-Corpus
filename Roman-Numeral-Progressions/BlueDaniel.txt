@@ -1,9 +1,0 @@
-Title = Blue Daniel
-DB Key = D
-EstKeySig = A
-TimeSig = 3 4
-Bars = 16
- ivM | biii7 | iim | v7 |
- iim | v7 | iim | v7 |
- bviim | biii7 | ivM | biii7 |
- vm | i7 | ivM | ivM |

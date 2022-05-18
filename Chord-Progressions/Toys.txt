@@ -1,9 +1,0 @@
-Title = Toys
-DB Key = C
-TimeSig = 4 4
-Bars = 16
- Bb7 | Bb7 | F7 | F7 |
- E7#9 | Db | Cm7 | Cm7 |
- Eb7 | Eb7 | Dm7 | Bb7 |
- Dm7 | Bb7 | Dm7 | Dm7 |
-

@@ -1,9 +1,0 @@
-Title = Listen Here
-DB Key = Bb
-EstKeySig = Eb
-TimeSig = 4 4
-Bars = 16
- v7 | i7 | v7 | i7 |
- v7 | i7 | v7 | i7 |
- v7 | i7 | v7 | i7 |
- v7 | i7 | v7 | i7 |

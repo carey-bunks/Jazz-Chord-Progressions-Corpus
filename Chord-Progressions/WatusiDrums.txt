@@ -1,9 +1,0 @@
-Title = Watusi Drums
-DB Key = Bb
-TimeSig = 6 8
-Bars = 18
- Bb7 | Bb7 | Bb7 | Bb7 |
- Bb7 | F7 | Bb7 | Bb7 |
- Eb7 | Bb7 | Bb7 F7 | Bb7 |
- Bb7 | Bb7 | Bb7 | Bb7 |
- Bb7 | Bb7 |

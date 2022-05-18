@@ -1,9 +1,0 @@
-Title = Jolly Old Saint Nicholas
-DB Key = C
-EstKeySig = C
-TimeSig = 4 4
-Bars = 16
- iM | v7 | vim | iiim |
- ivM | iM | vM | v7 |
- iM | v7 | vim | iiim |
- ivM | iM | v7 | iM |

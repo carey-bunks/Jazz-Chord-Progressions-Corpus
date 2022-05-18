@@ -1,7 +1,0 @@
-Title = We Wish You A Merry Christmas
-DB Key = G
-EstKeySig = G
-TimeSig = 3 4
-Bars = 8
- iM | ivM | ii7 | v7 |
- iM | ivM ivM iim | v7 | iM |

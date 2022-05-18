@@ -1,8 +1,0 @@
-Title = Up 'Gainst the Wall
-DB Key = Ab
-TimeSig = 4 4
-Bars = 12
- Ab7 | Db7 | Ab7 | Ab7 |
- Db7 | Db7 | Ab7 | Ab7 |
- Eb7 | Db7 | Ab7 | Ab7 |
-

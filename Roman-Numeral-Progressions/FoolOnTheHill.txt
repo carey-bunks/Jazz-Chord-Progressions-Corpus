@@ -1,8 +1,0 @@
-Title = The Fool On the Hill
-DB Key = C
-EstKeySig = C
-TimeSig = 4 4
-Bars = 12
- iM | ivM | iM | ivM |
- iim v7 | iM vim | iim v7 | im bviM im im |
- bviM | bviiM | im bviM im im | iM |

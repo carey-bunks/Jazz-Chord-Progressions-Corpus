@@ -1,8 +1,0 @@
-Title = Back Home Blues
-DB Key = F
-EstKeySig = C
-TimeSig = 4 4
-Bars = 12
- i7 | iM | iM | i7 |
- ivM | ivo | iM ivm | iiim biiim |
- iim | ivM v7 | iiim biiio | iim v7 |

@@ -1,8 +1,0 @@
-Title = Bluellespie
-DB Key = Bb
-TimeSig = 4 4
-Bars = 14
- Bb7 | Eb7 | Bb7 | Bb7 |
- Eb7 | Eb7 | Bb7 | G7 |
- Cm7b5 | F7#5 | Bbm | Bbm |
- Bbm | Bbm |

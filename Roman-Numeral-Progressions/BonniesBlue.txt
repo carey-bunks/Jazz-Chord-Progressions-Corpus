@@ -1,8 +1,0 @@
-Title = Bonnie's Blue
-DB Key = F
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 12
- v7 | v7 | v7 | bii7 |
- i7 | bvi7 | v7 | vii7 |
- bvii7 | bvi7 | i7 | bvii7 bvii7 bvii7 vi7 vi7 vi7 v7 v7 |

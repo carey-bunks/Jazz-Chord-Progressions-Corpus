@@ -1,8 +1,0 @@
-Title = Barbados
-DB Key = F
-TimeSig = 4 4
-Bars = 12
- F | Gm7 C7 | F | Cm7 F7 |
- Bb7 | Bb7 | F | F |
- Gm7 | C7b9 | F | Gm7 C7 |
-

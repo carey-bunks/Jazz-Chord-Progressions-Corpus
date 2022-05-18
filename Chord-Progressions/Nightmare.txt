@@ -1,8 +1,0 @@
-Title = Nightmare
-DB Key = G
-TimeSig = 4 4
-Bars = 12
- G | G | G | G |
- C7 | C7 | G | G |
- C7 | G | G | D7 |
-

@@ -1,9 +1,0 @@
-Title = Sugar
-DB Key = C
-TimeSig = 4 4
-Bars = 16
- Cm | Dm7b5 G7 | Cm | Dm7b5 G7 |
- Cm | Dm7b5 G7 | Cm | Dm7b5 G7 |
- Cm | F#7 | Fm | Eb7 |
- D7alt | G7alt | Ab7#11 | Dm7b5 G7 |
-

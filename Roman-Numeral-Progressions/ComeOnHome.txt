@@ -1,8 +1,0 @@
-Title = Come On Home
-DB Key = Gb
-EstKeySig = B
-TimeSig = 4 4
-Bars = 12
- iiim iiim | biih i7 | iiim vim | iiim iii7 |
- vim iii7 | vim vii7 | iiim vii7 | iiim iiim |
- i7 | vii7 | iiim bii7 | i7 vii7 |

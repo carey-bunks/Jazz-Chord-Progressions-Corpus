@@ -1,9 +1,0 @@
-Title = St. James Infirmary
-DB Key = C
-TimeSig = 4 4
-Bars = 16
- Dm A7/E | Dm | Dm Gm | A7 |
- Dm A7/E | Dm Bb7 | Dm Dm Bb7 A7 | Dm |
- Dm A7/E | Dm | Dm Gm | A7 |
- Dm A7/E | Dm Bb7 | Dm Dm Bb7 A7 | Dm |
-

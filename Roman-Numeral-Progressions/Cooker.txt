@@ -1,8 +1,0 @@
-Title = The Cooker
-DB Key = Ab
-EstKeySig = Db
-TimeSig = 4 4
-Bars = 12
- v7 NC NC NC | NC | v7 NC NC NC | NC |
- i7 NC NC NC | NC | v7 NC NC NC | NC |
- vi7 NC NC NC | bvi7 NC NC NC | v7 NC NC NC | NC |

@@ -1,9 +1,0 @@
-Title = Jamba
-DB Key = Bb
-TimeSig = 4 4
-Bars = 16
- Gm | Am7b5 D7 | Gm | Am7b5 D7 |
- G7 | Cm7 | A7 | D7 |
- Gm | Am7b5 D7 | Gm | Am7b5 D7 |
- G7 | Cm7 | A7 D7 | Gm D7 |
-

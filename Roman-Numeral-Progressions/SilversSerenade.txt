@@ -1,9 +1,0 @@
-Title = Silver's Serenade
-DB Key = G
-EstKeySig = G
-TimeSig = 4 4
-Bars = 16
- vim | vim | biiim | biiim |
- iim | iim | bvim | bvim |
- iim | iim iim biiim iiim | ivm | bvii7 |
- biiiM ivm | vm bviM | iim | v7 |

@@ -1,8 +1,0 @@
-Title = Blues for Newport
-DB Key = C
-TimeSig = 4 4
-Bars = 12
- C C7 | Am Ab7 | C C C Co7 | Cm |
- F | F7 Bo7 | Db7 Db7 Db7 C | Gm7b5 |
- G G G Ab7 | Am7 Am7 Am7 Bo7 | Cm7 | DbM7 |
-

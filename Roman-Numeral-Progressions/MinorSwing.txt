@@ -1,9 +1,0 @@
-Title = Minor Swing
-DB Key = C
-EstKeySig = C
-TimeSig = 4 4
-Bars = 16
- vim | vim | iim | iim |
- iii7 | iii7 | vim | vim |
- iim | v7 | iM | ivM |
- viih | iii7 | vim | iii7 |

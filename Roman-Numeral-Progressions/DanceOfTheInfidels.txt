@@ -1,8 +1,0 @@
-Title = Dance of the Infidels
-DB Key = C
-EstKeySig = F
-TimeSig = 4 4
-Bars = 12
- iM | ivm bvii7 | iiim iim | im bv7 |
- iv7 | ivm bvii7 | iiim | biiim bvi7 |
- iim | bvim bii7 | iM | iM |

@@ -1,8 +1,0 @@
-Title = Big P
-DB Key = F
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 12
- iiim v7 | bv7 iv7 | iiim | iii7 |
- vim i7 | vii7 iv7 | iiim | iiim biih |
- i7 | vii7 | iiim | vii7 |

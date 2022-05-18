@@ -1,9 +1,0 @@
-Title = Deck the Hall
-DB Key = F
-TimeSig = 4 4
-Bars = 16
- F | F C F F | C7 F | F C7 F F |
- F | F C F F | C7 F | F C7 F F |
- C7 | F F F C | F Dm | C G7 C C |
- F F F C | F C F F | Bb F | F C7 F F |
-

@@ -1,9 +1,0 @@
-Title = Eleven Four
-DB Key = Eb
-EstKeySig = Eb
-TimeSig = 11 4
-Bars = 16
- ii7 ii7 ii7 v7 v7 iiim iiim iiim vim vim vim | ii7 ii7 ii7 v7 v7 iiim iiim iiim vim vim vim | bvh bvh bvh ivm ivm iiim iiim iiim biiim biiim biiim | iim iim iim v7 v7 iM iM iM iM iM iM |
- ii7 ii7 ii7 v7 v7 iiim iiim iiim vim vim vim | ii7 ii7 ii7 v7 v7 iiim iiim iiim vim vim vim | bvh bvh bvh ivm ivm iiim iiim iiim biiim biiim biiim | iim iim iim v7 v7 iM iM iM iM iM iM |
- viim viim viim iii7 iii7 viM viM viM bvm bvm bvm | iim iim iim bvi7 bvi7 biiM biiM biiM biiM biiM biiM | bvm bvm bvm vii7 vii7 iiiM iiiM iiiM biim biim biim | bvm bvm bvm vii7 vii7 iiim iiim iiim vi7 vi7 vi7 |
- ii7 ii7 ii7 v7 v7 iiim iiim iiim vim vim vim | ii7 ii7 ii7 v7 v7 iiim iiim iiim vim vim vim | bvh bvh bvh ivm ivm iiim iiim iiim biiim biiim biiim | iim iim iim v7 v7 iM iM iM iM iM iM |

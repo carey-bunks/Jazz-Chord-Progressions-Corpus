@@ -1,9 +1,0 @@
-Title = Iris
-DB Key = C
-TimeSig = 3 4
-Bars = 16
- Fm11 | Fm11 | EM7#11 | GbM7#11 |
- Bb7#5 | Db7#11 | AbM7#5 | AbM7#5 |
- Cm7 | Cm7 | Db7#11 | Cm7 |
- Db7#11 | Dbm+ | Db7#11 | Db7#11 |
-

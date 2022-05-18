@@ -1,8 +1,0 @@
-Title = The Jody Grind
-DB Key = Db
-EstKeySig = Ab
-TimeSig = 4 4
-Bars = 12
- iim | iim | iim | iim |
- v7 | v7 | iim | iim |
- bii7 | biii7 | iim | iim |

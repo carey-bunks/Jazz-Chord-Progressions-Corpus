@@ -1,8 +1,0 @@
-Title = Z's Blues
-DB Key = Bb
-TimeSig = 4 4
-Bars = 12
- Bb7 | F7 | Bb7 | E7 |
- Eb7 | Eo7 | Bb7 | G7b9 |
- Cm7 | F7 | Bb7 | F7 |
-

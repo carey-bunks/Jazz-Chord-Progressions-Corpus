@@ -1,9 +1,0 @@
-Title = Happy Holiday
-DB Key = Bb
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 16
- iM | iM iM | iim | iim iim iim v7 |
- v7 | iM vim | iim iim iim v7 | iM iM iM v7 |
- iM | iM | iim | iim iim iim v7 |
- v7 | iM vim | iim iim iim v7 | iM |

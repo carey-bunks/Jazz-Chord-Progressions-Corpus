@@ -1,9 +1,0 @@
-Title = Song from M.A.S.H.
-DB Key = D
-TimeSig = 4 4
-Bars = 17
- Em7 | A7 | DM7 | Bm7 |
- Em7 | Em7/A A7 | DM7 | Bm7 |
- F#m7/B B7 | Em7 | A7 | DM7 |
- Bm7 | GM7 D/F# | Em7 A7 | Bm7 |
- Bm7 |

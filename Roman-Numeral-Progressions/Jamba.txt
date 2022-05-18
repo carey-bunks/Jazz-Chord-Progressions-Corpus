@@ -1,9 +1,0 @@
-Title = Jamba
-DB Key = Bb
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 16
- vim | viih iii7 | vim | viih iii7 |
- vi7 | iim | vii7 | iii7 |
- vim | viih iii7 | vim | viih iii7 |
- vi7 | iim | vii7 iii7 | vim iii7 |

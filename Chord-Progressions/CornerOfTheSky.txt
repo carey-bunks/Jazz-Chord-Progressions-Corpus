@@ -1,9 +1,0 @@
-Title = Corner Of The Sky
-DB Key = C
-TimeSig = 4 4
-Bars = 17
- C Dm7/C | C Bb/C | F C/E | Dm7 Dm7/G |
- Bb EbM7 | Ab Dm7 | Gm Gm/F Eb Bb/D | C7 Bb Am7 |
- F FM7 | Gsus4 G | Em | F |
- C Dm/C | G/B Am | F C | Gm |
- C |

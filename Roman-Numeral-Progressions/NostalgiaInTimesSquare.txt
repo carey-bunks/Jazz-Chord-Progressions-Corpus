@@ -1,8 +1,0 @@
-Title = Nostalgia In Times Square
-DB Key = C
-EstKeySig = Bb
-TimeSig = 4 4
-Bars = 12
- v7 iv7 | v7 iv7 | v7 iv7 | v7 iv7 |
- bviim biii7 | bviim biii7 | v7 iv7 | v7 iv7 |
- iiim vi7 | iim v7 | im iv7 | vM |

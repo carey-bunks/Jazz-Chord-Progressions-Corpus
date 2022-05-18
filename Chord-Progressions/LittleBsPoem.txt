@@ -1,9 +1,0 @@
-Title = Little B's Poem
-DB Key = F
-TimeSig = 4 4
-Bars = 16
- GbM7#11 | Fm7 | GbM7#11 | Fm7 |
- Ebm7 | DbM7 | Ebm7 | Gm7b5 Gm7b5 C7alt |
- Fm7 | F#m7 F#m7 B7 | EM7 | Fm7 Fm7 Bb7 |
- EbM7 | DbM7#11 | CM7 C/D C/E | Fm7 Fm7 Db7 |
-

@@ -1,8 +1,0 @@
-Title = Trumpet Blues
-DB Key = G
-TimeSig = 4 4
-Bars = 12
- G | C7 Go7 | G | G7 |
- C7 | C7 | G Am7 | Bm7 E7b9 |
- Am7 | D7 | G | Am7 D7 |
-

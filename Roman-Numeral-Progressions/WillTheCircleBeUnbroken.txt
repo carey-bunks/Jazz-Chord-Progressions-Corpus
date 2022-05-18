@@ -1,9 +1,0 @@
-Title = Will the Circle Be Unbroken?
-DB Key = C
-EstKeySig = G
-TimeSig = 4 4
-Bars = 16
- iM | i7 | ivM | iM |
- iM | iM | iM v7 | iM |
- iM | i7 | ivM | iM |
- iM | iM iii7 vim vim | iM v7 | iM |

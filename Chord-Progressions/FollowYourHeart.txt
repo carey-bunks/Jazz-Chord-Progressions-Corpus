@@ -1,9 +1,0 @@
-Title = Follow Your Heart
-DB Key = C
-TimeSig = 4 4
-Bars = 16
- E9sus4 | E9sus4 | E9sus4 | E9sus4 |
- A9sus4 | A9sus4 | E9sus4 | E9sus4 |
- B9sus4 | A9sus4 | G9sus4 | G9sus4 |
- E9sus4 | G9sus4 | E9sus4 | G9sus4 |
-

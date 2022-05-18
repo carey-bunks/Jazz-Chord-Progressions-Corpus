@@ -1,9 +1,0 @@
-Title = Afreaka
-DB Key = C
-EstKeySig = F
-TimeSig = 4 4
-Bars = 16
- v7 iv7 | biiiM ii7 | biiM i7 | bviiM bviM |
- bviM bviM bvM bvM bvM bviM bviM bvM | bvM bvM bviM bvM | bviM bviM bvM bvM bvM bviM bviM bvM | bvM bvM bviM bvM |
- v7 iim | v7 iim | v7 iim | v7 iim |
- v7 iim | v7 iim | v7 iim | v7 iim |
