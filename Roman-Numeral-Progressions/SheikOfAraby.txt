@@ -1,0 +1,13 @@
+Title = The Sheik of Araby
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | v7 | v7 |
+ v7 | v7 | iM | iM |
+ i7 | io | v7 | v7 |
+ v7 | v7 | iM | iM |
+ iM | iM | v7 | v7 |
+ v7 | v7 | iii7 | iii7 |
+ vi7 | vi7 | ii7 | ii7 |
+ v7 | v7 | iM | iM |

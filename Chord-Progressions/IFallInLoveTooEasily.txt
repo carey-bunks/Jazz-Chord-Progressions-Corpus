@@ -1,0 +1,9 @@
+Title = I Fall In Love Too Easily
+DB Key = Eb
+TimeSig = 4 4
+Bars = 16
+ Dm7 G7 | C F | Bm7b5 E7 | Am |
+ Bm7b5 E7+ | Am | F#m7 B7 | Bm7b5 E7 |
+ F#m7b5 B7 | E7 | Em7 A7 | Dm |
+ Dm7 G7 | C A7 | Dm7 G7 | C C Em7b5 A7alt |
+

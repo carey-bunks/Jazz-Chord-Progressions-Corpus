@@ -1,0 +1,13 @@
+Title = The Man I Love
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | Ebm7 | Gm7b5 | C7+ |
+ Fm7b5 | Bb7 | Eb C7 | Fm7 Bb7 |
+ Eb | Ebm7 | Gm7b5 | C7+ |
+ Fm7b5 | Bb7 | Eb Abm | Eb G7 |
+ Cm | D7 G7 | Cm | G7 |
+ Cm | D7 G7 | Cm C7 | Fm7 Bb7 |
+ Eb | Ebm7 | Gm7b5 | C7+ |
+ Fm7b5 | Bb7 | Eb | Eb |
+

@@ -1,0 +1,14 @@
+Title = Little Waltz
+DB Key = Ab
+EstKeySig = Db
+TimeSig = 3 4
+Bars = 34
+ iiim | vii7 | iim | iM |
+ bv7 | vii7 | iiim | vii7 |
+ iiim | vii7 | iim | iM |
+ bv7 | vii7 | iiim | vii7 |
+ iiim | iiim vii7 iiim | biih | bv7 |
+ vii7 | iii7 | vim | ii7 |
+ vM | bv7 vii7 vii7 | iiim | vii7 |
+ iim | iM | bv7 | vii7 |
+ iiiM | iiiM |

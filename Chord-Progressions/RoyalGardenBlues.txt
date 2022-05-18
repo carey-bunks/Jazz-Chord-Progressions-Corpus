@@ -1,0 +1,24 @@
+Title = Royal Garden Blues
+DB Key = C
+TimeSig = 4 4
+Bars = 76
+ F F Bb Bbm7 | F F Bb Bbm7 | F F Bb Bbm7 | F F7 |
+ Bb6 F7#5 | Bb6 F7#5 | Bb6 F7#5 | Bb7 |
+ C7 | C7 | F | F C7 |
+ F F Bb Bbm7 | F F Bb Bbm7 | F F Bb Bbm7 | F F7 |
+ Bb6 F7#5 | Bb6 F7#5 | Bb6 F7#5 | Bb7 |
+ C7 | C7 | F | F |
+ F F7 | F F7 | F F7 | F7 |
+ Bb6 | Bb6 Bb6 Bb6 Bb6 Bb6 Bb6 Db7 C7 | F | F |
+ C7 | C7 | F | F C7 |
+ F F7 | F F7 | F F7 | F7 |
+ Bb6 | Bb6 Bb6 Bb6 Bb6 Bb6 Bb6 Db7 C7 | F | F |
+ C7 | C7 | F | F C7#5 |
+ F7 | Bb | Bbm7 | F F7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Eb7 | Ebm7 | Bb7 | G7 |
+ C7 | F7 | Bb7 G7 | C7 F7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Eb7 | Ebm7 | Bb7 | G7 |
+ C7 | F7 | Bb7 G7 | C7 F7 |
+

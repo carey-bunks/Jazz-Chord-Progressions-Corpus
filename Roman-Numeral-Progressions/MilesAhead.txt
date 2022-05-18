@@ -1,0 +1,13 @@
+Title = Miles Ahead
+DB Key = Eb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ ivM | ivm | iiim | biiim |
+ iim | v7 | iM bviM | bviM |
+ ivM | ivm | iiim | biiim |
+ iim | v7 | iM bviM | bviM |
+ ivM | bvm | bvii7 | vi7 |
+ ivM | bvm | bvii7 | bviim |
+ ivM | ivm | iiim | biiim |
+ iim | v7 | iM bviM | bviM |

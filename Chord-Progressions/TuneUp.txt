@@ -1,0 +1,13 @@
+Title = Tune Up
+DB Key = D
+TimeSig = 4 4
+Bars = 32
+ Em7 | A7 | DM7 | DM7 |
+ Dm7 | G7 | CM7 | CM7 |
+ Cm7 | F7 | BbM7 | BbM7 |
+ Em7 | F7 | Bb | A7 |
+ Em7 | A7 | DM7 | DM7 |
+ Dm7 | G7 | CM7 | CM7 |
+ Cm7 | F7 | BbM7 | BbM7 |
+ Em7 | A7 | DM7 | DM7 |
+

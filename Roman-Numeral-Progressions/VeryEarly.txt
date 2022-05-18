@@ -1,0 +1,18 @@
+Title = Very Early
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 51
+ iM | bvii7 | biiiM | bvi7 |
+ biiM | v7 | iM | bvii7 |
+ iiM | vim | ivm | vii7 |
+ iiim | bvi7 | biiM | v7 |
+ iM | bvii7 | biiiM | bvi7 |
+ biiM | v7 | iM | bvii7 |
+ iiM | vim | ivm | vii7 |
+ iiim | bvi7 | biiM | v7 |
+ viiM | bvi7 | biiM | bvii7 |
+ viiM | v7 | iM | bvi7 |
+ biiM | v7 | iM | vi7 |
+ iim iim iiim | ivM v7 v7 | iim iiim iiim | ivM ivM v7 |
+ ivM ivM iiim | iim iim iM | viiM |

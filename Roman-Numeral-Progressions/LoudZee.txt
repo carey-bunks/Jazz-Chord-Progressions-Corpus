@@ -1,0 +1,12 @@
+Title = Loud-Zee
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 28
+ iiim | bvm | vM | bv7 |
+ ivM | iii7 | biiiM | bvh vii7 |
+ iiim | bvm | vM | bv7 |
+ ivM | iii7 | biiiM | bvh vii7 |
+ iiim | biiiM | iim | viih |
+ iM | viim vi7 | vim vim | bvh vii7 |
+ iiiM | iiiM | iiiM | iiiM |

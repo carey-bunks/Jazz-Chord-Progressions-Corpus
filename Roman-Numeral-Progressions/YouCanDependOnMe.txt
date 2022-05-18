@@ -1,0 +1,14 @@
+Title = You Can Depend on Me
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 34
+ iim io | iim v7 | iM | iiim biiio |
+ iim | v7 | iM | iiim vi7 |
+ iim io | iim v7 | iM | iiim biiio |
+ iim | v7 | iM | iv7 |
+ iM | vm | i7 | ivM |
+ ivM | ii7 | ii7 | iim |
+ v7 | iim io | iim v7 | iM |
+ iiim biiio | iim | v7 | iM |
+ iv7 | iiih vi7 |

@@ -1,0 +1,16 @@
+Title = Goodbye
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 44
+ vi7 bvi7 | vi7 bvi7 | v7 bvi7 | v7 bii7 |
+ im im | vih bvi7 | im bvi7 | v7 im |
+ iim vii7 | bvi7 v7 | iM ivm | iM bvii7 |
+ vi7 bvi7 | vi7 bvi7 | v7 bvi7 | v7 bii7 |
+ im im | vih bvi7 | im bvi7 | v7 im |
+ iim vii7 | bvi7 v7 | iM ivm | iM biii7 |
+ iim | iim v7 | iM bvii7 | bvi7 bv7 |
+ ivh vii7 | bvii7 bvii7 | biiiM bviM | biiM viim |
+ vi7 bvi7 | vi7 bvi7 | v7 bvi7 | v7 bii7 |
+ im im | vih bvi7 | im bvi7 | v7 im |
+ iim vii7 | bvi7 v7 | iM | iM |

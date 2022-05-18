@@ -1,0 +1,9 @@
+Title = Nefertiti
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 16
+ iM | ivM | viih | iii7 |
+ biiiM | iim | biiM | v7 |
+ bviM | bii7 | bv7 | bvi7 |
+ bvi7 | v7 | iim | bii7 |

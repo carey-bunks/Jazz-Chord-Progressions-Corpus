@@ -1,0 +1,14 @@
+Title = Arthur's Theme
+DB Key = A
+EstKeySig = A
+TimeSig = 4 4
+Bars = 34
+ ivm | bvii7 | biiiM | bviM |
+ biiM | v7 v7 | iM | vM iM iM iM |
+ ivm | bvii7 | biiiM | bviM |
+ biiM | v7 v7 | iM | vM iM iM iM |
+ ivM | ivM vM vM ivM | iM | iM |
+ iim iim iim iM | iim | iM | iM |
+ ivM | ivM vM vM ivM | biiim | bvi7 bvi7 |
+ iim | iim | iim | iim |
+ ivM | iM iM |

@@ -1,0 +1,13 @@
+Title = Take Love Easy
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ A7 D7 | G9 C9 | F Am7 | D7 |
+ G7 C7 | F7 E7 Eb7 D7 | G7 C7 | F |
+ A7 D7 | G9 C9 | F Am7 | D7 |
+ G7 C7 | F7 E7 Eb7 D7 | G7 C7 | F |
+ Cm7 F7 | Cm7 F7 | Bb F7 | Bb Bb Bb Bbm7b5 |
+ Dm7 G7 | Dm7 G7 | G7 | C11 C7+ |
+ A7 D7 | G9 C9 | F Am7 | D7 |
+ G7 C7 | F7 E7 Eb7 D7 | G7 C7 | F F B7 Bb7 |
+

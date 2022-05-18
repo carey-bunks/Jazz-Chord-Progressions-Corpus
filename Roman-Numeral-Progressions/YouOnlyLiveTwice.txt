@@ -1,0 +1,13 @@
+Title = You Only Live Twice
+DB Key = F
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ ivM | im | bviim | ivM |
+ bviim | i7 bviim | iM | i7 i7 |
+ ivM | im | bviim | ivM |
+ bviim | i7 bviim | ivM | ivM |
+ bviim | iM | biiim | iM |
+ bviim | iM | biiim | i7 |
+ ivM | im | bviim | ivM |
+ bviim | i7 bviim | ivM | ivM |

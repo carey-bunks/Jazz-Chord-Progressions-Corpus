@@ -1,0 +1,17 @@
+Title = Big Spender
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 46
+ vim | vim | ivM | vii7 |
+ iii7 | vim | iv7 | iv7 iii7 |
+ vim | vim | ivM | vii7 |
+ vim | vim | iv7 iii7 | iii7 |
+ vim | vim | vim | NC |
+ viM im | bvm viM | viim bvM | viim |
+ iv7 | iii7 | iv7 | iii7 |
+ vim | vim | ivM | vii7 |
+ iii7 | vim | iv7 | iv7 iii7 |
+ vim | vim | ivM | vii7 |
+ vim | vim | iv7 iii7 | iii7 |
+ vim | vim |

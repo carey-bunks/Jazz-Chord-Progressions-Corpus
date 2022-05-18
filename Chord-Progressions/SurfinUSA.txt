@@ -1,0 +1,13 @@
+Title = Surfin' U.S.A.
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ G7 | G7 | C | C |
+ G7 | G7 | C | C |
+ F | F | C | C |
+ G7 | G7 | C | C7 |
+ G7 | G7 | C | C |
+ G7 | G7 | C | C |
+ F | F | C | C |
+ G7 | G7 | C | C |
+

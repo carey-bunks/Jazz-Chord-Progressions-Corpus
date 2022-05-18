@@ -1,0 +1,13 @@
+Title = Back in Your Own Backyard
+DB Key = G
+TimeSig = 4 4
+Bars = 32
+ G | G Eb7 | Am7 | Am7 |
+ D7 | D7 D+ | G | G |
+ G | G Eb7 | Am7 | Am7 |
+ D7 | D7 | G | G |
+ Bm | Bm | E7 | E7 |
+ A9 | A9 | Am7 Am7 Am7 Cm | D7 D+ |
+ G | G Eb7 | Am7 | Am7 |
+ D7 | D7 | G Cm | G D+ |
+

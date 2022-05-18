@@ -1,0 +1,16 @@
+Title = Through The Eyes Of Love
+DB Key = C
+TimeSig = 4 4
+Bars = 44
+ C | CM7 | C7 | F/C F/C F/C F/C F/C F/C F F/E |
+ Dm Dm/G | Em Am | Dm G | Em Am |
+ F F E7sus4 E7 | Am D7 | Dm7 | Dm7/G |
+ C | CM7 | C7 | F/C F/C F/C F/C F/C F/C F F/E |
+ Dm Dm/G | Em Am | Dm G | Em Am |
+ F F E7sus4 E7 | Am D7 | Dm7 G7 | C |
+ Am | Em Am | Em Em Dm G7 | C |
+ Dm Em | F D7 | Dm7/G G7 | Dm7/G |
+ C | CM7 | C7 | F/C F/C F/C F/C F/C F/C F F/E |
+ Dm Dm/G | Em Am | Dm G | Em Am |
+ F F E7sus4 E7 | Am D7 | Dm7 G7 | C |
+

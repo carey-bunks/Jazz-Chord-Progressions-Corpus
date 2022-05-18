@@ -1,0 +1,14 @@
+Title = Somewhere
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 36
+ vM v7 | i7 ivM | iim v7 | i7 ivM |
+ vM v7 | iiim vim | ivM bviiM | vM |
+ vM v7 | i7 ivM | iim v7 | i7 ivM |
+ vM v7 | iiim vim | ivM bviiM | vm biiiM |
+ iM | ivm | im | iim |
+ iM ivm | biiiM | iiM | viim |
+ vM v7 | i7 ivM | iim v7 | i7 ivM |
+ vM v7 | iiim vim | ivM bviiM | vm biiiM |
+ iM | ivm | iM i7 | ivM |

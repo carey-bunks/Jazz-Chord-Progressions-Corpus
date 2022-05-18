@@ -1,0 +1,9 @@
+Title = Got A Match?
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ Dm | A7/C# | Dm/C | G7/B |
+ Gm | D7/F# | Gm7/F | Gm/E |
+ Em7 A7 | Fm7 Bb7 | EbM7 | Em7b5 A7 |
+ Dm | Em7b5 A7alt | Dm7 | A7 |
+

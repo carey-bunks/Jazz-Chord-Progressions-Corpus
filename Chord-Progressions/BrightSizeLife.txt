@@ -1,0 +1,13 @@
+Title = Bright Size Life
+DB Key = D
+TimeSig = 4 4
+Bars = 32
+ GM7 | GM7 | BbM7b5/A | BbM7b5/A |
+ D | D/C | BbM7 | G/A |
+ GM7 | GM7 | BbM7b5/A | BbM7b5/A |
+ D | D/C | G/B | D |
+ G/A | G/A | F/G | F/G |
+ A7/E | A7/E | D/F# | G/A |
+ GM7 | GM7 | BbM7b5/A | BbM7b5/A |
+ D | D/C | A7 | DM7 |
+

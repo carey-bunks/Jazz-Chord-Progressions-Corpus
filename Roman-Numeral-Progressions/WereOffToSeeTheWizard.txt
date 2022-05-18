@@ -1,0 +1,11 @@
+Title = We're Off to See the Wizard
+DB Key = C
+EstKeySig = C
+TimeSig = 6 8
+Bars = 24
+ iM v7 | iM | iim v7 | iM |
+ ivM ivM | iiim iim | vim ii7 | v7 |
+ iim iio | iM vim | iim v7 | iM |
+ ivM ivM | iiim ivM | iiim | ii7 |
+ v7 ii7 | vim vim ii7 v7 v7 v7 | NC | NC |
+ iM v7 | iM | iim v7 | iM v7 |

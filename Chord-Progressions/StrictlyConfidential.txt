@@ -1,0 +1,13 @@
+Title = Strictly Confidential
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 |
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Gb7 | Fm7 E7 |
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 |
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Ab7 | EbM7 |
+ Bbm7 Eb7#9 | AbM7 | Abm7 Db7#9 | GbM7 |
+ F#m7b5 B7 | Fm7b5 Bb7 | EbM7 | Fm7b5 Bb7 |
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 |
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Ab7 | EbM7 |
+

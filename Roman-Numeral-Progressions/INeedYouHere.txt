@@ -1,0 +1,15 @@
+Title = I Need You Here
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 40
+ iM iM iM iM | vim vim vim vim | ivm | ivM ivM ivM ivo |
+ iM | biiiM | biiM | vih im |
+ vM | bvh vii7 | vm vm | vh i7 |
+ ivM iii7 | vim iiim | iM iM iM iM | bvm bvm vii7 vii7 |
+ bvim bii7 | bvm vii7 | iiiM bvii7 | viM ivM |
+ iM bv7 | ivM | iii7 | vim vim iii7 vim |
+ ii7 biiio | iM | vim | ivm |
+ ivM ivM ivo ivo | iM | vim vim vim vim | ivM |
+ vim vii7 | iiim iii7 | vim vim | ii7 |
+ bviM | iii7 vim | ii7 ivo | iM |

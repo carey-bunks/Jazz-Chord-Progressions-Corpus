@@ -1,0 +1,19 @@
+Title = Ana Maria
+DB Key = C
+TimeSig = 4 4
+Bars = 56
+ G7b9sus4 | EbM9/G | G7b9sus4 | EbM9/G |
+ G7b9sus4 | EbM9/G | G7b9sus4 | EbM9/G |
+ GM7 | Cm7/G | G7sus4 | Cm7/G |
+ DbM7/F | GbM7#11 | Abm7 | Bb7/Ab |
+ Gm7 | C7sus4 | D7/C | C7sus4 |
+ Ab/C | Ab/C | G7b9sus4 | EbM9/G |
+ G7b9sus4 | EbM9/G | GM7 | G7sus4 |
+ Eb/F E7b5 | Eb7sus4 | DM7 F7#5 | Bbm7 |
+ Abm7 | Bb7/Ab | Gm7 | C7sus4 |
+ BbM7 Am7 | Fm7 | Bb7sus4 | Bb7sus4 |
+ Db7sus4 | Db7sus4 | Bm7 | Bm7 |
+ Ebm7 | Ebm7 | DM7 F7#5 | Bbm7 |
+ Abm7 | Bb7/Ab | Gm7 | C7sus4 |
+ BbM7 Am7 | Fm7 Em7 | G7b9sus4 | EbM9/G |
+

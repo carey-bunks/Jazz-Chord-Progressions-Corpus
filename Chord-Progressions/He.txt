@@ -1,0 +1,13 @@
+Title = He
+DB Key = Bb
+TimeSig = 3 4
+Bars = 32
+ Bb | Dm | Eb | Bb |
+ Cm | Gm | Cm | D7 |
+ Eb | Ebm | Bb Bb Dm | Gm |
+ A7 | Dm | Cm | F7 Cm7 F7 |
+ Bb | Gm | Cm7 | F7 |
+ Cm7 | F7 | Bb | Bb |
+ Gb7 | Gb7 Gb7 Ebm | Bb | Dm |
+ Cm | F9 F9 F7b9 | Bb | Cm7 F7 F7 |
+

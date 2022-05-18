@@ -1,0 +1,9 @@
+Title = Backstage Sally
+DB Key = Ab
+TimeSig = 4 4
+Bars = 16
+ Fm6 D7#9 | G7+ C7#9 | Ebm11 Ab13 | Cm11 F13 |
+ Bbm6 Ab6 | G7+ Gb7 | Fm7 Bb7 | Ebm7 Ab7 |
+ D7#9 G7 | C7#9 F7 | Bb7#9 Eb7 | Gm11 C7#5 |
+ Fm6 D7#9 | G7+ C7#9 | Fm Ab13 Ab13 Ab13 | DbM7 Gb13 Gb13 Gb13 Gb13 Gb13 |
+

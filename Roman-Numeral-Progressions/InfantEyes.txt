@@ -1,0 +1,12 @@
+Title = Infant Eyes
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 27
+ iiim | iim | iM | biii7 |
+ biiiM | vim | im | v7 |
+ iii7 | iM | biiM | iM |
+ biiM | bviM | v7 | ivm |
+ i7 | iv7 | iiim | iim |
+ iM | biii7 | biiiM | vim |
+ im | v7 | v7 |

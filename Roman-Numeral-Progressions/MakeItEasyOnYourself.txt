@@ -1,0 +1,14 @@
+Title = Make It Easy On Yourself
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 36
+ vM iiim | vM | iiim | iiiM |
+ vM | vM iiim | v7 v7 iim v7 | iiim vim |
+ ivM v7 | iiim vim | ivM vM | ivM |
+ iim iiim | iM | iiM ii7 | vM iiim |
+ vM | iiim | iiiM | vM |
+ vM iiim | v7 v7 iim v7 | iiim vim | ivM v7 |
+ iiim vim | ivM v7 | iim iiim | iM |
+ iM iM iim v7 | iiim vim | ivM v7 | iiim vim |
+ ivM vM | ivM | iim iiim | iM |

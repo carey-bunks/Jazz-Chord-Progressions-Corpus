@@ -1,0 +1,8 @@
+Title = Castilian Blues
+DB Key = Bb
+TimeSig = 5 4
+Bars = 12
+ G | D7 | D7 | G |
+ G | C | F | Bb |
+ Eb | A | D7b9 | G |
+

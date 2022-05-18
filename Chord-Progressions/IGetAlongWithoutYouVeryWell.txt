@@ -1,0 +1,20 @@
+Title = I Get Along Without You Very Well
+DB Key = Bb
+TimeSig = 4 4
+Bars = 60
+ BbM7 Gm7 | Cm7 F7 | BbM7 EbM7 | Dm7 Dbo7 |
+ Cm7 | F7 | Cm7 | F7 |
+ Cm7 | B7#5 | Cm7 F7 | BbM7 EbM7 |
+ Dm7 Dbo7 | Cm7 | F7 | Cm7 G7#5 |
+ Cm7 F7 | BbM7 Bo7 | Cm7 F7 | BbM7 Gm7 |
+ Cm7 F7 | BbM7 EbM7 | Dm7 Dbo7 | Cm7 |
+ F7 | Cm7 | F7 | Cm7 B7#5 |
+ Cm7 F7 | Bb6 EbM7 | Dm7 Dbo7 | Cm7 |
+ F7 | BbM7 | Dm7 Dbo7 | Cm7 |
+ F7 | BbM7 F7 | BbM7 Eb6 EbM7/D | Cm7 F7 |
+ BbM7 Eb7 | D7 Ab7 | Gm7 | C7 |
+ Cm7 | F7 | BbM7 Gm7 | Cm7 F7 |
+ BbM7 EbM7 | Dm7 Dbo7 | Cm7 | F7 |
+ Cm7 | F7 | Cm7 | B7#5 |
+ Cm7 | F7 | Bb6 Dbo7 | Cm7 F7 |
+

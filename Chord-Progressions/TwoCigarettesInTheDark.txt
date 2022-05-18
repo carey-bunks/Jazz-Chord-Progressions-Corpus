@@ -1,0 +1,13 @@
+Title = Two Cigarettes in the Dark
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | Gm7 Gbo7 | Fm7 | Bb7 Bb7/Ab |
+ Gm7 Cm7 | Fm7 | Fm7 Bb7 | EbM7 Bb7#5 |
+ EbM7 | Gm7 Gbo7 | Fm7 | Bb7 Bb7/Ab |
+ Gm7 Cm7 | Fm7 | Fm7 Bb7 | Eb6 |
+ Bbm7 Eb7 | Bbm7 Eb7 | Ab6 Eb7 | Ab6 |
+ Bm7 E7 | Bm7 E7 | Eb7 E7 | F7 Bb7#5 |
+ EbM7 | Gm7 Gbo7 | Fm7 | Bb7 Bb7/Ab |
+ Gm7 Cm7 | Fm7 | Fm7 Bb7 | Eb6 Bb7#5 |
+

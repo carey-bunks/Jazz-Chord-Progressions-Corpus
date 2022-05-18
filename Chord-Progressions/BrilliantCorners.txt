@@ -1,0 +1,10 @@
+Title = Brilliant Corners
+DB Key = Bb
+TimeSig = 4 4
+Bars = 23
+ Bb D7 C#7 C#7 | F#7 F7 | Bb Ab7 | F#7 F7b5 F7b5 F7b5 |
+ Bb D7 C#7 C#7 | F#7 F7 | Bb | Bb |
+ Am7 D7 | Dm7 G7 F#7 F#7 | B7 E7 | Em7 A7b5 |
+ Ab7 | G7 F#7 | F7 | Bb D7 C#7 C#7 |
+ F#7 F7 | Bb Ab7 | F#7 F7b5 F7b5 F7b5 | Bb D7 C#7 C#7 |
+ F#7 F7 | Bb | Bb |

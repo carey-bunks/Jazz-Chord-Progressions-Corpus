@@ -1,0 +1,14 @@
+Title = Somewhere
+DB Key = Eb
+TimeSig = 4 4
+Bars = 36
+ Bb Bb7 | Eb7 Ab | Fm7 Bb7 | Eb7 Ab |
+ Bb Bb7 | Gm Cm | Ab Db | Bb |
+ Bb Bb7 | Eb7 Ab | Fm7 Bb7 | Eb7 Ab |
+ Bb Bb7 | Gm Cm | Ab Db | Bbm Gb |
+ Cb | Abm | Ebm | Fm7 |
+ Cb Abm | Gb | F | Dm7 |
+ Bb Bb7 | Eb7 Ab | Fm7 Bb7 | Eb7 Ab |
+ Bb Bb7 | Gm Cm | Ab Db | Bbm Gb |
+ Cb | Abm | Eb Eb7 | Ab |
+

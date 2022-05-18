@@ -1,0 +1,13 @@
+Title = You're Mine You
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Cm7 F7 | Cm7 F7 | Cm7 F7 | Dm7 Dbo7 |
+ Cm7 | F7 | Bb6 G7 | Cm7 F7 |
+ Cm7 F7 | Cm7 F7 | Cm7 F7 | Dm7 Dbo7 |
+ Cm7 | F7 | Bb6 Eb7 | Dm7 G7 |
+ Cm7 F7 | BbM7 Gm7 | Cm7 F7 | BbM7 |
+ Dm7 G7 | CM7 | Cm7 F7 | BbM7 G7b9 |
+ Cm7 F7 | Cm7 F7 | Cm7 F7 | Dm7 Dbo7 |
+ Cm7 | F7 | Bb6 G7 | Cm7 F7 |
+

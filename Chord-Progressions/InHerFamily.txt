@@ -1,0 +1,18 @@
+Title = In Her Family
+DB Key = E
+TimeSig = 4 4
+Bars = 52
+ G#m9 | DM7/F# | EM9 | D#m9 |
+ C#m7 EM9 | F#sus2 EM7 | C#m9 G#m9 | F#/A# Aadd9 |
+ E/G# BbM7#11/F | E BbM7#11/D | E BbM7#11 | E |
+ G#m9 | DM7/F# | EM9 | D#m9 |
+ C#m7 EM9 | F#sus2 EM7 | C#m9 G#m9 | F#/A# Aadd9 |
+ E/G# BbM7#11/F | E BbM7#11/D | E BbM7#11 | E |
+ CM7 | D/C | BbM7 | C/Bb |
+ AbM7 | E/D | F#m7 | F#m7 |
+ Ebm9 | Bbm11 | Dm9 | Am11 |
+ C#m9 | G#m9 | EM7#11 | EM7#11 |
+ G#m9 | DM7/F# | EM9 | D#m9 |
+ C#m7 EM9 | F#sus2 EM7 | C#m9 G#m9 | F#/A# Aadd9 |
+ E/G# BbM7#11/F | E BbM7#11/D | E BbM7#11 | E |
+

@@ -1,0 +1,14 @@
+Title = I'm Just Wild About Harry
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 36
+ iM | iM | iim | v7 |
+ v7 | v7 | iM | iM |
+ iM | iM | iim | iim ivm |
+ iM iM iM vM | vM | iM | iM v7 |
+ iM | iM | iim | v7 |
+ v7 | v7 | vim | vim iim |
+ ii7 | ii7 | iiim iiim viiM v7 | viM im v7 v7 |
+ iM iM iM ivM | ivM v7 | iM iM iM ivm | ivm v7 |
+ iM iM iM ivM | ivM v7 | iM io iM vM | iM vim vM vM |

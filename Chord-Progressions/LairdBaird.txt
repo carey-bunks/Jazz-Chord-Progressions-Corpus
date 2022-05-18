@@ -1,0 +1,8 @@
+Title = Laird Baird
+DB Key = Bb
+TimeSig = 4 4
+Bars = 12
+ Bb | Am7 D7 | Gm7 C7 | Fm7 Bb7 |
+ Eb7 | Ebm7 | Dm7 | Dbm7 Gb7 |
+ Cm7 | F7 | Bb G7 | Cm7 F7 |
+

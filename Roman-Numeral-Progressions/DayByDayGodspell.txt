@@ -1,0 +1,9 @@
+Title = Day By Day (from "Godspell"
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 16
+ ivM | vm | ivM | vm |
+ bviiM | vim | vM | vM |
+ iiim | viM | iiim | viM |
+ iim | vM | iM | iM |

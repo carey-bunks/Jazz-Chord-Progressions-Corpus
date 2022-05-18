@@ -1,0 +1,21 @@
+Title = I Feel Pretty
+DB Key = F
+EstKeySig = F
+TimeSig = 3 4
+Bars = 64
+ iM | iM vM vM | iM | iM vM vM |
+ iM iM vM | iM | iim | v7 |
+ vim | vim | vim | vM vM v7 |
+ iM | bviiM bviiM vM | iM | iM vM vM |
+ iM | iM vM vM | iM | iM vM vM |
+ iM iM vM | iM | iim | v7 |
+ vim | vim | iim | vM vM v7 |
+ iM | iM bviiM vM | iM | i7 |
+ ivM | ivM i7 i7 | ivM | ivM i7 i7 |
+ ivM | ivM ivM iim | iM | iM |
+ iiim | vii7 | iiim | im |
+ v7 | iim | v7 | v7 vM vM |
+ iM | iM vM vM | iM | iM vM vM |
+ iM iM vM | iM | iim | v7 iim v7 |
+ vim | vim | iim | v7 |
+ iM | iM bviiM vM | iM | iM vM vM |

@@ -1,0 +1,13 @@
+Title = Have You Met Miss Jones
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iiim vi7 | iim | v7 |
+ iiim | vim | biiim bvi7 | iim v7 |
+ iM | iiim vi7 | iim | v7 |
+ iiim | vim | iim v7 | vm i7 |
+ ivM | biiim bvi7 | biiM | viim iii7 |
+ viM | biiim bvi7 | biiM | iim v7 |
+ iM | iiim vi7 | iim | v7 |
+ iiim vi7 | iim v7 | iM | iim v7 |

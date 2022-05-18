@@ -1,0 +1,22 @@
+Title = Another Op'nin', Another Show
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 68
+ iM | iM | iM | iM iM iM vM |
+ iM | iM | iM | iM iM iM v7 |
+ iM | iM | vo vo vo v7 | v7 |
+ iM iM iM vi7 | vi7 ivm | v7 | iM v7 |
+ iM | iM | iM | iM iM iM vM |
+ iM | iM | iM | iM iM iM v7 |
+ iM | iM | vo vo vo v7 | v7 |
+ iM iM iM vi7 | vi7 ivm | v7 | iM vii7 |
+ iiim | iiim | vii7 viM iim vii7 | vii7 |
+ iiim | iiim | i7 iiim i7 vii7 | vii7 |
+ iiim | iiim | vi7 vM vim iiM | iiM iiM iiM ii7 |
+ vM vM | v7 iiim | vi7 ii7 ii7 vM | vM v7 |
+ iM | iM | iM | iM iM iM vM |
+ iM | iM | iM | iM iM iM v7 |
+ iM | iM | vo vo vo v7 | v7 |
+ iM iM iM vi7 | vi7 | ii7 | iim iim iim v7 |
+ v7 vim | bviM iM | v7 v7 | iM |

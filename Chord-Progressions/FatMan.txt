@@ -1,0 +1,13 @@
+Title = The Fat Man
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Gm | Cm D7+ | Gm | Am7b5 D7+ |
+ Gm | Cm D7+ | Gm D7#9 | Gm D7+ |
+ Gm | Cm D7+ | Gm | Am7b5 D7+ |
+ Gm | Cm D7+ | Gm D7#9 | Gm |
+ D7#9 | Gm | Gm D7+ | Gm |
+ D7#9 | Gm | Gm | D7 |
+ Gm | Cm D7+ | Gm | Am7b5 D7+ |
+ Gm | Cm D7+ | Gm D7#9 | Gm |
+

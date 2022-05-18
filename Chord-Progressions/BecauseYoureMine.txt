@@ -1,0 +1,13 @@
+Title = Because You're Mine
+DB Key = Bb
+TimeSig = 3 4
+Bars = 32
+ BbM7 | BbM7 | Bb6 Bb6 BbM7 | Fm6 G7 G7 |
+ Cm | G7 | Cm | Cm |
+ Cm7 | Cm7 | F7 F7 Cm7 | Cm7 F7 F7+ |
+ Bb | F7 F7 F7+ | Bb | Bb |
+ Fm6 | G7 | Cm | Cm |
+ Gm7 | A7 | Dm Dm A7 | Cm7 F7 F7 |
+ BbM7 | BbM7 | Bb6 Bb6 BbM7 | Fm6 G7 G7 |
+ Cm7 | F7 | Bb Bb Bbo7 | F7 |
+

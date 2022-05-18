@@ -1,0 +1,13 @@
+Title = A Marshmallow World
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C CM7 | C6 CM7 | C C CM7 C6 | G7 |
+ Dm7 G7 | C Am7 | D7 | Dm7 G7 |
+ C CM7 | C6 CM7 | C C CM7 C6 | G7 |
+ Dm7 G7 | C Am7 | D7 D7 Dm7 G7 | C6 |
+ Gm7 C7 | FM7 Dm7 | Gm7 C7 | F |
+ Am7 D7 | GM7 Em7 | Am D7 | Dm7 Dm7 Dm7 G7 |
+ C CM7 | C6 CM7 | C C CM7 C6 | G7 |
+ Dm7 G7 | C A7 | D7 D7 Dm7 G7 | C6 C6 C6 G7 |
+

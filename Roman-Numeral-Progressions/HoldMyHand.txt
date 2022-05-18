@@ -1,0 +1,13 @@
+Title = Hold My Hand
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iim v7 | iim iim v7 v7 | iM iM | ii7 ii7 vim ii7 |
+ iim v7 | vm vm vi7 viM | ii7 ii7 ii7 ii7 | iim io v7 bvi7 |
+ iim v7 | iim iim v7 v7 | iM iM | ii7 ii7 vim ii7 |
+ iim v7 | vm vm vi7 viM | ii7 ii7 iim v7 | iM |
+ iiiM | bvm vii7 | iiiM | bvm vii7 |
+ vM | vim ii7 | iim v7 | iim iim v7 bvi7 |
+ iim v7 | iim iim v7 v7 | iM iM | ii7 ii7 vim ii7 |
+ iim v7 | vm vm vi7 viM | ii7 ii7 iim v7 | iM ivM iM iM |

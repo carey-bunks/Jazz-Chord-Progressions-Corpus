@@ -1,0 +1,13 @@
+Title = Alley Cat Song
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iM | v7 |
+ v7 | v7 | v7 | iM |
+ iM | iM | iM | v7 |
+ v7 | v7 | v7 | iM |
+ ivM | ivM | iM | iM |
+ ii7 | ii7 | ii7 | v7 |
+ iM | iM | iM | v7 |
+ v7 | v7 | v7 | iM |

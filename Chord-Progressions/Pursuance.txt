@@ -1,0 +1,8 @@
+Title = Pursuance
+DB Key = Db
+TimeSig = 4 4
+Bars = 12
+ Bbm9 | Bbm9 | Bbm9 | Bbm9 |
+ Abm9 | Abm9 | Bbm9 | Bbm9 |
+ Gb9 | F7#5#9 | Bbm9 | Bbm9 |
+

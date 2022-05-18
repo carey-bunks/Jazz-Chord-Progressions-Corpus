@@ -1,0 +1,19 @@
+Title = What, Does It Matter?
+DB Key = C
+TimeSig = 4 4
+Bars = 58
+ Bbm7 | Bbm7 | A7#5#9 | A7#5#9 |
+ B7#5 | B7#5 | Bb7#11 | Bb7#11 |
+ GbM7#11 | GbM7#11 | D7b5#9 | D7b5#9 |
+ DbM7#11 | DbM7#11 | DbM7#11 | DbM7#11 |
+ Eb7sus4 | Eb7sus4 | Eb7#5b9 | Eb7#5b9 |
+ Ab13 | Ab13 | Ab13b9 | Ab13b9 |
+ Bm7add11 | Bm7add11 | B13b9 B13b9 B13b9 Bb7b9b13 | Bb7b9b13 |
+ Em9 | Em9 | Bm9 | Bm9 |
+ Em9 | Em9 | Bm9 | Bm9 |
+ Bb13b9 | Bb13b9 | A7#9#11 | A7#9#11 A7#9#11 A7#9#11 Ab7#11 |
+ Ab7#11 | Ab7#11 | C7#9#11 | C7#9#11 C7#9#11 C7#9#11 B13#11 |
+ B13#11 | B13#11 | Bbm9 | Fm9 |
+ DbM7 | AbM7 | GbM7#11 | GbM7#11 |
+ GbM7#11 | GbM7#11 | GbM7#11 | GbM7#11 |
+ GbM7#11 | GbM7#11 |

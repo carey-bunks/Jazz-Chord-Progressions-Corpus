@@ -1,0 +1,13 @@
+Title = The Alphabet Song
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | vi7 | ii7 | ii7 |
+ iim | iiim vi7 | iim v7 | iM |
+ iM | vi7 | ii7 | ii7 |
+ iim | iiim vi7 | iim v7 | iM |
+ ivM v7 | iiim vim | iim v7 | iM |
+ ivM v7 | iiim im | vM ii7 | v7 |
+ iM | vi7 | ii7 | ii7 |
+ ivM ivo | iM vi7 | iim v7 | iM |

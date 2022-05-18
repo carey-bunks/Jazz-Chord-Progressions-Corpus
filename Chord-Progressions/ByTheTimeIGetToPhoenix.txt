@@ -1,0 +1,18 @@
+Title = By the Time I Get To Phoenix
+DB Key = G
+TimeSig = 4 4
+Bars = 52
+ Am7 | Am7 | GM7 | GM7 |
+ Am7 | Am7 | GM7 | Dm7 G7 |
+ CM7 | D7 | Bm7 | Em7 |
+ Am7 D11 | Am7 | F | D7 |
+ Am7 | Am7 | GM7 | GM7 |
+ Am7 | Am7 | GM7 | G11 G11 G11 G7 |
+ CM7 C | D7 | Bm7 | Em7 |
+ Am7 | Am7 | FM7 | D7 |
+ Am7 | Am7 | GM7 | GM7 |
+ Am7 | Am7 | GM7 | GM7 G11 |
+ C | D7 | Bm7 | Em7 |
+ Am7 | D7 | GM7 | CM7 |
+ Am7 | B7 | E69 | E69 |
+

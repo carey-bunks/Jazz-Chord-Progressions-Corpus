@@ -1,0 +1,15 @@
+Title = Dolphin Dance
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 38
+ iM | bviiM | iM | viih iii7 |
+ vim | iv7 | vim | bvm vii7 |
+ iiiM | ivm bvii7 | iim | iim |
+ vim | vim | bvm | vii7 |
+ iiiM | viim | bvM | iii7 |
+ vim | iiiM | vim | biim bv7 |
+ i7 | bvm vii7 | bvim | bii7 viim |
+ bviim | biii7 | bvim | bvm |
+ bvim | bvm | vm | iM |
+ ivM | viih iii7 |

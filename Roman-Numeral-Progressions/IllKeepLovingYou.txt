@@ -1,0 +1,18 @@
+Title = I'll Keep Loving You
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 52
+ bvh vii7 | iiih vi7 | iih v7 | iM |
+ bvh vii7 | iiim biii7 | iim v7 | iM |
+ viih iii7 | vim | bvh vii7 | iiim biiim iim bii7 |
+ bvh vii7 | iiim biii7 | iim v7 | iM iM |
+ viih iii7 | vim vim ii7 ii7 | iiim vim iim v7 | iM |
+ bviM | vh i7 | ivm bvii7 | biiiM |
+ iih iih v7 v7 | vih bvi7 | vM vM vim ii7 | v7 |
+ bvh vii7 | iiim biii7 | iim v7 | iM iM |
+ viih iii7 | vim vim ii7 ii7 | iiim vim iim v7 | bviM |
+ vh i7 | ivm bvii7 | biiiM | iih iih v7 v7 |
+ vih bvi7 | v7 vM vim ii7 | v7 | v7 |
+ v7 vii7 | iiim biii7 | iim v7 | iM iM |
+ viih iii7 | vim ii7 | iiim vim iim v7 | iM |

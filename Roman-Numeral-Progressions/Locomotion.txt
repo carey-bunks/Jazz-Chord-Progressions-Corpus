@@ -1,0 +1,16 @@
+Title = Locomotion
+DB Key = Bb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 44
+ v7 | v7 | v7 | v7 |
+ i7 | i7 | v7 | v7 |
+ vim | ii7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ i7 | i7 | v7 | v7 |
+ vim | ii7 | v7 | v7 |
+ iv7 | iv7 | iii7 | iii7 |
+ biii7 | biii7 | ii7 | ii7 |
+ v7 | v7 | v7 | v7 |
+ i7 | i7 | v7 | v7 |
+ vim | ii7 | v7 | v7 |

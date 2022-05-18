@@ -1,0 +1,15 @@
+Title = Slumber
+DB Key = C
+EstKeySig = Gb
+TimeSig = 4 4
+Bars = 40
+ bvm | v7 | bvm | v7 |
+ bvm | v7 | bvm | bvm |
+ iim | iim | im | im |
+ vim | vim | ivM | ivM |
+ viim | viim | im | im |
+ biiim | biiim | iim | iim |
+ bvm | v7 | bvm | v7 |
+ bvm | v7 | bvm | bvm |
+ iim | iim | im | im |
+ vim | vim | ivM | ivM |

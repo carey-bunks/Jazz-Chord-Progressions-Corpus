@@ -1,0 +1,21 @@
+Title = Sometime Ago
+DB Key = A
+EstKeySig = A
+TimeSig = 4 4
+Bars = 64
+ iM | iM | ivM | ivM |
+ iM | ivM | iM | iM |
+ iM | iM | ivM | ivM |
+ iM | ivM | iM | iM |
+ im | ivm | ivm | im |
+ im | ivm | ivm | im |
+ im | ivm | ivm | im |
+ im | ivm | ivm | im |
+ iM | iM | ivM | ivM |
+ iM | ivM | iM | iM |
+ iM | iM | ivM | ivM |
+ iM | ivM | iM | iM |
+ im | ivm | ivm | im |
+ im | ivm | ivm | im |
+ im | ivm | im | im |
+ ivm | ivm | im | im |

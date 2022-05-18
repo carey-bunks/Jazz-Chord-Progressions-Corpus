@@ -1,0 +1,9 @@
+Title = Lonnie's Lament
+DB Key = Eb
+TimeSig = 4 4
+Bars = 16
+ Cm7 Dm7 | Eb6#11 Dm7 | Cm7 Dm7 | Eb6#11 Dm7 |
+ Cm7 Dm7 | Eb6#11 Dm7 | Cm7 Dm7 | Eb6#11 Dm7 |
+ Cm7 Bb7 | EbM7 AbM7 | Ab13 A13b9 | Ab13 G7b9 |
+ Cm7 Dm7 | Eb6 Eb6 Gm7 G7 | Cm7 Dm7 | Eb7 Dm7 |
+

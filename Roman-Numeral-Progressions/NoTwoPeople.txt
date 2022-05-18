@@ -1,0 +1,10 @@
+Title = No Two People
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 17
+ iM iii7 | iiih vi7 | bvh | ivm |
+ iiim | vim | iih | v7 |
+ iM iii7 | iiih vi7 | bvh | ivm |
+ iiim vim | iim | v7 | iM |
+ iM |

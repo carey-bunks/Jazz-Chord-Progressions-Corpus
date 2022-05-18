@@ -1,0 +1,14 @@
+Title = Winterlude
+DB Key = C
+TimeSig = 4 4
+Bars = 36
+ Fmaj13 D7b9#11 | G13 C7#5#9 | Fmaj13 D7b9#11 | G13 C7#5#9 |
+ Fmaj7 F/E | F/D F/C | Bb69 Bdim | F/C C13 |
+ Fmaj7 F/E | F/D F/C | Bb69 Bdim | C7 C7 C#dim C#dim |
+ Dm Dm/C | Bbmaj7 A7 | Dm Ab13 | Gm11 Gm11 C7 C#dim |
+ Dm Dm/C | Bbmaj7 A7 | Dm Ab13 | Gm11 C7 |
+ Fmaj7 F/E | F/D F/C | Bb69 Bdim | F/C C13 |
+ Fmaj7 F/E | F/D F/C | Gm7 Am7 | Bbmaj7 Bdim |
+ C11 | C9 C7b9 | Fmaj13 D7b9#11 | G13 C7#5#9 |
+ Fmaj13 D7b9#11 | G13 C7#5#9 | Fmaj13 | Fmaj13 |
+

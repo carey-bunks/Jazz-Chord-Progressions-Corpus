@@ -1,0 +1,13 @@
+Title = Sweet Georgia Brown
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ ii7 | ii7 | ii7 | ii7 |
+ v7 | v7 | v7 | v7 |
+ i7 | i7 | i7 | i7 |
+ ivM | ivM | ivM | iiim vi7 |
+ ii7 | ii7 | ii7 | ii7 |
+ v7 | v7 | v7 | v7 |
+ iim | iiih vi7 | iim | iiih vi7 |
+ iv7 iii7 | biii7 ii7 | v7 i7 | ivM vi7 |

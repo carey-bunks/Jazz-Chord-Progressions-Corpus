@@ -1,0 +1,20 @@
+Title = I Get Along Without You Very Well
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 60
+ iM vim | iim v7 | iM ivM | iiim biiio |
+ iim | v7 | iim | v7 |
+ iim | bii7 | iim v7 | iM ivM |
+ iiim biiio | iim | v7 | iim vi7 |
+ iim v7 | iM biio | iim v7 | iM vim |
+ iim v7 | iM ivM | iiim biiio | iim |
+ v7 | iim | v7 | iim bii7 |
+ iim v7 | iM ivM | iiim biiio | iim |
+ v7 | iM | iiim biiio | iim |
+ v7 | iM v7 | iM ivM ivM | iim v7 |
+ iM iv7 | iii7 bvii7 | vim | ii7 |
+ iim | v7 | iM vim | iim v7 |
+ iM ivM | iiim biiio | iim | v7 |
+ iim | v7 | iim | bii7 |
+ iim | v7 | iM biiio | iim v7 |

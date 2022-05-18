@@ -1,0 +1,13 @@
+Title = Straighten Up And Fly Right
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F6 F6/A | Bb6 Bo7 | F6 Dm7 | Gm7 C7 |
+ F6 F6/A | Bb6 Bo7 | F6 Dm7 | Db7 C7 |
+ F6 F6/A | Bb6 Bo7 | F6 Dm7 | Gm7 C7 |
+ F6 F6/A | Bb6 Bo7 | F6 Dm7 | Gm7 C7 F6 F6 |
+ A7 | A7 | D7 | D7 Eb7 D7 D7 |
+ G7 | G7 | C7 | C7 Db7 C7 C7 |
+ F6 F6/A | Bb6 Bo7 | F6 Dm7 | Gm7 C7 |
+ F6 F6/A | Bb6 Bo7 | F6 Dm7 | Gm7 C7 F6 F6 |
+

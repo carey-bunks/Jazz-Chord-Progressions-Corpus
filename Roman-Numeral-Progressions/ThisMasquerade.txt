@@ -1,0 +1,18 @@
+Title = This Masquerade
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 52
+ iim | iim | iim | iim |
+ iim | bvii7 | iiim | vi7 |
+ iim | iim | iim | iim |
+ iim | bvii7 | iiim | vi7 |
+ iim | iim v7 | im | iv7 |
+ bviiM | v7 | im | iv7 |
+ bviiM | bviiM | viim | iii7 |
+ viM | viM | iiim | iii7 |
+ iiim | vi7 | iim | iim |
+ iim | iim | iim | bvii7 |
+ iiim | vi7 | iim | iim |
+ iim | iim | iim | bvii7 |
+ iiim | vi7 | iim | iim vi7 |

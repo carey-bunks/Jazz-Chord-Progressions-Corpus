@@ -1,0 +1,14 @@
+Title = Almost Like Being In Love
+DB Key = Eb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 36
+ ivM | v7 | iM | iiim vi7 |
+ iim | v7 v7 | iM | vm i7 |
+ ivM | v7 | iM | iiim vi7 |
+ iim | v7 v7 | iM | iM |
+ viim | iii7 | viM | viM |
+ vim | ii7 | viim | iii7 |
+ ivM | v7 | iM | iiim vi7 |
+ iim | iio | iM | iio |
+ iim | iim v7 | iM | vm i7 |

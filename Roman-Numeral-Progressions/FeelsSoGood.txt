@@ -1,0 +1,11 @@
+Title = Feels So Good
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 23
+ iM | vim | iim | v7 v7 |
+ iiim | vim | iim | viih iii7 |
+ vim | bviiM | vim | bviiM |
+ iim | iim iiim ivM bvo | iim | iM |
+ vi7 | iim | iim | iM |
+ vi7 | iim | iim |

@@ -1,0 +1,13 @@
+Title = Hot House
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ vh | i7 | ivm | ivm |
+ iih | v7 | iM | iM |
+ vh | i7 | ivm | ivm |
+ iih | v7 | iM | iM |
+ im | iv7 | bviiM | bviiM |
+ bvi7 | bvi7 | v7 | v7 |
+ vh | i7 | ivm | ivm |
+ iih | v7 | iM | iM |

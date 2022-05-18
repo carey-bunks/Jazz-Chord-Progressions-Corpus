@@ -1,0 +1,21 @@
+Title = Smoke Rings
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 64
+ iM | v7 | iM iM | i7 |
+ ivM | iih v7 | iM | iim v7 |
+ iM | v7 iM | ii7 | ii7 |
+ ivM | iih v7 | iM | iM v7 |
+ iM | v7 | iM iM | i7 |
+ ivM | iih v7 | iM | iim v7 |
+ iM | v7 iM | ii7 | ii7 |
+ ivM | iih v7 | iM | iM v7 |
+ iM | v7 | iM iM | i7 |
+ ivM ivM | iim v7 | iM | iim v7 |
+ iM | v7 iM | ii7 | vih ii7 |
+ ivM | iih v7 | iM vim | iim v7 |
+ iM | v7 | iM iM | i7 |
+ ivM | iih v7 | iM | iim v7 |
+ iM | v7 iM | ii7 | ii7 ii7 viio i7 |
+ ivM | iih v7 | iM bvii7 | iM |

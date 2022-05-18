@@ -1,0 +1,13 @@
+Title = Jingle Bells
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iM | ivM |
+ iim | v7 | v7 | iM |
+ iM | iM | iM | ivM |
+ iim | v7 | v7 | iM |
+ iM | iM | iM | iM |
+ ivM | iM | ii7 | vM v7 |
+ iM | iM | iM | iM |
+ ivM | iM | v7 | iM |

@@ -1,0 +1,13 @@
+Title = Hi Fly
+DB Key = Eb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iiim | vi7 | iiM v7 | bvm viim |
+ iim | v7 | iM | bii7 |
+ iiim | vi7 | iiM v7 | bvm viim |
+ iim | v7 | iM | iiih vi7 |
+ iih | v7 | iiim | vi7 |
+ iih | v7 | bvm vii7 | ivm bvii7 |
+ iiim | vi7 | iiM v7 | bvm viim |
+ iim | v7 | iM | bvh vii7 |

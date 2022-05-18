@@ -1,0 +1,19 @@
+Title = Clarinet Polka
+DB Key = C
+TimeSig = 2 2
+Bars = 56
+ C | C | C C#o7 | G7 |
+ G7 | G7 | G7 | C |
+ C | C | C C#o7 | G7 |
+ G7 | G7 | G7 | C |
+ G | G | G D7 | G |
+ G | G | G D7 | G |
+ C | C | C C#o7 | G7 |
+ G7 | G7 | G7 | C |
+ F | F | F | F |
+ C7 | C7 | C7 | F |
+ F | F | F | F |
+ C7 | C7 | C7 | F |
+ C | C | C C#o7 | G7 |
+ G7 | G7 | G7 | C |
+

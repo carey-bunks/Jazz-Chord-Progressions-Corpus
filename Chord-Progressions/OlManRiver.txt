@@ -1,0 +1,13 @@
+Title = Ol' Man River
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb Cm | Eb Ab | Eb Ab | Eb Cm |
+ Bb7 Bb9 | Fm7 Bb7 | Eb Ab | Eb |
+ Eb Cm | Eb Ab | Eb Ab | Eb Cm |
+ Bb7 Bb9 | Fm7 Bb7 | Eb Ab | Eb Eb Co7 D7 |
+ Gm D7 | Gm Gm Co7 D7 | Gm Co7 | Gm D7 |
+ Gm Co7 | Gm Co7 | Gm Co7 | Gm Gm Fm Bb7 |
+ Eb Cm | Eb Ab | Eb Bb7 | Cm F7 |
+ Eb Cm | Fm7 Bb7 | Eb Abm | Eb Fm7 Bb7 Bb7 |
+

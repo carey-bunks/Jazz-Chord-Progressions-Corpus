@@ -1,0 +1,17 @@
+Title = Theme from Murder on the Orient Express
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 46
+ io iM | iM | iih | ii7 v7 |
+ io iM | iM | iiih | iiih vi7 |
+ ii7 | ii7 | ivm | ivm v7 v7 v7 |
+ iM | iio | iih | bvi7 v7 |
+ im im | im | bviM bviM | bviM |
+ v7 | v7 | io iM | iM |
+ iih | ii7 v7 | io iM | iM |
+ iiih | iiih vi7 | ii7 | ii7 |
+ ivm | ivm v7 v7 v7 | iM | iio |
+ iih | bvi7 v7 | io iM | iM |
+ bvi7 | bvi7 | v7 | v7 |
+ iM ivm | iM |

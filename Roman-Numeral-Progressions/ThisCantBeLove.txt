@@ -1,0 +1,13 @@
+Title = This Can't Be Love
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iv7 | iv7 |
+ iiim | vi7 | ii7 | iim v7 |
+ iM | iM | iv7 | iv7 |
+ iiim vi7 | iim v7 | iM | iM |
+ bviim | iii7 | vim | vim |
+ ivm bvii7 | iiim vi7 | biiim bvi7 | iim v7 |
+ iM | iM | iv7 | iv7 |
+ iM iM io iim | iim iim v7 | iM ivM | iM |

@@ -1,0 +1,13 @@
+Title = Blue And Broken Hearted
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ BbM7 | BbM7 | Dbo7 | Dbo7 |
+ D7+ | D7 | G7+ | G7 |
+ Cm7 | Cm7 | Ebm7 | F7 |
+ BbM7/D | Dbo7 | Cm7 | F7 |
+ BbM7 | BbM7 | Dbo7 | Dbo7 |
+ D7+ | D7 | G7+ | G7 |
+ Cm7 | Cm7 Cm7 Cm7 Ab7 | BbM7 | G7#9 |
+ Cm7b5 | F7 | Bb6 | Bb6 |
+

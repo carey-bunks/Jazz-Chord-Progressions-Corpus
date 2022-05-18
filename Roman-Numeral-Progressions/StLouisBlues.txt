@@ -1,0 +1,18 @@
+Title = St. Louis Blues
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 52
+ iM | iv7 | iM | i7 |
+ iv7 | iv7 | iM | iM |
+ v7 | iv7 | iM | v7 |
+ iM | iv7 | iM | i7 |
+ iv7 | iv7 | iM | iM |
+ v7 | iv7 | iM | v7 |
+ im | im | v7 | v7 |
+ iih | v7 | im | im v7 |
+ im | im | v7 | v7 |
+ iih | v7 | im ii7 | v7 |
+ iM | iv7 | iM | i7 |
+ iv7 | iv7 | iM | iM |
+ v7 | iv7 | iM | iM |

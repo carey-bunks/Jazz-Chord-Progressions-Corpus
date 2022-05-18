@@ -1,0 +1,13 @@
+Title = Re: Person I Knew
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iiiM | iiiM | viM | iiM |
+ vim | vim | iiim | iiim |
+ vim | iiim | vim | iiM |
+ vim | iiM | vim | ivM |
+ iiiM | iiiM | viM | iiM |
+ vim | vim | iiim | iiim |
+ vim | iiim | vim | iiM |
+ vim | iiM | vim | ivM |

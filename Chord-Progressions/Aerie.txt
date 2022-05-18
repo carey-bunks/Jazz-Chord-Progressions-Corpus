@@ -1,0 +1,13 @@
+Title = The Aerie
+DB Key = C
+TimeSig = 3 4
+Bars = 34
+ DbM7/C | CM7#5 | BbM7#5/C | AbM7#5/C |
+ Am | FM7b5/A | Am6 | FM7b5/A |
+ DbM7/C | CM7#5 | BbM7#5/C | AbM7#5/C |
+ Am | F#madd9/C# | BbM7 | F+add#9 |
+ BM7/Eb | BM7/Eb | DM7/Eb | DbM7/Eb |
+ CM7#5/Eb | Abmadd9/Eb | Abo/Eb | Abo/Eb |
+ BM7/Eb | BM7/Eb | F#madd9/C# | DbM7/C |
+ Amadd9/B | BbM7 | Am | FM7b5 |
+ Am6 | FM7b5/A |

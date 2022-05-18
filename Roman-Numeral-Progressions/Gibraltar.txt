@@ -1,0 +1,25 @@
+Title = Gibraltar
+DB Key = Bb
+EstKeySig = F
+TimeSig = 4 4
+Bars = 80
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 iv7 |
+ bviiM | iii7 | biiiM | vi7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ vim | vim | vim | vim |
+ im | im | im | im |
+ biiim | biiim | biiim | biiim |
+ bvm | bvm | bvm | iim |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 iv7 |
+ bviiM | iii7 | biiiM | vi7 |
+ iim | v7 | iim | v7 |

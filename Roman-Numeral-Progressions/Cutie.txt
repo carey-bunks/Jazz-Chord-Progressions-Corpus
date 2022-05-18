@@ -1,0 +1,13 @@
+Title = Cutie
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 29
+ iim v7 | iio iM | iim v7 | iio iM |
+ iim v7 | iiim vi7 | iim v7 | vim vim |
+ iim v7 | iio iM | iim v7 | iio iM |
+ iim v7 | iiim vi7 | iim v7 | vim vim |
+ iim v7 | iM | bvm vii7 | iim v7 |
+ iim v7 | iio iM | iim v7 | iio iM |
+ iim v7 | iiim vi7 | iim ii7 | iim v7 |
+ iM |

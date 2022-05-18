@@ -1,0 +1,13 @@
+Title = The Frim Fram Sauce
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 Fm7 | Gm7 C7 | F7 | F7 F7 E7 Eb7 |
+ Ab7 Ao7 | Eb/Bb Cm7 | F7 Bb7 | EbM7 C7 Fm7 Bb7 |
+ EbM7 Fm7 | Gm7 C7 | F7 | F7 F7 E7 Eb7 |
+ Ab7 Ao7 | Eb/Bb Cm7 | F7 Bb7 | EbM7 |
+ Bbm7 Eb7 | AbM7 Fm7 | Bbm7 Eb7 | AbM7 AbM7 Gm7 C7 |
+ F7 | Dm7 G7 | Cm7 F7 | Bb7 |
+ EbM7 Fm7 | Gm7 C7 | F7 | F7 F7 E7 Eb7 |
+ Ab7 Ao7 | Eb/Bb Cm7 | F7 Bb7 | EbM7 Bb7 |
+

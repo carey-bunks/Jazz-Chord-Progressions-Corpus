@@ -1,0 +1,14 @@
+Title = Bouncin with Bud
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 36
+ iM vim | iim bvii7 | iiim vi7 | iim iii7 |
+ vim | biiio | iim v7 | iM bii7 |
+ iM vim | iim bvii7 | iiim vi7 | iim iii7 |
+ vim | biiio | iim v7 | iM iM viih iii7 |
+ vim | vim | viih | iii7 |
+ vi7 | bvi7 | iim | v7 |
+ iM vim | iim bvii7 | iiim vi7 | iim iii7 |
+ vim | biiio | iim v7 | iM |
+ vo vim | vo vim | biio iim | biio biio biio biio iim iim bvi7 v7 |

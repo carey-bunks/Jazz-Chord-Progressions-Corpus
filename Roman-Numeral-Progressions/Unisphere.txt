@@ -1,0 +1,13 @@
+Title = Unisphere
+DB Key = C
+EstKeySig = Eb
+TimeSig = 10 4
+Bars = 32
+ iM iM iM iM iM bvm bvm ivo ivo v7 | iM iM iM iM iM bv7 bv7 bv7 bv7 vii7 | iiim iiim iiim iiim iiim bvh bvh vii7 vio io | iiim iiim iiim iiim iiim vm vm vm i7 i7 |
+ ivM iiim | iim vii7 | iiih vi7 | iih v7 |
+ iM iM iM iM iM bvm bvm ivo ivo v7 | iM iM iM iM iM bv7 bv7 bv7 bv7 vii7 | iiim iiim iiim iiim iiim bvh bvh vii7 vii7 vii7 | iiim iiim iiim iiim iiim vm vm vm i7 i7 |
+ ivM ivM ivM ivM ivM iiim iiim iiim iiim iiim | iim iim iim iim iim bvii7 bvii7 bvii7 bvii7 bvii7 | iM iM iM iM iM ii7 ii7 ii7 ii7 ii7 | iim iim iim iim iM iM iM iM v7 v7 |
+ iM iM iM iM iM bvm bvm ivo ivo v7 | iM iM iM iM iM bv7 bv7 bv7 bv7 vii7 | iiim iiim iiim iiim iiim bvh bvh vii7 vio io | iiim iiim iiim iiim iiim vm vm vm i7 i7 |
+ ivM iiim | iim vii7 | iiih vi7 | iih v7 |
+ iM iM iM iM iM bvm bvm ivo ivo v7 | iM iM iM iM iM bv7 bv7 bv7 bv7 vii7 | iiim iiim iiim iiim iiim bvh bvh vii7 vii7 vii7 | iiim iiim iiim iiim iiim vm vm vm i7 i7 |
+ ivM ivM ivM ivM ivM iiim iiim iiim iiim iiim | iim iim iim iim iim bvii7 bvii7 bvii7 bvii7 bvii7 | iM iM iM iM iM ii7 ii7 ii7 ii7 ii7 | iim iim iim iim iM iM iM iM iM iM |

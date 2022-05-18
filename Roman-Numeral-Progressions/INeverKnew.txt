@@ -1,0 +1,13 @@
+Title = I Never Knew
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | ivm | iM | ivm |
+ iM | iim v7 | iM | iim v7 |
+ iM | ivm | iM | ivm |
+ iM | iim v7 | iM | iM bvii7 |
+ iiim | ivh bvii7 | iiim | ivh bvii7 |
+ iiim | iv7 bvii7 | iiim | iim v7 |
+ iM | ivm | iM | ivm |
+ iM | iim v7 | iM | iim v7 |

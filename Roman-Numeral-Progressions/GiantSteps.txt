@@ -1,0 +1,9 @@
+Title = Giant Steps
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 16
+ bviM vii7 | iiiM v7 | iM | bvm vii7 |
+ iiiM v7 | iM biii7 | bviM | iim v7 |
+ iM | bvm vii7 | iiiM | bviim biii7 |
+ bviM | iim v7 | iM | bviim biii7 |

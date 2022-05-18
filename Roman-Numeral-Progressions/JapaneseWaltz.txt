@@ -1,0 +1,15 @@
+Title = A Japanese Waltz
+DB Key = C
+EstKeySig = Gb
+TimeSig = 3 4
+Bars = 40
+ viim | bvim | iiim | viiM |
+ viio | biim | viio viio biio | biim |
+ bv7 | biii7 | vii7 | ivm |
+ ivm | bvii7 | iii7 | biii7 |
+ biim | vim | ivm | viiM |
+ biio | iim | biio biio biio | iim |
+ iM | vio vio vio | iim | iii7 |
+ vim | biiio | iiim | vi7 |
+ iim | iiim | iv7 | v7 |
+ bviM | bviim | viim | biim |

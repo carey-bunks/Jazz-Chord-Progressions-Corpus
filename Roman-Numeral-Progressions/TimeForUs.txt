@@ -1,0 +1,13 @@
+Title = A Time For Us
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 3 4
+Bars = 32
+ iiim | ivM | iM | iim |
+ vim | iiim | ivM | iim |
+ iiim | vim | vim vim iiim | vim |
+ iM | vM | iim | vim |
+ bviiM | ivM | iiim | vim |
+ iiim | ivM | iM | iim |
+ vim | iiim | ivM | iim |
+ iiim | vim | vim vim iiim | vim |

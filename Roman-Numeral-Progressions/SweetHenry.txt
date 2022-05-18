@@ -1,0 +1,14 @@
+Title = Sweet Henry
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 34
+ iM vM | vim vim | ivM bviiM | iM |
+ vim vim | iiM vM | ivM ivM iM v7 | iM |
+ vM iiM | iiM | iiM iM | iM |
+ vM | iiM | viM iiM | vi7 iiM |
+ iM ivM | i7 ivM | ii7 v7 | NC |
+ ivM iM | iM | iM bviiM | bviiM |
+ ivM | iM | vM iM | v7 iM |
+ vM iM | v7 iM | iM vM | vim vim |
+ ivM bviiM | iM |

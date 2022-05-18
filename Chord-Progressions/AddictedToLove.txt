@@ -1,0 +1,13 @@
+Title = Addicted to Love
+DB Key = A
+TimeSig = 4 4
+Bars = 32
+ A5 | A5 | G5 | G5 |
+ D5 | D5 | A5 | A5 |
+ A5 | A5 | G5 | G5 |
+ D5 | D5 | A5 | A5 |
+ F#m | D | A | A |
+ F#m | D | D | D D/E |
+ A5 | A5 | G5 | G5 |
+ D5 | D5 | A5 | A5 |
+

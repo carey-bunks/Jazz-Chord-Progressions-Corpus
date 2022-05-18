@@ -1,0 +1,9 @@
+Title = El Gaucho
+DB Key = F
+TimeSig = 4 4
+Bars = 18
+ FM7 | EbM7 | Dm7 Bb7 | B7 E7alt |
+ Fm11 | GbM7 | Fm11 | GbM7 EbM7 |
+ EbM7 | EbM7 | Cm7 | Dm7 |
+ Cm7 | Dm7 Em11 | Em11 | Em11 |
+ Em11 | Em11 |

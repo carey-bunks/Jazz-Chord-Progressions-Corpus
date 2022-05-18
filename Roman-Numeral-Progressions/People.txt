@@ -1,0 +1,17 @@
+Title = People
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 46
+ iM | iim v7 | iM | iim iim iim v7 |
+ ivM | iM | viim | iii7 |
+ vim | vim | ii7 | ii7 |
+ vih ii7 | vM | viM im | vM bviio |
+ vim | ii7 | vM | iim v7 |
+ iM | iim v7 | iM | iim iim iim v7 |
+ ivM | iM | vm | i7 i7 |
+ ivM | ivM ivm | iM | vm i7 |
+ ivM | ivM v7 | iM | bvh vii7 |
+ iM vim | iim v7 | iM | iM iM vm i7 |
+ ivM | ivM ivm | ivM | iim iim |
+ iM | iim v7 |

@@ -1,0 +1,13 @@
+Title = Ask Me Now
+DB Key = Db
+TimeSig = 4 4
+Bars = 32
+ Gm7 C7 F#m7 B7 | Fm7 Bb7 Em7 A7 | Ebm7 Ab7#5 | B7b5 Bb7#11 |
+ Eb7 D7 | DbM7 Eb7#11 | Ebm7 Ab7b9 | B7b5 Bb7b5 A7b5 Ab7#5 |
+ Gm7 C7 F#m7 B7 | Fm7 Bb7 Em7 A7 | Ebm7 Ab7#5 | B7b5 Bb7#11 |
+ Eb7 D7 | DbM7 Eb7#11 | Ebm7 Ab7b9 | Db6 |
+ Ebm7 Ab7 | DbM7 DbM7 Fm7 E7 | Ebm7 D9 | DbM7 |
+ Eb7 | Eb7 | Ebm7/Ab Ab7b9 | Gb13#11 |
+ Gm7 C7 F#m7 B7 | Fm7 Bb7 Em7 A7 | Ebm7 Ab7#5 | B7b5 Bb7#11 |
+ Eb7 D7 | C#M7 Eb7#11 | Ebm7 Ab7b9 | Db6 |
+

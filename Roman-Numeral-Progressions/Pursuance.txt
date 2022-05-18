@@ -1,0 +1,8 @@
+Title = Pursuance
+DB Key = Db
+EstKeySig = Gb
+TimeSig = 4 4
+Bars = 12
+ iiim | iiim | iiim | iiim |
+ iim | iim | iiim | iiim |
+ i7 | vii7 | iiim | iiim |

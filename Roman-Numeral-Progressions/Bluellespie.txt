@@ -1,0 +1,9 @@
+Title = Bluellespie
+DB Key = Bb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 14
+ ii7 | v7 | ii7 | ii7 |
+ v7 | v7 | ii7 | vii7 |
+ iiih | vi7 | iim | iim |
+ iim | iim |

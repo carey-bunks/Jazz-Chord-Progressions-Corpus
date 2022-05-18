@@ -1,0 +1,13 @@
+Title = Stompin' At the Savoy
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM v7 | iM | iM io |
+ iim | v7 | iM vi7 | iim v7 |
+ iM | iM v7 | iM | iM io |
+ iim | v7 | iM | iM |
+ iv7 bv7 | iv7 | bvii7 vii7 | bvii7 |
+ biii7 iii7 | biii7 | bvi7 | v7 v7 |
+ iM | iM v7 | iM | iM io |
+ iim | v7 | iM vi7 | iim v7 |

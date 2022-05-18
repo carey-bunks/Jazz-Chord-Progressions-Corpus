@@ -1,0 +1,13 @@
+Title = Frieda
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM vi7 | iim v7 | iiim vi7 | iim v7 |
+ i7 | iv7 bvo | iM vi7 | iim v7 |
+ iM vi7 | iim v7 | iiim vi7 | iim v7 |
+ i7 | iv7 bvo | iM vi7 | iim v7 iM iM |
+ iii7 | iii7 | vi7 | vi7 |
+ ii7 | ii7 | iim | v7 |
+ iM vi7 | iim v7 | iiim vi7 | iim v7 |
+ i7 | iv7 bvo | iM vi7 | iim v7 iM iM |

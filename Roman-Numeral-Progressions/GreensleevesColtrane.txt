@@ -1,0 +1,11 @@
+Title = Greensleeves
+DB Key = F
+EstKeySig = F
+TimeSig = 3 4
+Bars = 22
+ vim | iiM | vM | iiim |
+ ivM | ivM | iii7 | iii7 |
+ vim | iiM | vM | iiim |
+ ivM | iii7 | vim | viih |
+ vim | bvii7 | vim | bvii7 |
+ vim | bvii7 |

@@ -1,0 +1,9 @@
+Title = Fall
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ F#7sus4 | B7b9 | E9sus4 | EbM7b5 |
+ F#7sus4 | B7b9 | E9sus4 | EbM7b5 |
+ DM7 | D7b9 | Gm7 | Bm9 AbM7b5 |
+ F#7sus4 | B7b9 | Em11 Am11/B | Am11/B |
+

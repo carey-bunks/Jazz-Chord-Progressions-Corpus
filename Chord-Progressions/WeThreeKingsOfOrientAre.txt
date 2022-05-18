@@ -1,0 +1,13 @@
+Title = We Three Kings of Orient Are
+DB Key = G
+TimeSig = 3 4
+Bars = 32
+ Em | Em | B7 | Em |
+ Em | Em | B7 | Em |
+ Em | D | G | G |
+ Am | B7 | Em | D7 |
+ G | Am6 | Go7 | G |
+ G | Am6 | Go7 | G |
+ Em | E7 E7 G | Am | D7 |
+ G | Am | C C Am | G |
+

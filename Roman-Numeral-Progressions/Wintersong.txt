@@ -1,0 +1,13 @@
+Title = Wintersong
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim v7 | iM vim | ii7 bii7 |
+ iM bv7 | ivM ivM iiim vi7 | ii7 | v7 |
+ iM vim | iim v7 | iM vim | ii7 bii7 |
+ iM bv7 | ivM ivM iiim vi7 | ii7 v7 | iM iM bvh vii7 |
+ iiim | bvh vii7 | iiim | vi7 ii7 |
+ vM iiim | vim ii7 | vM biio | iim v7 |
+ iM vim | iim v7 | iiim vi7 | ii7 v7 |
+ iM bv7 | ivM ivM iiim vi7 | ii7 v7 | iM iM iim v7 |

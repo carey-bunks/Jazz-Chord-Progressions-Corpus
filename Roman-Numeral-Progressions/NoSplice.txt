@@ -1,0 +1,13 @@
+Title = No Splice
+DB Key = Bb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iiim | bvh vii7 | iiim | iiim |
+ iim | v7 | iM | iM |
+ bvh | vii7 | i7 vii7 | iiim |
+ i7 | vm i7 | ivM | bvh vii7 |
+ iiim | bvh vii7 | iiim | iiim |
+ iim | v7 | iM | iM |
+ biio | vM | iio | iiim |
+ i7 | vii7 | iiim | bvh vii7 |

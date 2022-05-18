@@ -1,0 +1,14 @@
+Title = Can't You Just See Yourself
+DB Key = C
+TimeSig = 4 4
+Bars = 36
+ C C+ | Dm7 Dm7 Dm7 F/G | C C C+ C | C G7 |
+ C Am | Dm7 G7 | C | C |
+ C/E Ebo7 | Dm7 G7 | CM9 | CM9 Bb7 Bb7 Bb7 |
+ Eb Eb Eb Cm7 | Cm7 | Dm7b5 | G7 |
+ C C+ | Dm7 F/G | C C C+ C | C G7 |
+ C Am | Dm7 G7 | Eb7 | Eb7 |
+ Ab | Ab7 | G G G7 C/E | C/E F Dm7b5 Dm7b5 |
+ C/G | G#+ | Am | D7 |
+ C/G Am | Dm Dm F/G G7 | C C+ | Dm7 G7 |
+

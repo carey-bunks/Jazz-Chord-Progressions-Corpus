@@ -1,0 +1,13 @@
+Title = The Gypsy
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iiim iiim vi7 vi7 | ii7 | ii7 |
+ iim v7 | iih v7 | iM biio | iim v7 |
+ iM | iiim iiim vi7 vi7 | ii7 | ii7 |
+ iim v7 | iih v7 | iM iM bviiM viiM | iM vi7 |
+ iim v7 | iM vi7 | iim iim v7 v7 | iM |
+ iiim | iiim | iim | v7 v7 |
+ iM | iiim iiim vi7 vi7 | ii7 | ii7 |
+ iim v7 | iim iim ii7 bii7 | iM vim | iim v7 |

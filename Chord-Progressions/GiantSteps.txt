@@ -1,0 +1,9 @@
+Title = Giant Steps
+DB Key = Eb
+TimeSig = 4 4
+Bars = 16
+ BM7 D9 | GM7 Bb9 | EbM7 | Am9 D9 |
+ GM7 Bb9 | EbM7 Gb9 | BM7 | Fm9 Bb9 |
+ EbM9 | Am9 D9 | GM7 | Dbm7 Gb9 |
+ BM7 | Fm9 Bb9 | EbM7 | Dbm7 Gb9 |
+

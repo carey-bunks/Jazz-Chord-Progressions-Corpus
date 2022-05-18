@@ -1,0 +1,13 @@
+Title = Paul's Pal
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iim v7 | iM vim | iim v7 | iM vim |
+ bvm vii7 | iiih vi7 | ii7 v7 | iM |
+ iim v7 | iM vim | iim v7 | iM vim |
+ bvm vii7 | iiih vi7 | ii7 v7 | iM |
+ iim v7 | iM vim | iim v7 | iM vim |
+ bvm vii7 | iiih vi7 | ii7 v7 | iM |
+ iim v7 | iM vim | iim v7 | iM vim |
+ bvm vii7 | iiih vi7 | ii7 v7 | iM |

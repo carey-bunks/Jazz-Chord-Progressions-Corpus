@@ -1,0 +1,10 @@
+Title = Blue Silver
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 20
+ viih | iii7 | vim | ii7 |
+ biiM | iih v7 | iM | iM |
+ biim | bv7 | viiM | vm |
+ ivh | bvii7 | biiiM | biiiM |
+ iih | v7 | iM | iM |

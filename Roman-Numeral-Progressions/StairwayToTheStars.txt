@@ -1,0 +1,13 @@
+Title = Stairway to the Stars
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM iiim ivm ivm | vm i7 | ivM | bvii7 |
+ iM vim | iim v7 | iM vi7 | iim v7 |
+ iM iiim ivm ivm | vm i7 | ivM | bvii7 |
+ iM vim | iim v7 | iM iM vm i7 | ivh vii7 |
+ iiim iiim iim v7 | iM iM vim vii7 | iiim iiim | iiim vi7 |
+ iim iv7 | bviiM bviiM vm vi7 | iim vi7 | bviM bviM iim v7 |
+ iM iiim ivm ivm | vm i7 | ivM | bvii7 |
+ iM vim | iim v7 | iM vi7 | iim v7 |

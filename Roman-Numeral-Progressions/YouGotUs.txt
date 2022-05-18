@@ -1,0 +1,16 @@
+Title = You Got Us
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 44
+ iM biiio iim iM | vM iM iim vm | vi7 vi7 ii7 ivm | iM |
+ iii7 vm | ii7 ivm | iM bvo | iim v7 |
+ iM biiio iim iM | vM iM iim vm | vi7 vi7 ii7 ivm | iM |
+ iii7 vm | ii7 ivm | iM bvo | iim v7 |
+ iM biiio iim iM | vM iM iim vm | vi7 vi7 ii7 ivm | iM |
+ i7 i7 biiM i7 | bvo bvo vm i7 | ivM bvii7 | vim bviim |
+ viim iii7 | bviim viim | vi7 iih | bvi7 v7 |
+ iii7 vm | ii7 ivm | iM bvo | iim v7 |
+ iM biiio iim iM | vM iM iim vm | vi7 vi7 ii7 ivm | iM |
+ iii7 vm | ii7 ivm | iM bvo | iim v7 |
+ iM biiio iim iM | vM iM iim vm | vi7 vi7 ii7 ivm | iM iM |

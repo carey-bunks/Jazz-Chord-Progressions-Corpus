@@ -1,0 +1,13 @@
+Title = Monk's Mood
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Fm7 Fm7 Bb7#11 CM7 | CM7 | Dm7b5 G7b9#11 | DbM7 DbM7 DbM7 DbM7 DbM7 DbM7 C B |
+ Bb7 A7b9 | E7b9 Eb7 | D9sus4 E9sus4 | Dm7 Bb7b9#11 |
+ Fm7 Fm7 Bb7#11 CM7 | CM7 | Dm7b5 G7b9#11 | DbM7 DbM7 DbM7 DbM7 DbM7 DbM7 C B |
+ Bb7 A7b9 | E7b9 Eb7 | Ab7#5 G7b5 | DbM7#11 |
+ Bb/C A/C | Bb/C Gbm7 | Gbm7 B13b9#11 | E |
+ Am7b5 Ab7 G7sus4 Abo7 | Am7b5 F13 | Fm7 Bbm7 | Dm7 Bb7b9#11 |
+ Fm7 Fm7 Bb7#11 CM7 | CM7 | Dm7b5 G7b9#11 | DbM7 DbM7 DbM7 DbM7 DbM7 DbM7 C B |
+ Bb7 A7b9 | E7b9 Eb7 | Ab7#5 G7b5 | DbM7#11 |
+

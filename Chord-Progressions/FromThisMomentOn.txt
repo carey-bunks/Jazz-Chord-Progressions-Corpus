@@ -1,0 +1,22 @@
+Title = From This Moment On
+DB Key = Ab
+TimeSig = 4 4
+Bars = 68
+ Fm6 | Dm7b5 | Gm7 | C7+ |
+ Db/F | Fm6 | Ebm7 | Ab7 |
+ DbM7 | DbM7 | Gb7#11 | Gb7#11 |
+ AbM7 | AbM7 | Gm7/C | Gm7/C |
+ Fm6 | Dm7b5 | Gm7 | C7+ |
+ Db/F | Fm6 | Ebm7 | Ab7 |
+ DbM7 | DbM7 | Gb7#11 | Gb7#11 |
+ AbM7 | Fm7 | Ebm7 | Ab7 |
+ DbM7 | DbM7 | Dbm7 | Gb7 |
+ AbM7 | AbM7 | Cm7/F | F7 |
+ Eb/Bb | Bbo7 | Fm7/Bb | Bb7 |
+ Eb7 | Bbm7 | Eb7 | C7alt |
+ Fm6 | Dm7b5 | Gm7 | C7+ |
+ Db/F | Fm6 | Ebm7 | Ab7 |
+ DbM7 | DbM7 | Gb7#11 | Gb7#11 |
+ AbM7 | Db7 | Cm7 | F7 |
+ Bbm7/Eb | Eb7 | AbM7 | C7alt |
+

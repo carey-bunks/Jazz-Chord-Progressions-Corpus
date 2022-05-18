@@ -1,0 +1,15 @@
+Title = I Cried For You
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 40
+ iM | iiim vi7 | vim | ii7 |
+ iim | v7 | iM v7 | iM |
+ iM | iiim vi7 | iim | v7 |
+ v7 | v7 | iio | v7 bii7 |
+ iM | iiim vi7 | vim | ii7 |
+ iim | v7 iv7 | iii7 | iii7 |
+ vi7 | vi7 | vi7 | vi7 |
+ ii7 | ii7 | ii7 | v7 |
+ iM | iiim vi7 | vim | ii7 |
+ iim | v7 | iM | iim v7 |

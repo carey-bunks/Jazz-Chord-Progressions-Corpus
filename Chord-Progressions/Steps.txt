@@ -1,0 +1,8 @@
+Title = Steps
+DB Key = Eb
+TimeSig = 4 4
+Bars = 12
+ Cm7 | Cm7 | Cm7 | Cm7 |
+ Fm7 | Fm7 | Cm7 | Cm7 |
+ AbM7#11 | EM7 | DbM7#11 | BM7#11 |
+

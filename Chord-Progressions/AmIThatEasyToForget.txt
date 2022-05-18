@@ -1,0 +1,11 @@
+Title = Am I That Easy To Forget?
+DB Key = Eb
+TimeSig = 4 4
+Bars = 24
+ Eb | Eb7 | Ab | Ab |
+ Eb | Eb | Bb7 | Bb7 |
+ Eb | Eb7 | Ab | Ab |
+ Eb | Bb7 | Eb Ab | Eb Eb13 |
+ Ab | Ab | Eb | Eb Eb Bbm7 Eb7 |
+ Ab | Bb7 | Eb | Eb |
+

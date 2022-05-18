@@ -1,0 +1,13 @@
+Title = It's A Blue World
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iim | iim v7 | iM | iM |
+ vm | vm i7 | ivM | ivM |
+ ivM | ivm v7 | iM | i7 |
+ ivm | bvi7 | v7 ivm | v7 |
+ iim | iim v7 | iM | iM |
+ vm | vm i7 | ivM | ivM |
+ ivM | ivm v7 | iM iim | iiih vi7 |
+ ii7 | iim v7 | iM | iiih vi7 |

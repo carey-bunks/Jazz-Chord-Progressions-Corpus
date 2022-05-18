@@ -1,0 +1,9 @@
+Title = Jack Leg
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 16
+ iim | iim vi7 | iim | iim vi7 |
+ iim | iim | vi7 | vi7 |
+ iiM | iiM | v7 | v7 |
+ iim | iiih vi7 | iim | iim vi7 |

@@ -1,0 +1,13 @@
+Title = 52nd St. Theme
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ CM6 Am7 | Dm7 G7#5 | CM6 Am7 | Dm7 G7#5 |
+ CM6 Am7 | Dm7 G7#5 | Am7 D9 | CM6 |
+ CM6 Am7 | Dm7 G7#5 | CM6 Am7 | Dm7 G7#5 |
+ CM6 Am7 | Dm7 G7#5 | Am7 D9 | CM6 |
+ C7 | C7 Gb9 | F6 Ab9 | F6 |
+ D7 | D7 Dm7 | G7#5 | G7#5 |
+ CM6 Am7 | Dm7 G7#5 | CM6 Am7 | Dm7 G7#5 |
+ CM6 Am7 | Dm7 G7#5 | Am7 D9 | CM6 |
+

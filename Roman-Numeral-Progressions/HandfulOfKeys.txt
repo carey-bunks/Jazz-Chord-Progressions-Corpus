@@ -1,0 +1,13 @@
+Title = A Handful of Keys
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM iim | iM biiio | iim iim | iim biiio |
+ iim iim | iim v7 | iM vim | iim v7 |
+ iM iim | iM biiio | iim iim | iim biiio |
+ iim iim | iim v7 | iM v7 | iM vii7 |
+ iii7 iii7 | vo iii7 | vi7 vi7 | io vi7 |
+ ii7 ii7 | ivo ii7 | v7 v7 | bviio v7 |
+ iM iim | iM biiio | iim iim | iim biiio |
+ iim iim | iim v7 | iM v7 | iM |

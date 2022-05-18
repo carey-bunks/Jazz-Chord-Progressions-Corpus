@@ -1,0 +1,24 @@
+Title = French Waltz
+DB Key = G
+EstKeySig = G
+TimeSig = 3 4
+Bars = 74
+ vim | vim | vim | vim |
+ iim | iim | iim | iim |
+ iii7 | iii7 | vim | ivM |
+ vM | iM | ivM | iim |
+ vim | vim | vim | vim |
+ iim | iim | iim | iim |
+ iii7 | iii7 | vim | ivM |
+ vM | iM | ivM | ivM |
+ bviiM | v7 | viM | iM |
+ bvii7 | iiim | im | ivm |
+ bviim | biii7 | vh | i7 |
+ viiM | bvii7 | biiM | vh |
+ bvii7 | vii7 | ivm | bii7 |
+ vim | vim | vim | vim |
+ iim | iim | iim | iim |
+ iii7 | iii7 | vim | ivM |
+ iim | iM | viM | iim |
+ vM | iii7 | iv7 | bvii7 |
+ iii7 | ii7 |

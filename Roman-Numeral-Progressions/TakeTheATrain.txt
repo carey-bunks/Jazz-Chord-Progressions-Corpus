@@ -1,0 +1,13 @@
+Title = Take The A Train
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM | ii7 | ii7 |
+ iim | v7 | iM | v7 |
+ iM | iM | ii7 | ii7 |
+ iim | v7 | iM | vm i7 |
+ ivM | ivM | ivM | ivM |
+ ii7 | ii7 | iim | v7 |
+ iM | iM | ii7 | ii7 |
+ iim | v7 | iM | iim v7 |

@@ -1,0 +1,18 @@
+Title = The Shaker Song
+DB Key = C
+TimeSig = 4 4
+Bars = 54
+ CM7 | FM7 | CM7 | FM7 |
+ CM7 | FM7 | CM7 | FM7 |
+ Fm7/Bb | EbM7 | Ebm7/Ab | DbM7 |
+ Fm7/Bb | EbM7 | Dm7 | Dm7/G |
+ CM7 | FM7 | CM7 | FM7 |
+ CM7 | FM7 | CM7 | FM7 |
+ Fm7/Bb | EbM7 | Ebm7/Ab | DbM7 |
+ Fm7/Bb | EbM7 | Dm7 | Dm7/G |
+ FM7 | E7alt | Am7 | Gm7 C7 |
+ FM7 | Dm7/G | CM7 | Gm7/C C7 |
+ FM7 | E7alt | Am7 Abm7 | Gm7 C7 |
+ FM7 | Dm7/G | CM7 | Dm7/G |
+ CM7 | Dm7/G | CM7 | Dm7/G |
+ CM7 | Dm7/G |

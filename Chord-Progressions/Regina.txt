@@ -1,0 +1,13 @@
+Title = Regina
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Ebm7 | BM7 | D7/C | EM7 |
+ Dm7b5 | G7 | Cm7 | F7 |
+ BM7 | F#M7 | BM7 | F#M7 |
+ Bbm7 | Fm7 | Bbm7 | Fm7 |
+ Abm7 | EM7 | Abm7 | EM7 |
+ G7 | F#m7 B7 | EM7 | Fm7 Bb7 |
+ EbM7 | Em7 A7 | DM7 | Ab7 |
+ Fm7 | Bb7 | B7 | Bb7 |
+

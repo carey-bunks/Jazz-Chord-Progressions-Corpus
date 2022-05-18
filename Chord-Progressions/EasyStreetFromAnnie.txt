@@ -1,0 +1,9 @@
+Title = Easy Street
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ C | C7 | F | Ab7 |
+ C C C E7 | Am D7 | F | G7 |
+ C | C7 | F | Fm6 |
+ C A7 | D7 G7 | C | G7 |
+

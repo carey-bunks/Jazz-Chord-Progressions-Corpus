@@ -1,0 +1,15 @@
+Title = Harlem Nocturne
+DB Key = Bb
+TimeSig = 4 4
+Bars = 40
+ GmM7 | GmM7 | Cm6 | Cm6 |
+ CmM7 | Eb7 Eb7 A7 D7 | Gm6 | Gm6 |
+ GmM7 | GmM7 | Cm6 | Cm6 |
+ CmM7 | Eb7 Eb7 A7 D7 | Gm6 | Gm6 F7 |
+ Bb7 Fm7 | Bb7 Fm7 | Bb7 Fm7 | Bb7 |
+ Eb7 Bbm7 | Eb7 Bbm7 | F7 | F7 |
+ Bb7 Fm7 | Bb7 Fm7 | Bb7 Fm7 | Bb7 |
+ Eb7 Bbm7 | Eb7 Bbm7 | F7 | F7 |
+ GmM7 | GmM7 | Cm6 | Cm6 |
+ CmM7 | Eb7 Eb7 A7 D7 | Gm6 | D7alt |
+

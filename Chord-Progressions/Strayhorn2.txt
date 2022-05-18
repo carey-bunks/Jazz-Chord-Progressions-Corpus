@@ -1,0 +1,9 @@
+Title = Strayhorn 2
+DB Key = D
+TimeSig = 4 4
+Bars = 18
+ DM7 Em7b5/D | DoM7 DM7 | DoM7 Gm7 | DM7 DM7 Em7 A7sus4 |
+ DM7 Em7b5/D | DoM7 DM7 | DoM7 Gm7 | DM7 Ab7 |
+ GM7 A/G | F#m7 FM7 | C/E FM7 | F#m7 B7 EM7 Bb7 |
+ GM7/A | DM7 Em7b5/D | DoM7 DM7 | DoM7 Gm7 |
+ DM7 Gm7 | DM7 DM7 Em7 A7sus4 |

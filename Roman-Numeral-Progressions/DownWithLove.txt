@@ -1,0 +1,17 @@
+Title = Down With Love
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 48
+ iim iM iim iM | iim iM ivM vM | iM | iM iM iM iM |
+ iim iM iim iM | iim iM ivM vM | i7 | iM i7 vim iM |
+ vm ivM vm ivM | iv7 vm ivM v7 | iM | iM |
+ ivM v7 | ivM | iM i7 | vi7 v7 |
+ iim iM iim iM | iim iM ivM vM | iM | iM |
+ iim iM iim iM | iim iM ivM vM | i7 | i7 |
+ vm ivM vm ivM | iv7 vm ivM v7 | iM iM iM iM | iM |
+ ivM v7 v7 v7 | ivM | vim vim vim vii7 | i7 i7 |
+ ivM i7 | ivM iio | iM ivo | iM iM |
+ iM iiim | vim iM | ii7 | v7 |
+ iim iM iim iM | iim iM ivM vM | iv7 iii7 | vi7 vi7 |
+ ivM | ii7 v7 | iM i7 | vi7 v7 |

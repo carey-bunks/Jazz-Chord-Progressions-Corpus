@@ -1,0 +1,21 @@
+Title = It's A Good Day
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 64
+ iM | iim | iiim | vim |
+ iim | v7 | iM | iM v7 |
+ iM | iim | iiim | vim |
+ iim | v7 | iM | v7 |
+ iM | iim | iiim | vim |
+ iim | v7 | iM | iM |
+ iM v7 | iM | iM | vim |
+ iim | v7 | iM | iM |
+ i7 | i7 | ivM | ivM |
+ ii7 | ii7 | v7 | v7 |
+ iM | biio | v7 | biio |
+ v7 | biio | v7 | v7 v7 |
+ iM | iim | iiim | vim |
+ iim | v7 | iM | iM v7 |
+ iM | iim | iiim | vim |
+ iim | v7 | iM | iim v7 |

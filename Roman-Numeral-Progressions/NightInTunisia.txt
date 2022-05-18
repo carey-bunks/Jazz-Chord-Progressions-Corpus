@@ -1,0 +1,17 @@
+Title = A Night in Tunisia
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 48
+ bvii7 | vim | bvii7 | vim |
+ bvii7 | vim | viih iii7 | vim |
+ bvii7 | vim | bvii7 | vim |
+ bvii7 | vim | viih iii7 | vim |
+ iiih | vi7 | iim | iim |
+ iih | v7 | iM | viih iii7 |
+ bvii7 | vim | bvii7 | vim |
+ bvii7 | vim | viih iii7 | vim |
+ viim | viim | bvii7 | bvii7 |
+ vim | vim | ii7 | ii7 |
+ ivM | ivM | iiiM | iiiM |
+ iM | iM | iM | iM |

@@ -1,0 +1,14 @@
+Title = All The Way
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 34
+ iM | iii7 | vim | ii7 |
+ v7 iim | bviim v7 | iM iM vim bvi7 | vm i7 |
+ ivM | v7 viih | iii7 iii7 | vim bvi7 vm i7 |
+ ivM | v7 bvio | vim ii7 | ivm v7 |
+ iM | iii7 | vim | ii7 |
+ v7 iim | bviim v7 | iM iM vim bvi7 | vm i7 |
+ ivM | v7 viih | iii7 iii7 | vim ivm |
+ iM | bvii7 vi7 | bvh bvh bvh v7 | iiih vi7 |
+ iim v7 | iM iM v7 v7 |

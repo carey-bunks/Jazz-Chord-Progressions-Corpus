@@ -1,0 +1,13 @@
+Title = Don't Get Around Much Anymore
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ NC iM iM iim iim biiim iiim iiim | NC | NC iM iM vii7 vii7 bvii7 vi7 vi7 | NC |
+ iim | v7 | iM | v7 |
+ NC iM iM iim iim biiim iiim iiim | NC | NC iM iM vii7 vii7 bvii7 vi7 vi7 | NC |
+ iim | v7 | iM | vm i7 |
+ ivM | ivo | iM | vm i7 |
+ ivM | ivh vii7 | iiim vi7 | iim v7 |
+ NC iM iM iim iim biiim iiim iiim | NC | NC iM iM vii7 vii7 bvii7 vi7 vi7 | NC |
+ iim | v7 | iM | v7 |

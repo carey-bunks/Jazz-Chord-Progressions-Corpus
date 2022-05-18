@@ -1,0 +1,16 @@
+Title = Sirabhorn
+DB Key = C
+TimeSig = 3 4
+Bars = 44
+ C | Bbm7 | Gb | Em7 |
+ B | G#m7 | E | Dm |
+ GbM7 | Fm7 | GbM7 | Fm7 |
+ DM7#11 | DM7#11 | DM7#11 | DM7#11 |
+ C | Bbm7 | Gb | Em7 |
+ B | G#m7 | E | Dm |
+ GbM7 | Fm7 | GbM7 | Fm7 |
+ DM7#11 | DM7#11 | DM7#11 | DM7#11 |
+ A | G | F#m9 FM7#11 | FM7#11 |
+ E7sus4 | E7sus4 | E7sus4 | E7sus4 |
+ E7sus4 | E7sus4 | E7sus4 | E7sus4 |
+

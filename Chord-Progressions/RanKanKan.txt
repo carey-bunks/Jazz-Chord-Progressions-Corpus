@@ -1,0 +1,9 @@
+Title = Ran Kan Kan
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ D Am7 | D Am7 | D Am7 | D Am7 |
+ D Am7 | D Am7 | D Am7 | D Am7 |
+ D Am7 | D Am7 | D Am7 | D Am7 |
+ D Am7 | D Am7 | D | D |
+

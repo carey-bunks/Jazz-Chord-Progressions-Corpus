@@ -1,0 +1,15 @@
+Title = Dacapolypso
+DB Key = G
+TimeSig = 4 4
+Bars = 40
+ Am7 A#o7 | Bm7 Em7 | Am7 D7 | GM7 |
+ C C#o7 | G/D E7 | Am7 Am7 Am7 D7 D7 D7 G69 G69 | G69 |
+ Am7 D7 | G69 Em7 | Am7 D7 | GM7 Em7 |
+ Am7 D7 | GM7 E7 | Am7 Am7 Am7 D7 D7 D7 G69 G69 | G69 |
+ GM7 F7 | E7 | Cm7 F7 | Bb69 |
+ DM7 DM7 DM7 DM7 C7 C7 C7 B7 | B7 | Gm7 C7 | F69 |
+ Am7 D7 | G69 Em7 | Am7 D7 | GM7 Em7 |
+ Am7 D7 | GM7 E7 | Am7 Am7 Am7 D7 D7 D7 G69 G69 | G69 |
+ Am7 A#o7 | Bm7 Em7 | Am7 D7 | G |
+ C C#o7 | G/D E7 | Am7 Am7 Am7 D7 D7 D7 G69 G69 | G69 |
+

@@ -1,0 +1,9 @@
+Title = Cantaloupe Island
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 16
+ vim | vim | vim | vim |
+ iv7 | iv7 | iv7 | iv7 |
+ bvm | bvm | bvm | bvm |
+ vim | vim | vim | vim |

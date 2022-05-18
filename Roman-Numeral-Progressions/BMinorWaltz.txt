@@ -1,0 +1,14 @@
+Title = B Minor Waltz
+DB Key = D
+EstKeySig = D
+TimeSig = 3 4
+Bars = 33
+ vim | iim | vim | iim |
+ vim | ii7 ii7 ii7 | v7 v7 v7 | i7 i7 i7 |
+ iv7 iv7 iv7 | bvii7 bvii7 bvii7 | vi7 vi7 vi7 | ii7 ii7 ii7 |
+ v7 v7 v7 | i7 i7 i7 | iv7 iv7 iv7 | bvii7 bvii7 vi7 |
+ iim iim iim | bviih biii7 biii7 | vim | iim |
+ v7 | i7 i7 i7 | ivM | iv7 |
+ biii7 biii7 biii7 | bvim | biim | bv7 bv7 |
+ vii7 vii7 vii7 | iiiM | iii7 | iv7 |
+ biii7 |

@@ -1,0 +1,22 @@
+Title = To Life
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 66
+ vii7 vii7 vii7 vii7 | iii7 iii7 iii7 iii7 | vim | vim |
+ vi7 | vi7 | iim | iim |
+ v7 | iM | ivM | bviiM bviiM |
+ vm | iii7 | vii7 vii7 vii7 vii7 | iii7 iii7 iii7 iii7 |
+ vim | vim | vi7 | vi7 |
+ iim | iim | v7 | iM |
+ ivM | bviiM bviiM | vm | iii7 |
+ viM | vi7 | iim | iim |
+ vim | vim | vii7 | iii7 |
+ vim | vi7 | iim | iim |
+ vim | vim | vii7 | vii7 |
+ iiiM | iiiM | vii7 vii7 vii7 vii7 | iii7 iii7 iii7 iii7 |
+ vim | vim | vi7 | vi7 |
+ iim | iim | v7 | iM |
+ ivM | bviiM bviiM | vm | iii7 |
+ iii7 | iii7 | vim | vim |
+ vim | bv7 |

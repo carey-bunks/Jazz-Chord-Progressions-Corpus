@@ -1,0 +1,12 @@
+Title = Oop Bop Sh-Bam
+DB Key = Bb
+TimeSig = 4 4
+Bars = 30
+ Bb Gm7 | Cm7 B7b5 | Bb G7b9 | C7+ F7 |
+ Bb Gm7 | Cm7 C#o7 | Bb Dbo7 | B7 Bb |
+ Bb Gm7 | Cm7 B7b5 | Bb G7b9 | C7+ F7 |
+ Bb Gm7 | Cm7 C#o7 | Bb Dbo7 | B7 Bb |
+ Fm7 | E7 | Eb9 Gm7 | Bb E7 Eb Abm7 |
+ Gm7 | F#7 F#7 F#7 C#o7 | Cm7 F7 | Cm7b5 F9 F9 F9 |
+ Bb Gm7 | Cm7 B7b5 | BbM7 G7b5 | C7+ F7 |
+ Bb Bb C#o7 B7 | Bb Bb Cm7 B7 |

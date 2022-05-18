@@ -1,0 +1,13 @@
+Title = Impressions
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ vim | vim | vim | vim |
+ vim | vim | vim | vim |
+ vim | vim | vim | vim |
+ vim | vim | vim | vim |
+ bviim | bviim | bviim | bviim |
+ bviim | bviim | bviim | bviim |
+ vim | vim | vim | vim |
+ vim | vim | vim | vim |

@@ -1,0 +1,10 @@
+Title = Song from M.A.S.H.
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 17
+ iim | v7 | iM | vim |
+ iim | iim v7 | iM | vim |
+ biiim vi7 | iim | v7 | iM |
+ vim | ivM iM | iim v7 | vim |
+ vim |

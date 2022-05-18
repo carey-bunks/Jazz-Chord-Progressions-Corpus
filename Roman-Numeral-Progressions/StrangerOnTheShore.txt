@@ -1,0 +1,13 @@
+Title = Stranger on the Shore
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iim v7 | iM v7 i7 i7 | ivM ivm |
+ iM vim | ii7 | iim iim | v7 |
+ iM | iim v7 | iM v7 i7 i7 | ivM ivm |
+ iM vim | iiim i7 | ivM v7 | iM iM iM i7 |
+ ivM | iM | iim v7 v7 v7 | iM iM iM i7 |
+ ivM | iiim | ii7 ii7 | iim v7 |
+ iM | iim v7 | iM v7 i7 i7 | ivM ivm |
+ iM vim | iiim iiim iiim i7 | ivM v7 | iM iM iim v7 |

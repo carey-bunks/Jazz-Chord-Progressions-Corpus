@@ -1,0 +1,13 @@
+Title = Cute
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iim | v7 | iM | vi7 |
+ iim | v7 | vm | i7 |
+ ivM | ivm | iM iii7 | vim |
+ ivh | vii7 | iiiM | vi7 |
+ iim | v7 | iM | vi7 |
+ iim | v7 | vm | i7 |
+ ivM | ivm | iM iii7 | vim |
+ iim | iim v7 | iM | iiih vi7 |

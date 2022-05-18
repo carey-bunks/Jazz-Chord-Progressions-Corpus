@@ -1,0 +1,9 @@
+Title = T'Ain't Nobody's Bizness
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ iM | iii7 | vim i7 | ivM bvo |
+ iM | iim v7 | iM vi7 | ii7 v7 |
+ iM | iii7 | vim i7 | ivM bvo |
+ iM | iim v7 | iM iM iv7 bvo | v7 |

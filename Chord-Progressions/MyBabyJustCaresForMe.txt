@@ -1,0 +1,13 @@
+Title = My Baby Just Cares For Me
+DB Key = G
+TimeSig = 4 4
+Bars = 32
+ G6 D7#5 | GM7 D7#5 | G6 D7#5 | GM7 D7#5 |
+ G6 C9#11 | Bm7 Bbo7 | Am7 E7#5 | Am7 Am7/G |
+ F#m7b5 | B7 | Em7 | Em7 |
+ A7 Bm7 | Co7 A7/C# | D9sus4 | D9 |
+ G6 D7#5 | GM7 D7#5 | G6 D7#5 | GM7 D7#5 |
+ Bm7b5 | Eb7 E7 | Am7 | Am7 |
+ CM7 | C#m7 F#7 | Bm7 | E7 |
+ Am7 | A7 D7 | G6 | Am7 D7 |
+

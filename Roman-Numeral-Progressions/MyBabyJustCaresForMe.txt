@@ -1,0 +1,13 @@
+Title = My Baby Just Cares For Me
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM v7 | iM v7 | iM v7 | iM v7 |
+ iM iv7 | iiim biiio | iim vi7 | iim iim |
+ bviih | iii7 | vim | vim |
+ ii7 iiim | ivo ii7 | v7 | v7 |
+ iM v7 | iM v7 | iM v7 | iM v7 |
+ iiih | bvi7 vi7 | iim | iim |
+ ivM | ivm bvii7 | iiim | vi7 |
+ iim | ii7 v7 | iM | iim v7 |

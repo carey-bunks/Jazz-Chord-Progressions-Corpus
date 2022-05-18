@@ -1,0 +1,7 @@
+Title = Coral
+DB Key = Bb
+TimeSig = 4 4
+Bars = 9
+ Cm7 F7 | D/Bb BbM7 | Am7b5 D7b9 | Gm7 C7 |
+ BM7 F#M7/A# | G#m7 BM7/F# | Gb Ab/Gb Ab/Gb Ab/Gb Dbm7/Gb Dbm7/Gb Dbm7/Gb Dbm7/Gb | Fm9 Fm9 Dm7b5 G7b9 |
+ Cm11 |

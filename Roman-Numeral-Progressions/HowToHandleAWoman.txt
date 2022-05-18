@@ -1,0 +1,13 @@
+Title = How to Handle a Woman
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 30
+ iM v7 | iM | iM | iM |
+ iM | iM iM biio biio | ivM | vM |
+ iim v7 | iM | iim iim v7 v7 | iM |
+ vim vim viiM vii7 | iiiM bviM bvm bvm | biim biim vii7 vii7 | iiiM |
+ iM v7 | iM | iM | ivM ivm |
+ iM iM v7 v7 | iM bviiM | iM v7 | iM iim |
+ iM v7 | iM iM ivM ivM | iM | v7 |
+ vM iM iM iM | iim v7 |

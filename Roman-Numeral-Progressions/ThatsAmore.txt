@@ -1,0 +1,20 @@
+Title = That's Amore
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 3 4
+Bars = 60
+ iM | iM | iM | biiio |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iM | iM | iim | v7 |
+ iM | iM | iM | biiio |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iM | iM | iim | v7 |
+ iM | iM | iM | biiio |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iii7 | bvii7 | vi7 | vi7 |
+ iM | iM | iM | iM biiio biiio |
+ iim | v7 | iim | v7 |
+ iM | iM | iim | v7 |

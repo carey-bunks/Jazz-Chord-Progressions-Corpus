@@ -1,0 +1,13 @@
+Title = Alexander's Ragtime Band
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM | ii7 v7 | iM |
+ ivM | ivM | ivM | ivM |
+ iM | iM | iM | iM |
+ vM | ii7 | vM | iim v7 |
+ iM | iM | ii7 v7 | iM |
+ ivM | ivM | ivM | ivM |
+ iM | i7 | ivM | bvo |
+ iM | iM bvo | v7 | iM v7 |

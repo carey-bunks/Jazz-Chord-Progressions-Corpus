@@ -1,0 +1,13 @@
+Title = Celia
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iih | iiim | ivm bvii7 |
+ iiim biiim | iim bii7 | iM vi7 | iim v7 |
+ iM | iih | iiim | ivm bvii7 |
+ iiim biiim | iim bii7 | iM | iM |
+ viim | iii7 | vim | vim |
+ vim | ii7 | iim | v7 |
+ iM | iih | iiim | ivm bvii7 |
+ iiim biiim | iim bii7 | iM | iih v7 |

@@ -1,0 +1,13 @@
+Title = Little Rootie Tootie
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM i7 | ivM bvo | iM v7 | iM v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM i7 | ivM bvo | iM v7 | iM |
+ biim i7 | ivM | bvm vii7 | viih iii7 |
+ vi7 | vim ii7 | ivm bvii7 | biiim biiim bvi7 v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM i7 | ivM bvo | iM v7 | iM v7 |

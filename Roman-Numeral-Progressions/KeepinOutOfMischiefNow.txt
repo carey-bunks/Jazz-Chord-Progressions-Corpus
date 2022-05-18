@@ -1,0 +1,10 @@
+Title = Keepin' Out of Mischief Now
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 20
+ iim | v7 | iM v7 | iM |
+ iM | v7 | iiih vi7 | iim v7 |
+ iim | v7 | iM v7 | iM i7 |
+ ivM ivm | iM i7 | ivM ivm | iM |
+ v7 | iiih vi7 | ii7 v7 | iM |

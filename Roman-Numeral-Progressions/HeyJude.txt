@@ -1,0 +1,14 @@
+Title = Hey Jude
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 36
+ iM | vM | v7 v7 v7 v7 | iM |
+ ivM | iM | v7 | iM |
+ iM | vM | v7 v7 v7 v7 | iM |
+ ivM | iM | v7 | iM |
+ iM | vM | v7 v7 v7 v7 | iM |
+ ivM | iM | v7 | iM |
+ i7 | ivM | iim | v7 |
+ iM | i7 | ivM | iim |
+ v7 | iM | i7 v7 | v7 |

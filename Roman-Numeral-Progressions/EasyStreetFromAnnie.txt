@@ -1,0 +1,9 @@
+Title = Easy Street
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 16
+ iM | i7 | ivM | bvi7 |
+ iM iM iM iii7 | vim ii7 | ivM | v7 |
+ iM | i7 | ivM | ivm |
+ iM vi7 | ii7 v7 | iM | v7 |

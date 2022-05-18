@@ -1,0 +1,13 @@
+Title = Spring Will Be A Little Late This Year
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM iM iM v7 | iM biio | iim | v7 |
+ iim | v7 | iM | vm vm vm i7 |
+ iv7 iv7 iv7 bvo | iM vim | ivM iM | iim |
+ iv7 iv7 iv7 bvo | iM vim | iim | v7 |
+ iM iM iM v7 | iM biio | iim | v7 |
+ iim | v7 | iM | vm vm vm i7 |
+ iv7 iv7 iv7 bvo | iM | iim iM | ivm v7 |
+ iM v7 | iM biio | iim v7 | iM iM iim v7 |

@@ -1,0 +1,13 @@
+Title = Thermo
+DB Key = Gb
+TimeSig = 4 4
+Bars = 32
+ Fm7 Bb7 | Ebm7 D7 Dbm7 Dbm7 | Cm7b5 F7#9 | Bb7#9 Ebm7 |
+ B7 Bb7 A7 A7 | Fm7 Bb7#5#9 Ebm7 Ebm7 | EM7b5 | EM7b5 |
+ Fm7 Bb7 | Ebm7 D7 Dbm7 Dbm7 | Cm7b5 F7#9 | Bb7#9 Ebm7 |
+ B7 Bb7 A7 A7 | Fm7 Bb7#5#9 Ebm7 Ebm7 | EM7b5 | EM7b5 |
+ Dbm9 | Em7 A7 | Abm7 | A7 |
+ Db7 | D7 | Eb7#11 | Eb7#11 |
+ Fm7 Bb7 | Ebm7 D7 Dbm7 Dbm7 | Cm7b5 F7#9 | Bb7#9 Ebm7 |
+ B7 Bb7 A7 A7 | Fm7 Bb7#5#9 Ebm7 Ebm7 | EM7b5 | EM7b5 |
+

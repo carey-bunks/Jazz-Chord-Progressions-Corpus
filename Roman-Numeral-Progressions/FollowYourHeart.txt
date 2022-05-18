@@ -1,0 +1,9 @@
+Title = Follow Your Heart
+DB Key = C
+EstKeySig = A
+TimeSig = 4 4
+Bars = 16
+ v7 | v7 | v7 | v7 |
+ i7 | i7 | v7 | v7 |
+ ii7 | i7 | bvii7 | bvii7 |
+ v7 | bvii7 | v7 | bvii7 |

@@ -1,0 +1,14 @@
+Title = N.Y.C.
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 36
+ iM | bviiM i7 | ivM | ivm |
+ iM | v7 v7 | iM | v7 v7 |
+ iM | bviiM i7 | ivM | ivm |
+ iM | v7 v7 | iM | iM iM iM i7 |
+ ivM ivo | bviiM i7 | bviiM | vi7 vi7 |
+ iiM iio | iiim vi7 | iiM iiM iiim vi7 | ii7 ii7 v7 v7 |
+ iM | bviiM i7 | ivM | ivm |
+ iM | v7 | vm i7 | ivM ivm |
+ iM | v7 v7 | iM | v7 v7 |

@@ -1,0 +1,16 @@
+Title = Blood Count
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 44
+ i7 | iv7 | bvii7 | ivm iii7 |
+ vim | vim | vim | iii7 vi7 |
+ i7 | iv7 | bvii7 | ivm iii7 |
+ viM | vi7 | viM | vi7 |
+ iiM | iiM | iim | iim |
+ iM | vii7 | iii7 iv7 | bv7 v7 |
+ i7 | iv7 | bvii7 | ivm iii7 |
+ viM | vi7 | viM | vi7 |
+ iiM | v7 | viM | vii7 |
+ iM | viiM bviiM | vim iM | viiM bviiM |
+ vim iM | viiM bviiM | vim | vim |

@@ -1,0 +1,13 @@
+Title = Edward Lee
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Em7 | Em7 | Em7 | A7 |
+ B7 | Em7 | CM7 | B7 Em7 |
+ Em7 | Em7 | Em7 | A7 |
+ B7 | Em7 | CM7 | B7 Em7 |
+ G7 | CM7 | E7 | AM7 |
+ D7 | GM7 | C7sus4 | B7 |
+ Em7 | Em7 | Em7 | A7 |
+ B7 | Em7 | CM7 | B7 Em7 |
+

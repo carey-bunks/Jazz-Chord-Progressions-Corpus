@@ -1,0 +1,11 @@
+Title = To Kill a Brick
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 24
+ v7 | i7 | v7 | v7 |
+ i7 | i7 | viim | iii7 |
+ vim | ii7 | v7 bvii7 | vi7 ii7 |
+ v7 | i7 | v7 | v7 |
+ i7 | i7 | viim | iii7 |
+ vim | ii7 | v7 bvii7 | vim ii7 |

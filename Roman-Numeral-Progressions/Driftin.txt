@@ -1,0 +1,13 @@
+Title = Driftin'
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ i7 iii7 | iv7 iii7 | vim vm | bvh iv7 |
+ iiim | vi7 | iim NC NC NC | v7 |
+ i7 iii7 | iv7 iii7 | vim vm | bvh iv7 |
+ iiim | vi7 | iim v7 | iM bv7 |
+ iv7 | iv7 | i7 | i7 iii7 |
+ vim vim | vim ii7 | iim iim iim iim iim iim bvi7 v7 | NC NC NC i7 |
+ i7 iii7 | iv7 iii7 | vim vm | bvh iv7 |
+ iiim | vi7 | iim v7 | iM v7 |

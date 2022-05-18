@@ -1,0 +1,13 @@
+Title = You'll Never Know
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM bvi7 | iim | iim |
+ iim | iim v7 | iM | iM |
+ iM | iM | iim | iim |
+ iim iim iim v7 | iim iim iim v7 | iM iM iM bvi7 | iim iim ii7 v7 |
+ iM | iM bvi7 | iim | iim |
+ iim | iim v7 | vi7 vi7 iiim vio | vi7 vi7 vio vi7 |
+ iim | ivm | iM iii7 | iim vi7 |
+ iim | ii7 v7 | iM io | vM vm |

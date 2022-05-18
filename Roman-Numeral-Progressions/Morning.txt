@@ -1,0 +1,13 @@
+Title = Morning
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iiim vi7 | iim v7 | iiim vi7 | iim v7 |
+ vm i7 | vim ii7 | iiim vi7 | iim v7 |
+ iiim vi7 | iim v7 | iiim vi7 | iim v7 |
+ vm i7 | vim ii7 | iiim vi7 | iim v7 |
+ vm | vm | ivM | ivM |
+ vm | vm | iiih | vi7 |
+ iiim vi7 | iim v7 | iiim vi7 | iim v7 |
+ vm i7 | vim ii7 | iiim vi7 | iim v7 |

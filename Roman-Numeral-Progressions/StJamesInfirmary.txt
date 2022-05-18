@@ -1,0 +1,9 @@
+Title = St. James Infirmary
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ iiim vii7 | iiim | iiim vim | vii7 |
+ iiim vii7 | iiim i7 | iiim iiim i7 vii7 | iiim |
+ iiim vii7 | iiim | iiim vim | vii7 |
+ iiim vii7 | iiim i7 | iiim iiim i7 vii7 | iiim |

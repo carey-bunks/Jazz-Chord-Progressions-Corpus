@@ -1,0 +1,14 @@
+Title = You're the Cure for What Ails Me
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 36
+ iM iM | iim v7 | iM io | ivm v7 |
+ iM iiim | ivM ivM v7 viio | iM vim | iim v7 |
+ iM iM | iim v7 | iM io | ivm v7 |
+ iM iiim | ivM ivM v7 viio | iM vim | bvi7 v7 |
+ iM iM | biiM | ivm | vi7 bvi7 v7 v7 |
+ iM | biii7 | ivm | ivm v7 |
+ iM iM | iim v7 | iM io | ivm v7 |
+ iM iiim | iim v7 | iii7 vi7 | ii7 v7 |
+ iM iiim | ivM ivM v7 viio | iM vim | bvi7 vM |

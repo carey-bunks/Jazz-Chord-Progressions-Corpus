@@ -1,0 +1,13 @@
+Title = Kids Are Pretty People
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ vim iii7 | vim vim vm i7 | iv7 iii7 | vim ii7 |
+ iM iii7 | vim vim | bvh vii7 | iii7 |
+ vim iii7 | vim vim vm i7 | iv7 iii7 | vim ii7 |
+ iM iii7 | vim bvh | iM v7 | iM iii7 |
+ vim ivM | iim bviiM | vm i7 | ivM bvii7 |
+ iM | bviiM | iM | iii7 |
+ vim iii7 | vim vim vm i7 | iv7 iii7 | vim ii7 |
+ v7 i7 | iv7 bvii7 | viih iii7 | vim vim vih iii7 |

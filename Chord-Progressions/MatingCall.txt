@@ -1,0 +1,15 @@
+Title = Mating Call
+DB Key = F
+TimeSig = 4 4
+Bars = 40
+ Cm9 | Db9#11 | Cm9 | Db9#11 |
+ Gm7 | C7b9 | FM7 | Dm7b5 G7b9 |
+ Cm9 | Db9#11 | Cm9 | Db9#11 |
+ Gm7 | C7b9 | FM7 Gm7 | Am7 Bm7 |
+ Bbm7 | Eb7 | AbM7 | Db9#11 |
+ Dm7b5 | G7b9 | CM7 | CM7 |
+ Abm7 | Db7 | GbM7 | B7 |
+ Cm7b5 | F7 | Dm7b5 | G7 |
+ Cm9 | Db9#11 | Cm9 | Db9#11 |
+ Gm7 | C7b9 | FM7 | Dm7b5 G7b9 |
+

@@ -1,0 +1,13 @@
+Title = Wise Maid
+DB Key = C
+EstKeySig = D
+TimeSig = 4 4
+Bars = 32
+ iM | iM | ivM iM | iM v7 |
+ iM | iM | ivM iM | v7 iM |
+ iM | iM | ivM iM | iM v7 |
+ iM | iM | ivM iM | v7 iM |
+ iM | iM ivM | iM v7 | iM v7 |
+ ivM iM | iM v7 | ivM iM | v7 iM |
+ iM | iM ivM | iM v7 | iM v7 |
+ ivM iM | iM v7 | ivM iM | v7 v7 iM |

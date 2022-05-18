@@ -1,0 +1,10 @@
+Title = One Finger Snap
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 20
+ NC | NC | NC NC NC NC NC NC NC bviM | bviM |
+ vim | ii7 | vim | ii7 |
+ iim | v7 | iim | v7 |
+ bvh | vii7 | iiih | vi7 |
+ iiM | iiM | biih | bv7 |

@@ -1,0 +1,21 @@
+Title = Lover Come Back to Me
+DB Key = G
+TimeSig = 4 4
+Bars = 64
+ G6 | G6 | F#m7b5 | B7b9 |
+ Em | Em | A7 | Bbo7 |
+ G6/B | Em | A7 | D7 |
+ G6 G6/B | C6 C#o7 | G/D Em7 | Am7 D7 |
+ G6 | G6 | F#m7b5 | B7b9 |
+ Em | Em | A7 | Bbo7 |
+ G6/B | Em | A7 | D7 |
+ G6 G6/B | C6 C#o7 | G/D | F#m7b5 B7b9 |
+ Em EmM7 | Em7 Em6 | F#m7b5 B7b9 | Em7 |
+ F#m7b5 | B7 | Gm7 C7 | F#m7 B7 |
+ Em EmM7 | Em7 Em6 | F#m7b5 B7b9 | Em7 |
+ A7 | A7 | Am7 | D7 |
+ G6 | G6 | F#m7b5 | B7b9 |
+ Em7 | Em7 | Bm7b5 | E7b9 |
+ Am7 | Am7/G | F9#11 Em7 | Eb9#11 D7 |
+ G6 G6/B | C6 C#o7 | G6 Em7 | Am7 D7b9 |
+

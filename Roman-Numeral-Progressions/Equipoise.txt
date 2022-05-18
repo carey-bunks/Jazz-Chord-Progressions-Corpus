@@ -1,0 +1,14 @@
+Title = Equipoise
+DB Key = A
+EstKeySig = A
+TimeSig = 4 4
+Bars = 36
+ ivM v7 | bvim biiim | ivM v7 | bvim biiim |
+ bii7 iim | biiim ivM | bii7 iim | biiim biiim v7 iM |
+ iM iM bviih biii7 | bvim bvim bvim ivM ivM ivM ivM biiim | v7 ivM | iim biiim |
+ ivM v7 | bvim biiim | ivM v7 | bvim biiim |
+ bii7 iim | biiim ivM | bii7 iim | biiim biiim v7 iM |
+ iM iM bviih biii7 | bvim bvim bvim ivM ivM ivM ivM biiim | v7 ivM | iim biiim |
+ bvim bviiM | bvim bviiM | bvim bviiM | bvim |
+ ivM v7 | bvim biiim | ivM v7 | bvim biiim |
+ bii7 iim | biiim ivM | bii7 iim | biiim biiim v7 iM |

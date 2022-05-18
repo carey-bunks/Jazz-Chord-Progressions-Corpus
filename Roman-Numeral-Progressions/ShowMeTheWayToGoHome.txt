@@ -1,0 +1,9 @@
+Title = Show Me The Way To Go Home
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 16
+ iM | i7 | ivM ivM ivM ivm | iM |
+ iM | iM vim | ii7 | v7 |
+ iM | i7 | ivM | iii7 |
+ iM | iM vim | ii7 ii7 ii7 v7 | iM |

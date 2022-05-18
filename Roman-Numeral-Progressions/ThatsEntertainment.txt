@@ -1,0 +1,22 @@
+Title = That's Entertainment
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 68
+ iM | iM ivm ivm iM | iim iim iim v7 | v7 |
+ iM | biio | iim iim iim iii7 | iii7 |
+ vim | ivM | iiM iiM iim iii7 | iii7 iii7 |
+ iim | iim iiio | iim | v7 |
+ iM | iM ivm ivm iM | iim iim iim v7 | v7 |
+ iM | biio | iim iim iim iii7 | iii7 |
+ vim vim | vim vim | iiM iiM iim iii7 | iii7 iii7 |
+ iim | iim iiio | v7 i7 | iim iim iim i7 |
+ ivM | ivM | ivM ivM ivM vm | vm vm vm i7 |
+ ivM | ivM | ivM ivM ivM ii7 | ii7 |
+ vM | vM | vM vM vM vi7 | vi7 |
+ vM | ivM | iiim | iim iim iim v7 |
+ iM | iM ivm ivm iM | iim iim iim v7 | v7 |
+ iM | biio | iim iim iim iii7 | iii7 |
+ vim | ivM | iM iM iM ii7 | ii7 ii7 ii7 v7 |
+ iM | iim iim iim v7 | iM | vi7 ii7 |
+ ii7 | v7 | iM ivM | iM |

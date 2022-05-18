@@ -1,0 +1,11 @@
+Title = Filthy McNasty
+DB Key = Bb
+TimeSig = 4 4
+Bars = 24
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Eb7 | Eb7 | Bb7 | Bb7 Bb7 Bb7 Bb7 Bb7 Gb7 Gb7 Gb7 |
+ F7 E7 | Eb7 NC | NC | NC |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Eb7 | Eb7 | Bb7 | Bb7 Bb7 Bb7 Bb7 Bb7 Gb7 Gb7 Gb7 |
+ F7 E7 | Eb7 NC | NC | NC |
+

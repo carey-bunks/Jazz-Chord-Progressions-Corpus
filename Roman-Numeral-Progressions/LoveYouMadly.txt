@@ -1,0 +1,13 @@
+Title = Love You Madly
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM vim | ii7 v7 | iii7 vi7 | ii7 v7 |
+ vm i7 | ivM bvh | iM v7 | bvo iM |
+ iM vim | ii7 v7 | iii7 vi7 | ii7 v7 |
+ vm i7 | ivM bvh | iM v7 | bvo iM |
+ bvo | vm i7 | ivM i7 | ivM |
+ vim ii7 | vim ii7 | v7 io | vo v7 |
+ iM vim | ii7 v7 | iii7 vi7 | ii7 v7 |
+ vm i7 | ivM bvh | iM v7 | bvo iM |

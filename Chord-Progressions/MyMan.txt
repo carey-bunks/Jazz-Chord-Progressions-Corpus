@@ -1,0 +1,14 @@
+Title = My Man
+DB Key = Ab
+TimeSig = 4 4
+Bars = 36
+ Fm Db/F | Fm6 Db/F | Gm7b5 | Gm7b5 |
+ C7b9 | C7b9 | Fm | Fm |
+ Fm Db/F | Fm6 Db/F | Gm7b5 | Gm7b5 |
+ C7b9 | C7b9 | Fm | Fm |
+ Fm | Fm Eb | Db7 C7#5 | Eb7 |
+ Ab6 | Ab6 | Eb7 | Eb7 |
+ Eb7 | Bbm7 Eb7 | AbM7 | Eb7 |
+ Ab6 | Ebm7 Ab7 | DbM7 | Do7 |
+ AbM7/Eb Fm7 | Bb7 Eb7 | Ab6 | Bbm7 Eb7 |
+

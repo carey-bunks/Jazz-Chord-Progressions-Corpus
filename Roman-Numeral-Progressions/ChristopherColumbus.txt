@@ -1,0 +1,21 @@
+Title = Christopher Columbus
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 64
+ iM i7 | ivM ivM ivm ii7 | iM | iim v7 |
+ iM i7 | ivM ivM ivm ii7 | iM | iim v7 |
+ iM i7 | ivM ivM ivm ii7 | iM | iim v7 |
+ iM i7 | ivM ivM ivm ii7 | iM | v7 iM |
+ iM biiio | biiio v7 | iM biiio | biiio v7 |
+ iM biiio | biiio v7 | iM biiio | iiim iim iM v7 |
+ iM biiio | biiio v7 | iM biiio | biiio v7 |
+ iM biiio | biiio v7 | iM biiio | iiim iim iM iM |
+ iii7 iii7 ii7 ii7 iii7 iii7 iv7 iii7 | iii7 iii7 iii7 iii7 iii7 iii7 iii7 iii7 | vi7 | vi7 |
+ ii7 ii7 iio ii7 | ii7 | v7 | v7 |
+ iM biiio | biiio v7 | iM biiio | biiio v7 |
+ iM biiio | biiio v7 | iM biiio | iiim iim iM iM |
+ iM i7 | ivM ivM ivm ii7 | iM | iim v7 |
+ iM i7 | ivM ivM ivm ii7 | iM | iim v7 |
+ iM i7 | ivM ivM ivm ii7 | iM | iim v7 |
+ iM i7 | ivM ivM ivm ii7 | iM | v7 iM |

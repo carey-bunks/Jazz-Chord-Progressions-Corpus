@@ -1,0 +1,14 @@
+Title = Too Late Now
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 34
+ iM vim | iim | iM vim | iim v7 |
+ iM vim | ivh ii7 | iM iM iM biiio | iim v7 |
+ iM vim | iim | iM vim | iim v7 |
+ iM vim | ivh ii7 | iM iM iM v7 | iM |
+ viim iii7 | vim | viim iii7 | vim |
+ vim ii7 | vm | vim vim vim ii7 | v7 |
+ iM vim | iim | iM vim | iim v7 |
+ iM vim | ivh ii7 | iM iM ih io | iim iim iim v7 |
+ iM vim | ivM iM |

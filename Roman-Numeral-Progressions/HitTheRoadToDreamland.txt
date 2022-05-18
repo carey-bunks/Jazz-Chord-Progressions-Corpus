@@ -1,0 +1,13 @@
+Title = Hit the Road to Dreamland
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iM | iM vim |
+ iim | iim v7 | iim iim v7 vM | iM |
+ iM | iM | iM | iM vim |
+ iim | iim v7 | iim iim vM vM | iM |
+ iii7 iiiM iiM iiM | vm iii7 | iii7 iii7 | viim iii7 |
+ iiim iiim iiim vi7 | iiim vi7 | ivM | v7 |
+ iM | iM | iM | iM vim |
+ iim | iim v7 | iim v7 | iiim vim vo vim |

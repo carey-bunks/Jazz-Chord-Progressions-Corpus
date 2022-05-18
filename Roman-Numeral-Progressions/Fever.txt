@@ -1,0 +1,9 @@
+Title = Fever
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 16
+ iim | iim | iim | iim |
+ iim | iim | vi7 | iim |
+ iim | iim | iim | iim |
+ iim | iim | vi7 | iim |

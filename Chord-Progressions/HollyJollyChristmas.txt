@@ -1,0 +1,13 @@
+Title = A Holly Jolly Christmas
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C | C | C C#o7 | G7 |
+ G7 | G7 C#o7 | G7 | C C C G7 |
+ C | C | C C#o7 | G7 |
+ G7 | G7 C#o7 | G7 | C C7 |
+ F | Em | F | C |
+ Dm | Am | D7 D7 Am D7 | G7 |
+ C | C | C C#o7 | G7 |
+ G7 | C | D7 G7 | C C C G7 |
+

@@ -1,0 +1,15 @@
+Title = Lines And Spaces
+DB Key = Bb
+EstKeySig = G
+TimeSig = 4 4
+Bars = 40
+ bvio | v7 bvm | iiim | iiim |
+ biii7 bvim | iih v7 | im | bvim |
+ biim | biiio | iiiM | iiiM |
+ bvio | v7 bvm | iiim | iiim |
+ bvio | v7 bvm | iiim | iiim |
+ biii7 bvim | iih v7 | im | bvim |
+ biim | biiio | iiiM | iiiM |
+ bvio | v7 bvm | iiim | iiim |
+ iim | iim | iim | iim |
+ iim | iim | iim | iim |

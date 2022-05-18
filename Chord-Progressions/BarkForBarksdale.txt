@@ -1,0 +1,13 @@
+Title = Bark for Barksdale
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F | F | Gm7 | C7 |
+ F | Bb7 | G7 C7 | F |
+ F | F | Gm7 | C7 |
+ F | Bb7 | G7 C7 | F |
+ Bb | Bb | Cm7 | F7 |
+ Bb | Eb7 | C7 F7 | Bb C7 |
+ F | F | Gm7 | C7 |
+ F | Bb7 | G7 C7 | F F Gm7 C7 |
+

@@ -1,0 +1,12 @@
+Title = Why Don't I?
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 28
+ iim ivm | iiim biiim | iim v7 | iiih vi7 |
+ iim v7 | iiim vi7 | iim v7 | iM vi7 |
+ iim ivm | iiim biiim | iim v7 | iiih vi7 |
+ iim v7 | iiim vi7 | iim v7 | iM |
+ bvm | vii7 | iiiM | bvim bii7 |
+ iim ivm | iiim biiim | ii7 v7 | iiih vi7 |
+ iim v7 | iiim vi7 | iim v7 | iM vi7 |

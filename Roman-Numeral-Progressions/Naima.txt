@@ -1,0 +1,11 @@
+Title = Naima
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 24
+ v7 | vm | biiM viiM | iM |
+ v7 | vm | biiM viiM | iM |
+ biiiM | ii7 | biiiM | ii7 |
+ bvM | biiiM | ii7 | bviM |
+ v7 | vm | biiM viiM | iM ivM |
+ iM ivM | iM ivM | iM | iM |

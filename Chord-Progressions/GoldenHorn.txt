@@ -1,0 +1,13 @@
+Title = The Golden Horn
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Cm | Cm7 | Ab6 Ab6 Ab6 G7 | G7 |
+ Cm | Cm7 | Ab6 Ab6 Ab6 G7 | G7 |
+ Cm | F7 | Bb7 | Ebm |
+ Ab | Do7 | G7 | G7 |
+ Cm | Cm7 | Ab6 Ab6 Ab6 G7 | G7 |
+ Cm | Cm7 | Ab6 Ab6 Ab6 G7 | G7 |
+ Cm | F7 | Bb7 | Ebm |
+ Ab | Do7 | G7 | G7 |
+

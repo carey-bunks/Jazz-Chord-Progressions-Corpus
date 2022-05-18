@@ -1,0 +1,11 @@
+Title = Leap of Faith
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 24
+ v7 | iv7 | v7 v7 | bii7 |
+ i7 | bii7 | v7 bv7 | iv7 iii7 |
+ biii7 | ii7 | v7 v7 iv7 biii7 | biii7 biii7 vi7 ii7 ii7 ii7 ii7 ii7 |
+ v7 | iv7 | v7 v7 | bii7 |
+ i7 | bii7 | v7 bv7 | iv7 iii7 |
+ biii7 | ii7 | v7 v7 iv7 biii7 | biii7 biii7 bvi7 i7 i7 i7 i7 i7 |

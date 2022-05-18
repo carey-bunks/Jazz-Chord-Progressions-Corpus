@@ -1,0 +1,9 @@
+Title = Epilogue
+DB Key = Eb
+TimeSig = 4 4
+Bars = 16
+ Eb Eb/D | Cm Cm7/Bb | AbM7 Eb/G | Bb/F Eb Do7 Do7 |
+ Cm7 Cm7/Bb | AbM7 Gm7 | Cm11 | Cm11 |
+ AbM7 | AbM7 | Eb/G | Cm7 |
+ Eb/Bb | Gadd9/B | Cm11 | Cm11 |
+

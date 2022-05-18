@@ -1,0 +1,13 @@
+Title = One Foot in the Gutter
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ i7 | i7 | iv7 | bvo |
+ iM | vi7 | ii7 | v7 |
+ i7 | i7 | iv7 | bvo |
+ iM vi7 | iim v7 | iM ivM | iM |
+ v7 | v7 | iM iim | iM i7 |
+ ivM | bvo | ii7 | v7 |
+ i7 | i7 | iv7 | bvo |
+ iM vi7 | iim v7 | iM ivM | iM v7 |

@@ -1,0 +1,13 @@
+Title = How Insensitive
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iiim | iiim | biiio | biiio |
+ iim | iim | vi7 | vi7 |
+ iM | iM | ivM | ivM |
+ bvh | vii7 | iiim | iiim biii7 |
+ iim | v7 | biio | biio |
+ iM | bvh vii7 | iiim | iiim |
+ iim | v7 | biim | bv7 |
+ vim | bvh vii7 | iiim | bvh vii7 |

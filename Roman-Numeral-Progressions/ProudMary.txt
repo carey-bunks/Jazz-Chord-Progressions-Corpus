@@ -1,0 +1,10 @@
+Title = Proud Mary
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 20
+ iM | iM | iM | iM |
+ iM | iM | iM | iM |
+ v7 | v7 | vim | vim |
+ iM | iM | iM | iM |
+ iM | iM | iM | iM |

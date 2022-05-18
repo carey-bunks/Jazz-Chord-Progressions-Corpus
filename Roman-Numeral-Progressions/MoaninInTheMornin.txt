@@ -1,0 +1,14 @@
+Title = Moanin' in the Mornin'
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 34
+ bviiM biiiM | vm vm bviiM v7 | iM vM | vM vM vM iM |
+ bviiM biiiM | vm v7 | iii7 ivM | ivM ivM ivM ivM |
+ ivM | ii7 ii7 ivM ivM | iM vim | iiim ivM |
+ bviim bvM | bviim bviim | iM iM i7 i7 | ivM biiim iim iM |
+ bviiM biiiM | vm vm bviiM v7 | iM vM | vM vM vM iM |
+ bviiM biiiM | vm v7 | iii7 ivM | ivM ivM ivM ivM |
+ ivM | ii7 ii7 ivM ivM | iM iM iM iM | iiim iiim vi7 ivM |
+ ivM | viio bvi7 v7 v7 | iM iM vim iM | ivM ivM ii7 v7 |
+ iM i7 | iM |

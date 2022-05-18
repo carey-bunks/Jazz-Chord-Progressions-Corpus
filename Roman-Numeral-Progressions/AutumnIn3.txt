@@ -1,0 +1,22 @@
+Title = Autumn in 3
+DB Key = G
+EstKeySig = C
+TimeSig = 3 4
+Bars = 66
+ vM | vim | iiM | vii7 vii7 viiM |
+ iM | io | im | iv7 |
+ i7 | viM | ii7 | viiM |
+ iiim | v7 | bvim | iv7 |
+ vM | vim | iiM | vii7 vii7 viiM |
+ iM | io | im | iv7 |
+ i7 | viM | ii7 | viiM |
+ iiim | v7 | iM | vii7 |
+ iiiM | viM | iiiM | bvii7 |
+ viM | bvi7 | iM | iim |
+ i7 | iv7 | ivM | iii7 |
+ viM | viiM | v7 | iM |
+ iiiM | iiiM | vM | vim |
+ iiM | vii7 vii7 viiM | iM | io |
+ im | iv7 | i7 | viM |
+ ii7 | viiM | iiim | v7 |
+ ivM | iiim |

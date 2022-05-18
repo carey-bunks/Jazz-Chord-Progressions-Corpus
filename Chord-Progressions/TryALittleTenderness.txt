@@ -1,0 +1,13 @@
+Title = Try A Little Tenderness
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb Cm7 | Fm7 Bb7 | Eb Gm7b5 | C7 |
+ F7 | Fm7 Bb7 | Eb C7 | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb Gm7b5 | C7 |
+ F7 | Fm7 Bb7 | Eb | Bbm7 Eb7 |
+ Ab | Dm7 G7 | Cm | F7 |
+ Fm | Gm7 C7 | Fm7 | Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb Gm7b5 | C7 |
+ F7 | Fm7 Bb7 | Eb | Fm7 Bb7 |
+

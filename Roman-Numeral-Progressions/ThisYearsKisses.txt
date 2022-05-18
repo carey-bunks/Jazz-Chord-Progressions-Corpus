@@ -1,0 +1,12 @@
+Title = This Year's Kisses
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 28
+ iM | iM io | iim v7 | iim v7 |
+ iM io | iim v7 | iM | iM io |
+ iim v7 | iim v7 | iM | vm i7 |
+ ivM | ivM | ivm | ivm |
+ iM | ii7 | iim | v7 |
+ iM | iM io | iim v7 | iim v7 |
+ iiim vi7 | iim v7 | iM biiio | iim v7 |

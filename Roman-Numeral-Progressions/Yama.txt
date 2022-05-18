@@ -1,0 +1,9 @@
+Title = Yama
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 13
+ iim iM | bvii7 v7 | bvi7 iim | bvii7 vi7 |
+ iim biiM | bvii7 iim | iim iM | bvii7 vi7 |
+ iim v7 | i7 iv7 | bvii7 vi7 | iim v7 |
+ iim v7 |

@@ -1,0 +1,9 @@
+Title = Sunday, Monday, or Always
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ Dm7 G7 | CM7 Am7 | Dm Dm G G7 | Co7 C A9 C#o7 |
+ Dm7 G7 | CM7 Am7 | Dm Dm G G7 | C7 |
+ FM7 G7 | C C C6 Co7 | Dm7 G7 | C C A7 C#o7 |
+ Dm7 G7 | CM7 Gm6 A7 A7 | Dm Dm G G7+ | C6 C6 CM7 A9 |
+

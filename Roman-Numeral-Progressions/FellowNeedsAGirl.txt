@@ -1,0 +1,14 @@
+Title = A Fellow Needs A Girl
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 34
+ iM | ii7 | iim | vim |
+ ivM | iM | ivM iM ii7 ii7 | bii7 iM |
+ iM | ii7 | iim | vim |
+ ivM | iM | ivM iM ii7 ii7 | bii7 iM |
+ ivM ivM | bviim i7 | ivM ivM | bviim i7 |
+ ivm | bviim iM | iim iii7 | viM |
+ ii7 ii7 | iim v7 | iM | ii7 |
+ iim | vim | ivM | iM ii7 |
+ iM iM v7 vM | iM |

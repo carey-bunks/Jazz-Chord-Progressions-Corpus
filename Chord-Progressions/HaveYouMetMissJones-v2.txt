@@ -1,0 +1,13 @@
+Title = Have You Met Miss Jones
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ FM7 Bb13 | Am7 D7b9 | Gm7 | Gm7/C C9 |
+ Am7 | Dm7 G9 | Abm7 Db13 | Gm7 C7 |
+ FM7 Bb13 | Am7 D7b9 | Gm7 | Gm7/C C9 |
+ Am7 | Dm7 G9 | Cm7 | F7b9 |
+ BbM7 Bb6 | Abm7 Db7 | GbM7 Gb6 | Em7 A7 |
+ DM9 D6 | Abm11 Db7 | GbM7 Gb6 | Gm11 C7 |
+ FM7 Bb13 | Am7 D7b9 | Gm7 | Gm7/C C9 |
+ Am7 D7 | Gm9 C13 | FM6 | Gm9 C13 |
+

@@ -1,0 +1,14 @@
+Title = Just The Way You Are
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 34
+ iM vim | ivM ivM vim i7 | ivM ivm | iM iM vm i7 |
+ ivM ivm | iM biiim | ii7 | iim |
+ iM vim | ivM ivM vim i7 | ivM ivm | iM iM vm i7 |
+ ivM ivm | iM biiim | iim iim | iM ivm |
+ iM iM ivm iM | ivM v7 | biiim vi7 | iim v7 |
+ iM iM iM i7 | bviM bviiM | vm i7 | ivm bvii7 |
+ iim | iM vim | ivM ivM vim i7 | ivM ivm |
+ iM iM vm i7 | ivM ivm | iM biiim | iim iim |
+ iM ivm | iM |

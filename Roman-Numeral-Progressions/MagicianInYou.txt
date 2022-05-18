@@ -1,0 +1,12 @@
+Title = The Magician In You
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 28
+ vim | vim | vim | vim |
+ vim | vim | vim | vim vim vim bvi7 |
+ biiM bviim | iii7 bvM bvim bvim | bvM biiM | viih bvm |
+ iiiM biiim biim biim | bvM viiM | bviM bviM | biiM biiM iiiM viiM |
+ biiM bviim | iii7 bvM bvim bvim | bvM biiM | viih bvm |
+ iiiM biiim biim biim | bvM viiM | bviM bviM | biiM biiM iiiM bvm |
+ iiiM iiiM iiim bvii7 | viM vim | vim | vim |

@@ -1,0 +1,13 @@
+Title = Room 608
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM vi7 | iim v7 | iiim vi7 | iim v7 |
+ vm i7 | ivM bvo | iiim vi7 | iim v7 |
+ iM vi7 | iim v7 | iiim vi7 | iim v7 |
+ vm i7 | ivM bvo | iM | iM |
+ vh | i7 | ivM | ivM |
+ bviih | biii7 | bvi7 | v7 |
+ iM vi7 | iim v7 | iiim vi7 | iim v7 |
+ vm i7 | ivM bvo | iM vi7 | iim v7 iM iM |

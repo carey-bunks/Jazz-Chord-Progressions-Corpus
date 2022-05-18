@@ -1,0 +1,8 @@
+Title = Something in Blue
+DB Key = Bb
+TimeSig = 4 4
+Bars = 12
+ Bb7 | Eb7 | Bb7 | Fm7 Bb7b5 |
+ Bbm9 Eb7#11 Eb7#11 Eb7#11 Eb7#11 Eb7#11 Eb7#11 Eb7#11 | Bbm7 A7 | BbM7 | F7b9 Bb7 |
+ F11 | F11 | Bb6 F7 | BbM7 F9 |
+

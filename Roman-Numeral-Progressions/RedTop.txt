@@ -1,0 +1,8 @@
+Title = Red Top
+DB Key = F
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ v7 | v7 | v7 | v7 |
+ i7 | i7 | vM vim | viim bviim |
+ vim | ii7 | v7 bvii7 | vim ii7 |

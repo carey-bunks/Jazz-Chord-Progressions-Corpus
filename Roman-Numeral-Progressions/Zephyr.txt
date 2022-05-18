@@ -1,0 +1,9 @@
+Title = Zephyr
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 14
+ vim | ivm | bvM | bvM |
+ iiim | iiim | vh | bvim |
+ bviiM | im | iiM | iiM |
+ vm iim | iim |

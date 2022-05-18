@@ -1,0 +1,11 @@
+Title = You're Getting To Be A Habit With Me
+DB Key = F
+TimeSig = 4 4
+Bars = 26
+ Bb6 C7 | Bb C7 | FM7 F6 | FM7 F6 |
+ Bb6 C7 | Bb6 C7 | FM7 F6 | A7+ A7 D7b9 D7 |
+ Gm C7 | F F F/A Abo7 | Gm7 Gm7 C11 C+ | F6 F6 F6 F#o7 |
+ Gm C7 | F F Dm Dm7 | G6 G9 | C13 C7+ C7 F7 |
+ Bb6 C7 | Bb C7 | FM7 F6 | E7/B E7b5/Bb A7 D7 |
+ Gm Gm Gm E7 | A7 D7 | Ao7 Gm G7 C7 | F A7/E Am7 D7 |
+ Ao7 Gm C7 C7 | F F F F7 |

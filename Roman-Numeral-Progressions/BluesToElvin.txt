@@ -1,0 +1,11 @@
+Title = Blues to Elvin
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 24
+ v7 | v7 | v7 | v7 |
+ i7 | i7 | v7 | v7 |
+ ii7 | i7 biio | v7 | v7 |
+ v7 | i7 | v7 | v7 |
+ i7 | i7 biio | v7 | viim iii7 |
+ ii7 | i7 | v7 im | biio biio ii7 v7 v7 v7 v7 v7 |

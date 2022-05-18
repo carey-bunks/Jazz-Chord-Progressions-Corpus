@@ -1,0 +1,13 @@
+Title = This Can't Be Love
+DB Key = G
+TimeSig = 4 4
+Bars = 32
+ G6 | G6 | C7 | C7 |
+ Bm7 | E7 | A7 | Am7 D7 |
+ G6 | G6 | C7 | C7 |
+ Bm7 E7 | Am7 D7 | GM7 | GM7 |
+ F#m7 | B7 | Em | Em |
+ Cm7 F7 | Bm7 E7 | Bbm7 Eb7 | Am7 D7 |
+ G6 | G6 | C7 | C7 |
+ G6 G6 Go7 Am7 | Am7 Am7 D7 | G C | G |
+

@@ -1,0 +1,13 @@
+Title = Bunko
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM iM biiim biii7 | iim v7 | iiim vi7 | iim v7 |
+ iM i7 | ivM bvo | iM iM iM iM ii7 v7 v7 iM | NC |
+ iM iM biiim biii7 | iim v7 | iiim vi7 | iim v7 |
+ iM i7 | ivM bvo | iM iM iM iM ii7 v7 v7 iM | NC |
+ vm | i7 | ivM | ivM |
+ ivm | bvii7 | biiiM | iim v7 |
+ iM iM biiim biii7 | iim v7 | iiim vi7 | iim v7 |
+ iM i7 | ivM bvo | iM iM iM iM ii7 v7 v7 iM | NC |

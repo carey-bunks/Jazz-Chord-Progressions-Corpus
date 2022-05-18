@@ -1,0 +1,19 @@
+Title = Hurt So Bad
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 56
+ iim | iiim | iim | iM |
+ vm | vim ii7 | iiiM | iiiM |
+ ivM | iiim | ivM | iiim |
+ ivM | iiim | vim | vim |
+ iim | iiim | iim | iM |
+ vm | vim ii7 | iiiM | iiiM |
+ ivM | iiim | ivM | iiim |
+ ivM | iiim | vim | vim |
+ ivM | iiim | ivM | iiim |
+ vim iiim | ivM v7 | ivM iiim | iim v7 |
+ ivM | iiim | ivM | iiim |
+ ivM | iiim | vim | iim v7 |
+ ivM | iiim | ivM | iiim |
+ ivM | iiim | vim | vim |

@@ -1,0 +1,13 @@
+Title = Strollin'
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ iM | iM | biiim bvi7 | iim v7 |
+ iM | iM | vm i7 | bvm vii7 |
+ iiim | vi7 | iim | iim v7 |
+ iM | vim | ii7 | iim v7 |
+ iM | iM | biiim bvi7 | iim v7 |
+ iM | iM | vm i7 | bvm vii7 |
+ iiim | vim | ii7 | ivm bvii7 |
+ iiim vi7 | iim v7 | iM biii7 | iim v7 |

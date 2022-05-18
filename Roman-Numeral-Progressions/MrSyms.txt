@@ -1,0 +1,8 @@
+Title = Mr. Syms
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 12
+ iiim iiim iiiM iii7 | biiiM iim | iiim iiim iiiM ivM | viim ivM |
+ vim | vim | iiim iiim iiiM iii7 | biiiM iim |
+ vii7 ivM | vi7 | vii7 vii7 vii7 iiim | iiim iiM iiim iiim |

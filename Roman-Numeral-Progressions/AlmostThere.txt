@@ -1,0 +1,15 @@
+Title = Almost There
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 40
+ iM | ivM | iM | ivM |
+ iM | vim | iiiM | vii7 |
+ iiiM | iim iim iim v7 | iM | ivM |
+ iM | ivM | iM | vim |
+ iim | v7 v7 v7 v7 | iim | vm i7 |
+ ivM | ivm | iM iM iim v7 | iM |
+ vim | ivM | iiiM vii7 | iiiM iiiM iiiM iim v7 v7 |
+ iM | ivM | iM | ivM |
+ iM | vim | iiM | ivm |
+ iM biii7 | iim v7 | iM | iM |

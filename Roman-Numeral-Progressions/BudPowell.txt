@@ -1,0 +1,18 @@
+Title = Bud Powell
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 50
+ iM | bvh iv7 | iiim | vi7 |
+ iim | ivm bvii7 | vim | ii7 biiio |
+ iiim vi7 | iim iim bvi7 v7 | bv7 bv7 bv7 iv7 iv7 iii7 iii7 biii7 | biii7 ii7 bii7 bii7 |
+ iM | bvh iv7 | iiim | vi7 |
+ iim | ivm bvii7 | vim | ii7 biiio |
+ iiim vi7 | iim iim bvi7 v7 | bv7 bv7 bv7 iv7 iv7 iii7 iii7 biii7 | biii7 ii7 bii7 bii7 |
+ i7 | i7 | ivm | ivm |
+ iim | iim v7 | viih iii7 | vh i7 |
+ bvM | vM | bvM | vM |
+ bvM | vM | ivm bvii7 | iiim vi7 |
+ biiim bvi7 | iim v7 | iM | ivh bvii7 |
+ vim | ii7 iio | iiim vi7 | iim iim bvi7 v7 |
+ bv7 bv7 bv7 iv7 iv7 iii7 iii7 biii7 | biii7 ii7 bii7 bii7 |

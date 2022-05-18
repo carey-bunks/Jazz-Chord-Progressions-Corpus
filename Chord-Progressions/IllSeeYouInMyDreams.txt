@@ -1,0 +1,13 @@
+Title = I'll See You In My Dreams
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Bb | Bb | Bbm6 | Bbm6 |
+ F | Fo7 E | F6 | F6 |
+ D7 | D7 | D7 | D7 |
+ G7 | G7 | C7 | C7 C7 Bbm6 C7 |
+ Bb | Bb | Bbm6 | Bbm6 |
+ F | Fo7 E | F6 | F6 |
+ Cm6 D7 | Cm6 D7 | A7 | Dm Dm Dm C |
+ Bb | Bbm6 C7 | F Fo7 | Gm7 C7 |
+

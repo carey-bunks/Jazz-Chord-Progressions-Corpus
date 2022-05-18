@@ -1,0 +1,18 @@
+Title = The Great Pumpkin Waltz
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 3 4
+Bars = 52
+ iiim | biiim | iim | v7 |
+ viM | io | vM | vio |
+ vim | vM | bvm | vii7 |
+ iiim | biiim | iim | v7 |
+ viM | io | vM | vio |
+ vim | vM | biim | bv7 |
+ viiM | viiM | iiim | iiim |
+ viiM | viiM | iiim | iiim |
+ viiM | viiM | iiim | iiim |
+ viiM | bviiM | viM | vii7 |
+ iiim | biiim | iim | v7 |
+ viM | io | vM | vio |
+ vim | vM | bvm | vii7 |

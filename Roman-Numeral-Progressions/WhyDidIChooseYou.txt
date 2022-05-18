@@ -1,0 +1,14 @@
+Title = Why Did I Choose You?
+DB Key = Bb
+EstKeySig = F
+TimeSig = 4 4
+Bars = 36
+ ivM iv7 | bviiM bviiM bviiM bviiM | vih ii7 | vm i7 |
+ ivM | v7 | iiih | vi7 vi7 vi7 vi7 |
+ iim iim | v7 v7 | iM | iM iM ivM iM |
+ iiim iM iM biiio | iim v7 | i7 io | vm i7 |
+ ivM iv7 | bviiM bviiM bviiM bviiM | vih ii7 | vm i7 |
+ ivM | v7 | iiih | vi7 vi7 vi7 vi7 |
+ iim iim | v7 | viiM iM | i7 |
+ ivM | ivM | iii7 iii7 | vi7 vi7 vi7 vi7 |
+ iim | ii7 ii7 v7 v7 | iM | iM |

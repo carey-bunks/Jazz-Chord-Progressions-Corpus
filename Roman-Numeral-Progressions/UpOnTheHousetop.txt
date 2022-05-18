@@ -1,0 +1,9 @@
+Title = Up On the Housetop
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 16
+ iM | iM | ivM iM | v7 |
+ iM | iM | ivM iM | v7 iM |
+ ivM | iM | v7 | iM |
+ iM iM iM i7 | ivM | iM | v7 iM |

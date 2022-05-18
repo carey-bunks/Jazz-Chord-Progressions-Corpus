@@ -1,0 +1,21 @@
+Title = Who's Afraid of the Big Bad Wold
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 64
+ iM vim | iim v7 | iim v7 | iM |
+ iM vim | iim v7 | iim v7 | iM iM iim v7 |
+ iM vim | iim v7 | iim v7 | iM |
+ iM vim | iim v7 | iim v7 | iM iM vim ii7 |
+ vM iiim | vim ii7 | vM iiim | vim ii7 |
+ vM iiim | vim ii7 | vim ii7 | vM vM vim ii7 |
+ vM iiim | vim ii7 | vM iiim | vim ii7 |
+ vM iiim | vim ii7 | vim ii7 | vM vM iim v7 |
+ iM iv7 | bviim iii7 | vim ii7 | vM |
+ iM iv7 | bviim iii7 | vi7 | vim ii7 |
+ vM iii7 | vim ii7 | vM iii7 | vim ii7 |
+ vM iii7 | vim ii7 | vim ii7 | vM vM iim v7 |
+ iM vim | iim v7 | iim v7 | iM |
+ iM vim | iim v7 | iim v7 | iM iM iim v7 |
+ iM vim | iim v7 | iim v7 | iM |
+ iM vim | iim v7 | iim v7 | iM iM vim ii7 |

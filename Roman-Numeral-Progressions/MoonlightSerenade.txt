@@ -1,0 +1,16 @@
+Title = Moonlight Serenade
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 44
+ iM | biiio | iim | v7 v7 v7 v7 |
+ iM | iM | iM i7 | vi7 vi7 vi7 ivm |
+ iiim iiim iiim vim | iih iih iih iim | v7 v7 | iM v7 |
+ iM | biiio | iim | v7 v7 v7 v7 |
+ iM | iM | iM i7 | vi7 vi7 vi7 ivm |
+ iiim iiim iiim vim | iih iih iih iim | v7 v7 | iM i7 |
+ ivM | bvii7 | viih iii7 | vi7 |
+ bvh vii7 | bvh vii7 | iiih vi7 | iim v7 |
+ iM | biiio | iim | v7 v7 v7 v7 |
+ iM | iM | iM i7 | vi7 vi7 vi7 ivm |
+ iiim iiim iiim vim | iih iih iih iim | v7 v7 | iM v7 |

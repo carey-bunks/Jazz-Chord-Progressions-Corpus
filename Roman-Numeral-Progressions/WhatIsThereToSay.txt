@@ -1,0 +1,12 @@
+Title = This Needs Work
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 28
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM | iim v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM | i7 |
+ ivM bvo | iM | ii7 | v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM | iM |

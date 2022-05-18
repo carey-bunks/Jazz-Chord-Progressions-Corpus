@@ -1,0 +1,13 @@
+Title = A Fool Was I
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Do | Do | C | Co |
+ Dm7 | G7 | C | C G7 G7 G7 |
+ Do | Do | C | Co |
+ Dm7 | G7 | Gm | C7 |
+ F | Bb9 | C | C |
+ D7 | B7 | Em | G7 |
+ Fm6 | Do | C | Co |
+ Dm7 | Dm7 Dm7 Dm7 G7 | C | C |
+

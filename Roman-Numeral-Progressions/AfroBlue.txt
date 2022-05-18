@@ -1,0 +1,19 @@
+Title = Afro Blue
+DB Key = Bb
+EstKeySig = Ab
+TimeSig = 6 8
+Bars = 56
+ vim | iim | iv7 iii7 | vim |
+ vim | iim | iv7 iii7 | vim |
+ v7 | v7 | iv7 v7 | vim |
+ v7 | v7 | iv7 iii7 | vim |
+ vim | iim | iv7 iii7 | vim |
+ vim | iim | iv7 iii7 | vim |
+ v7 | v7 | iv7 v7 | vim |
+ v7 | v7 | iv7 iii7 | vim |
+ vim | iim | iv7 iii7 | vim |
+ vim | iim | iv7 iii7 | vim |
+ vim | iim | iv7 iii7 | vim |
+ vim | iim | iv7 iii7 | vim |
+ v7 | v7 | iv7 v7 | vim |
+ v7 | v7 | iv7 iii7 | vim |

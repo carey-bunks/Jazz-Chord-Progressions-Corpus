@@ -1,0 +1,13 @@
+Title = On Green Dolphin Street
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM | im | im |
+ ii7 | biiM | iM | vi7 |
+ iim | v7 | iM | vm i7 |
+ ivm | bvii7 | biiiM | iim v7 |
+ iM | iM | im | im |
+ ii7 | biiM | iM | vi7 |
+ iim iim | viih iii7 | vim vim | ivh vii7 |
+ iiim vi7 | iim v7 | iM | iim v7 |

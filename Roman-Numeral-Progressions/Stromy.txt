@@ -1,0 +1,12 @@
+Title = Stormy
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 26
+ iim | iM | iim | iM |
+ iim | iM | ivM | ivM |
+ iim | iM | iim | iM |
+ iim | iM | ivM | ivM |
+ iii7 | iii7 | vim | ii7 |
+ vim | ii7 | ivM | vM |
+ vim | ii7 |

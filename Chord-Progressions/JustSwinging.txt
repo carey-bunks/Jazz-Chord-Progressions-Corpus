@@ -1,0 +1,8 @@
+Title = Just Swinging
+DB Key = Bb
+TimeSig = 4 4
+Bars = 12
+ Bb | Eb | Bb | Bb7 |
+ Eb7 | Ab9 | Bb | G7 |
+ Cm7 | F7b9 | Bb | Bb |
+

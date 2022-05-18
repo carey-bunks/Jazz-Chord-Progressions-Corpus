@@ -1,0 +1,13 @@
+Title = Passion Dance
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 v7 v7 bvii7 |
+ bii7 bii7 bii7 biii7 biii7 biii7 biii7 biii7 | biii7 biii7 biii7 bvii7 | bii7 iv7 biii7 biii7 | biii7 biii7 biii7 bvii7 |
+ bii7 bii7 bii7 biii7 biii7 biii7 biii7 biii7 | biii7 biii7 biii7 bvii7 | bii7 iv7 biii7 biii7 | biii7 biii7 biii7 bvii7 |
+ biiiM biiiM biiiM ivm ivm ivm ivm ivm | ivm | biiiM biiiM biiiM ivm ivm ivm ivm ivm | ivm |
+ biiiM biiiM biiiM ivm ivm ivm ivm ivm | ivm | i7 ii7 | ii7 |

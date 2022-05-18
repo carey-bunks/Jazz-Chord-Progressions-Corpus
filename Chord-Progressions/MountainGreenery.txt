@@ -1,0 +1,13 @@
+Title = Mountain Greenery
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C Am7 | Dm7 G7 | C Am7 | Dm7 G7 |
+ C Am7 | D7 | G7 | G7 |
+ C Am7 | Dm7 G7 | C Am7 | Dm7 G7 |
+ C Am7 | D7 | G7 | C7 |
+ F | C7 | F | Fm |
+ D7 | D7 | Dm7 | G7 |
+ C Am7 | Dm7 G7 | C Am7 | Dm7 G7 |
+ C Am7 | D7 G7 | C | C G7#5#9 |
+

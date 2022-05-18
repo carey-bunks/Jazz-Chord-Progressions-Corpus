@@ -1,0 +1,14 @@
+Title = My Little Brown Book
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 34
+ iM iM iM v7 | vm i7 | ivM | ivm bvii7 |
+ iM iM | iim v7 | iiim biii7 | iim v7 |
+ iM iM iM v7 | vm i7 | ivM | ivm bvii7 |
+ iM iM | iim v7 | iM biii7 | bviM bvii7 |
+ biiiM iiio | ivm bvii7 | biiiM bvo | ivm bvii7 |
+ biiiM iiio | ivm bvii7 | biiiM vih | ii7 ii7 v7 v7 |
+ iM v7 | vm i7 | ivM | ivm bvii7 |
+ iM iM | iim bvi7 v7 v7 | iM iM biiim bvi7 | biiM |
+ iim bii7 | iM iM iim v7 |

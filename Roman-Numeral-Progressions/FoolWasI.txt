@@ -1,0 +1,13 @@
+Title = A Fool Was I
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iio | iio | iM | io |
+ iim | v7 | iM | iM v7 v7 v7 |
+ iio | iio | iM | io |
+ iim | v7 | vm | i7 |
+ ivM | bvii7 | iM | iM |
+ ii7 | vii7 | iiim | v7 |
+ ivm | iio | iM | io |
+ iim | iim iim iim v7 | iM | iM |

@@ -1,0 +1,8 @@
+Title = Coral
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 9
+ iim v7 | iiiM iM | viih iii7 | vim ii7 |
+ biiM vM | vim biiM | bviM bviiM bviiM bviiM biiim biiim biiim biiim | vm vm iiih vi7 |
+ iim |

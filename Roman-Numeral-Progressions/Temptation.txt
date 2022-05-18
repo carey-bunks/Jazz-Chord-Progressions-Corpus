@@ -1,0 +1,15 @@
+Title = Temptation
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 40
+ iM | iM biiM | iM | iM biiM |
+ iM | biiM | iM | iM |
+ bviim | bviim | ii7 | ii7 |
+ bii7 i7 | vii7 | bvii7 vi7 | v7 |
+ iM | iM biiM | iM | iM biiM |
+ iM | biiM | bviim | i7 |
+ ivM | ivM bviim | ivM | ivM bviiM |
+ ivM | bvM | ivM | biiM |
+ iM | biiM | iM | iM biiM |
+ iM | iM ivm | im | im |

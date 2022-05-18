@@ -1,0 +1,13 @@
+Title = Abraham, Martin, and John
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iiim | iim ivM | iM |
+ iM | iim | v7 | v7 |
+ vim | iiim | iim ivM | iM |
+ iim | vM iim | ivM | iM |
+ iM | iiim | iim ivM | iM |
+ iM | iim | v7 | v7 |
+ vim | iiim | iim ivM | iM |
+ iim | vM iim | ivM | iM |

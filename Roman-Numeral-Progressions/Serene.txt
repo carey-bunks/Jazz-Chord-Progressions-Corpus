@@ -1,0 +1,9 @@
+Title = Serene
+DB Key = Eb
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 13
+ iiM | v7 | i7 | ii7 |
+ v7 | bii7 | iiM | im iv7 |
+ iiih | vi7 vi7 bviim biii7 | v7 ivM | iii7 bvi7 |
+ bvi7 |

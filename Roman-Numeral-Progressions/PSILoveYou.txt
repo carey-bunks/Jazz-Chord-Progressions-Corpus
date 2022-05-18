@@ -1,0 +1,13 @@
+Title = P.S. I Love You
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iiim vi7 | iim v7 | iiih vi7 |
+ ii7 ii7 vim ii7 | v7 v7 v7 bii7 | iM ii7 | iim iim v7 bii7 |
+ iM | iiim vi7 | iim v7 | iiih vi7 |
+ ii7 ii7 vim ii7 | v7 v7 v7 bii7 | iM bvii7 | iM iM iM iM |
+ i7 vm | i7 i7 vm bv7 | ivM ivM vm bv7 | ivM ivM iii7 biii7 |
+ ii7 vim | ii7 ii7 vim bvi7 | v7 vi7 | ii7 ii7 iim bii7 |
+ iM | iiim vi7 | iim v7 | iiih vi7 |
+ ii7 ii7 vim ii7 | v7 v7 v7 bii7 | iM bvii7 | iM iM iim v7 |

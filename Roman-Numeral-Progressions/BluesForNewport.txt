@@ -1,0 +1,8 @@
+Title = Blues for Newport
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 12
+ iiiM iii7 | biim i7 | iiiM iiiM iiiM iiio | iiim |
+ viM | vi7 biiio | iv7 iv7 iv7 iiiM | viih |
+ viiM viiM viiM i7 | biim biim biim biiio | iiim | ivM |

@@ -1,0 +1,12 @@
+Title = Moonlight in Vermont
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 28
+ iM vim | iim bii7 | iM vim | bvii7 |
+ iim v7 | iM iM iim bii7 | iM vim | iim bii7 |
+ iM vim | bvii7 | iim v7 | iM |
+ bvm vii7 | iiiM iiio | bvm iv7 | iiiM |
+ vm i7 | ivM bvo | vm i7 | ivM v7 |
+ iM vim | iim bii7 | iM vim | bvii7 |
+ iim v7 | iM | vim vim ii7 bii7 | iM |

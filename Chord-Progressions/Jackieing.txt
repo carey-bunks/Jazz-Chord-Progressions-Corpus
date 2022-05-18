@@ -1,0 +1,9 @@
+Title = Jackie-ing
+DB Key = Bb
+TimeSig = 4 4
+Bars = 16
+ BbM7#11 | BbM7#11 | BbM7#11 | BbM7#11 |
+ BbM7#11 | BbM7#11 | Cm11 F9sus4 | F9sus4 |
+ BbM7#11 | BbM7#11 | G7b9 | F7/C C7/F |
+ C7/F BbM7#11 | BbM7#11 BbM7#11 | BbM7#11 BbM7#11 | BbM7#11 |
+

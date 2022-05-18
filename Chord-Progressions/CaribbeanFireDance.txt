@@ -1,0 +1,12 @@
+Title = Caribbean Fire Dance
+DB Key = C
+TimeSig = 4 4
+Bars = 31
+ A7#9 EbM7b5 | A7#9 EbM7b5 | A7#9 EbM7b5 | A7#9 EbM7b5 |
+ A7#9 EbM7b5 | A7#9 EbM7b5 | A7#9 EbM7b5 | EbM7b5 |
+ A7#9 EbM7b5 | A7#9 EbM7b5 | A7#9 EbM7b5 | A7#9 EbM7b5 |
+ A7#9 EbM7b5 | A7#9 EbM7b5 | A7#9 EbM7b5 | EbM7b5 |
+ Gm FM7 | E7 | C#7b9 EbM7 | E7 |
+ Gm FM7 | E7 | C#7b9 EbM7 | A7#9 EbM7b5 |
+ A7#9 EbM7b5 | A7#9 EbM7b5 | A7#9 EbM7b5 | A7#9 EbM7b5 |
+ A7#9 EbM7b5 | A7#9 EbM7b5 | EbM7b5 |

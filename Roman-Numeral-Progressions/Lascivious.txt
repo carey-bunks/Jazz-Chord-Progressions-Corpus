@@ -1,0 +1,11 @@
+Title = Lascivious
+DB Key = Bb
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 24
+ vim | vim | vim | vim vo |
+ iim | iim | vim | vim |
+ viih | iii7 | vim | vim |
+ vi7 | vi7 | vi7 | vi7 |
+ ii7 | ii7 | vi7 | vi7 |
+ viim | iii7 | vi7 | vi7 |

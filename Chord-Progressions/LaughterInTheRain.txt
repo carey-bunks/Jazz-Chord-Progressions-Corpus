@@ -1,0 +1,10 @@
+Title = Laughter In The Rain
+DB Key = F
+TimeSig = 4 4
+Bars = 20
+ F | Gm7 | C | F |
+ F | Gm7 | C | F |
+ Dm | G7sus4 G7 | G7sus4 C7 | Bbm7 Eb9 |
+ AbM7 Fm7 | Bbm7 Eb9 | AbM7 Fm7 | Bbm7 Eb9 |
+ AbM7 Fm7 | DbM7 | C7sus4 | C7 |
+

@@ -1,0 +1,13 @@
+Title = Out of Nowhere
+DB Key = G
+TimeSig = 4 4
+Bars = 32
+ GM7 | GM7 | Bbm7 | Eb7 |
+ GM7 | GM7 | Bm7 | E7 |
+ Am | E7 | Am | Am |
+ Bbm7 | Eb7 | Am7 | D7 |
+ GM7 | GM7 | Bbm7 | Eb7 |
+ GM7 | GM7 | Bm7 | E7 |
+ Am | E7 | C | Cm |
+ Bm7 Bbo | Am7 D7 | G6 Bb7b5 | Am7 D7 |
+

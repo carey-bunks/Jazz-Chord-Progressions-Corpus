@@ -1,0 +1,15 @@
+Title = Miles (New Milestones)
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 40
+ iim iiim | ivM iiim | iim iiim | ivM iiim |
+ iim iiim | ivM iim | iiim | iiim |
+ iim iiim | ivM iiim | iim iiim | ivM iiim |
+ iim iiim | ivM iim | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ iim iiim | ivM iiim | iim iiim | ivM iiim |
+ iim iiim | ivM iim | iiim | iiim |

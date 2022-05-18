@@ -1,0 +1,11 @@
+Title = Straight Life
+DB Key = F
+TimeSig = 4 4
+Bars = 24
+ F7 | Eb7 | F7 | Eb7 |
+ F7 | Eb7 | F7 | Eb7 |
+ F7 | Eb7 | F7 | Eb7 |
+ F7 | Eb7 | F7 | Eb7 |
+ F7 | Eb7 | F7 | Eb7 |
+ F7 | Eb7 | F7 | Eb7 |
+

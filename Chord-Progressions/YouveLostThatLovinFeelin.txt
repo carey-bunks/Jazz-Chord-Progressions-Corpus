@@ -1,0 +1,10 @@
+Title = You've Lost That Lovin' Feelin'
+DB Key = D
+TimeSig = 4 4
+Bars = 22
+ C | C | D | D |
+ C | C | D | D |
+ Em7 | F#m | G | G G G A7 |
+ D | Em | A7 | D |
+ D | Em7 | C | C |
+ D | D |

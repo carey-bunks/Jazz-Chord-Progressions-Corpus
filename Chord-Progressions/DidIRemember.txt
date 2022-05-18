@@ -1,0 +1,13 @@
+Title = Did I Remember?
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | D7 | Fm7 | Bb7 |
+ Fm7 | Bb7 | Eb Eo | Fm7 Bb7 |
+ Eb | D7 | Fm7 | Bb7 |
+ Fm7 | Bb7 | Eb9 | Eb9 C7 |
+ Fm | Fm G7 | Cm | Cm |
+ D7 | D7 | G D | Bb7 |
+ Eb | D7 | Fm7 | Bb7 |
+ Fm7 | Bb7 | Eb Bb11 | Eb6 |
+

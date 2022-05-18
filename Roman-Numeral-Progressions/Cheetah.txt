@@ -1,0 +1,13 @@
+Title = Cheetah
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iim iio | iiim vi7 | ii7 v7 |
+ i7 | ivM bvo | iM vi7 | ii7 v7 |
+ iM | iim iio | iiim vi7 | ii7 v7 |
+ i7 | ivM bvo | iM vi7 | ii7 ii7 v7 iM |
+ viim | iii7 | vi7 | vi7 |
+ vim | ii7 | iim | v7 |
+ iM | iim iio | iiim vi7 | ii7 v7 |
+ i7 | ivM bvo | iM vi7 | ii7 v7 |

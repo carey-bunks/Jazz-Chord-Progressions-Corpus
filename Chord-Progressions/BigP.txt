@@ -1,0 +1,8 @@
+Title = Big P
+DB Key = F
+TimeSig = 4 4
+Bars = 12
+ Dm6 F7 | E7 Eb7 | Dm6 | D7b9 |
+ Gm Bb7 | A7 Eb7 | Dm6 | Dm6 Bm7b5 |
+ Bb7#11 | A7#5#9 | Dm6 | A7#5#9 |
+

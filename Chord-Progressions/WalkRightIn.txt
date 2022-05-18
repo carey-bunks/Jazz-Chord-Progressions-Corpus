@@ -1,0 +1,9 @@
+Title = Walk Right In
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ C | A7 | D7 G7 | C |
+ C | A7 | D7 | G7 |
+ C | C7 | F | D7 |
+ C | A7 | D7 G7 | C G7+ |
+

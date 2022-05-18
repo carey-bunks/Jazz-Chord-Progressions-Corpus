@@ -1,0 +1,13 @@
+Title = Maybe This Time
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iM | i7 |
+ ivM | ivM | iim | ivo |
+ v7 | viM | ii7 | v7 |
+ i7 | ivM ivm | iM bviiM vi7 vi7 | ii7 v7 |
+ iM | iM | iM | i7 |
+ ivM | ivM | iim | ivo |
+ v7 | vim | ii7 | iM |
+ iM | iim | iM | v7 |

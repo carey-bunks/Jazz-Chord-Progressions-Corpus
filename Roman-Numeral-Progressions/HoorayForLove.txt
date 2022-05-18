@@ -1,0 +1,16 @@
+Title = Hooray For Love
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 44
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim iim vm i7 | ivM ivM bvii7 vi7 | iim |
+ vm | i7 | ivM vi7 | iim v7 |
+ iM iv7 | bvii7 vi7 | ii7 | iim v7 |
+ iM | iim v7 | iim v7 | iim v7 |
+ iM | iim v7 | iM iim | iM iio |
+ iim v7 | iM bii7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM vim | iim iim vm i7 |
+ ivM ivM bvii7 vi7 | iim | vm | i7 |
+ ivM vi7 | iim v7 | iM iv7 | bvii7 vi7 |
+ ii7 | iim v7 | iM | iim v7 |

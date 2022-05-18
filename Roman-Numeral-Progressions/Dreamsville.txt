@@ -1,0 +1,13 @@
+Title = Dreamsville
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iiM | vim | iiM | vim vim vim v7 |
+ iim iim iim v7 | iiim ivm | bvm vii7 | iiim iiim vi7 vi7 |
+ iiM | vim | iiM | vim vim vim v7 |
+ iim iim iim v7 | iiim ivm | iiim iiim iiim biii7 | iiM |
+ vh bii7 | bvm vii7 | vm vm vm iiiM | v7 |
+ bviih biii7 | vh bii7 | bvh vii7 | iiim iiim vi7 vi7 |
+ iiM | vim | iiM | vim vim vim v7 |
+ iim iim iim v7 | iiim ivm | iiim iiim iiim biii7 | iiM |

@@ -1,0 +1,13 @@
+Title = Charleston
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb | D7 | G7 | G7 |
+ C7 | F7 | Gm7 Go7 | F7 |
+ Bb | D7 | G7 | C9 |
+ F | A7 | D7 | F7 |
+ Bb | D7 | G7 | G7 |
+ C7 | F7 | Gm7 Go7 | F7 |
+ Gm | Bb | Eb | C7b5 |
+ Gm7 Go7 | F7 | Bb7 Ebm6 | Bb Bb Do7 F7 |
+

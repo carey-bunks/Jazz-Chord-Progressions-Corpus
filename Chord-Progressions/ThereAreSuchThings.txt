@@ -1,0 +1,13 @@
+Title = There Are Such Things
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ CM7 | CM7 CM7 C7 C7+ | F6 | G7 |
+ Dm7 | Dm7 Dm7 G7 G7+ | C | C C7 |
+ F6 Dm7 | F Ao7 | C | C C Ao7 Ab7 |
+ G7 | G7 Eb9#11 D7 D7 | Dm7/G | G7 |
+ CM7 | CM7 CM7 C7 C7+ | F6 | G7 |
+ Dm7 | Dm7 Dm7 B7 | E7 | E7b5 A7 |
+ Dm | F6 F6 Dm7 F6 | C/G C7/F# B7 E7 | A7 A7 Bb7 A7 |
+ D7 | Dm7 G7 Dm7 G7 | C C Am7 Dm7 | G7 |
+

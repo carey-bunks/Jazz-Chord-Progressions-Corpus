@@ -1,0 +1,13 @@
+Title = For Heaven's Sake
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iih v7 | iM io | iim v7 | iM |
+ ivm bvii7 | iiim biiio | iim v7 | iM |
+ iih v7 | iM io | iim v7 | iM |
+ ivm bvii7 | iiim biiio | iim v7 | iM |
+ bviim biii7 | bviM ivm | bviim biii7 | bviM |
+ im im | im im | ivm biii7 | iim v7 |
+ iih v7 | iM io | iim v7 | iM |
+ ivm bvii7 | iiim biiio | iim v7 | iM |

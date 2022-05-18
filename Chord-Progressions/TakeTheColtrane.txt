@@ -1,0 +1,8 @@
+Title = Take The Coltrane
+DB Key = F
+TimeSig = 4 4
+Bars = 12
+ F7 | F7 | F7 | F7 |
+ Bb7 | Bb7 | F7 | F7 |
+ G7 | C7 | F7 | F7 |
+

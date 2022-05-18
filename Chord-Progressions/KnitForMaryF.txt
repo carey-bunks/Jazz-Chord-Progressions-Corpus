@@ -1,0 +1,16 @@
+Title = Knit for Mary F.
+DB Key = C
+TimeSig = 4 4
+Bars = 44
+ CM7/G | Ebo7/G | FM7 A7+ | Ab7+ Ab7+ G7sus4 G7 |
+ CM7/E | Ebo7 | Dm7 CM7/E | FM7 G7#5b9 |
+ C9 C9sus4 | C9b5 C9 | FM7 | FM7 |
+ B9 B9sus4 | B9b5 B9b5 B9 B9+ | EM7 | G9 |
+ CM7/G | Ebo7/G | FM7 A7+ | Ab7+ Ab7+ G7 F7 |
+ E9sus4 | E7susb9 E7b9 | Am7 D7#11 | Gm7 C7#11 |
+ FM7b5 FM7 | B7susb9 B7susb9 B7susb9 B7 | EM7 | B7susb9 B7susb9 B7susb9 Bb7 |
+ EbM7 | A7susb9 A7susb9 A7susb9 A7 | DM7 | Ab7susb9 Ab7susb9 Ab7susb9 Ab7 |
+ DbM7 DbM7/C | Bbm7 Bbm7/Ab | G7susb9 | G7susb9 G7susb9 G7susb9 G7 |
+ CM7 Am7 | FM7 CM7/E | Ebo7 | Dm7 CM7/E |
+ FmM7 Fm7/Eb | G7susb9 G7susb9 G7susb9 G7b5b9 | CM7 | CM7 |
+

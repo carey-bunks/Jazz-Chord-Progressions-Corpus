@@ -1,0 +1,11 @@
+Title = Midnight Mood
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 24
+ iM | iih | iM | iih |
+ iM | iih | iM | bv7 |
+ ivM | vii7 | iiim | vim |
+ iim | iim | vm | vm bv7 bv7 |
+ ivM | vii7 | iiim | vi7 |
+ iim | v7 | iM | iih |

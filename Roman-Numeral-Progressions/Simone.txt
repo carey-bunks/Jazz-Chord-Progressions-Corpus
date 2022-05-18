@@ -1,0 +1,11 @@
+Title = Simone
+DB Key = F
+EstKeySig = C
+TimeSig = 3 4
+Bars = 24
+ iim | vM | iim | biii7 |
+ iim | vM | iM | bvi7 |
+ vm | vim | bviim | biii7 |
+ iim | iiim | ivM | ivm |
+ ivm | bvii7 | iiim | vi7 |
+ iim | vM | iim | biiiM |

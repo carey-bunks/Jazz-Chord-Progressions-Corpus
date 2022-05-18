@@ -1,0 +1,14 @@
+Title = Bossa Rokka
+DB Key = G
+TimeSig = 4 4
+Bars = 36
+ Gadd9 | EbM7 | Gadd9 | EbM7 |
+ Gadd9 | E7b9 | Am7 | F#m7b5 |
+ Bm7 | E7#9 | A7 | D7 |
+ Gadd9 | EbM7 | Gadd9 | EbM7 |
+ Gadd9 | E7b9 | Am7 | F#m7b5 |
+ Bm7 | Bm7 | E7 | E7 |
+ Am7 | Cm7 | Bm7b5 | E7b9 |
+ A7 | E7b9 | A7 | D7b9 |
+ Gadd9 | Fadd9 | Gadd9 | Fadd9 |
+

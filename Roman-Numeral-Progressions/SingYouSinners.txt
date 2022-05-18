@@ -1,0 +1,13 @@
+Title = Sing, You Sinners
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iv7 | iv7 |
+ iM vi7 | iim v7 | iM | iim v7 |
+ iM | iM | iv7 | iv7 |
+ iM vi7 | iim v7 | iM | viih iii7 |
+ vim | iim | viih iii7 | vim |
+ vim | iim | ii7 | iim v7 |
+ iM | iM | iv7 | iv7 |
+ iM vi7 | iim v7 | iM | iim v7 |

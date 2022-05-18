@@ -1,0 +1,14 @@
+Title = Twilight Time
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 33
+ iM | iii7 | vim | i7 |
+ ivM ivm | iM vi7 | ii7 | v7 |
+ iM | iii7 | vim | i7 |
+ ivM ivm | iM vi7 | ii7 v7 | iM |
+ iii7 | iii7 | vim | vim |
+ ii7 | ii7 | v7 | v7 vio v7 v7 |
+ iM | iii7 | vim | i7 |
+ ivM ivm | iM vi7 | ii7 | v7 |
+ iM v7 |

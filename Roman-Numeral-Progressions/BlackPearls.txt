@@ -1,0 +1,14 @@
+Title = Black Pearls
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 36
+ iiim | vi7 | iim | v7 |
+ iiim biii7 | iih v7 | ivM ivM iiim iim | iM NC NC NC |
+ iiim | vi7 | iim | v7 |
+ iiim biii7 | iih v7 | ivM ivM iiim iim | iM NC NC NC |
+ vm | i7 | ivM | ivM |
+ ivm | bvii7 | biiiM | iim v7 |
+ iiim | vi7 | iim | v7 |
+ iiim biii7 | iih v7 | biiM | biii7 |
+ bviM | biiM | iM NC NC NC | NC |

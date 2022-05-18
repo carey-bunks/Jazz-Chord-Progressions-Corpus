@@ -1,0 +1,11 @@
+Title = Molten Glass
+DB Key = C
+TimeSig = 4 4
+Bars = 24
+ CM7 FM7 | Bm7b5 E7b9 | AM7 | Abm7b5 Db7 |
+ Ebm7 | Fm7b5 Bb7b9 | EbM7 | Dm7b5 G7b9 |
+ CM7 FM7 | Bm7b5 E7b9 | AM7 | Abm7b5 Db7 |
+ Ebm7 | Fm7b5 Bb7b9 | EbM7 | Dm7b5 G7b9 |
+ CM7 EbM7 | AbM7 BM7 | F#M7 AM7 | DM7 DM7 DM7 DM7 GM7 DM7 DM7 DM7 |
+ C#M7 C#M7 C#M7 EM7 EM7 EM7 EM7 EM7 | EM7 DM7#11 | CM7#11 BbM7#11 | AbM7#11 |
+

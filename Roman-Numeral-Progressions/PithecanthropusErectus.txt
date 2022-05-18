@@ -1,0 +1,11 @@
+Title = Pithecanthropus Erectus
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 22
+ vim | ivM | viih | iii7 |
+ ivM | ivM | v7 | i7 NC NC NC |
+ viih | iii7 | vim | ivM |
+ im | iv7 | bviiM | viih iii7 |
+ vim | ii7 | vim | ii7 |
+ viih | iii7 |

@@ -1,0 +1,19 @@
+Title = She Loves Me
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 54
+ iM | iM | iim v7 | iim v7 |
+ iim v7 | v7 | iM | i7 iM |
+ i7 i7 | i7 | ivM | ivM |
+ vim ii7 | ii7 | iim v7 | iiim iii7 |
+ vi7 vi7 vi7 iim | iim iim iim ii7 | v7 v7 v7 i7 | i7 i7 io i7 |
+ ivM | ii7 ii7 | v7 | iiiM |
+ ivM | bvM bvM bvM v7 | iM | iM |
+ iim v7 | iim v7 | iim v7 | v7 |
+ iM | i7 iM | i7 i7 | i7 |
+ ivM | ivm | iM | biiio |
+ v7 | biiio | iM | v7 |
+ biiiM | biiiM | v7 | v7 |
+ v7 | v7 | iM | vim |
+ iim | v7 v7 v7 v7 |

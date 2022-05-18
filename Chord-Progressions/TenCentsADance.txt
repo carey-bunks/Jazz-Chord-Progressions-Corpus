@@ -1,0 +1,11 @@
+Title = Ten Cents A Dance
+DB Key = Eb
+TimeSig = 4 4
+Bars = 24
+ Eb6 F#o7 | Fm7 Bb7 | Eb6 F7 | Bb7 |
+ Eb6 F#o7 | Fm7 Bb7 | Eb6 Ab7 | Dm7 G7 |
+ C7b9 | Fm7 | C7b9 | Fm7 |
+ D7 | Gm7 | C7b9 | F7 Bb7 |
+ Eb6 F#o7 | Fm7 Bb7 | Eb6 Ab7 | Dm7 G7 |
+ C7b9 | Fm7b5 | Eb/Bb G+ AbM7 A7b5 | Bb7 Eb6 |
+

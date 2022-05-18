@@ -1,0 +1,32 @@
+Title = Well Git It
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 106
+ ivM iv7 | ivM iv7 | iM v7 iM iM | iM v7 iM iM |
+ iim v7 | iim | ivM ivM ivM iM | ivM ivM ivM iM iM iM iM iM |
+ iM | iM | iM | iM i7 |
+ ivM iv7 | ivM iv7 | iM v7 iM iM | iM v7 iM iM |
+ iim v7 | iim | ivM ivM ivM iM | ivM ivM ivM iM NC NC NC NC |
+ NC | NC | NC NC NC bv7 | iv7 |
+ iv7 | iM | iM bvo | iv7 |
+ iv7 | iM | iM i7 | iv7 |
+ iv7 | iM | iM | iim |
+ v7 | iM | i7 | iv7 |
+ iv7 | iM | iM | iim |
+ v7 | iM | iM | iv7 |
+ iv7 | bviiM bviim | ivM iv7 | bviiM |
+ ivM ii7 | v7 | i7 | iv7 |
+ iv7 | bviiM | vi7 | bviiM bviiM bviiM viio |
+ ivM | vM i7 | ivM i7 | iv7 |
+ iv7 | bviiM bviim | ivM iv7 | bviiM |
+ ivM ii7 | v7 | i7 | iv7 |
+ iv7 | bviiM | vi7 | bviiM bviiM bviiM viio |
+ ivM | vM i7 | ivM | iv7 |
+ i7 iv7 | bv7 | i7 bv7 | v7 |
+ ii7 v7 | bvi7 vi7 bvii7 vii7 | i7 bv7 | iv7 |
+ bvii7 | ivM | iv7 | bvii7 |
+ bvii7 | ivM | vm | vh |
+ ivM | ivM bv7 iv7 iv7 | NC | NC |
+ NC | NC | iv7 | bviiM bviiM viio ivM |
+ NC | NC bv7 iv7 iv7 |

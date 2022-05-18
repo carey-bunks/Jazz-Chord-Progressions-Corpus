@@ -1,0 +1,16 @@
+Title = Unit 7
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 44
+ v7 | v7 | v7 | v7 |
+ i7 | i7 | v7 | iii7 |
+ biiiM | ii7 | v7 iii7 | vi7 ii7 |
+ v7 | v7 | v7 | v7 |
+ i7 | i7 | v7 | iii7 |
+ biiiM | ii7 | v7 | iii7 |
+ vim | ii7 | viim | iii7 |
+ vim | ii7 | viim iii7 | vim ii7 |
+ v7 | v7 | v7 | v7 |
+ i7 | i7 | v7 | iii7 |
+ biiiM | ii7 | v7 iii7 | vi7 ii7 |

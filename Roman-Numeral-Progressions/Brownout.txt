@@ -1,0 +1,19 @@
+Title = Brownout
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 56
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ biii7 | biii7 | ii7 | ii7 |
+ vM | ivM ivM iM v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ biii7 | biii7 | ii7 | ii7 |
+ vM | ivM ivM iM v7 | v7 | v7 |
+ vm | vm | iiim | iiim |
+ im | im | ii7 | ii7 |

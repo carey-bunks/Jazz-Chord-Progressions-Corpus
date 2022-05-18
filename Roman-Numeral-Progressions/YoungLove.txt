@@ -1,0 +1,11 @@
+Title = Young Love
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 24
+ iM | iii7 | ivM | v7 |
+ iM vim | ivM v7 | iM | iii7 |
+ ivM | v7 | iM vim | ivM v7 |
+ iM | v7 | ivM | v7 |
+ iM vim | ivM v7 | iM | v7 |
+ ivM | v7 | iM vim | ivM v7 |

@@ -1,0 +1,19 @@
+Title = Clarinet Polka
+DB Key = C
+EstKeySig = C
+TimeSig = 2 2
+Bars = 56
+ iM | iM | iM io | v7 |
+ v7 | v7 | v7 | iM |
+ iM | iM | iM io | v7 |
+ v7 | v7 | v7 | iM |
+ vM | vM | vM ii7 | vM |
+ vM | vM | vM ii7 | vM |
+ iM | iM | iM io | v7 |
+ v7 | v7 | v7 | iM |
+ ivM | ivM | ivM | ivM |
+ i7 | i7 | i7 | ivM |
+ ivM | ivM | ivM | ivM |
+ i7 | i7 | i7 | ivM |
+ iM | iM | iM io | v7 |
+ v7 | v7 | v7 | iM |

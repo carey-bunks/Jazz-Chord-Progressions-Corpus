@@ -1,0 +1,13 @@
+Title = If My Friends Could See Me Now!
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C | C | C7 | C7 |
+ F | F | F | F |
+ B7 | B7 | E7 | Am |
+ D7/F# Fm6 | C/E D7 | G7 | G7 |
+ C | C | C7 | C7 |
+ F | F | E7 | E7 |
+ A7#5 Bb7 | G7 A7 A7 D7 | D7 | D7 |
+ G7 G#o7 | F/A G7/B G7/B C | C | C G7 G7 G7 |
+

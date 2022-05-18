@@ -1,0 +1,13 @@
+Title = Alabama Jubilee
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ G7 | G7 | G7 | G7 |
+ C7 | C7 | C7 | C7 |
+ F7 | F7 | F7 | F7 |
+ Bb6 | Bb6 | NC | NC Bb7 A7 Ab7 |
+ G7 | G7 | G7 | G7 |
+ Cm7 | Cm7 G Cm7/G G7 | Cm7/G Cm7/G Cm7/G Cm7 | Cm7 Cm7 C7 C7b5 |
+ Bb6 | D7 | Eb6 | Bb6 Bb6 Bbo7 Bb6 |
+ C7 | F7 | Bb6 Bo7 | Cm7 F7 |
+

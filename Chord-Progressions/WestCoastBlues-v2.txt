@@ -1,0 +1,10 @@
+Title = West Coast Blues
+DB Key = Bb
+TimeSig = 3 4
+Bars = 24
+ Bb7 | Bb7 | Ab7 | Ab7 |
+ Bb7 | Bb7 | Bm7 | E7 |
+ Eb7 | Eb7 | Ebm7 | Ab7 |
+ Dm7 | G7 | C#m7 | F#7 |
+ Cm7 | Cm7 | Cm7 | F7 |
+ Bb6 | Db7 | Gb6 | F7 |

@@ -1,0 +1,14 @@
+Title = Thelonious
+DB Key = Bb
+TimeSig = 4 4
+Bars = 36
+ Bb Ab7 | Gb7 F7sus4 | E7b5 Eb7sus4 | D7#5 Db13 |
+ C7sus4 F7sus4 | Gb Cb7b9#11 | Bb7 Eb7 | Gb7 F7 |
+ Bb Ab7 | Gb7 F7sus4 | E7b5 Eb7sus4 | D7#5 Db13 |
+ C7sus4 F7sus4 | Gb Cb7b9#11 | Bb7 Eb7 | Gb7 F7 |
+ Cm11 F7 | BbM7 | D7 | Ebm11 Ab7 |
+ D7#5 | Db7 | Db9 | G7#5 |
+ C7b5 C7b5 C7b5 F7sus4 | F7sus4 | Bb Ab7 | Gb7 F7sus4 |
+ E7b5 Eb7sus4 | D7#5 Db13 | C7sus4 F7sus4 | Gb Cb7b9#11 |
+ Bb7 Eb7 | Gb7 F7 | Cm11 F7 | NC |
+

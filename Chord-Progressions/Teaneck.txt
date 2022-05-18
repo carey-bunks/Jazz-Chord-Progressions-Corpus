@@ -1,0 +1,13 @@
+Title = Teaneck
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Am7 | D7 | Gm7 F#m7 | Fm7 Bb7 |
+ EbM7 | Em7b5 A7alt | Dm7 | G7b9 |
+ Cm7 | F7 | BbM7 | BbM7 |
+ Am7b5 D7alt | Gm7 | C7 | Cm7 F7 |
+ Am7 | D7 | Gm7 F#m7 | Fm7 Bb7 |
+ EbM7 | Em7b5 A7alt | Dm7 | G7b9 |
+ Cm7 | F7 | Dm7 | G7 |
+ Cm7 F7alt | F7alt | BbM7 | BbM7 |
+

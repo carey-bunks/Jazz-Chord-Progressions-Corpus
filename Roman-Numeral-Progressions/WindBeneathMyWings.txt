@@ -1,0 +1,11 @@
+Title = The Wind Beneath My Wings
+DB Key = A
+EstKeySig = A
+TimeSig = 4 4
+Bars = 24
+ iM | ivM | iM | ivM ivM ivM ivM |
+ iim iim | v7 | iim iim | vM v7 |
+ iM | ivM | iM | ivM ivM ivM ivM |
+ iim iim | v7 | iim iim | vM biii7 |
+ bvim ivM | iM iM iM biii7 | bvim ivM | iM iM iM biii7 |
+ bvim ivM | iM bvim | iim v7 | iM |

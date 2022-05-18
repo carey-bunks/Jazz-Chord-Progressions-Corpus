@@ -1,0 +1,13 @@
+Title = Our Day Will Come
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ G | Bb7 | Am7 | D7 |
+ G | Bb7 | Am7 | D7 |
+ Dm7 | G7 | C | C |
+ Cm7 | F7 | Bb | D7 |
+ G | Bb7 | Am7 | D7 |
+ G | Bb7 | Am7 | D7 |
+ Dm7 | G7 | C | Cm |
+ Bm7 E7 | Am7 D7 | G | G |
+

@@ -1,0 +1,7 @@
+Title = Friday the 13th
+DB Key = G
+TimeSig = 4 4
+Bars = 8
+ GM7 F7 | Eb7 D7 | GM7 F7 | Eb7 D7 |
+ GM7 F7 | Eb7 D7 | GM7 F7 | Eb7 D7 |
+

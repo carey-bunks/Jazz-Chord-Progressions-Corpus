@@ -1,0 +1,13 @@
+Title = Sleepy Time Gal
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM iM iM bvi7 | v7 | v7 |
+ v7 | v7 | iM | iM iM bvii7 bvii7 |
+ vi7 | vi7 ivm iio vi7 | ii7 | ii7 ii7 bviim ii7 |
+ bviim | bviim | v7 | v7 v7 v7 v7 |
+ iM | iM iM iM bvi7 | v7 | v7 |
+ v7 | v7 iii7 | iii7 vim | vim vim ivm im |
+ ii7 | ii7 | iM vm | vi7 vi7 vm vi7 |
+ iim ivm | v7 | i7 i7 i7 io | v7 v7 ivM v7 |

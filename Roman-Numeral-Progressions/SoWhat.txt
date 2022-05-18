@@ -1,0 +1,13 @@
+Title = So What?
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ ivm | ivm | ivm | ivm |
+ ivm | ivm | ivm | ivm |
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |

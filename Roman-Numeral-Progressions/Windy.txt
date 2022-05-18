@@ -1,0 +1,17 @@
+Title = Windy
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 45
+ iM bviiM | ivM iM | iM bviiM | ivM vM |
+ iM bviiM | ivM iM | iM bviiM | ivM iM iM iM |
+ iM | iM bviiM | ivM iM | iM bviiM |
+ ivM vM | iM bviiM | ivM iM | iM bviiM |
+ ivM iM iM iM | iM | iM bviiM | ivM iM |
+ iM bviiM | ivM vM | iM bviiM | ivM iM |
+ iM bviiM | ivM iM iM iM | iM | iim iim iim v7 v7 v7 iM iM |
+ iM | iim iim iim v7 v7 v7 iM iM | iM | iim iim iim v7 v7 v7 iM iM |
+ iM | iim | iim | iim |
+ iim | iM bviiM | ivM iM | iM bviiM |
+ ivM vM | iM bviiM | ivM iM | iM bviiM |
+ ivM iM iM iM |

@@ -1,0 +1,14 @@
+Title = Ablution
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 36
+ vim | iim | v7 bii7 | iM |
+ ivM | vii7 | iiiM | iiiM |
+ iiim | vim | ii7 bvi7 | vM |
+ iM | bv7 | viiM | viiM |
+ biim | bv7 | viiM | viiM |
+ vim | biii7 | bviM | iii7 |
+ vim | iim | v7 bii7 | iM |
+ ivM | bvii7 | iiim | biiio |
+ iim | biiM | iM | viih iii7 |

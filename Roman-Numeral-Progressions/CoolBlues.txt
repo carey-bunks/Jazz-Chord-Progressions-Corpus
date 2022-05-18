@@ -1,0 +1,8 @@
+Title = Cool Blues
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ iM | iv7 | iM | iM |
+ iv7 | iv7 | iM iim | iiim biiim |
+ iim | v7 | iM | v7 |

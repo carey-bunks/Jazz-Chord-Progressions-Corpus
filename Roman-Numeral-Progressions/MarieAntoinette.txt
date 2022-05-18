@@ -1,0 +1,9 @@
+Title = Marie Antoinette
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 14
+ iii7 | vi7 | iim bvi7 | vim ii7 |
+ v7 | bvim bii7 | iM | viim iii7 |
+ bvh iv7 | vim | iv7 | vim |
+ iv7 vim | bvm vii7 |

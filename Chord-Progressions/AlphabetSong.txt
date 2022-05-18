@@ -1,0 +1,13 @@
+Title = The Alphabet Song
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C | A7 | D7 | D7 |
+ Dm7 | Em7 A7 | Dm7 G9 | C |
+ C | A7 | D7 | D7 |
+ Dm7 | Em7 A7 | Dm7 G7 | C |
+ F G9 | Em7 Am7 | Dm7 G7 | C |
+ F G9 | Em7 Cm/D# | G/D D7 | G7 |
+ C | A7 | D7 | D7 |
+ F F#dim | C/G A7+ | Dm7 G7 | C |
+

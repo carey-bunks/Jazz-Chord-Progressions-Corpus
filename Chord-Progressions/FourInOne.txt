@@ -1,0 +1,13 @@
+Title = Four in One
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | G7 | Gm7 C7 | Gm7 C7 |
+ F7 | Fm7 Bb7 | Eb | Eb |
+ Eb | G7 | Gm7 C7 | Gm7 C7 |
+ F7 | Fm7 Bb7 | Eb | Eb |
+ Bbm7 Eb7 | Bbm7 Eb7 | Bm7 E7 | Eb7 |
+ Cm7 F7 | E7 | E7 B7 | Fm7 Bb7 |
+ Eb | G7 | Gm7 C7 | Gm7 C7 |
+ F7 | Fm7 Bb7 | Eb | Eb |
+

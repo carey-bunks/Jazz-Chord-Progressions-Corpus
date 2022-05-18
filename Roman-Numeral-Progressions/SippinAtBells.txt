@@ -1,0 +1,8 @@
+Title = Sippin' At Bells
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 12
+ iM | im iv7 | iiim iim | im bv7 |
+ iv7 | ivm bvii7 | iiim | biiim bvi7 |
+ iim v7 | vm i7 | iiim biii7 | bviM bii7 |

@@ -1,0 +1,13 @@
+Title = My Heart Stood Still
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM biiio | iim v7 | iM i7 | ivM ivm |
+ iM vi7 | iim v7 | iM | iim v7 |
+ iM biiio | iim v7 | iM i7 | ivM ivm |
+ iM vi7 | iim v7 | iM | iM |
+ im | im | bvi7 v7 | v7 |
+ biii7 ii7 | ii7 | bvi7 v7 | v7 |
+ iM biiio | iim v7 | iM i7 | ivM ivm |
+ iiim vi7 | iim v7 | iM | iM |

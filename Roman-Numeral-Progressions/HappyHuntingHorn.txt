@@ -1,0 +1,14 @@
+Title = Happy Hunting Horn
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 34
+ iM vim | ii7 ii7 v7 iM | v7 iM | v7 iM |
+ v7 iM | v7 iM | vim ii7 | iim v7 |
+ iM vim | ii7 ii7 v7 iM | v7 iM | v7 iM |
+ v7 iM | v7 iM | ii7 v7 | iM iM vm i7 |
+ ivM iim | v7 | iM v7 | iM i7 |
+ ivM iim | v7 | iM vim | iim v7 |
+ iM vim | ii7 ii7 v7 iM | v7 iM | v7 iM |
+ v7 iM | v7 iM | ii7 | v7 |
+ iM | vm i7 |

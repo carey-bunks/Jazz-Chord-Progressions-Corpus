@@ -1,0 +1,11 @@
+Title = Both Sides Now
+DB Key = C
+TimeSig = 4 4
+Bars = 26
+ C | F/C C | C CM7 | F/C C |
+ C | F/C | Dm7 | G |
+ C | F/C C | C CM7 | F/C C |
+ C | F | Dm7 | G |
+ C | F/C C | F/C C | F/C C |
+ G G G F/C | C | F/C | C F/C |
+ C F/C | C F/C |

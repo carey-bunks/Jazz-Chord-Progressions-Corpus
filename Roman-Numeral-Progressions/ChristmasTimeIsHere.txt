@@ -1,0 +1,13 @@
+Title = Christmas Time is Here
+DB Key = F
+EstKeySig = F
+TimeSig = 3 4
+Bars = 32
+ iM | bvii7 | iM | bvii7 |
+ bvh ivm ivm | iiim biiim biiim | iim iim ivm | iM |
+ iM | bvii7 | iM | bvii7 |
+ bvh ivm ivm | iiim biiim biiim | iim iim ivm | iM |
+ bviM | bii7 | bviM | bii7 |
+ iiim iiim iih | ih ih vi7 | iim iim ii7 | v7 |
+ iM | bvii7 | iM | bvii7 |
+ bvh ivm ivm | iiim biiim biiim | iim iim ivm | iM |

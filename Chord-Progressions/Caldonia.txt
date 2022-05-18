@@ -1,0 +1,11 @@
+Title = Caldonia
+DB Key = C
+TimeSig = 4 4
+Bars = 24
+ C7 | C7 | C7 | C7 |
+ F7 | F7 | C7 | C7 |
+ Dm7 | G7 | C7 | C7 |
+ NC C7 | NC C7 | NC | NC C7 |
+ F7 | F7 | C7 | C7 |
+ Dm7 | G7 | C7 | C7 |
+

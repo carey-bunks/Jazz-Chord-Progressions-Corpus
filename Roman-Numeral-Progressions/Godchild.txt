@@ -1,0 +1,13 @@
+Title = Godchild
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM | iim io | vm i7 | ivm bvii7 |
+ iiim biiim | iim v7 | iM | iim v7 |
+ iM | iim io | vm i7 | ivm bvii7 |
+ iiim biiim | iim v7 | iM | iM vii7 |
+ iiiM | bvm vii7 | iiiM | bvm vii7 |
+ vM | vim ii7 | vM | vim ii7 |
+ iM | iim io | vm i7 | ivm bvii7 |
+ iiim biiim | iim v7 | iM | iM |

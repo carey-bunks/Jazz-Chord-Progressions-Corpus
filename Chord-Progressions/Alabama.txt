@@ -1,0 +1,6 @@
+Title = Alabama
+DB Key = C
+TimeSig = 4 4
+Bars = 6
+ Cm | Cm | Cm9 Cm7/G Cm/D AbM7 | Gm7 Cm Cm Cm Cm Cm Cm Cm |
+ AbM7 AbM7 AbM7 Gm7 | Cm |

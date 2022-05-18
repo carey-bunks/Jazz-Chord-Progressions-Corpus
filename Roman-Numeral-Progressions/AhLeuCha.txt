@@ -1,0 +1,13 @@
+Title = Ah-Leu-Cha
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iim | iim | iim | iim |
+ iim | iim | iim | iM |
+ iim | iim | iim | iim |
+ iim | iim | iim | iM |
+ viim | iii7 | vi7 | vi7 |
+ ii7 | ii7 | iim | v7 |
+ iim | iim | iim | iim |
+ iim | iim | iim v7 | iM |

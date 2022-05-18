@@ -1,0 +1,17 @@
+Title = A Man And A Woman
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 46
+ iiM | iiM | i7 | i7 |
+ iM | iM | ivm | vii7 |
+ iiiM | iiiM | iiM | iiM |
+ i7 | i7 | iM | iM |
+ ivm | vii7 | iiiM | iiiM |
+ iim | v7 | iM | iM |
+ iim | v7 | iM | iM |
+ ivm | vii7 | iiiM | iiiM |
+ iiim | vi7 | iiM | iiM |
+ iiM | iiM | i7 | i7 |
+ iM | iM | ivm | vii7 |
+ iiiM | iiiM |

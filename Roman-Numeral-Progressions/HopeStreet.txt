@@ -1,0 +1,11 @@
+Title = Hope Street
+DB Key = C
+EstKeySig = B
+TimeSig = 4 4
+Bars = 24
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ iim | iim | iim | iim |
+ iiim | iiim | iiim | iiim |
+ viiM viiM viiM bviiM | bviiM | iiim | iiim |
+ viiM viiM viiM bviiM | bviiM | iiim | iiim |

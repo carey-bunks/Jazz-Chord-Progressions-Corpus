@@ -1,0 +1,13 @@
+Title = I'll See You In My Dreams
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ ivM | ivM | ivm | ivm |
+ iM | io viiM | iM | iM |
+ vi7 | vi7 | vi7 | vi7 |
+ ii7 | ii7 | v7 | v7 v7 ivm v7 |
+ ivM | ivM | ivm | ivm |
+ iM | io viiM | iM | iM |
+ vm vi7 | vm vi7 | iii7 | vim vim vim vM |
+ ivM | ivm v7 | iM io | iim v7 |

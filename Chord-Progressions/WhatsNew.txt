@@ -1,0 +1,13 @@
+Title = What's New?
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ CM69 | Bbm7 Eb7 | AbM7 | Dm7b5 G7alt |
+ Cm7 Am7b5 | Dm7b5 G7alt | CM7 Am7 | Dm7b5 G7 |
+ CM69 | Bbm7 Eb7 | AbM7 | Dm7b5 G7alt |
+ Cm7 Am7b5 | Dm7b5 G7alt | CM7 | Gm7 C7 |
+ FM7 | Ebm7 Ab7 | DbM7 | Gm7b5 C7alt |
+ Fm7 Dm7b5 | Gm7b5 C7alt | Fm7 | Dm7b5 G7 |
+ CM69 | Bbm7 Eb7 | AbM7 | Dm7b5 G7alt |
+ Cm7 Am7b5 | Dm7b5 G7alt | CM69 | Dm7 G7b9#11 |
+

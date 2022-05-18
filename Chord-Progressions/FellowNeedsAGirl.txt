@@ -1,0 +1,13 @@
+Title = A Fellow Needs A Girl
+DB Key = F
+TimeSig = 4 4
+Bars = 34
+ F | G7 | Gm | Dm |
+ Bb | F | BbM7 F+ G7 G7 | Gb7 F |
+ F | G7 | Gm | Dm |
+ Bb | F | BbM7 F+ G7 G7 | Gb7 F |
+ Bb+ Bb6 | Ebm F7 | Bb+ Bb6 | Ebm F7 |
+ Bbm | Ebm9 F | Gm A7 | D |
+ G7 G7b5 | Gm7 C7 | F | G7 |
+ Gm7 | Dm | Bb | F G7 |
+ F F C7 C+ | F |

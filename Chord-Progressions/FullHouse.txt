@@ -1,0 +1,19 @@
+Title = Full House
+DB Key = Ab
+TimeSig = 4 4
+Bars = 56
+ Fm9 | Bb13 | Fm9 | Bb13 |
+ Fm9 | Bb13 | Fm9 | C7#9 |
+ Fm9 | Bb13 | Fm9 | Bb13 |
+ Fm9 | Bb13 | Fm9 | Fm9 |
+ Fm9 | Bb13 | Fm9 | Bb13 |
+ Fm9 | Bb13 | Fm9 | C7#9 |
+ Fm9 | Bb13 | Fm9 | Bb13 |
+ Fm9 | Bb13 | Fm9 | Fm9 |
+ Bbm7 | Eb7 | AbM7 | Db7 |
+ GbM7 | BM7 | Gm7b5 | C7b9#11 |
+ Fm9 | Bb13 | Fm9 | Bb13 |
+ Fm9 | Bb13 | Fm9 | C7#9 |
+ Fm9 | Bb13 | Fm9 | Bb13 |
+ Fm9 | Bb13 | Fm9 | Fm9 |
+

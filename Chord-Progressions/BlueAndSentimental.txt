@@ -1,0 +1,9 @@
+Title = Blue and Sentimental
+DB Key = Eb
+TimeSig = 4 4
+Bars = 18
+ EbM7 Db7 C7 C7 | F7 Bb7 | F7 Bb7 | Gm7 C7b9 Fm7 Bb7b9 |
+ Eb Db7 C7 C7 | F7 Bb7 | F7 Bb7 | Eb Eb Bbm7 Eb7 |
+ Ab6 Ao7 | Eb/Bb Eb/Bb Bb7#5 Eb7 | Ab6 Ao7 | Eb/Bb Eb/Bb Fm7 Bb7b9 |
+ EbM7 Db7 C7 C7 | F7 Bb7 | F7 Bb7 | Eb7 D7 Db7 C7 |
+ F7 Bb7 | Eb Eo7 Fm7 Bb7 |

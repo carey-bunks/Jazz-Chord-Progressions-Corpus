@@ -1,0 +1,17 @@
+Title = Scene
+DB Key = C
+TimeSig = 3 4
+Bars = 50
+ Cm7 | Fm7 | Bbm7 | Ebm7 |
+ Abm7 | Dbm7 | Gbm7 | Bm7 |
+ AM7 | GM7#11 | DM7#11 | Bm7 |
+ Abm7 | GM7 | Gbm11 | FM7 |
+ CM7 | CM7 | B9sus4 | B9sus4 |
+ Cm7 | Fm7 | Bbm7 | Ebm7 |
+ Abm7 | Dbm7 | Gbm7 | Bm7 |
+ AM7 | Dm7 | CM7 | Bm7 |
+ Cm7 | BbM7 | D9sus4 | D9sus4 |
+ GM7 | GM7 | GM7 | GM7 |
+ GM7 | GM7 | GM7 | GM7 |
+ GM7 | GM7 | GM7 | GM7 |
+ GM7 | GM7 |

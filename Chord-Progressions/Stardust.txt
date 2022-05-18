@@ -1,0 +1,13 @@
+Title = Stardust
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ F6 | F6 | FmM7 | Bb7 |
+ CM7 | Em7 A7 | Dm Dm Dm A7 | Dm Fm6 |
+ G7 Go7 G7 F6 | Dm7 G7+ | CM7 CM7 Dm7 D#o7 | Em7 A7 |
+ D9 D9 C D7 | Am7 D7 | G7 Dm7 | G7 C7+ |
+ F6 | F6 | FmM7 | Bb7 |
+ CM7 | Em7 A7 | Dm Dm Dm A7 | Dm Fm6 |
+ F6 | Bb7 | CM7 | Em7 Ebo7 |
+ Dm7 | G7 | C6 | Gm7 C7+ |
+

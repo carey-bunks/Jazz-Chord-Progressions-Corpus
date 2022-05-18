@@ -1,0 +1,9 @@
+Title = Mexican Hip Dance
+DB Key = C
+EstKeySig = Eb
+TimeSig = 3 4
+Bars = 16
+ vim | iim | iii7 | vim |
+ vim | iim | iii7 | vim |
+ iim | iim | iim iim iii7 | vim |
+ iim | iim | iim iim iii7 | vim |

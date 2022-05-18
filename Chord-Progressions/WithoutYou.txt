@@ -1,0 +1,16 @@
+Title = Without You
+DB Key = C
+TimeSig = 4 4
+Bars = 44
+ E | E | E | G#m |
+ F#m | G# | C#m C#m/A# | F#7/F# F#7 |
+ E | B7 B7 | E | G#m |
+ F#m | G# | C#m C#m/A# | F#7/F# F#7 |
+ E | B7 | E | C#m |
+ F#m | B7 | E | C#m |
+ F#m | B7 | B7 | E |
+ G#m | F#m | G# | C#m C#m/A# |
+ F#7/F# F#7 | E | B7 | E |
+ C#m | F#m | B7 | E |
+ C#m | F#m | B7 | E |
+

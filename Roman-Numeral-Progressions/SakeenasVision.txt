@@ -1,0 +1,15 @@
+Title = Sakeena's Vision
+DB Key = Bb
+EstKeySig = F
+TimeSig = 4 4
+Bars = 40
+ ivm bvii7 | iiim vi7 | iim | bviim biii7 |
+ vim | bviM | im | viiM |
+ iim | iim | ivm bvii7 | iiim vi7 |
+ iim | bviim biii7 | vim | bviM |
+ im | viiM | iim | iim |
+ ivM | iiim vi7 | iim | im vii7 |
+ biiiM | vim ii7 | vM | bvM |
+ ivm bvii7 | iiim vi7 | iim | bviim biii7 |
+ vim | bviM | im | viiM |
+ iim | iim | iim | iim |

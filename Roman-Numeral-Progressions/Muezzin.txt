@@ -1,0 +1,13 @@
+Title = Muezzin'
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ bviim | bviim | biim | bv7 |
+ iim | v7 | iM | ih iv7 |
+ bviim | bviim | biim | bv7 |
+ iim | v7 | iM | NC |
+ vm | i7 | ivM | ivm bvii7 |
+ biiiM | iim v7 | ih | iv7 |
+ bviim | bviim | biim | bv7 |
+ iim | v7 | iM | iM |

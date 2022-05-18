@@ -1,0 +1,14 @@
+Title = Bossa Rokka
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 36
+ iM | bviM | iM | bviM |
+ iM | vi7 | iim | bviih |
+ iiim | vi7 | ii7 | v7 |
+ iM | bviM | iM | bviM |
+ iM | vi7 | iim | bviih |
+ iiim | iiim | vi7 | vi7 |
+ iim | ivm | iiih | vi7 |
+ ii7 | vi7 | ii7 | v7 |
+ iM | bviiM | iM | bviiM |

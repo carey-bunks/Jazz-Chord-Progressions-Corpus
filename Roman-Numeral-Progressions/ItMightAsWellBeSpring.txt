@@ -1,0 +1,15 @@
+Title = It Might As Well Be Spring
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 40
+ iM iim | iM iim | iM iim | vm i7 |
+ ivM ivo | iM | iim v7 | iii7 vi7 ii7 v7 |
+ iM iim | iM iim | iM iim | vm i7 |
+ ivM ivo | iM | iim v7 | iM i7 |
+ ivM iim | vm | vm vm io i7 | ivM |
+ ivM iim | bviih iii7 | vim ii7 | iim v7 |
+ iM iim | iM iim | iM iim | vm i7 |
+ ivM ivo | iM | iim v7 | iii7 iii7 vi7 vi7 |
+ ii7 | v7 | i7 | ii7 biiio |
+ iM vim | iim v7 | iM | iim |

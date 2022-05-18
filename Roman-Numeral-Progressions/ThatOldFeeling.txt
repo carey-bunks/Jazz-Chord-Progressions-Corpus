@@ -1,0 +1,13 @@
+Title = That Old Feeling
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iiih | vi7 |
+ iim | iim | ivm | v7 iii7 |
+ vim | iii7 | iiih | vi7 |
+ vim | ii7 | bvi7 | iim v7 |
+ iM | iM | iiih | vi7 |
+ iim | iim | iv7 | iii7 |
+ iiih | vi7 | iim | ivm bvii7 |
+ vim | ii7 | iim v7 | iM |

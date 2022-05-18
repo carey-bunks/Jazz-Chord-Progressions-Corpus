@@ -1,0 +1,9 @@
+Title = Tears In Heaven
+DB Key = C
+TimeSig = 4 4
+Bars = 18
+ Bb F/A | Gm7 Bb/F | Eb/G Bb/F | Cm7/F |
+ Bb F/A | Gm7 Bb/F | Eb/G Bb/F | Cm7/F F7 D7/F# D7/F# |
+ Gm7 | D7/F# | Fm7 | G7 G7 F/A G7/B |
+ Cm7 | Cm7/F | Bb F/A | Gm7 Bb/F |
+ Eb F | Bb Cm7/F |

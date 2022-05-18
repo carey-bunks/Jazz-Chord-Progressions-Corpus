@@ -1,0 +1,9 @@
+Title = Lady Bird
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 16
+ iM | iM | ivm | bvii7 |
+ iM | iM | bviim | biii7 |
+ bviM | bviM | vim | ii7 |
+ iim | v7 | iM biiiM | bviM biiM |

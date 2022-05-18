@@ -1,0 +1,13 @@
+Title = Two For The Road
+DB Key = G
+TimeSig = 4 4
+Bars = 32
+ F#m7b5 | B7#11 B7 | Em7 Em7/D | CM7 CM7/B |
+ Am7 Am7/G | DM7/F# | Ao7/G GM7 | Bm7/F# |
+ Em7 Eb+ | G/D C#m7b5 | Dm7 Db+ | FM7/C Bm7b5 |
+ Gm6/Bb A7b9 | Fm6/Ab G7b9 | CM7 CM7/B | Am7 CM7/G |
+ F#m7b5 | B7#11 B7 | Em7 Em7/D | CM7 CM7/B |
+ Am7 Am7/G | DM7/F# | Ao7/G GM7 | G7/F |
+ Em7 Em7/D | C#m7b5 Cm6 | GM7/B | CM7 |
+ Bm7 Bb7 | Am7 Ab7alt | GM7 | Dm7 G7 |
+

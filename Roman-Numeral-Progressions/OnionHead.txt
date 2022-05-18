@@ -1,0 +1,8 @@
+Title = Onion Head
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ i7 | iv7 bvo | iM | iM bv7 |
+ iv7 | bvo | iM | vi7 |
+ iim | iim | iM biii7 | ii7 bii7 |

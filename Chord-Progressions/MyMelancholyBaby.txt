@@ -1,0 +1,13 @@
+Title = My Melancholy Baby
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 Bb7#5 | EbM7 Bb7#5 | EbM7 | Gm7 Gbm7 Fm7 Bb7 |
+ Fm7 C7 | Fm7 C7 | F7 | Bb7 |
+ EbM7 Bb7#5 | EbM7 Bb7#5 | EbM7 | Gm7 Gbm7 Fm7 Bb7 |
+ F7 | Bb G7 | C7 F7 | Bb7 |
+ EbM7 | Db9 C9 | Fm7 C7#5 | Fm7 |
+ Bb7 Fm7 | B7#5 Bb7 | Gm7 Cm7 | Fm7 Bb7 |
+ EbM7 | Db9 C9 | Fm7 C7#5 | Fm7 |
+ AbM7 AbM7 Am7b5 Ab9 | Gm7 C7 | Fm7 Bb7 | Eb6 Eb6 Fm7 Bb7 |
+

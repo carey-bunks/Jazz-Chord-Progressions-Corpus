@@ -1,0 +1,15 @@
+Title = I'm Sorry
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 40
+ iM | vii7 | iM | iM io |
+ iim v7 | iim v7 | iM io | iim v7 |
+ iM | vii7 | iM | iM io |
+ iim | iim v7 | iM io | iim v7 |
+ iM | vii7 | iM | iM io |
+ iim v7 | iim v7 | iM bvi7 | v7 |
+ iM | vii7 | iM | iM io |
+ iim | iim v7 | iM io | iim v7 |
+ iM | vii7 | iM | iM io |
+ iim v7 | iim v7 | iM iv7 | iM |

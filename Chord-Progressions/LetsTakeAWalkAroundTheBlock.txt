@@ -1,0 +1,14 @@
+Title = Let's Take a Walk Around the Block
+DB Key = C
+TimeSig = 4 4
+Bars = 36
+ C F | C G7 | C G7 | Dm7 G7 |
+ C C+ | Dm Ao7 | C Em | Dm7 G7 C C |
+ C | Dm7 C+ | C F | C G7 |
+ C G7 | Dm7 G7 | C C+ | Dm Ao7 |
+ C Em | Dm7 G7 C C+ | Gm7 | C7 C+ F |
+ Dm Em7 | Am | D7 | D7 |
+ Dm7 | Dm7 G+ | C F | C G7 |
+ C G7 | Dm7 G7 | C C+ | Dm Ao7 |
+ C Em | Dm7 G7 C C | Am7 Am7 D7 Fm | G7 |
+

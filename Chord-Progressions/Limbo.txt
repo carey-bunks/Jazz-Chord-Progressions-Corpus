@@ -1,0 +1,9 @@
+Title = Limbo
+DB Key = C
+TimeSig = 3 4
+Bars = 17
+ Ebm7 | Gb7sus4 | CM7 | F7sus4 |
+ Bb7sus4 | DM7 | G/Ab | G/Ab |
+ AbM7 | GbM7 | Gb7sus4 | GM7#11 GbM7#11 |
+ FM7#11 EM7#11 | C#m7 | A7 | Ebm7 |
+ D7#11 |

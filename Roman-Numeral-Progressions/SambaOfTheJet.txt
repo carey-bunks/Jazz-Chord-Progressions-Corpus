@@ -1,0 +1,16 @@
+Title = Song of the Jet
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 42
+ iM | bvi7 | iim | biiio |
+ iiim | iii7 | ivM | ivm |
+ iiim | biiio | iiih | vi7 |
+ ii7 | ii7 | iim | v7 |
+ iM | bvi7 | iim | biiio |
+ iiim | iii7 | ivM | ivm |
+ iiim | biiio | iiih | vi7 |
+ ii7 | ii7 | iim | v7 |
+ iiim | vi7 | iim | iim |
+ iim | iim | ii7 | ii7 |
+ bii7 | bii7 |

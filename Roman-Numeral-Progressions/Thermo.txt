@@ -1,0 +1,13 @@
+Title = Thermo
+DB Key = Gb
+EstKeySig = B
+TimeSig = 4 4
+Bars = 32
+ bvm vii7 | iiim biii7 iim iim | biih bv7 | vii7 iiim |
+ i7 vii7 bvii7 bvii7 | bvm vii7 iiim iiim | ivM | ivM |
+ bvm vii7 | iiim biii7 iim iim | biih bv7 | vii7 iiim |
+ i7 vii7 bvii7 bvii7 | bvm vii7 iiim iiim | ivM | ivM |
+ iim | ivm bvii7 | vim | bvii7 |
+ ii7 | biii7 | iii7 | iii7 |
+ bvm vii7 | iiim biii7 iim iim | biih bv7 | vii7 iiim |
+ i7 vii7 bvii7 bvii7 | bvm vii7 iiim iiim | ivM | ivM |

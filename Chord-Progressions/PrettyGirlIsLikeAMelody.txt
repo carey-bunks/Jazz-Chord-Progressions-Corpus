@@ -1,0 +1,13 @@
+Title = A Pretty Girl Is Like A Melody
+DB Key = G
+TimeSig = 4 4
+Bars = 32
+ A7 | A7 | Am7 | D7 |
+ F#/G G | F#/G G | GM9 | GM9 |
+ Dm7 Dm7 Dm7 G7 | C6 | F9 | GM7 |
+ A7 | A7 | D7 | D7 C9 B7 Bb9#11 |
+ A7 | A7 | Am7 | D7 |
+ F#/G G | Dm7 G7 | CM7 E7/B | Am7 |
+ C#m7 F#7 | B7 | Bm7 E7 | Am7 |
+ Am7 Eb9 | D7 | G6 | Am7 D7 |
+

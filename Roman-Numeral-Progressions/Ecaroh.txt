@@ -1,0 +1,13 @@
+Title = Ecaroh
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ iM | iv7 | iM | bv7 |
+ ivM | bvm vii7 | iiim bvii7 | biiiM biiiM iim v7 |
+ iM | iv7 | iM | bv7 |
+ ivM | iiih vi7 | iih v7 | iM |
+ vm | i7 | ivM | iim |
+ bviim | biii7 | bviM | bviM bii7 |
+ iM | iv7 | iM | bv7 |
+ ivM | iiih vi7 | iih v7 | iM |

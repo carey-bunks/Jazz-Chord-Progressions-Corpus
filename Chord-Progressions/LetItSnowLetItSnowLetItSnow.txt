@@ -1,0 +1,13 @@
+Title = Let It Snow! Let It Snow! Let It Snow!
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F C7 | F | F | C7 C7 C7 D7 |
+ Gm D7 | Gm Gm Gm Abo7 | C7 | F F F C7 |
+ F C7 | F | F | C7 C7 C7 D7 |
+ Gm D7 | Gm Gm Gm Abo7 | C7 | F |
+ C | C C C#o7 | Dm7 G7 | C |
+ C | Gm A7 | D7 G7 | C C C C7 |
+ F C7 | F | Abo7 | C7 C7 C7 D7 |
+ Gm D7 | Gm Gm Gm Abo7 | C7 | F F F C7 |
+

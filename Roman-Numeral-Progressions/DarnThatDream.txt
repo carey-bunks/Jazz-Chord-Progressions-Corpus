@@ -1,0 +1,13 @@
+Title = Darn That Dream
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM iM biiim bvi7 | iim iii7 | vim iim | iiih vi7 |
+ iim bvii7 | iiim biiio | iim v7 | iM iM iim v7 |
+ iM iM biiim bvi7 | iim iii7 | vim iim | iiih vi7 |
+ iim bvii7 | iiim biiio | iim v7 | iM iM bviim biii7 |
+ bviM ivm | bviim biii7 | bviM iii7 | bviim biii7 |
+ bviM ivm | im im im im | iim v7 | bvi7 v7 |
+ iM iM biiim bvi7 | iim iii7 | vim iim | iiih vi7 |
+ ivM ivm | iM biiio | iim v7 | iM v7 |

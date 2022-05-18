@@ -1,0 +1,20 @@
+Title = The Long View
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 58
+ io iM | ivM | biii7 iiM | vM |
+ viiM viiM viiM iM iM iM vii7 vii7 | vii7 vii7 | iiim | vi7 |
+ vi7 ii7 | v7 | io im | iv7 |
+ ii7 | v7 v7 | bvM | ivm bvii7 |
+ biiM biiM biiM iM iM iM iM iM | iv7 ivM | biii7 iiM | vM |
+ viiM viiM viiM iM iM iM vii7 vii7 | vii7 vii7 | bviM iiim | vi7 |
+ vi7 ii7 | v7 | io im | iv7 |
+ ii7 | v7 v7 | iM | ivh iv7 |
+ viih | viih viih viih iii7 | viM | viM viM viM iiio |
+ ivM | bvii7 | vio viM | bviiM viM |
+ bviim viim | bviim iii7 | bvio bvio bvio iiM | iiM iiM iiM biiih |
+ bviih viih | biii7 biii7 | ii7 | v7 |
+ ivo ivh | ivM ivM | iiiM biii7 | biii7 |
+ ii7 | bii7 | iM | biiM |
+ iiM | v7 |

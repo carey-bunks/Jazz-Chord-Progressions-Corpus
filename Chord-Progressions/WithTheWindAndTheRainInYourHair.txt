@@ -1,0 +1,13 @@
+Title = With The Wind and The Rain In Your Hair
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Dm7b5 G7 | Cm7 | Am7b5 D7 | Gm7 C7 |
+ Fm7 | Db7 | EbM7 | Fm7 Bb7 |
+ Dm7b5 G7 | Cm7 | Am7b5 D7 | Gm7 C7 |
+ Fm7 | Db7 | EbM7 Ab7 | EbM7 |
+ Am7b5 | D7 | Gm7 | Gm7 |
+ Cm7 | F7 | Fm7 | Bb7 |
+ Dm7b5 G7 | Cm7 | Am7b5 D7 | Gm7 C7 |
+ Fm7 | Db7 | EbM7 Ab7 | EbM7 |
+

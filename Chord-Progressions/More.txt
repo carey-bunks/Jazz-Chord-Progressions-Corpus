@@ -1,0 +1,15 @@
+Title = More
+DB Key = G
+TimeSig = 4 4
+Bars = 40
+ GM7 | Em7 | Am7 | D7 |
+ GM7 | Em7 | Am7 | D7 |
+ GM7 | Em7 | Am7 | D7 |
+ GM7 | Em7 | Am7 | F#m7 B7b9 |
+ Em7 | Em7/D# | Em7/D | C#m7b5 |
+ CM7 | A7 | Am7 | D7 |
+ GM7 | Em7 | Am7 | D7 |
+ GM7 | Em7 | Am7 | F#m7 B7b9 |
+ Em7 | Em7/D# | Em7/D | C#m7b5 |
+ CM7 | Am7 D7 | GM7 | Am7 D7 |
+

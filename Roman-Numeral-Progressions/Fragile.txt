@@ -1,0 +1,13 @@
+Title = Fragile
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ iiim | iiim | vim | vim |
+ vii7 | vii7 | iiim | iiim |
+ iiim | iiim | vim | vim |
+ vii7 | vii7 | iiim | iiim |
+ iM | iM | vii7 | vii7 |
+ iiim vii7 | iiim | iiim vii7 | iiim |
+ iM | iM | vii7 | vii7 |
+ iiim vii7 | iiim | iiim vii7 | iiim |

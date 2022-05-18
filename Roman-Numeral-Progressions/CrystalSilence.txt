@@ -1,0 +1,16 @@
+Title = Crystal Silence
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 42
+ iiim | viim | iM | bvm |
+ ivM | iiim | bvm vM vi7 vii7 | iiim |
+ ivM | iiim | viim | iM |
+ bvm | ivM | iiim | vim |
+ vii7 | vim | vii7 | iM |
+ ii7 | iiim | iiim | viM |
+ iiim | ivM | im | vM |
+ iim | bv7 | vii7 vii7 | iiim |
+ viim | iM | bvm | ivM |
+ iiim | bvm vM vi7 vii7 | iiim | ivM |
+ bvm vM vi7 vii7 | iiim |

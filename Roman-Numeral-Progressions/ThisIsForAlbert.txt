@@ -1,0 +1,14 @@
+Title = This is For Albert
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 36
+ iM | biiM | iim | vm i7 |
+ ivm bvii7 | biiiM biiim | biiM | v7 |
+ iM | biiM | iim | vm i7 |
+ ivm bvii7 | biiiM biiim | biiM | v7 |
+ biim | biim | iM | iM |
+ iiim | vi7 | iim | v7 |
+ iM | biiM | iim | vm i7 |
+ ivm bvii7 | biiiM biiim | biiM | v7 |
+ biim | biim | vim | vim |

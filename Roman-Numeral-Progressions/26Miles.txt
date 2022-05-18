@@ -1,0 +1,13 @@
+Title = 26 Miles Santa Catalina
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM ivM | iM |
+ ivM v7 | iM vim | iim v7 | iM i7 |
+ ivM v7 | iM vim | ii7 | v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM vim | iim v7 iM iM |

@@ -1,0 +1,13 @@
+Title = P.S. I Love You
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | Gm7 C7 | Fm7 Bb7 | Gm7b5 C7 |
+ F7 F7 Cm7 F7 | Bb7 Bb7 Bb7 E7#9 | Eb6 F7/Eb | Fm7 Fm7 Bb7 E7#9 |
+ EbM7 | Gm7 C7 | Fm7 Bb7 | Gm7b5 C7 |
+ F7 F7 Cm7 F7 | Bb7 Bb7 Bb7 E7#9 | Eb6 Db7 | EbM7 Eb6 Eb6 Eb6 |
+ Eb7 Bbm7 | Eb7 Eb7 Bbm7 A7 | AbM7 AbM7 Bbm7 A7 | AbM7 AbM7 G7 Gb7 |
+ F7 Cm7 | F7 F7 Cm7 B7 | Bb7 C7#5 | F7 F7 Fm7 E7#9 |
+ EbM7 | Gm7 C7 | Fm7 Bb7 | Gm7b5 C7 |
+ F7 F7 Cm7 F7 | Bb7 Bb7 Bb7 E7#9 | Eb6 Db7 | EbM7 Eb6 Fm7 Bb7 |
+

@@ -1,0 +1,13 @@
+Title = The Good Life
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM vm | iM | viih | iii7 |
+ vim | vim vim | bvh | vii7 |
+ iim | bvi7 v7 | iM | iii7 |
+ vim | ii7 | iim iiim | ivm vm |
+ iM vm | iM | viih | iii7 |
+ vim | vim vim | bvh | vii7 |
+ iim | bvi7 v7 | iM | vi7 |
+ iim iiim | ivm v7 | iM | iM |

@@ -1,0 +1,7 @@
+Title = Short Stuff
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 8
+ v7 | v7 | i7 | v7 |
+ i7 | ii7 | v7 iv7 | biii7 ii7 |

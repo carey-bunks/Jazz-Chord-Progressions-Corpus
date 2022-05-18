@@ -1,0 +1,14 @@
+Title = Mid Nite Lament
+DB Key = Ab
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 35
+ iiim | im iv7 | iiim | im im im iv7 |
+ iiim iiim iim v7 | im iv7 | iiim | iiim iiim im bv7 |
+ iiim | iiim | im iv7 | iiim |
+ im im im iv7 | iiim iiim iim v7 | im iv7 | iiim |
+ iiim iiim im bv7 | iiim | biiim biiim biiim bvi7 | biiM |
+ iii7 vi7 | iiM | iiM v7 v7 v7 | v7 |
+ biii7 | bvm vii7 | iiim | im iv7 |
+ iiim | im im im iv7 | iiim iiim iim v7 | im iv7 |
+ iiim | iiim iiim im bv7 | iiim |

@@ -1,0 +1,13 @@
+Title = That Old Feeling
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C69 | C69 | Em7b5 | A7 |
+ Dm7 | Dm7 | Fm7 | G7 E7 |
+ Am7 | E7#5 | Em7b5 | A7 |
+ Am7 | D13 | Ab7 | Dm7 G7 |
+ C69 | C69 | Em7b5 | A7 |
+ Dm7 | Dm7 | F7 | E7 |
+ Em7b5 | A7b9 | Dm7 | Fm7 Bb9 |
+ Am7 | D9 | Dm7 G13 | C69 |
+

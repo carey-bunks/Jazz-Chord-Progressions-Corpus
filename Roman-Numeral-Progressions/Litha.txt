@@ -1,0 +1,18 @@
+Title = Litha
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 50
+ iiM | im | viiM | bviim |
+ bviM | vm | ivM | ivM |
+ ivM | ivM | iiM | iiM |
+ iiM | iiM | biiiM | biiiM |
+ biiiM | biiiM | iM | iM |
+ iM | iM | im | im |
+ im | im | vii7 | vii7 |
+ vii7 | vii7 | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | ivm | ivm |
+ ivm | ivm | ivm | ivm |
+ ivm | ivm | vim | vim |
+ vim | vim |

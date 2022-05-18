@@ -1,0 +1,14 @@
+Title = Almost Like Being In Love
+DB Key = Eb
+TimeSig = 4 4
+Bars = 36
+ EbM7 | F7 | BbM9 | Dm7 G7 |
+ Cm7 | F9sus4 F7b9 | Bb6 | Fm7 Bb7 |
+ EbM7 | F7 | BbM9 | Dm7 G7 |
+ Cm7 | F9sus4 F7b9 | Bb6 | Bb6 |
+ Am7 | D7 | GM7 | GM7 |
+ Gm7 | C7 | Am7 | D7 |
+ EbM7 | F7 | BbM9 | Dm7 G7 |
+ Cm7 | C#o7 | Bb6/D | C#o7 |
+ Cm9 | Cm9 F7b9 | Bb6 | Fm7 Bb7 |
+

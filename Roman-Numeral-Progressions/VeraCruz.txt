@@ -1,0 +1,15 @@
+Title = Vera Cruz
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 40
+ vim | vim | vim | vim |
+ vim | vim | vim | vim |
+ ivM | iiim | iim | iim |
+ biim | i7 | ivM | iii7 |
+ vim | vim | vim | vim |
+ vim | vim | vim | vim |
+ ivM | iiim | iim | iim |
+ biim | i7 | ivM | iii7 |
+ vim | vim | vim | vim |
+ vim vim | vim | vim | vim |

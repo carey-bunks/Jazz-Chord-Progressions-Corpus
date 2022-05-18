@@ -1,0 +1,13 @@
+Title = Soul Eyes
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Cm7 | G7alt | Cm7 | F7#11 |
+ Fm7 | Bb7alt | Gm7b5 | C7b9 |
+ AbM7 | Am7b5 D7alt | GM7 | Db7#11 |
+ GbM7 | Fm7 Bb7 | EbM7 | Dm7b5 G7alt |
+ Cm7 | G7alt | Cm7 | F7#11 |
+ Fm7 | Bb7alt | Gm7b5 | C7b9 |
+ AbM7 | Am7b5 D7alt | Gm7b5 | C7b9 |
+ Fm7 | Bb7alt | EbM7 | Dm7b5 G7b9 |
+

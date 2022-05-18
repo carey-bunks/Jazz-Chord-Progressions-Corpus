@@ -1,0 +1,13 @@
+Title = Yana Amina
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ viim | viim | iiim | iiim |
+ viim | viim | iiim | iiim |
+ biiim | biiim | v7 | iM |
+ iim | iim | v7 | viim |
+ iiim | iiim | iiim | iiM |
+ iiim | iiim | iii7 | vm |
+ ivM | ivM | bviiM | bviiM |
+ ivM | ivM | bviiM | bviiM |

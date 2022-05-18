@@ -1,0 +1,11 @@
+Title = Nutville
+DB Key = Eb
+TimeSig = 4 4
+Bars = 24
+ Cm7 | Cm7 | Cm7 | Cm7 |
+ Cm7 | Cm7 | Cm7 | Cm7 |
+ Fm7 | Fm7 | Fm7 | Db7 |
+ Cm7 | Cm7 | Cm7 | Cm7 |
+ Ab7 | G7 | Gb7 | F7 |
+ Ab7 | G7+ | Cm7 | Cm7 |
+

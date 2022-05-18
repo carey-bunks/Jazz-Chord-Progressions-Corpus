@@ -1,0 +1,11 @@
+Title = Serenade To A Soul Sister
+DB Key = Gb
+TimeSig = 3 4
+Bars = 24
+ Eb7#9 | E7#9 | Eb7#9 | E7#9 |
+ Eb7#9 | E7#9 | Eb7#9 | A7 |
+ Ab7 | A7 | Ab7 | E7 |
+ Eb7#9 | E7#9 | Eb7#9 | E7#9 E7#9 Eb7#9 |
+ B7 | C7 B7 B7 | Bb7 | B7 Bb7 E7 |
+ Eb7#9 | E7#9 | Eb7#9 | E7#9 |
+

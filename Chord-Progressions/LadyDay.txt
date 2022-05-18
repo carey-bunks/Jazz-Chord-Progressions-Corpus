@@ -1,0 +1,11 @@
+Title = Lady Day
+DB Key = G
+TimeSig = 4 4
+Bars = 24
+ AM7 | Eb7 A7b5 | BbM7 | A7b5 |
+ DM7 | D7alt | GM7 | F#m7 B7 |
+ EM7 | Bb7 | FM7 | E7#9 E7#9 Bb13 E7#9 |
+ FM7 | Dm6 | Bm7 | Bb7b5 |
+ AM7 | Eb7 A7b5 | BbM7 | A7b5 |
+ DM7 | EM7#11 | FM7 | GM7 |
+

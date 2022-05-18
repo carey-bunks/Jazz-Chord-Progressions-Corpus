@@ -1,0 +1,16 @@
+Title = Spiral
+DB Key = C
+EstKeySig = D
+TimeSig = 4 4
+Bars = 44
+ ivM | iiiM | biiiM | iiM |
+ biiM | iM | ivm | bvii7 |
+ vim | bviih biii7 | vim | iim v7 |
+ ivM | iiiM | biiiM | iiM |
+ biiM | iM | ivm | bvii7 |
+ vim | bviih biii7 | vim | iim v7 |
+ iv7 | iv7 | vim | vim |
+ iim | v7 | iM iim | biiiM v7 |
+ ivM | iiiM | biiiM | iiM |
+ biiM | iM | ivm | bvii7 |
+ vim | bviih biii7 | vim | bviih biii7 |

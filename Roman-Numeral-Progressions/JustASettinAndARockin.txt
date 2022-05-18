@@ -1,0 +1,13 @@
+Title = Just A Settin' and A Rockin'
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM iM | ivM ivM iim iM iM iM iM iM | ivM iM | iim iim v7 iM iM iM iM iM |
+ ivM iM | iim biiio | iM vim | iim iim v7 iM iM iM iM iM |
+ iM iM | ivM ivM iim iM iM iM iM iM | ivM iM | iim iim v7 iM iM iM iM iM |
+ ivM iM | iim biiio | iM vim | iim iim v7 iM iM iM iM iM |
+ iiim iiim | iiim iiim | iiim iiim | bvm vii7 |
+ iiiM iiiM | iiiM iiio | bvm vii7 | iim v7 |
+ iM iM | ivM ivM iim iM iM iM iM iM | ivM iM | iim iim v7 iM iM iM iM iM |
+ ivM iM | iim biiio | iM vim | iim iim v7 iM iM iM iM iM |

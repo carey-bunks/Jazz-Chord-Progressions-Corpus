@@ -1,0 +1,13 @@
+Title = Shoutin' Out
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Fm7 | Bb7 | EbM7 | Ebm7 Ab7 |
+ DbM7 | Gb7#11 | Gm7 | C7alt |
+ Fm7 | Bb7 | EbM7 | Ebm7 Ab7 |
+ DbM7 | Gb7#11 | Gm7 | C7alt |
+ Abm7 | Db7 | GbM7 | GbM7 |
+ Gm7 | C7alt | Fm7 | Bb7 |
+ Fm7 | Bb7 | EbM7 | Ebm7 Ab7 |
+ DbM7 | Gb7#11 | Gm7 | C7alt |
+

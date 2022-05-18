@@ -1,0 +1,15 @@
+Title = Expresso Bongo
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 40
+ viim iii7 iii7 iim | iim v7 | iM vim vim v7 | v7 bv7 |
+ iiM viim viim vm | vm i7 | ivM vm vm vim | bviiM |
+ bviih bviih bviih biii7 | biii7 biii7 ii7 vm | vm vm vm vih | vih bii7 |
+ bvm vii7 vii7 biiim | biiim bvi7 | biim v7 | bv7 |
+ viim iii7 iii7 iim | iim v7 | iM vim vim v7 | v7 bv7 |
+ iiM viim viim vm | vm i7 | bii7 v7 v7 bv7 | bv7 i7 |
+ viim iii7 | bvih bii7 | bvm iiim iiim iim | iim v7 |
+ iM vim vim bvm | bvm vii7 | iiiM iiiM viim iiim | iiim vim |
+ NC bvm | bvm bvm bvm ivm | ivm iiim | iiim iiim iiim vm |
+ NC bvm | bvm bvm bvm ivm | ivm iiim | iiim iiim iiim vm |

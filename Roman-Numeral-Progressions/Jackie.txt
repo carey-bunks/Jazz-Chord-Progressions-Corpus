@@ -1,0 +1,8 @@
+Title = Jackie
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ iM | iv7 bvo | iM | iM |
+ iv7 | iv7 bvo | iM | iM vi7 |
+ iim | v7 | iM | iim v7 |

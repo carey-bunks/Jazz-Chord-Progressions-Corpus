@@ -1,0 +1,13 @@
+Title = Beautiful Love
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Em7b5 | A7b9 | Dm6 | Dm6 |
+ Gm7 | C7 | FM7 | Em7b5 A7 |
+ Dm6 | Gm7 | Bb7b5 | Em7b5 A7 |
+ Dm6 | Dm6 | Bb7b5 | A7 |
+ Em7b5 | A7 | Dm6 | Dm6 |
+ Gm7 | C7 | FM7 | Em7b5 A7 |
+ Dm6 | Gm7 | Bb7b5 | A7 |
+ Dm6 | Bb7 A7 | Dm6 | Em7b5 A7 |
+

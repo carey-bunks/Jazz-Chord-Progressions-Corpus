@@ -1,0 +1,13 @@
+Title = How High The Moon
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM | im | iv7 |
+ bviiM | bviiM | bviim | biii7 |
+ bviM | iih v7 | im | iih v7 |
+ iM | iim v7 | iiim biii7 | iim iim iim v7 |
+ iM | iM | im | iv7 |
+ bviiM | bviiM | bviim | biii7 |
+ bviM | iih v7 | iM | iim v7 |
+ iiim biii7 | iim iim iim v7 | iM | iim iim iim v7 |

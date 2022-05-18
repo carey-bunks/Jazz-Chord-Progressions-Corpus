@@ -1,0 +1,9 @@
+Title = Glow Worm
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ C6 | G7 | G7 | C6 |
+ Em7 Ebo7 | G7/D | Dm7 G7 | C6 |
+ C6 | G7 | G7 | C6 |
+ Em7 Ebo7 | D7 | G13 | C6 |
+

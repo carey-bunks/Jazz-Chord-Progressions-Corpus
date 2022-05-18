@@ -1,0 +1,16 @@
+Title = Soul Bossa Nova
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 44
+ iM | iM | iM | iM |
+ ivM | ivM | iM | iM vi7 |
+ ii7 | v7 | iM | iM v7 |
+ iM | iM | iM | iM |
+ ivM | ivM | iM | iM vi7 |
+ ii7 | v7 | iM | iM |
+ iM | vim | iM | vim |
+ iM | vim | vim | v7 |
+ iM | iM | iM | iM |
+ ivM | ivM | iM | iM vi7 |
+ ii7 | v7 | iM | iM v7 |

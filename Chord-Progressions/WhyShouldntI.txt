@@ -1,0 +1,13 @@
+Title = Why Shouldnt I
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C | Dm7 G7 | C | Dm7 G7 |
+ C | Dm7 G7 | C | Dm7 G7 |
+ C | Dm7 G7 | C | B7 |
+ E B7 | E B7 | E B7 | E E E Eb |
+ Dm | A7 | Dm | Co |
+ C | D7 | G7 Eo | Dm7 G7 |
+ C | Dm7 G7 | C7 | F A7 |
+ D7 | G7 | C | C |
+

@@ -1,0 +1,13 @@
+Title = Personality
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ ii7 | ivm | iM ivm | iiim vi7 |
+ iim v7 | iM vi7 | iim v7 | iM |
+ ii7 | ivm | iM ivm | iiim vi7 |
+ iim v7 | iM vi7 | iim v7 | iM |
+ vm | i7 | ivM | ivM |
+ bviih iii7 | vim | iim | v7 |
+ ii7 | ivm | iM ivm | iiim vi7 |
+ iim v7 | iM vi7 | iim v7 | iM |

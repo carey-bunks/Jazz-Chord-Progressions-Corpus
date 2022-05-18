@@ -1,0 +1,13 @@
+Title = Handful Of Stars
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM io | iim biiio | iM iM vm iv7 | ivM bvii7 |
+ iM vii7 | iiih vi7 | ii7 v7 | iM vi7 iim v7 |
+ iM io | iim biiio | iM iM vm iv7 | ivM bvii7 |
+ iM vii7 | iiih vi7 | ii7 v7 | iM |
+ iiim | ivh vii7 | iiim | vi7 ii7 |
+ vM vo | vim vii7 | iiim vi7 | iim v7 |
+ iM io | iim biiio | iM iM vm iv7 | ivM bvii7 |
+ iM vii7 | iiih vi7 | ii7 v7 | iM iM iim v7 |

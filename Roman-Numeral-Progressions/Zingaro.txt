@@ -1,0 +1,13 @@
+Title = Zingaro
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ vim | vim | vo | vo |
+ vm | bv7 | ivM | ivM |
+ iim | v7 | iM | iM |
+ bvii7 | bvii7 | iiiM | iii7 |
+ vim | vim | vo | vo |
+ vm | v7 | ivM | ivM |
+ iim | iio | iM | ivM |
+ iim | ivm | iii7 | vim |

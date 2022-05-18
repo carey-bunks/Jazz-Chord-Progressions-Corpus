@@ -1,0 +1,9 @@
+Title = Jelly Roll
+DB Key = Ab
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 14
+ vim ii7 | vim ii7 | vim | ii7 |
+ v7 | v7 | i7 | i7 |
+ v7 v7 bv7 iv7 | iii7 | vi7 | ii7 |
+ v7 | v7 |

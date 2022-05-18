@@ -1,0 +1,13 @@
+Title = First Trip
+DB Key = F
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ vM | v7 | biii7 | v7 |
+ iii7 | vi7 | ii7 | v7 |
+ vM | v7 | biii7 | v7 |
+ iii7 | vi7 | ii7 | v7 |
+ vi7 | vi7 | iii7 | iii7 |
+ vii7 | vii7 biii7 | bvi7 | vim ii7 |
+ vM | v7 | biii7 | v7 |
+ iii7 | vi7 | ii7 | v7 v7 vim ii7 |

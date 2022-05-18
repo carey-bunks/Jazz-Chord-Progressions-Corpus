@@ -1,0 +1,13 @@
+Title = Teaneck
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ viim | iii7 | vim vm | vm i7 |
+ ivM | bvh vii7 | iiim | vi7 |
+ iim | v7 | iM | iM |
+ viih iii7 | vim | ii7 | iim v7 |
+ viim | iii7 | vim vm | vm i7 |
+ ivM | bvh vii7 | iiim | vi7 |
+ iim | v7 | iiim | vi7 |
+ iim v7 | v7 | iM | iM |

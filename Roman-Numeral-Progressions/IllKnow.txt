@@ -1,0 +1,19 @@
+Title = I'll Know
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 56
+ iM vim | iim v7 | iiim vim | iim v7 |
+ iM vim | iim v7 | biiio iiim | ivM ivM vim ii7 |
+ vM bvi7 | vM bvi7 | iM vim | iim v7 |
+ iiim vim | iim v7 | iM vim | iim v7 |
+ biiio iiim | ivM ivM vim ii7 | vM bvi7 | vM bvi7 |
+ vM vM | iv7 bvo | iiim vim | iim v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iiim vim | iim v7 | iM vim | iim v7 |
+ biiio iiim | ivM ivM vim ii7 | vM bvi7 | vM bvi7 |
+ iM vim | iim v7 | iiim vim | iim v7 |
+ iM vim | iim v7 | biiio iiim | ivM ivM vim ii7 |
+ vM bvi7 | vM bvi7 | vM vM | iv7 bvo |
+ iiim vim | iim v7 | iM vim | iim v7 |
+ iM v7 | biiio v7 | iM v7 | biiio biiio v7 v7 |

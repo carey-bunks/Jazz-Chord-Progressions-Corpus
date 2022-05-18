@@ -1,0 +1,13 @@
+Title = When I Grow Too Old To Dream
+DB Key = F
+EstKeySig = F
+TimeSig = 3 4
+Bars = 32
+ iM | iM | iM | iM |
+ iim | v7 | iM | i7 |
+ ivM | ivM ivM v7 | iM | vim |
+ iM | v7 | iM | iM |
+ iiim | iim | iM | iM |
+ iM | iii7 | vim | i7 |
+ ivM | ivM ivM v7 | iM | vim vim bvi7 |
+ iM | v7 | iM | iM |

@@ -1,0 +1,13 @@
+Title = Fancy Meeting You
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM | iim v7 | iM | io iim |
+ iM iM | iim vii7 | iM iM | vm vm bviim bviio |
+ iim | ivm | iM iM | iM |
+ vim | iM iM iim iio | vim ii7 | bvi7 bvi7 v7 v7 |
+ iM | iim v7 | iM | vio iim |
+ iM iM | iim vii7 | iiim iM | iiim vi7 |
+ iim | ivM ii7 | iM iM bvii7 vi7 | vi7 |
+ iim | iim iim ivM v7 | iM | vim v7 |

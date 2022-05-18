@@ -1,0 +1,7 @@
+Title = Chrissie I
+DB Key = F
+TimeSig = 4 4
+Bars = 8
+ F | Gm7 C7 | F | Am7 D7 |
+ G | Am7 D7 | Gm7 C7 | C7 |
+

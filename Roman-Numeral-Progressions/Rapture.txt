@@ -1,0 +1,14 @@
+Title = Rapture
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 34
+ ivM | ivM | ivM | ivM |
+ viM | viM | viM | viM viM viM bvi7 bvi7 bvi7 iiiM iiiM |
+ ivM | ivM | ivM | ivM |
+ viM | viM | viM | viM viM viM bvi7 bvi7 bvi7 bvi7 bvi7 |
+ bii7 | bv7 | vii7 | iii7 |
+ vim | vim | ii7 | ii7 |
+ vim | vim | ii7 | ii7 |
+ vM | vii7 | iiiM | iiiM |
+ iii7 NC | NC |

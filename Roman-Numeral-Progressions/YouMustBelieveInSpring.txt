@@ -1,0 +1,12 @@
+Title = You Must Believe In Spring
+DB Key = D
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 26
+ vih vih vih ii7 | ii7 ii7 bvim bvim | biim biim biim bv7 | bv7 viiM |
+ iiih iiih iiih vi7 | iih iih iih bvi7 | biim biim bv7 bv7 | viiM viiM vih ii7 |
+ vih vih vih ii7 | ii7 ii7 bvim bvim | biim biim biim bv7 | bv7 viiM |
+ iiih iiih iiih vi7 | iiih iiih iiih vi7 | iim iim iim v7 | iM iM viih iii7 |
+ viih viih viih iii7 | iii7 iii7 vim vim | iim iim iim v7 | v7 iM |
+ bvh bvh bvh vii7 | iiih iiih iiih vi7 | iim iim iim v7 | iM ivM |
+ viih viih viih iii7 | vim |

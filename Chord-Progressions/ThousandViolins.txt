@@ -1,0 +1,13 @@
+Title = A Thousand Violins
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Am | B7 | E7 E7+ | Am |
+ Dm | Am | E7b9 E7 | Am Am Am E7 |
+ Am | B7 | E7 E7+ | Am |
+ Dm | Am | E7b9 | Am |
+ Dm7 G7 G7 G7 | Dm C C C | Dm E+ E+ E+ | Am |
+ Dm6 | Am | Am B7b9 Am6 B7 | Dm E7b9 Dm6 E7 |
+ Am | B7 | E7 E7+ | Am |
+ Dm | Am | E7b9 E7b9 E7b9 Dm6 | Am |
+

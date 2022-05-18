@@ -1,0 +1,14 @@
+Title = Wink
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 36
+ iiiM | iiiM | iiim | iiim |
+ iim | iim | iim iim | viih iii7 |
+ vim | iiim | iim | viih iii7 |
+ vim | iiim | iim | iv7 viim |
+ iiiM | iiiM | iiim | iiim |
+ iim | iim | iim | viih iii7 |
+ vim | vim | vim | vim |
+ iim | iim | iim | iim |
+ viih | iii7 | vim | vim |

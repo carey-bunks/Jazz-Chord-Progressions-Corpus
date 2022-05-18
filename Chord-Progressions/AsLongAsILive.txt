@@ -1,0 +1,13 @@
+Title = As Long As I Live
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F6 | C Cm | Cm D7 | C D7+ |
+ G9 G13 | Bb/C Bb/C Bb/C C7+ | F Gm F F | G7 C7 |
+ F6 | C Cm | Cm D7 | C D7+ |
+ G9 G13 | Bb/C Bb/C Bb/C C7+ | F Gm F F | F |
+ F#o7 | Gm | Bbm | F |
+ Dm | G7 | C7 Ebm | Bb C7 |
+ F6 | C Cm | Cm D7 | C D7+ |
+ G9 G13 | Bb/C Bb/C Bb/C C7+ | F Gm F F | Bo7 C13 |
+

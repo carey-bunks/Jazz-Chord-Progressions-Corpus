@@ -1,0 +1,13 @@
+Title = Tomorrow's Expectations
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Gb69 | F7#11 | Em7 | Eb7#11 |
+ Bm7 Bm7/A | Ab13#11 | GbM7#11 | EM7#11 |
+ Gb69 | F7#11 | Em7 | Eb7#11 |
+ Bm7 Bm7/A | Ab13#11 | GbM7#11 | EM7#11 |
+ Gm7b5 | C7alt | BM7 | BM7 |
+ G/Ab | Db7#11 | Cm7 Cm7/Bb | DbM7/Ab G7b6 |
+ Gb69 | F7#11 | Em7 | Eb7#11 |
+ Bm7 Bm7/A | Ab7#11 | GbM7#11 | EM7#11 |
+

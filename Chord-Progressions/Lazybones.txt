@@ -1,0 +1,13 @@
+Title = Lazybones
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ CM7 F7 | CM7 F7 | CM7 CM7 F7 G7#5 | C6 C7/Bb |
+ A7 | Dm7 | Ab7b5 G7 | C6 G7 |
+ CM7 F7 | CM7 F7 | CM7 CM7 F7 G7#5 | C6 C7/Bb |
+ A7 | Dm7 | Ab7b5 G7 | C6 G7 |
+ F F6 | FM7 F6 | CM7 G7 | CM7 |
+ F7 Eb7 | D7 G7 | D7 | Dm7 G7 |
+ CM7 F7 | CM7 F7 | CM7 CM7 F7 G7#5 | C6 C7/Bb |
+ A7 | Dm7 | Ab7b5 G7 | C6 C6 Dm7 G7 |
+

@@ -1,0 +1,13 @@
+Title = Blue Gardenia
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Am7 | D13sus4 D13sus4 D13sus4 D13b9 | GM7 | F#7 |
+ FM7 | E7 | Am7 D7b9 | GM7 E7b9 |
+ Am7 | D13sus4 D13sus4 D13sus4 D13b9 | GM7 | F#7 |
+ FM7 | E7 | Am7 | D13b9 |
+ GM7 | D7b9#11 D7 | GM9 | C#m7 F#7 |
+ BM7 G#m7 | F#9#11 F#9 | B9 E13 | Em7 A7 |
+ Am7 | D13sus4 D13sus4 D13sus4 D13b9 | GM7 | Bm7b5 E7b9 |
+ Am7 | D9sus4 D7b9 | G6 | G6 |
+

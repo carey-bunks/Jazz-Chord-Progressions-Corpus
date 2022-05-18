@@ -1,0 +1,13 @@
+Title = Webb City
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim iio | iiim vi7 | iim v7 |
+ i7 | iv7 ivm | iiim vi7 | iim v7 |
+ iM vim | iim iio | iiim vi7 | iim v7 |
+ i7 | iv7 ivm | iim v7 | iM |
+ iv7 | iv7 | i7 | vi7 |
+ ii7 | ii7 | v7 | v7 |
+ iM vim | iim iio | iiim vi7 | iim v7 |
+ i7 | iv7 ivm | iim v7 | iM |

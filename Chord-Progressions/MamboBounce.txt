@@ -1,0 +1,11 @@
+Title = Mambo Bounce
+DB Key = Eb
+TimeSig = 4 4
+Bars = 24
+ Eb | Fm7 | Fm7b5 | Bb7 |
+ Eb | Fm7 | Fm7 | Bb7 |
+ Gm7 | AbM7 | Fm7 | Bb7 |
+ Eb | Fm7 | Fm7b5 | Bb7 |
+ Eb | Fm7 | Fm7b5 | Bb7 |
+ Gm7 | AbM7 | Fm7 | Eb |
+

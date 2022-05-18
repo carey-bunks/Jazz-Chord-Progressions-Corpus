@@ -1,0 +1,13 @@
+Title = Soon
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iiih | vi7 vi7 |
+ iim | iim | ivm | v7 v7 |
+ iM | vm i7 | ivM | iiih vi7 |
+ iim | v7 | iiim vim | iim v7 |
+ iM | iM | iiih | vi7 vi7 |
+ iim | iim | ivm | v7 v7 |
+ iM | vm i7 | ivM | bvii7 |
+ iiim vim | iim v7 | iM | iM |

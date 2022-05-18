@@ -1,0 +1,11 @@
+Title = Chappaqua
+DB Key = C
+TimeSig = 4 4
+Bars = 26
+ Amb6 | Amb6 | BbM7#11 | BbM7#11 |
+ G/B | G/B | C | C |
+ CM7#5 | CM7#5 | Amb6 | Amb6 |
+ Fm/Ab | Fm/Ab | Ab/Gb | Ab/Gb |
+ GbM7#5 | GbM7#5 | Gm | Gmb6 |
+ GM7#5 | Abm | Abmb6 | AbM7#5 |
+ Am | Am |

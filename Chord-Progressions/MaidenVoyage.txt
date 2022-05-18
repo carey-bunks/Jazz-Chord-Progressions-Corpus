@@ -1,0 +1,13 @@
+Title = Maiden Voyage
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Am7/D | Am7/D | Am7/D | Am7/D |
+ Cm7/F | Cm7/F | Cm7/F | Cm7/F |
+ Am7/D | Am7/D | Am7/D | Am7/D |
+ Cm7/F | Cm7/F | Cm7/F | Cm7/F |
+ Bbm7/Eb | Bbm7/Eb | Bbm7/Eb | Bbm7/Eb |
+ Dbm7 | Dbm7 | Dbm7 | Dbm7 |
+ Am7/D | Am7/D | Am7/D | Am7/D |
+ Cm7/F | Cm7/F | Cm7/F | Cm7/F |
+

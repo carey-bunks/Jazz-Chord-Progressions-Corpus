@@ -1,0 +1,8 @@
+Title = Ju Ju
+DB Key = C
+EstKeySig = D
+TimeSig = 4 4
+Bars = 12
+ vi7 | vi7 | vi7 | vi7 |
+ bvi7 | v7 | bvM | iim |
+ biiiM | vim | biiiM | vim |

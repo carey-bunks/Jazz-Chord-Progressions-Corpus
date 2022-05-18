@@ -1,0 +1,21 @@
+Title = Christopher Columbus
+DB Key = F
+TimeSig = 4 4
+Bars = 64
+ F F7 | Bb Bb Bbm G7b5 | F | Gm7 C7 |
+ F F7 | Bb Bb Bbm G7b5 | F | Gm7 C7 |
+ F F7 | Bb Bb Bbm G7b5 | F | Gm7 C7 |
+ F F7 | Bb Bb Bbm G7b5 | F | C7 F |
+ F Abo7 | Abo7 C9 | F Abo7 | Abo7 C9 |
+ F Abo7 | Abo7 C9 | F Abo7 | Am Gm6 F C7 |
+ F Abo7 | Abo7 C9 | F Abo7 | Abo7 C9 |
+ F Abo7 | Abo7 C9 | F Abo7 | Am Gm6 F F |
+ A7 A7 G#7 G#7 A7 A7 Bb7 A7 | A7 A7+ A7+ A7+ A7+ A7+ A7+ A7+ | D9 | D9 |
+ G7 G7 Go7 G7 | G7 | C7 | C7 |
+ F Abo7 | Abo7 C9 | F Abo7 | Abo7 C9 |
+ F Abo7 | Abo7 C9 | F Abo7 | Am Gm6 F F |
+ F F7 | Bb Bb Bbm G7b5 | F | Gm7 C7 |
+ F F7 | Bb Bb Bbm G7b5 | F | Gm7 C7 |
+ F F7 | Bb Bb Bbm G7b5 | F | Gm7 C7 |
+ F F7 | Bb Bb Bbm G7b5 | F | C7 F |
+

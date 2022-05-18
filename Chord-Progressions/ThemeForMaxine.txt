@@ -1,0 +1,11 @@
+Title = Theme for Maxine
+DB Key = C
+TimeSig = 3 4
+Bars = 24
+ Em7 | F#m7 | D7 | C7 |
+ Gm7 | Cm | Gm | Cm |
+ Em7 | F#m7 | D7 | C7 |
+ Gm7 | Cm | Gm | Cm |
+ AM7 | GM7 | FM7 | Am7 |
+ AM7 | GM7 | FM7 | Am7 |
+

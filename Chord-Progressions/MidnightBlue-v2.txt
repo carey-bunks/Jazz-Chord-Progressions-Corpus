@@ -1,0 +1,10 @@
+Title = Midnight Blue
+DB Key = Ab
+TimeSig = 4 4
+Bars = 24
+ Fm7 Gm7 | AbM7 Gm7 | Fm7 Gm7 | AbM7 Gm7 |
+ Fm7 Gm7 | AbM7 Gm7 | Fm7 Gm7 | AbM7 Gm7 | 
+ Fm7 Gm7 | AbM7 C7#9 | Fm7 Gm7 | AbM7 C7#9 |
+ Fm7 Gm7 | AbM7 C7#9 | Fm7 Gm7 | Fm7 Gm7b5 |
+ Gm7b5 | C7+5+9 | Fm9 | Bb7 |
+ Bbm9 | Abm9 | C7+5+9 | C7#9 |

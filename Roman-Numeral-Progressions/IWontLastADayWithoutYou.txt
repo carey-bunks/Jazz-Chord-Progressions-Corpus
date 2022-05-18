@@ -1,0 +1,20 @@
+Title = I Won't Last a Day Without You
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 60
+ iM iiim | ivM ivM | vim | iim iim |
+ iM iiim | ivM ivM | vim | iim iim |
+ iM bviiM | ivM ivM iim iim | iM bviiM | ivM ivM iim iim |
+ iM bviiM | ivM iM | iim iim | iM iM |
+ ivM vM | iM iiim | ivM ivM | vim |
+ iim iim | iM iiim | ivM ivM | vim |
+ iim iim | iM bviiM | ivM ivM iim iim | iM bviiM |
+ ivM ivM iim iim | iM bviiM | ivM iM | iim iim |
+ iM | vim ii7 | vM | vim ii7 |
+ iii7 iiiM | ivm bvii7 | iiiM | im iiM |
+ iii7 iiiM | iim v7 | iM iiim | ivM ivM |
+ vim | iim iim | iM iiim | ivM ivM |
+ vim | iim iim | iM bviiM | ivM ivM iim iim |
+ iM bviiM | ivM ivM iim iim | iM bviiM | ivM iM |
+ iim iim | iM iM | ivM ivM ivM vM | iM |

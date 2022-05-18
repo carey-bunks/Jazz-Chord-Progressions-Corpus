@@ -1,0 +1,13 @@
+Title = Turn Around, Look At Me
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM ivM iM ivM | iM ivM iM iM | iim v7 | v7 v7 |
+ iim | bviiM v7 | iM | i7 |
+ ivM | iii7 | vim | ivm |
+ iM | iM iM iM vim | iim | v7 v7 v7 iim |
+ iM ivM iM ivM | iM ivM iM iM | iim v7 | v7 v7 |
+ iim | bviiM v7 | iM | i7 |
+ ivM | iii7 | vim | ivm |
+ iM iM | vim vim | iim iim iim v7 | iM iM iM ivM |

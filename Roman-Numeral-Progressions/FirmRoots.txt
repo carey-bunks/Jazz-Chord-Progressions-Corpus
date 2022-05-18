@@ -1,0 +1,16 @@
+Title = Firm Roots
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 44
+ v7 | i7 | ivo | ivM |
+ v7 | i7 | ivo | ivM |
+ iiim | vi7 | iiM | iiM |
+ iih | v7 | iM | iM |
+ v7 | i7 | ivo | ivM |
+ v7 | i7 | ivo | ivM |
+ iiim | vi7 | iiM | iiM |
+ iih | v7 | iM | iM |
+ vm | vim | viim | im |
+ ivm | ivm | ivm | ivm |
+ iim | iim | iim | iim |

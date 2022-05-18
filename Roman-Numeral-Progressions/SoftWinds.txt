@@ -1,0 +1,9 @@
+Title = Soft Winds
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ iM bviiM | iM bviiM | iM bviiM | iM bviiM |
+ ivM biiiM | ivM biiiM | ivM biiiM | ivM biiiM |
+ iM bviiM | iM bviiM | iM bviiM | iM bviiM |
+ bvi7 v7 | bvi7 v7 | iv7 v7 | iM |

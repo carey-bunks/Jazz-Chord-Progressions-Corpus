@@ -1,0 +1,16 @@
+Title = Boo -Hoo
+DB Key = C
+TimeSig = 4 4
+Bars = 44
+ C | G7+ G7+ G7+ C | C G7 | C C Cm Ebo |
+ G7 | G7b5 G7b5 G7b5 G7 | G7 Go G7 C | G7 |
+ C C#o | G7 G7 G7+ D#o | C G7 | C G7+ |
+ C | G7+ G7+ G7+ C | C G7 | C C Cm Ebo |
+ G7 | G7b5 G7b5 G7b5 G7 | G7 Go G7 C | G7 |
+ C C#o | G7 G7 G7+ D#o | C G7 | C B7+ |
+ E | E | B7 F#m7 | B7 B7+ |
+ G | D7 | G7 Dm7 | G7 G7+ |
+ C | G7+ G7+ G7+ C | C G7 | C C Cm Ebo |
+ G7 | G7b5 G7b5 G7b5 G7 | G7 Go G7 C | G7 |
+ C C#o | G7 G7 G7+ D#o | C G7 | C |
+

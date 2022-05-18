@@ -1,0 +1,13 @@
+Title = Stella By Starlight
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ bvh | vii7 | iim | v7 |
+ vm | i7 | ivM | bvii7 |
+ iM | bvh vii7 | iiim | im iv7 |
+ vM | vim ii7 | viih | iii7 |
+ vi7 | vi7 | iim | iim |
+ bvii7 | bvii7 | iM | iM |
+ bvh | vii7 | iiih | vi7 |
+ iih | v7 | iM | iM |

@@ -1,0 +1,13 @@
+Title = Prince Of Darkness
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Cm7 | Cm7 | Gm9 | Gm9 |
+ Bbm7 | Bbm7 | Gm9 | Gm9 |
+ GbM7 | GbM7 | BbM7#5 | BM7#11 |
+ Bb7 | Ebm7 | Gbm11 | Gbm11 |
+ Cm7 | Cm7 | Gm9 | Gm9 |
+ Bbm7 | Bbm7 | Gm9 | Gm9 |
+ GbM7 | GbM7 | BbM7#5 | BM7#11 |
+ Bb7 | Ebm7 | Gbm11 | Gbm11 |
+

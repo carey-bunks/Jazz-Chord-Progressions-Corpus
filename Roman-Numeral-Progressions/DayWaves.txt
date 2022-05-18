@@ -1,0 +1,12 @@
+Title = Day Waves
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 25
+ iim | bviiM | vm | iiim ivM |
+ v7 vim | iim | iii7 | ivM |
+ ivh | v7 | v7 | biii7 |
+ biii7 | ivh | ivm | iM |
+ vii7 | vM | viM | ivM |
+ bvi7 | bvi7 bviim | bviim | iiio iiiM |
+ iiiM |

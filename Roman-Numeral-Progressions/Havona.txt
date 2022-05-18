@@ -1,0 +1,11 @@
+Title = Havona
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 22
+ viM | viM | ivM | ivM |
+ iiiM | iiiM | iM | iM |
+ vim | viM | ivM | ivM |
+ iiiM | iiiM | iM | iM |
+ ii7 iii7 iii7 iii7 | iii7 | ii7 iii7 iii7 iii7 | iii7 |
+ ii7 iii7 iii7 iii7 | NC |

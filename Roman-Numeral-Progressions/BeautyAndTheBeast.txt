@@ -1,0 +1,17 @@
+Title = Beauty And The Beast
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 47
+ i7 | i7 | i7 | i7 vii7 |
+ iiim | bv7 vii7 | iiim | iim v7 |
+ im | bviim biii7 | bviM | v7 |
+ iiim | bv7 vii7 | iiim | iim v7 |
+ im | bviim biii7 | bviM | v7 |
+ i7 | i7 | i7 | i7 vii7 |
+ iiim | bv7 vii7 | iiim | iim v7 |
+ im | bviim biii7 | bviM | v7 |
+ iiim | bv7 vii7 | iiim | iim v7 |
+ im | bviim biii7 | bviM | v7 |
+ bvm viim | iiim vi7 | iih | v7 |
+ i7 | i7 | i7 |

@@ -1,0 +1,13 @@
+Title = Cecilia
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM iiim | vim io | iim | v7 |
+ iim v7 | iim vM | iM | iM |
+ iiim iiim | iM biiio | iim iim vo v7 | v7 |
+ v7 | iim v7 | iM iim iio iM | v7 iM biiio v7 |
+ iM iiim | vim io | iim | v7 |
+ iim v7 | iim vM | iii7 | vim |
+ ii7 | iio | viiM iM iM iM | iiim vi7 |
+ iim v7 | iim v7 | iM bviiM | iM |

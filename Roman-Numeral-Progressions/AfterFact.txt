@@ -1,0 +1,13 @@
+Title = After Fact
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ vim | iim | vim vim vim vim | bii7 v7 |
+ im | iim | viM | viM |
+ vim | iim | vim vim vim vim | bii7 v7 |
+ im | iim | viM | viM |
+ iim bvi7 | bvm vii7 | vim ii7 | ih iv7 |
+ biim bv7 | iiim vi7 | vm i7 | viih iii7 |
+ vim | iim | vim vim vim vim | bii7 v7 |
+ im | iim | viM | viM |

@@ -1,0 +1,13 @@
+Title = Monk's Dream
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM iv7 | bvii7 | iM iv7 | bvii7 |
+ iM iv7 | viim bvii7 | vi7 vi7 bvi7 v7 | v7 |
+ iM iv7 | bvii7 | iM iv7 | bvii7 |
+ iM iv7 | viim bvii7 | vi7 vi7 bvi7 v7 | v7 |
+ i7 | i7 | i7 | i7 |
+ i7 | i7 | i7 | i7 |
+ iM iv7 | bvii7 | iM iv7 | bvii7 |
+ iM iv7 | viim bvii7 | vi7 vi7 bvi7 v7 | v7 |

@@ -1,0 +1,13 @@
+Title = Bye Bye Baby
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb F+ | Bb G7 G7 G7 | Cm | F7 |
+ Bb Bbo7 | Bb Gm7 | C7 | F7 |
+ Bb D7 | Gm Bb7 | Eb G7 | Cm |
+ F7 Bbo7 | F7 | Bb Gm7 | Cm7 F7 |
+ Bb F+ | Bb G7 G7 G7 | Cm | F7 |
+ Bb Bbo7 | Bb Gm7 | Am7 | D7 |
+ Bb | Bb9 | Eb Eb Ebo7 Eb | C7 |
+ Bb Bbo7 | Cm7 F7 | Bb | Cm7 F7 |
+

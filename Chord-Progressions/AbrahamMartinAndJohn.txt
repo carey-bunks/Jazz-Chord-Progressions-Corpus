@@ -1,0 +1,13 @@
+Title = Abraham, Martin, and John
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F | Am | Gm7 Bb | F |
+ F | Gm7 | C7sus4 | C7 |
+ Dm | Am | Gm7 Bb | F |
+ Gm7 | C Gm7 | Bb | F |
+ F | Am | Gm7 Bb | F |
+ F | Gm7 | C7sus4 | C7 |
+ Dm | Am | Gm7 Bb | F |
+ Gm7 | C Gm7 | Bb | F |
+

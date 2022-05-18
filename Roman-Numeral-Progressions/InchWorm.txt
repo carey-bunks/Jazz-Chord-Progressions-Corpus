@@ -1,0 +1,9 @@
+Title = The Inch Worm
+DB Key = F
+EstKeySig = F
+TimeSig = 3 4
+Bars = 16
+ iM | bviiM | iM | bviiM |
+ iM iM i7 | ivM ivM ivm | iM iM ii7 | iim iim v7 |
+ iM | bviiM | iM | bviiM |
+ iM | ivM ivM ivm | iM iM v7 | iM |

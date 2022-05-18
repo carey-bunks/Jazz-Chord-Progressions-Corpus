@@ -1,0 +1,25 @@
+Title = Young Girl
+DB Key = Bb
+TimeSig = 4 4
+Bars = 80
+ Eb | Dm | Eb | Dm |
+ Cm7 | F7 | Ab Gb | Gb |
+ BbM7 | Cm7 | BbM7 | Cm7 |
+ BbM7 | Cm7 | BbM7 | Cm7 F7 |
+ D7 | D7 | Gm | C7 |
+ Bb | F7 | Gb | Bb7 |
+ Eb | Dm | Eb | Dm |
+ Cm7 | F7 | Ab Gb | Gb |
+ BbM7 | Cm7 | BbM7 | Cm7 |
+ BbM7 | Cm7 | BbM7 | Cm7 F7 |
+ D7 | D7 | Gm | C7 |
+ Bb | F7 | Gb | Bb7 |
+ Eb | Dm | Eb | Dm |
+ Cm7 | F7 | Ab Gb | Gb |
+ BbM7 | Cm7 | BbM7 | Cm7 |
+ BbM7 | Cm7 | BbM7 | Cm7 F7 |
+ D7 | D7 | Gm | C7 |
+ Bb | F7 | Gb | Bb7 |
+ Eb | Dm | Eb | Dm |
+ Cm7 | F7 | Ab Gb | Gb |
+

@@ -1,0 +1,21 @@
+Title = Skyliner
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 64
+ iM | iM | vi7 | vi7 |
+ iim | iim | ivm | bvii7 |
+ iiim | bvii7 | iim | v7 |
+ iM | ii7 | iim | v7 |
+ iM | iM | vi7 | vi7 |
+ iim | iim | ivm | bvii7 |
+ iiim | bvii7 | iim | v7 |
+ iM | iim v7 | iM | iM |
+ ivm | vii7 | iiiM | iiiM |
+ iim | ii7 | vM | vM |
+ biiim | bvi7 | biiM | biiM |
+ iim | iim | v7 | v7 |
+ iM | iM | vi7 | vi7 |
+ iim | iim | ivm | bvii7 |
+ iiim | bvii7 | iim | v7 |
+ iM | iim v7 | iM | iM |

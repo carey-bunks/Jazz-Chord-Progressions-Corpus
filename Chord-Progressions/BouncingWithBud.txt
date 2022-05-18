@@ -1,0 +1,14 @@
+Title = Bouncin with Bud
+DB Key = Bb
+TimeSig = 4 4
+Bars = 36
+ BbM7 Gm7 | Cm7 Ab7 | Dm7 G7 | Cm7 D7 |
+ Gm7 | Dbo7 | Cm7 F7 | BbM7 B7#11 |
+ BbM7 Gm7 | Cm7 Ab7 | Dm7 G7 | Cm7 D7 |
+ Gm7 | Dbo7 | Cm7 F7 | BbM7 BbM7 Am7b5 D7 |
+ Gm6 | Gm6 | Am7b5 | D7#9 |
+ G7#11 | Gb7#11 | Cm7 | F13#11 |
+ BbM7 Gm7 | Cm7 Ab7 | Dm7 G7 | Cm7 D7 |
+ Gm7 | Dbo7 | Cm7 F7 | BbM7 |
+ F#o7 Gm7 | F#o7 Gm7 | Bo7 Cm7 | Bo7 Bo7 Bo7 Bo7 Cm7 Cm7 Gb7 F7 |
+

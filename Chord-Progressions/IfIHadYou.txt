@@ -1,0 +1,13 @@
+Title = If I Had You
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb | Bb7 | Eb | Ebm6 |
+ Bb Bbo7 | F9sus4 F7#5 | Bb6 Bbo7 | Cm7 F7 |
+ Bb | Bb7 | Eb | Ebm6 |
+ Bb Bbo7 | F9sus4 F7#5 | Bb6 | Bb6 |
+ Dm | Em7b5 A7b9 | Dm | Em7 A7 |
+ Dm | Em7b5 A7b9 | Dm | Cm7 F7 |
+ Bb | Bb7 | Eb | Ebm6 |
+ Bb Bbo7 | F9sus4 F7#5 | Bb6 | Bb6 F7 |
+

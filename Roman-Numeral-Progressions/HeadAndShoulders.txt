@@ -1,0 +1,13 @@
+Title = Head and Shoulders
+DB Key = Db
+EstKeySig = A
+TimeSig = 4 4
+Bars = 32
+ vii7 bvii7 | vi7 bvi7 | vii7 bvii7 | vi7 bvi7 |
+ vM bvm | ivM | ivM | ivM |
+ iiim vi7 | iM | biiih bvi7 | biim bv7 |
+ vii7 bvii7 | vi7 bvi7 | vii7 bvii7 | vi7 bvi7 |
+ vM bvm | ivM | ivM | ivM |
+ iiim vi7 | iM | biiih bvi7 | biim bv7 |
+ ivM biiiM | ivM bv7 | bviM bvM | bviM bvi7 |
+ bvi7 ivM | vii7 vii7 vii7 iiiM | iiiM | iiiM |

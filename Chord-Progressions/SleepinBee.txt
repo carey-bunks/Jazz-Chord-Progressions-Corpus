@@ -1,0 +1,14 @@
+Title = A Sleepin' Bee
+DB Key = Ab
+TimeSig = 4 4
+Bars = 36
+ Ab6 Bbm7/Eb | Ab6 Bbm7/Eb | Ab6 | DbM7 Gb7 |
+ Ab6 Db | Cm7 F7b9 | Bbm7 | Eb7 Db7 |
+ C7 C7b9 | F7 F7+ | Bb7 Bb7+ | Eb7 Eb7b9 |
+ Ab7 Ab7+ | Db7 | Bbm7 Cm7 Dbm7 Do7 | Bbm7/Eb Eb |
+ Ab6 Bbm7/Eb | Ab6 Bbm7/Eb | Ab6 | DbM7 Gb7 |
+ Ab6 Db | Cm7 F7b9 | Bbm7 | Eb7 Db7 |
+ C7 C7b9 | F7 F7+ | Bb7 Bb7+ | Bbm7/Eb Eb7 |
+ AbM7 DbM7 | C7 F7 | Bb7 Eb7 | C7 F7b9 |
+ Bb7 Bb7+ | Bbm7/Eb Eb7 | AbM7 | Bbm7 Eb7 |
+

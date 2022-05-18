@@ -1,0 +1,11 @@
+Title = Funky
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ viiM viiM viiM iM iM iM iM iM | iM | viiM viiM viiM iM iM iM iM iM | iM |
+ iii7 iii7 iii7 iv7 iv7 iv7 iv7 iv7 | iv7 | viiM viiM viiM iM iM iM iM iM | iM |
+ ii7 | v7 | iM vi7 | ii7 v7 |
+ viiM viiM viiM iM iM iM iM iM | iM | viiM viiM viiM iM iM iM iM iM | iM |
+ iii7 iii7 iii7 iv7 iv7 iv7 iv7 iv7 | iv7 | viiM viiM viiM iM iM iM iM iM | iM |
+ ii7 | v7 | iM vi7 | ii7 v7 |

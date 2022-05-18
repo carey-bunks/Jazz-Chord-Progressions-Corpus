@@ -1,0 +1,23 @@
+Title = Lovers' Rain Dance
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 3 4
+Bars = 72
+ iM | iM | viih | iii7 |
+ vim | biiiM | vm | i7 |
+ ivM | ivM | iiim | vi7 |
+ bvi7 | bvi7 | iim | v7 |
+ iM | iM | viih | iii7 |
+ vim | biiiM | vm | i7 |
+ ivM | ivM | iiim | vi7 |
+ bvi7 | bvi7 | iim | v7 |
+ biiM | biiM | vM | vM |
+ bvM | bvM | ivM | ivM |
+ biiiM | biiiM | vim | vim |
+ vii7 | vii7 | iiiM | iiiM |
+ iM | iM | viih | iii7 |
+ vim | biiiM | vm | i7 |
+ ivM | ivM | iiim | vi7 |
+ bvi7 | bvi7 | iim | v7 |
+ bvh | ivm | iiiM | iiiM |
+ biiM | iim | v7 | iM |

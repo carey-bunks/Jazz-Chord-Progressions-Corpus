@@ -1,0 +1,11 @@
+Title = After The Rain
+DB Key = Ab
+TimeSig = 4 4
+Bars = 27
+ Bb/Ab Bb/Ab Bb/Ab G/Ab | AbM7 | DbM7/Ab DbM7/Ab DbM7/Ab Dbo7/Ab | AbM7 |
+ DbM7/Ab Dbo7/Ab | AbM7 G/Ab | DbmM7 Dbm6/Eb | AbM7 |
+ Eb7/Ab | Bb/Ab Bb/Ab Bb/Ab G/Ab | AbM7 | DbM7/Ab DbM7/Ab DbM7/Ab Dbo7/Ab |
+ AbM7 | DbM7/Ab Dbo7/Ab | AbM7 G/Ab | DbmM7 Dbm6/Eb |
+ AbM7 | Eb7/Ab | AbM7 | Eb7sus4 |
+ AbM7 | Eb7sus4 | AbM7 | Eb7sus4 |
+ AbM7 | Eb7sus4 | AbM7 |

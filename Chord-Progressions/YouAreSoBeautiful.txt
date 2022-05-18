@@ -1,0 +1,9 @@
+Title = You Are So Beautiful
+DB Key = F
+TimeSig = 4 4
+Bars = 16
+ F F FM7 F7 | Bb Bbm | F Bb | F F Bb/C C7 |
+ F F FM7 F7 | Bb Bbm | F Bb | F |
+ Cm7 F9 | Bb | A | Dm |
+ G9 Bbm6 | F/C F/C FM7/C F7/C | Bb Bbm | F Bb/F |
+

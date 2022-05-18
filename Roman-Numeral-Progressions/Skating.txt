@@ -1,0 +1,20 @@
+Title = Skating
+DB Key = C
+EstKeySig = C
+TimeSig = 3 4
+Bars = 60
+ iM | ivM | iM iM v7 | ivM |
+ iM | biiiM | bvM | viM |
+ iM | ivM | iM iM v7 | ivM |
+ iM | biiiM | bviM | biiM |
+ iM | ivM | iM iM v7 | ivM |
+ iM | biiiM | bvM | viM |
+ iM | ivM | iM iM v7 | ivM |
+ iM | iim | iiim | bv7 |
+ ivm | bvii7 | biiiM | biiiM |
+ biiim | bvi7 bvi7 ii7 | biiM | iih iih v7 |
+ iM | ivM | iM iM v7 | ivM |
+ iM | biiiM | bvM | viM |
+ iM | ivM | iM iM v7 | ivM |
+ iM | ivM | vM | ivM |
+ iM | ivM | vM | ivM |

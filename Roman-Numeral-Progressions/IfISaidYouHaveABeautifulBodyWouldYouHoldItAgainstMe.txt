@@ -1,0 +1,14 @@
+Title = If I Said You Have A Beautiful Body, Would You Hold It Against Me?
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 33
+ v7 | v7 | iM | iM |
+ v7 | v7 | iM | iM |
+ v7 | v7 | iM | iM |
+ vim | ivM | v7 | iM |
+ iM | iM | iM | ivM |
+ ivM | iim | iim | v7 iim |
+ vM | iM | iM | ivM |
+ ivM | iim | v7 | iM |
+ iM |

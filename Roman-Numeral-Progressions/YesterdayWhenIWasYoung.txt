@@ -1,0 +1,13 @@
+Title = Yesterday When I Was Young
+DB Key = F
+EstKeySig = F
+TimeSig = 3 4
+Bars = 32
+ iim | v7 | iM | ivM |
+ viih | iii7 | vim | vim |
+ iim | v7 | iM | ivM |
+ viih | iii7 | vim | vim |
+ iim | v7 | iM | ivM |
+ iim | iii7 | vim | vim vim vi7 |
+ iim | v7 | iM | ivM |
+ iim | iii7 | vim | vim |

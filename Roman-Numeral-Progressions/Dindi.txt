@@ -1,0 +1,13 @@
+Title = Dindi
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | bviiM | iM | vm i7 |
+ ivM | ivm | iM | iim v7 |
+ iM | bviiM | iM | vm i7 |
+ ivM | ivm | iM | bvh vii7 |
+ iiim | im | iiim im | iiim vi7 |
+ iim | bviim biii7 | iim bviim | iim v7 |
+ iM | bviiM | iM | vm i7 |
+ ivM | ivm | iM | bvii7 |

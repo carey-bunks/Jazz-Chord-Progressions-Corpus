@@ -1,0 +1,11 @@
+Title = Mambo Bounce
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ iM | iim | iih | v7 |
+ iM | iim | iim | v7 |
+ iiim | ivM | iim | v7 |
+ iM | iim | iih | v7 |
+ iM | iim | iih | v7 |
+ iiim | ivM | iim | iM |

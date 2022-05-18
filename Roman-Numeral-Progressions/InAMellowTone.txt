@@ -1,0 +1,13 @@
+Title = In A Mellow Tone
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ ii7 | v7 | iM | iM |
+ vm | i7 | ivM | ivM |
+ ivM | ivm | i7 vii7 | bvii7 vi7 |
+ ii7 | ii7 | v7 | v7 |
+ ii7 | v7 | iM | iM |
+ vm | i7 | ivM | ivM |
+ ivM | ivm | i7 vii7 | bvii7 vi7 |
+ ii7 | v7 | iM | iM |

@@ -1,0 +1,12 @@
+Title = The Rain in Spain
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 25
+ iM iM iM io | v7 | iM | iM |
+ iM iM iM v7 | v7 | iM | iM |
+ iM | iim iim iim v7 | iM | v7 |
+ iM | ivM ivM ivM viih | iiiM | vii7 |
+ iiiM v7 | iM iM iM io | v7 | iM |
+ iM | iM iM iM v7 | v7 | iM |
+ iM |

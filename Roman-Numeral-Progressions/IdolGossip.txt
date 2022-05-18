@@ -1,0 +1,13 @@
+Title = Idol Gossip
+DB Key = F
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iiim | iiim | i7 | i7 |
+ bvh | vii7 | iiim | vii7 |
+ iiim | iiim | i7 | i7 |
+ bvh | vii7 | iiim | iim v7 |
+ iM biio | iim v7 | iM biio | iim v7 |
+ iM biio | iim v7 | iM vim | bvh vii7 |
+ iiim | iiim | i7 | i7 |
+ bvh | vii7 | iiim | vii7 |

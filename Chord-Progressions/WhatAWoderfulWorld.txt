@@ -1,0 +1,13 @@
+Title = What A Wonderful World
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ FM7 Am7 | BbM7 Am | Gm7 FM7 | A7/E Dm7 |
+ DbM7 | Gm7/C C7 | FM7 F7+ | BbM7 C7 |
+ FM7 Am7 | BbM7 Am | Gm7 FM7 | A7/E Dm7 |
+ DbM7 | Gm7/C C7 | FM7 BbM7 | FM7 |
+ C7 | FM7 | C7 | FM7 |
+ Dm7 CM7 | CM7 | Dm7 F#o7 | Gm7 F#o7 Gm7 C7 |
+ FM7 Am7 | BbM7 Am | Gm7 FM7 | A7/E Dm7 |
+ DbM7 | Gm7/C C7 | FM7 BbM7 | FM7 |
+

@@ -1,0 +1,8 @@
+Title = Sandu
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 12
+ v7 | i7 | v7 | v7 |
+ i7 | i7 | v7 | v7 |
+ NC iiM NC iiM | NC iiM NC | vM NC NC NC vim vim vim bvi7 | NC |

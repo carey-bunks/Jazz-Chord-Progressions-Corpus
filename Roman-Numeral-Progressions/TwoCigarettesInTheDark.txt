@@ -1,0 +1,13 @@
+Title = Two Cigarettes in the Dark
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iiim biiio | iim | v7 v7 |
+ iiim vim | iim | iim v7 | iM v7 |
+ iM | iiim biiio | iim | v7 v7 |
+ iiim vim | iim | iim v7 | iM |
+ vm i7 | vm i7 | ivM i7 | ivM |
+ bvim bii7 | bvim bii7 | i7 bii7 | ii7 v7 |
+ iM | iiim biiio | iim | v7 v7 |
+ iiim vim | iim | iim v7 | iM v7 |

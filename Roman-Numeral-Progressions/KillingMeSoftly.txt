@@ -1,0 +1,12 @@
+Title = Killing Me Softly
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 26
+ iim | v7 | iM | ivM |
+ iim | v7 | vim | vim |
+ iim | v7 | iM | iii7 |
+ vim | ivM | vM | iM |
+ vim | iiM | vM | ivM |
+ iM | ivM | bviiM | bviiM |
+ viM | viM |

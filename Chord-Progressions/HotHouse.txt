@@ -1,0 +1,13 @@
+Title = Hot House
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Gm7b5 | C7#11 | FmM7 | FmM7 |
+ Dm7b5 | G7 | CM7 | CM7 |
+ Gm7b5 | C7#11 | FmM7 | FmM7 |
+ Dm7b5 | G7 | CM7 | CM7 |
+ Cm7 | F13b9#11 | BbM7 | BbM7 |
+ Ab13b9#11 | Ab13b9#11 | G13b9#11 | G13b9#11 |
+ Gm7b5 | C7#11 | FmM7 | FmM7 |
+ Dm7b5 | G7 | CM7 | CM7 |
+

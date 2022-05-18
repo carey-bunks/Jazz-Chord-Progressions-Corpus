@@ -1,0 +1,10 @@
+Title = Spain
+DB Key = D
+TimeSig = 4 4
+Bars = 24
+ GM7 | GM7 | GM7 | GM7 | 
+ F#7 | F#7 | F#7 | F#7 | 
+ Em7 | Em7 | A7 | A7 |
+ DM7 | DM7 | GM7 | GM7 | 
+ C#7 | C#7 | F#7 | F#7 | 
+ B7sus | B7sus | B7 | B7 | 

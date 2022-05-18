@@ -1,0 +1,15 @@
+Title = Don't Take Your Love From Me
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 40
+ iM iim | iiim biiio | v7 v7 | iim v7 |
+ iim | v7 | iM | iM |
+ iM | biiio | iim vi7 | iim |
+ iim vi7 | iih v7 | iM bvi7 | v7 |
+ iM iim | iiim biiio | v7 v7 | iim v7 |
+ iim | v7 | iM | iM |
+ iM iim | iiim biiio | v7 v7 | iim v7 |
+ iim | v7 | iM | vm i7 |
+ ivM | bvii7 | iM | iiih vi7 |
+ iim | v7 | iM | iim v7 |

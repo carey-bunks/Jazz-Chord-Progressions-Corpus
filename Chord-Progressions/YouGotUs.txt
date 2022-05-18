@@ -1,0 +1,16 @@
+Title = You Got Us
+DB Key = C
+TimeSig = 4 4
+Bars = 44
+ Eb/G Gbdim Fm6 Eb | Bb/D Eb Fm7 Bbm/Db | C7 C7 F9/C Abm6/B | Eb/Bb |
+ G7b9/D Bbm6/Db | F7/C Abm6/B | Eb/Bb Adim | Fm7/G# Bb7 |
+ Eb/G Gbdim Fm6 Eb | Bb/D Eb Fm7 Bbm/Db | C7 C7 F9/C Abm6/B | Eb/Bb |
+ G7b9/D Bbm6/Db | F7/C Abm6/B | Eb/Bb Adim | Fm7/G# Bb7 |
+ Eb/G Gbdim Fm6 Eb | Bb/D Eb Fm7 Bbm/Db | C7 C7 F9/C Abm6/B | Eb/Bb |
+ Eb7/Bb Eb7/Bb E/B Eb9/Bb | Adim Adim Bbm6 Eb13 | Ab Db9 | Cm11 Dbm11 |
+ Dm11 G7 | Dbm6 Dm6 | C7 Fm7b5 | B9 Bb9 |
+ G7b9/D Bbm6/Db | F7/C Abm6/B | Eb/Bb Adim | Fm7/G# Bb7 |
+ Eb/G Gbdim Fm6 Eb | Bb/D Eb Fm7 Bbm/Db | C7 C7 F9/C Abm6/B | Eb/Bb |
+ G7b9/D Bbm6/Db | F7/C Abm6/B | Eb/Bb Adim | Fm7/G# Bb7 |
+ Eb/G Gbdim Fm6 Eb | Bb/D Eb Fm7 Bbm/Db | C7 C7 F9/C Abm6/B | Eb/Bb Eb69 |
+

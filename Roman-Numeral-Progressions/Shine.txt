@@ -1,0 +1,13 @@
+Title = Shine
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iim | v7 |
+ iM | iM | iim | v7 |
+ iii7 | iii7 | vim | vim |
+ ii7 | ii7 | v7 | v7 |
+ iM | iM | iim | v7 |
+ iii7 | iii7 | vim | vim |
+ ivM | ivM bvii7 | iM | vi7 |
+ iim | v7 | iM | iim v7 |

@@ -1,0 +1,13 @@
+Title = You Belong To Me
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iiim | ivM | iM vi7 |
+ iim ivm | iM vim | ii7 | v7 |
+ iM | iiim | ivM | iM vi7 |
+ iim ivm | iM vim | ii7 v7 | iM |
+ i7 | vm i7 | bviiM ivM | ivM |
+ ii7 | vim ii7 | v7 | v7 |
+ iM | iiim | ivM | iM vi7 |
+ iim ivm | iM vim | ii7 v7 | iM v7 |

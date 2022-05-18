@@ -1,0 +1,13 @@
+Title = Black Nile
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Dm | Eb7 | Dm | Cm7 F7 |
+ BbM7 | Em7b5 A7 | Dm | A7alt |
+ Dm | Eb7 | Dm | Cm7 F7 |
+ BbM7 | Em7b5 A7 | Dm | Dm7 Ab7#11 |
+ Gm7 Ab7#11 | Gm7 Gb7 | Fm7 Bb7 | EbM7 Ab7 |
+ Gm7 Ab7#11 | Gm7 Gb7 | Fm7 Bb7 | EbM7 A7alt |
+ Dm | Eb7 | Dm | Cm7 F7 |
+ BbM7 | Em7b5 A7 | Dm | A7alt |
+

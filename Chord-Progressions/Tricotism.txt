@@ -1,0 +1,13 @@
+Title = Tricotism
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | EbM7 | F7 | F7 |
+ AbM7 Ao7 | Eb/Bb C7 | B7 | Bb7 |
+ EbM7 | EbM7 | F7 | F7 |
+ AbM7 Ao7 | Eb/Bb C7 | Fm7 Bb7 | Eb69 |
+ B7 | B7 | EbM7 | EbM7 G7 |
+ Cm CmM7 | Cm7 F7 | Fm7 | Fm7 Bb7 |
+ EbM7 | EbM7 | F7 | F7 |
+ AbM7 Ao7 | Eb/Bb C7 | Fm7 Bb7 | Eb69 |
+

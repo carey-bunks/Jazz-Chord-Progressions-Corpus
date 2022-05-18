@@ -1,0 +1,9 @@
+Title = My Ideal
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 16
+ iM vi7 | iim | bvii7 vi7 | ii7 |
+ v7 iim | v7 iii7 | vim ii7 | bvi7 v7 |
+ iM vi7 | iim | bvii7 vi7 | ii7 |
+ ivM ivm | iM vim | ii7 v7 | iM iM iim v7 |

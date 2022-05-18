@@ -1,0 +1,10 @@
+Title = Circle
+DB Key = C
+TimeSig = 3 4
+Bars = 22
+ Dm7 | Dm7 | Dm6 | BbM7b5 |
+ EbM7b5 | D13 | Bm9 | CM7 |
+ CM7 | CM7 | GM7 | AbM7 |
+ A7sus4 | FM7b5 | A7sus4 | A7sus4 |
+ DM7 | DM7 | BbM7b5 | BbM7b5 |
+ Em7b5 | A7 |

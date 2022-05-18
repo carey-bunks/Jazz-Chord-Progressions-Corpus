@@ -1,0 +1,13 @@
+Title = A Dreamer's Holiday
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | vii7 | iim v7 | vi7 |
+ ivM ivm | iM vi7 | ii7 | iim v7 |
+ iM | vii7 | iim v7 | vi7 |
+ ivM ivm | iM vi7 | ii7 v7 | iM |
+ vm i7 | ivM iim | vm i7 | ivM |
+ vim ii7 | vM iiim | vim ii7 | v7 v7 |
+ iM | vii7 | iim v7 | vi7 |
+ ivM ivm | iM vi7 | ii7 v7 | iM iM iim v7 |

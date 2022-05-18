@@ -1,0 +1,13 @@
+Title = Pimlico
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM v7 | iM v7 | iM | bvii7 vi7 |
+ iim | bvi7 v7 | iM bii7 | bv7 vii7 |
+ iM v7 | iM v7 | iM | bvii7 vi7 |
+ iim | bvi7 v7 | iM iM bii7 bv7 | vii7 iM |
+ bviM viio | bviim bvio | bviM iv7 | bviim biii7 |
+ im iv7 | bviim biii7 | bviM | iim v7 |
+ iM v7 | iM v7 | iM | bvii7 vi7 |
+ iim | bvi7 v7 | iM iM bii7 bv7 | vii7 iM |

@@ -1,0 +1,13 @@
+Title = So What?
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ Ebm7 | Ebm7 | Ebm7 | Ebm7 |
+ Ebm7 | Ebm7 | Ebm7 | Ebm7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+

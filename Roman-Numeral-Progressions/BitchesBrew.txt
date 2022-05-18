@@ -1,0 +1,8 @@
+Title = Bitches Brew
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 12
+ NC | NC | NC | vim |
+ NC | NC | NC | vim |
+ iiM iiiM iM iiM | bviiM iM NC NC | NC | NC vim |

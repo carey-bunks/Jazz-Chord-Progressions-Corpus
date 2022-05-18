@@ -1,0 +1,13 @@
+Title = Diminushing
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | ivM | ivM |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | ivM | ivM |
+ viiM bv7 | viiM bv7 | viiM bv7 | viiM bv7 |
+ viiM bv7 | viiM bv7 | viiM bv7 | viiM ii7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | ivM | ivM |

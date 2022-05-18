@@ -1,0 +1,13 @@
+Title = All That Jazz
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM v7 | iM | iM v7 |
+ iM | iii7 vi7 | ii7 | v7 |
+ i7 | iv7 | i7 | iv7 |
+ i7 | iv7 iii7 | vim ii7 | iim v7 |
+ iM | iM v7 | iM | iM v7 |
+ iM | iii7 vi7 | ii7 | v7 |
+ i7 | i7 | iv7 | iii7 vi7 |
+ ii7 | iim v7 | iM | iim |

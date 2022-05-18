@@ -1,0 +1,9 @@
+Title = T'Ain't Nobody's Bizness
+DB Key = Bb
+TimeSig = 4 4
+Bars = 16
+ BbM7 | D7 | Gm7 Bb7/F | Eb6 Eo7 |
+ BbM7 | Cm7 F7 | BbM7 G7alt | C7 F7+ |
+ BbM7 | D7 | Gm7 Bb7/F | Eb6 Eo7 |
+ BbM7 | Cm7 F7 | BbM7 BbM7 Eb7 Eo7 | F7 |
+

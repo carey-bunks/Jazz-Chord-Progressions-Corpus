@@ -1,0 +1,10 @@
+Title = Swinging On A Star
+DB Key = Eb
+TimeSig = 4 4
+Bars = 20
+ Bb Cm7 | Bb Cm7 | Bb Cm7 | Bb G7 |
+ C7 | F | Gm7 C7 | F F7 |
+ Bb Cm7 | Bb G7 | Cm7 F7 | Bb |
+ G7 | C7 | F7 | Bb D7 |
+ G7 | C7 | Cm7 F7 | Bb F7 |
+

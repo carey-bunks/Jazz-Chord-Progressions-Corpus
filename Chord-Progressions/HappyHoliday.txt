@@ -1,0 +1,9 @@
+Title = Happy Holiday
+DB Key = Bb
+TimeSig = 4 4
+Bars = 16
+ Bb6 | BbM7 Bb6 | Cm7 | Cm7 Cm7 Cm7 F7 |
+ F7 | Bb Gm7 | Cm7 Cm7 Cm7 F7 | Bb Bb Bb F7 |
+ Bb | Bb | Cm7 | Cm7 Cm7 Cm7 F7 |
+ F7 | Bb Gm7 | Cm7 Cm7 Cm7 F7 | Bb |
+

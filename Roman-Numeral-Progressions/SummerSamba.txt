@@ -1,0 +1,13 @@
+Title = Summer Samba
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM | bvm | vii7 |
+ ivM | ivM | bvii7 | bvii7 |
+ iiim | vi7 | iim | viih iii7 |
+ vim | ii7 | iim | bvi7 v7 |
+ iM | iM | bvm | vii7 |
+ ivM | ivM | bvii7 | bvii7 |
+ iiim | vi7 | iim | v7 |
+ iM | iv7 | iM | iim v7 |

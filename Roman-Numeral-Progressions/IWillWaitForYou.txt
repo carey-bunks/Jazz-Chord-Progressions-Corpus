@@ -1,0 +1,13 @@
+Title = I Will Wait For You
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ vim | vim | iim | iim |
+ v7 | v7 | iM | viih iii7 |
+ vim | vim | iim | iim |
+ vim | viih iii7 | vim | viim iii7 |
+ vim | vim | iim | iim |
+ v7 | v7 | iM | viih iii7 |
+ vim | vim | iim | iim |
+ vim | viih iii7 | vim | vim |

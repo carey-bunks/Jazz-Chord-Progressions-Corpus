@@ -1,0 +1,13 @@
+Title = Year of the Cat
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Cmaj7 Bm | Em | Cmaj7 Bm | Em |
+ Cmaj7 Bm | Em | Am7 | D7 |
+ Cmaj7 Bm | Em | Cmaj7 Bm | Em |
+ Cmaj7 Bm | Em | Am7 | D7 |
+ Cmaj7 Bm | Em | B | C |
+ C B | Em | Am7 | D7 |
+ Cmaj7 Bm | Em | Cmaj7 Bm | Em |
+ Cmaj7 Bm | Em | Am7 | D7 |
+

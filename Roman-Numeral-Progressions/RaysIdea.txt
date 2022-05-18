@@ -1,0 +1,13 @@
+Title = Ray's Idea
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim v7 | iiim vi7 | iim v7 |
+ i7 | iv7 bvo | iM vi7 | iim v7 |
+ iM vim | iim v7 | iiim vi7 | iim v7 |
+ i7 | iv7 bvo | iM | iM |
+ vm | i7 | iiim | bvii7 |
+ biiim | bvi7 | iim | v7 |
+ iM vim | iim v7 | iiim vi7 | iim v7 |
+ i7 | iv7 bvo | iM | iM |

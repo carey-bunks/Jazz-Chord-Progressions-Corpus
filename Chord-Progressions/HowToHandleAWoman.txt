@@ -1,0 +1,12 @@
+Title = How to Handle a Woman
+DB Key = Eb
+TimeSig = 4 4
+Bars = 30
+ Eb Bb9 | Eb | Eb | EbM9 |
+ Eb | Eb EbM7 Eo7 Eo7 | Ab | Bb |
+ Fm7 Bb7 | Eb | Fm7 Fm7 Bb9 Bb9+ | EbM9 |
+ Cm6 Cm6 D+ D7 | G B Am7 Am7 | Em Em D7b9 D7 | G |
+ Eb Bb9 | Eb | Eb | Ab Abm6 |
+ Eb Eb Bb7 Bb7+ | Eb Db | Eb Bb7 | Eb Fm7 |
+ Eb Bb7 | Eb Eb Ab Ab6 | Eb | Bb9 |
+ Bb Eb Eb Eb | Fm7 Bb7 |

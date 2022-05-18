@@ -1,0 +1,13 @@
+Title = Another Time, Another Place
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iv7 | iv7 |
+ bviiM | bviiM | biii7 | biii7 |
+ ivM | vo | viM | io |
+ iM | vim | ii7 | v7 |
+ iM | iM | iv7 | iv7 |
+ bviiM | bviiM | biii7 | biii7 |
+ ivM | bvii7 | iM | biiio |
+ iim | v7 | iM | iim v7 |

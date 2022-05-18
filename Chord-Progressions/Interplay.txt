@@ -1,0 +1,8 @@
+Title = Interplay
+DB Key = Ab
+TimeSig = 4 4
+Bars = 12
+ Fm6 | Bbm6 | Fm6 | F7#5#9 |
+ Bbm7 | Bbm7 | Fm6 | Ab7 |
+ Gm7b5 | C7+ | Fm6 Dm7b5 | DbM7 GbM7 |
+

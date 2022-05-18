@@ -1,0 +1,10 @@
+Title = A Blossom Fell
+DB Key = Bb
+TimeSig = 4 4
+Bars = 20
+ Bb Bb Bb Bo7 | Cm7 | F7 F7 F7 F7#5 | Bb |
+ Bb Bb Bb Bbo | Cm7 F7 | F7 F7 F7 F7#5 | Bb Bo7 F7 F7 |
+ Bb Bb Bb Bo7 | Cm7 | F7 F7 F7 F7#5 | Bb Bb Bb Bb7#5 |
+ Eb | Bb | Cm7 F7 | Bbo Bbo Bb Bb7#5 |
+ Eb Eb Eb Ebm | Bb Bbo | Cm7 F7 | Bb F7 |
+

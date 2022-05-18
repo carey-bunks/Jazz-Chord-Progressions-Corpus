@@ -1,0 +1,19 @@
+Title = Will You Still Be Mine?
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 56
+ iM | iiim vi7 | iim | v7 |
+ iM | iiim vi7 | iim | viih iii7 |
+ vim vim | vim vim | ii7 | ii7 |
+ bvi7 | v7 | iM vi7 | iim v7 |
+ iM | iiim vi7 | iim | v7 |
+ iii7 | iii7 | vim | iii7 |
+ vim | vim | ii7 | ii7 |
+ bvi7 | v7 | vm | vm i7 |
+ ivM | ivM | bvii7 | bvii7 |
+ iM | vim | iim bvi7 | iim v7 |
+ iM | iiim vi7 | iim | v7 |
+ iM | iiim vi7 | iim | viih iii7 |
+ vim vim | vim vim | ii7 | ii7 |
+ iim | v7 | iM | iim v7 |

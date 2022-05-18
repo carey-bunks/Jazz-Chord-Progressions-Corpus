@@ -1,0 +1,13 @@
+Title = A Beautiful Friendship
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ CM7 | Gb9#11 | FM7 | Em7 A7#5b9 |
+ Am7 | D7 | Dm7 | G7b9 |
+ CM7 | Gb9#11 | FM7 | Em7 A7#5b9 |
+ Am7 | D7 | Dm7 | G7 |
+ Gm9 | C9 | FM9 | Bb9 |
+ Em7 | A9 | D9 | G9sus4 G7#5b9 |
+ CM7 | Gb9#11 | FM7 | Em7b5 A7#5b9 |
+ Dm7 | G9sus4 G9 | C6 A7#5b9 | D9 G9 |
+

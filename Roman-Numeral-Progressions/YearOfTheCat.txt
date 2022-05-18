@@ -1,0 +1,13 @@
+Title = Year of the Cat
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ ivM iiim | vim | ivM iiim | vim |
+ ivM iiim | vim | iim | v7 |
+ ivM iiim | vim | ivM iiim | vim |
+ ivM iiim | vim | iim | v7 |
+ ivM iiim | vim | iiiM | ivM |
+ ivM iiiM | vim | iim | v7 |
+ ivM iiim | vim | ivM iiim | vim |
+ ivM iiim | vim | iim | v7 |

@@ -1,0 +1,13 @@
+Title = My Romance
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM iim iiim bv7 | ivM v7 | iM iii7 |
+ vim vim | vim vi7 | iim v7 | iM iM vm i7 |
+ ivM bvii7 | iM iM bv7 | ivM ivM | iM iM iM vm |
+ ivh ivh ivh vii7 | iiim iiim iiim bviim | vim ii7 | iim |
+ iM iv7 | iiim biiio | iim v7 | iM iii7 |
+ vim iii7 | vim bii7 vm bv7 | ivM ivM iiim iim | iM i7 |
+ ivM vi7 | iim iim | viih iii7 | vim bvi7 |
+ iM | iim v7 | biiM | v7 |

@@ -1,0 +1,13 @@
+Title = The Pebble Beach Theme
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iv7 | iv7 |
+ iM | iM | iiih | vi7 |
+ iim | viih iii7 | vim | vim |
+ ii7 | ii7 | bvi7 | v7 v7 |
+ iM | iM | iv7 | iv7 |
+ iM | iM | iiih | vi7 |
+ iim | viih iii7 | vim | vim |
+ bvh iv7 | iiim vi7 | iim v7 | iM ii7 |

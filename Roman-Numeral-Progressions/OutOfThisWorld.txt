@@ -1,0 +1,24 @@
+Title = Out Of This World
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 76
+ vim | ivM | ii7 ii7 ii7 ii7 | ivM |
+ vim | ivM | vim | ii7 ii7 ii7 ii7 |
+ ivM | iim | iM | v7 |
+ iiM | biiio | iiim | viM |
+ vim | ivM | ii7 ii7 ii7 ii7 | ivM |
+ vim | ivM | vim | ii7 ii7 ii7 ii7 |
+ ivM | iim | iM | v7 |
+ iiM | biiio | iiim | vi7 vi7 |
+ iiM | iiM | iM viim | vim vim v7 bv7 |
+ viim | viim | viim | viim |
+ viim | viio | v7 | bv7 |
+ viim | vM | viim | v7 |
+ viim | v7 | bv7 | bv7 |
+ vii7 | iii7 iii7 iii7 vi7 | vim | ivM |
+ ii7 ii7 ii7 ii7 | ivM | vim | ivM |
+ vim | ii7 ii7 ii7 ii7 | ivM | iim |
+ iM | vo | iiM | biiio |
+ biiio | biiio | iiM | iiM |
+ iM viim | bvm iiim | iiim | biio |

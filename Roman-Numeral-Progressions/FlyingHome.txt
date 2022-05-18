@@ -1,0 +1,13 @@
+Title = Flying Home
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM iM | vim vim bvi7 v7 | iM iM | vim vim bvi7 v7 |
+ iM iM | vim vim bvi7 v7 | iM | v7 |
+ iM iM | vim vim bvi7 v7 | iM iM | vim vim bvi7 v7 |
+ iM iM | vim vim bvi7 v7 | iM | iM |
+ i7 | i7 | iv7 | iv7 |
+ ii7 | ii7 | v7 | v7 |
+ iM iM | vim vim bvi7 v7 | iM iM | vim vim bvi7 v7 |
+ iM iM | vim vim bvi7 v7 | iM | iM |

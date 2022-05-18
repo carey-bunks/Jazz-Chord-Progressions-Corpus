@@ -1,0 +1,21 @@
+Title = Please Please Me
+DB Key = E
+EstKeySig = E
+TimeSig = 4 4
+Bars = 62
+ iM | iM | ivM iM | biiiM biiiM biiiM ivM ivM vM vM vM |
+ iM | iM | ivM iM | iM |
+ ivM | biim | bvim | ivM |
+ iM | ivM vM | iM | ivM v7 |
+ iM | iM | ivM iM | biiiM biiiM biiiM ivM ivM vM vM vM |
+ iM | iM | ivM iM | iM |
+ ivM | biim | bvim | ivM |
+ iM | ivM vM | iM | iM |
+ ivM | vM | iM | iM |
+ ivM | vM | iM | ivM vM |
+ iM | ivM v7 | iM | iM |
+ ivM iM | biiiM biiiM biiiM ivM ivM vM vM vM | iM | iM |
+ ivM iM | iM | ivM | biim |
+ bvim | ivM | iM | ivM vM |
+ iM | ivM vM | iM biiiM | bviM v7 |
+ iM | iM |

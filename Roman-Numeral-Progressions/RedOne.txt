@@ -1,0 +1,15 @@
+Title = The Red One
+DB Key = D
+EstKeySig = G
+TimeSig = 4 4
+Bars = 40
+ iiim | iiim iM | vim bviim | iM ivM |
+ iiim iiim | iM vi7 | iM bviim | ivM iiim |
+ iiim | iiim iM | vim bviim | iM ivM |
+ iiim iiim | iM vi7 | iM bviim | ivM ivM iiim vi7 |
+ vi7 | vi7 | vi7 | vi7 |
+ vi7 | vi7 | ivM | ivM |
+ iiim | iiim iM | vim bviim | iM ivM |
+ iiim iiim | iM vi7 | iM bviim | ivM ivM iiim bvii7 |
+ bvii7 | bvii7 | bvii7 | bvii7 |
+ bvii7 | bvii7 | bvii7 | bvii7 |

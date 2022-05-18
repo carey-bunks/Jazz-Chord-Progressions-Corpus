@@ -1,0 +1,17 @@
+Title = All I Ask of You
+DB Key = Db
+TimeSig = 4 4
+Bars = 48
+ Db | Db | DbM7 Gb6 | Cb Ab/C |
+ Db | Db | DbM7 Gb6 | Cb Ab/C |
+ Db Bbm7 | Ebm7 Ab | Db/F Bbm7 | Ebm7 Ebm7/Ab |
+ Db Bbm7 | Ebm7 Ab | Db/F Gb | Db/Ab |
+ Db/Ab Ebm/Ab Ab Ebm/Ab | Db | Db | DbM7 Gb6 |
+ Cb Ab/C | Db | Db | DbM7 Gb6 |
+ Cb Ab/C | Db Bbm7 | Ebm7 Ab | Db/F Bbm7 |
+ Ebm7 | Ebm7 Ab Ab6 Ab7 | Db Bbm7 | Ebm7 Ab |
+ Db/F Gb | Db/Ab | Ebm7/Ab Ebm7/Ab Ab6 Ebm7/Ab | Db Bbm7 |
+ Ebm7 Ab | Db/F Bbm7 | Ebm7 Ebm7/Ab | Db Bbm7 |
+ Ebm7 Ab | Db/F Gb | Db/Ab | Ebm7/Ab |
+ Ab6 Ebm7/Ab | Db | Db | Db |
+

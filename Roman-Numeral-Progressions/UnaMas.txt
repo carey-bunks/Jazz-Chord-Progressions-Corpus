@@ -1,0 +1,9 @@
+Title = Una Mas
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 16
+ vi7 | ii7 | vi7 | ii7 |
+ ii7 | v7 | ii7 | v7 |
+ i7 | iv7 | bviiM | i7 |
+ bviiM bvi7 | v7 | iiih vi7 | iim |

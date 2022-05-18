@@ -1,0 +1,23 @@
+Title = Can't Take My Eyes Off Of You
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 72
+ iM | iM | iM | iM |
+ i7 | i7 | ivM | ivM |
+ ivm | ivm | iM | iM |
+ ii7 | ivm | iM | iM |
+ iM | iM | iM | iM |
+ i7 | i7 | ivM | ivM |
+ ivm | ivm | iM | iM |
+ ii7 | ivm | iM | iM |
+ ivm ivM ivm ivM | ivm ivM ivM ivM | iM iM iM iM | iM iM iM iM |
+ ivm ivM ivm ivM | ivm ivM ivM ivM | iM iM iM iM | vi7 |
+ iim | v7 | iM | vim |
+ iim | iim v7 | iM | vim |
+ iim | v7 | iM | vim |
+ iim | iim | vii7 bvii7 | bvii7 v7 v7 v7 |
+ iM | iM | iM | iM |
+ i7 | i7 | ivM | ivM |
+ ivm | ivm | iM | iM |
+ ii7 | ivm | iM | iM |

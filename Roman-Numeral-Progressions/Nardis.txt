@@ -1,0 +1,13 @@
+Title = Nardis
+DB Key = G
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iiim | ivM | vii7 | iM |
+ vim | ivM | iiiM | iiim |
+ iiim | ivM | vii7 | iM |
+ vim | ivM | iiiM | iiim |
+ vim vim vim ivM | ivM | vim vim vim ivM | ivM |
+ iim | iim v7 | iM iM iM vii7 | vii7 |
+ iiim | ivM | vii7 | iM |
+ vim | ivM | iiiM | iiim |

@@ -1,0 +1,13 @@
+Title = A Little Street Where Old Friends Meet
+DB Key = Eb
+TimeSig = 3 4
+Bars = 32
+ EbM7 | G7 | Cm7 | F7 |
+ Fm7 | Bb7 | EbM7 | EbM7 |
+ EbM7 | F#o7 | Fm7 | Bb7 |
+ Fm7 | Bb7 | Fm7 Fm7 Bb7 | EbM7 |
+ EbM7 | G7 | Cm7 | F7 |
+ Fm7 | Bb7 Bb7 Ab7 | GM7 | GM7 |
+ AbM7 | Ao7 | EbM7 | C7 |
+ Fm7 | Bb7 | EbM7 | Fm7 Fm7 Bb7 |
+

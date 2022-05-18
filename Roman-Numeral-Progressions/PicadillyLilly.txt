@@ -1,0 +1,15 @@
+Title = Picadilly Lilly
+DB Key = E
+EstKeySig = E
+TimeSig = 4 4
+Bars = 38
+ iM | iM | ivm | ivm |
+ bvim | v7 | iM | bii7 |
+ iM | iM | ivm | ivm |
+ bvim | v7 | iM | iM |
+ ivm | ivm | biii7 | biii7 |
+ ivm | ivm | biii7 | biii7 |
+ bvim | viim | viim v7 | v7 |
+ iM | ivm | iiiM | v7 |
+ iM | biiiM | bvM | iiiM |
+ iM iv7 | iv7 |

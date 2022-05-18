@@ -1,0 +1,13 @@
+Title = Chanson D'Amour
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | ii7 | iim | iim |
+ v7 | vM | iM | iii7 |
+ vi7 | vm vm vm vi7 | iim | iim |
+ v7 | vM | iM | iim v7 |
+ iM | ii7 | iim | iim |
+ v7 | vM | iM | iii7 |
+ vi7 | vm vm vm vi7 | iim | iim |
+ v7 v7 v7 iim | v7 v7 v7 bii7 | iM | iim bii7 iM iM |

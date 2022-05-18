@@ -1,0 +1,8 @@
+Title = Bb Blues for Wes
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ iM | iv7 | iM | biim bv7 |
+ iv7 | iv7 iv7 iv7 bvo | iM iv7 | iM vi7 |
+ iim | bvim i7 | iM | iim v7 |

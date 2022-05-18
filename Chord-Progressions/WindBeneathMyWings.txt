@@ -1,0 +1,11 @@
+Title = The Wind Beneath My Wings
+DB Key = A
+TimeSig = 4 4
+Bars = 24
+ A | D | A | D D D D/C# |
+ Bm Bm7 | E7 | Bm Bm7 | E E7 |
+ A | D | A | D D D D/C# |
+ Bm Bm7 | E7 | Bm Bm7 | E C#7 |
+ F#m D | A A A/E C#7/E | F#m D | A A A/E C#7/E |
+ F#m D | A F#m7 | Bm7 E7 | A |
+

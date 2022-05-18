@@ -1,0 +1,13 @@
+Title = Penny
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | bvm vii7 | ivm bvii7 | iiim vi7 |
+ iim v7 | iim v7 | iM vi7 | iim v7 |
+ iM | bvm vii7 | ivm bvii7 | iiim vi7 |
+ iim v7 | iim v7 | iM | iM |
+ viiM | viim iii7 | viM | vim ii7 |
+ vM | vim ii7 | iim | v7 |
+ iM | bvm vii7 | ivm bvii7 | iiim vi7 |
+ iim v7 | iim v7 | iM vi7 | iim v7 |

@@ -1,0 +1,13 @@
+Title = I'll Build A Stairway to Paradise
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM v7 | i7 v7 | iM | i7 |
+ ivM i7 | iv7 | iiim biiio | v7 |
+ iM | iM | bvi7 | bvi7 |
+ iM v7 | i7 vi7 vi7 vi7 | ii7 v7 | iM iM io v7 |
+ iM v7 | i7 v7 | iM | i7 |
+ ivM i7 | iv7 | iiim biiio | v7 |
+ iM | iM | bvi7 | bvi7 |
+ iM v7 | i7 vi7 vi7 vi7 | ii7 v7 | iM bvi7 iM iM |

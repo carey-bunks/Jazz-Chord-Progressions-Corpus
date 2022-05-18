@@ -1,0 +1,13 @@
+Title = Back Bay Shuffle
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM | v7 | v7 |
+ iM i7 | ivM ivm | iM v7 | iM v7 |
+ iM | iM | v7 | v7 |
+ iM i7 | ivM ivm | iM v7 | iM |
+ iiim | iiim | iiim | vii7 |
+ vM | vM | vM | vM v7 |
+ iM | iM | v7 | v7 |
+ iM i7 | ivM ivm | iM v7 | iM |

@@ -1,0 +1,17 @@
+Title = Straight Street
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 48
+ bviim biii7 | bvim bii7 | bvm vii7 | iiim vi7 |
+ iim | biii7 | ivM | bii7 |
+ vm i7 | iiim vi7 | iim | iim iim iim vim |
+ bviim biii7 | bvim bii7 | bvm vii7 | iiim vi7 |
+ iim | biii7 | ivM | bii7 |
+ vm i7 | iiim vi7 | iim | iim |
+ im | iv7 | iim | v7 |
+ biiim | bvi7 | biiM | vii7 |
+ bviim | vii7 | iiim bvii7 | bvm bvm vii7 vim |
+ bviim biii7 | bvim bii7 | bvm vii7 | iiim vi7 |
+ iim | biii7 | ivM | bii7 |
+ vm i7 | iiim vi7 | iim | iim iim iim vim |

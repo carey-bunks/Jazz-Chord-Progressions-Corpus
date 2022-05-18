@@ -1,0 +1,17 @@
+Title = Slipped Disc
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 48
+ ii7 v7 | iM biiio | iim v7 | iM vi7 |
+ ii7 v7 | iM biiio | iim v7 | iM vi7 |
+ ii7 v7 | iM biiio | iim v7 | iM vi7 |
+ ii7 v7 | iM biiio | iim v7 | iM |
+ iii7 | vim | iii7 | vim |
+ ii7 | v7 | ii7 | v7 |
+ ii7 v7 | iM biiio | iim v7 | iM vi7 |
+ ii7 v7 | iM biiio | iim v7 | iM |
+ ivM bvo | iM i7 | ivM bvo | iM i7 |
+ ivM bvo | iM vi7 | ii7 | v7 |
+ ivM bvo | iM i7 | ivM bvo | iM i7 |
+ ivM bvo | iM vi7 | ii7 v7 | iM |

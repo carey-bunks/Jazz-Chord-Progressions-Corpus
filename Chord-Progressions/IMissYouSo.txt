@@ -1,0 +1,13 @@
+Title = I Miss You So
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 | Bb+ | EbM7 Eb69 Eb69 Eb69 | Ebm7 Ebm7 Ebm7 Ab13 |
+ Dm9 Dm9 G13 G7b13 | Cm9 F13 | Ab13#11 Ab13#11 G13 G7b13 | Gb13 Gb13 F13 F13b9 |
+ BbM7 | Bb+ | BbM7 Eb69 Eb69 Eb69 | Ebm7 Ebm7 Ebm7 Ab13 |
+ Dm9 Dm9 G13 G7b13 | Cm9 F13 | GbM7/F | BbM7 BbM7 Em7b5 A7b9 |
+ Dm7 | Em7b5 A7#5b9 | Dm7 | G13 |
+ Cm CmM7 | Ab13 G13 | C9 | Cm9 F13 |
+ BbM7 | Bb+ | EbM7 Eb69 Eb69 Eb69 | Ebm7 Ebm7 Ebm7 Ab13 |
+ Dm9 Dm9 G13 G7b13 | Cm9 F13 | Bb6 Ab13 G13 G7#5b9 | C9#11 Cm7 Cm7 Cm7 |
+

@@ -1,0 +1,13 @@
+Title = Rain Check
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ FM7 Gm7 | Abo7 F/A | BbM7 Am7 | Gm7 C7 |
+ FM7 Gm7 | Abo7 F/A | BbM7 Am7 | Gm7 C7 |
+ FM7 Gm7 | Abo7 F/A | BbM7 Am7 | Bm7 E7 |
+ AM7 F#7 | Bm7 E7 | Eb7 D7 | Db7 C7 |
+ FM7 Gm7 | Abo7 F/A | BbM7 Am7 | Gm7 C7 |
+ FM7 Gm7 | Abo7 F/A | BbM7 Am7 | Gm7 C7 |
+ FM7 | Cm7 F7 | BbM7 D7alt | Db7 C7 |
+ FM7 Gm7 | Abo7 F/A | Gm7 C7 | FM6 |
+

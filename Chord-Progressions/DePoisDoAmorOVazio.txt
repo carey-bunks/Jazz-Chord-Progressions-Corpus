@@ -1,0 +1,22 @@
+Title = De Pois Do Amor O Vazio
+DB Key = C
+TimeSig = 4 4
+Bars = 69
+ Ebmaj9 | Ebmaj9 | Dm7 | Dm7 |
+ Cm9 | Cm9 | F13 | F13 |
+ Emaj9 | Emaj9 | Bmaj7 | Bb9 |
+ Ebmaj9 | Ebmaj9 | D13b9 | D13b9 |
+ Gm7 | Gm7 | A7sus | A7sus |
+ Cm7 | Cm7 | F9 | F9 |
+ Bm7b5 | Bm7b5 | E7b9 | E7b9 |
+ Ebm9 | Ebm9 | Ebm9 | Ebm9 |
+ Ebmaj9 | Ebmaj9 | Dm7 | Dm7 |
+ Cm9 | Cm9 | F13 | F13 |
+ Emaj9 | Emaj9 | Bmaj7 | Bb9 |
+ Ebmaj9 | Ebmaj9 | D13b9 | D13b9 |
+ Gm7 | Gm7 | A7sus | A7sus |
+ Ebm7 | Ebm7 | Fm9 | Fm9 |
+ Gm9 | Gm9 | A11 | A11 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ BmMaj7 | BmMaj7 | BmMaj7 | BmMaj7 |
+ BmMaj7 |

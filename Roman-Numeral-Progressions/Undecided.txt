@@ -1,0 +1,13 @@
+Title = Undecided
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iv7 | iv7 |
+ ii7 | iim iim bvi7 v7 | iM | bvi7 v7 |
+ iM | iM | iv7 | iv7 |
+ ii7 | iim iim bvi7 v7 | iM | iM |
+ i7 | i7 | ivM | ivM |
+ ii7 | ii7 | v7 | v7 |
+ iM | iM | iv7 | iv7 |
+ ii7 | iim iim bvi7 v7 | iM | iim v7 |

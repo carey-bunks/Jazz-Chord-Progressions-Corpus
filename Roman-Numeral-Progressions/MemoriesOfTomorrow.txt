@@ -1,0 +1,11 @@
+Title = Memories Of Tomorrow
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 24
+ vim | vim | vim | iiim |
+ ivM ivo | iM | v7 | iM |
+ iiM | ivM | iM | biiiM vi7 |
+ bviM | ivm | bvii7 | iM |
+ viim bvii7 | vim ivm | iM iiM | ivM |
+ iM | v7 | iM | viim bvii7 |

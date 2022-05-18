@@ -1,0 +1,13 @@
+Title = Straighten Up And Fly Right
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM iM | ivM bvo | iM vim | iim v7 |
+ iM iM | ivM bvo | iM vim | bvi7 v7 |
+ iM iM | ivM bvo | iM vim | iim v7 |
+ iM iM | ivM bvo | iM vim | iim v7 iM iM |
+ iii7 | iii7 | vi7 | vi7 bvii7 vi7 vi7 |
+ ii7 | ii7 | v7 | v7 bvi7 v7 v7 |
+ iM iM | ivM bvo | iM vim | iim v7 |
+ iM iM | ivM bvo | iM vim | iim v7 iM iM |

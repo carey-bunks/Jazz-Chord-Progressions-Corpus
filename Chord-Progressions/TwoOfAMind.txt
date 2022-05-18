@@ -1,0 +1,13 @@
+Title = Two Of A Mind
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb6 Cm7 | Fm7 Bb7 | Eb6 Cm7 | Fm7 Bb7 |
+ Eb6 | Fm7 Bb7 | Gm7 | C7 |
+ Fm7 | Bb7 | Gm7 | Cm7 |
+ Am7b5 | D7 | Gm7 C7 | Fm7 Bb7 |
+ Eb6 Cm7 | Fm7 Bb7 | Eb6 Cm7 | Fm7 Bb7 |
+ Eb6 | Bb7 Eb7 | Ab6 | Ab6 |
+ Ab6 | Am7b5 D7 | Gm7 | C7 |
+ Fm7 | Bb7 | Bb7 | Bb7 |
+

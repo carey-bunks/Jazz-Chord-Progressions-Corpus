@@ -1,0 +1,12 @@
+Title = Freedom Sound
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 28
+ ivM | ivM | iiim | iiim |
+ iim | iim | vim | vim |
+ vim | vim | iv7 | im vii7 |
+ bviiM | vi7 bvi7 | v7 | bvih bii7 |
+ bvM | vm | ivM | ivM |
+ iiim | iiim | iim | iim |
+ vim | vim | vim | vim |

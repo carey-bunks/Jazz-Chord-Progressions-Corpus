@@ -1,0 +1,22 @@
+Title = The Way He Makes Me Feel
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 68
+ vim | vim | vim | bvh |
+ ivM | iim | bviiM | iii7 iii7 |
+ vim | vim | iM | bvh |
+ iiim | bvm | iiiM | iiiM |
+ viM | bvo | iii7 iiiM | viM |
+ iih | v7 v7 | im i7 | im i7 |
+ vim | vim | vim | bvh |
+ ivM | ii7 | ivM iii7 | vim |
+ vim | vim | bvh | ivM |
+ iim | bviiM | iii7 iii7 | vim |
+ vim | iM | bvh | iiim |
+ bvm | iiiM | iiiM | viM |
+ bvo | iii7 iiiM | viM | iih |
+ v7 v7 | im i7 | im i7 | vim |
+ vim | vim | bvh | ivM |
+ ii7 | ivM iii7 | vim | vim |
+ ivM | iM iii7 | vim | vim |

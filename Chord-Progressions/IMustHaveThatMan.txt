@@ -1,0 +1,13 @@
+Title = I Must Have That Man
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F | Fm | C | D7 |
+ G7 Go7 | G7 G+ | C6 | C6 |
+ F | Fm | C | D7 |
+ G7 Go7 | G7 | C Ab7 | C |
+ E7 | E7 | A7 | A7 |
+ D7 | D7 | G7 | C C7 |
+ F | Fm | C | D7 |
+ G7 Go7 | G7 | C Ab7 | C |
+

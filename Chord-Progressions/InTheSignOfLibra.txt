@@ -1,0 +1,13 @@
+Title = In The Sign of Libra
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Dm9 | A7#9b13 | Dm9 | Bm7b5 |
+ Bb13#11 | A7#5b9 | Dm9 Dm6 | Em7b5 A7#5b9 |
+ Dm9 | A7#9b13 | Dm9 | Bm7b5 |
+ Bb13#11 | A7#5b9 | Dm9 Dm6 | Cm7 F7#5b9 |
+ Bbm9 | Eb13b9 | AbM7 | Cm7 F7#5b9 |
+ Bbm9 | Eb13b9 | AbM7 Fm9 | Em7b5 A7#5b9 |
+ Dm9 | A7#9b13 | Dm9 | Bm7b5 |
+ Bb13#11 | A7#5b9 | Dm9 Dm6 | Em7b5 A7#5b9 |
+

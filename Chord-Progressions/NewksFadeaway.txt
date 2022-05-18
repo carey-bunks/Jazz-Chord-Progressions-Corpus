@@ -1,0 +1,14 @@
+Title = Newk's Fadeaway
+DB Key = Bb
+TimeSig = 4 4
+Bars = 36
+ Bb | G7 | Cm | F7 |
+ Bb | Eb Bbo7 | Bb | Bb7 |
+ Eb | Ebm | Bb | Bb |
+ Bb | Eb | Bb G7 | Cm F7 |
+ Bb | Eb Ebm | Bb | Bb |
+ D7 | D7 | G | G |
+ C7 | C7 | F | F |
+ Bb | Eb Bbo7 | Bb | Bb |
+ Bb | Eb Ebm | Bb | Bb |
+

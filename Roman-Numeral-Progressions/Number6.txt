@@ -1,0 +1,16 @@
+Title = Number 6
+DB Key = C
+EstKeySig = Gb
+TimeSig = 4 4
+Bars = 44
+ bvM | bvM | vi7 | vi7 |
+ biiim | bvii7 | biiim | bvii7 |
+ vi7 | vi7 | iim | iim |
+ v7 | v7 | i7 | i7 |
+ v7 bv7 iv7 iii7 | viM | iii7 | bviiM |
+ iii7 | viM | iim | v7 |
+ iM | bii7 | bii7 | bvm |
+ bvm | vii7 | vii7 | iiim |
+ iiim | vi7 | vi7 | iim |
+ iim | biiM | bviim | bviim |
+ biiim | bvii7 | biiim | biiim |

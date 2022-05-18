@@ -1,0 +1,13 @@
+Title = Deep Purple
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | io | iim | v7 |
+ iM | bvii7 | vi7 | vi7 |
+ ivM | ivm | iiim | biiio |
+ iim | v7 | iM | iim v7 |
+ iM | io | iim | v7 |
+ iM | bvii7 | vi7 | vi7 |
+ ivM | ivm | iiim | biiio |
+ iim | iim v7 | iM | iim v7 |

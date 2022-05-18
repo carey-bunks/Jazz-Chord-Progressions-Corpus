@@ -1,0 +1,17 @@
+Title = On the Que Tee
+DB Key = C
+TimeSig = 4 4
+Bars = 48
+ Dm9 Cm9 | Bbm9 Abm9 | Gbm9 Fm9 NC | F#7b9#11 |
+ F#7b9#11 | Bb7 | B7b13 | E7#9 |
+ A7#5#9 | AbM7#11 | AbM7#11 | Dm9 Cm9 |
+ Bbm9 Abm9 | Gbm9 Fm9 NC | F#7b9#11 | F#7b9#11 |
+ Bb7 | B7b13 | E7#9 | A7#5#9 |
+ AbM7#11 | AbM7#11 | AM7#11 | DM7#11 |
+ GM7#11 | CM7#11 | FM7#11 | BbM7#11 |
+ DM7#11 | DM7#11 | AM7#11 | DM7#11 |
+ GM7#11 | CM7#11 | FM7#11 | BbM7#11 |
+ DM7#11 | GM7#11 | Dm9 Cm9 | Bbm9 Abm9 |
+ Gbm9 Fm9 NC | F#7b9#11 | F#7b9#11 | Bb7 |
+ B7b13 | E7#9 | A7#5#9 | AbM7#11 |
+

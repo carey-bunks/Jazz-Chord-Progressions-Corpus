@@ -1,0 +1,13 @@
+Title = Well You Needn't
+DB Key = Bb
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ ivM | bvM | ivM | bvM |
+ ivM | bvM | ivM | ivM |
+ ivM | bvM | ivM | bvM |
+ ivM | bvM | ivM | ivM |
+ biiM | biiM | iiM | iiM |
+ biiiM iiiM | biiiM iiM | biiM iM | viiM iM |
+ ivM | bvM | ivM | bvM |
+ ivM | bvM | ivM | ivM |

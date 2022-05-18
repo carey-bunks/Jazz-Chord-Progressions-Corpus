@@ -1,0 +1,13 @@
+Title = Whistle While You Work
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM iim | iiim iim | iM iim | iiim biii7 |
+ iim v7 | iiim vi7 | iim v7 | iM iM iM v7 |
+ iM iim | iiim iim | iM iim | iiim biii7 |
+ iim v7 | iiim vi7 | iim v7 | iM |
+ vm i7 | ivM | vm i7 | ivM |
+ ivm | bvii7 | iM io | iim v7 |
+ iM iim | iiim iim | iM iim | iiim biii7 |
+ iim v7 | iiim vi7 | iim v7 | iM iM iM v7 |

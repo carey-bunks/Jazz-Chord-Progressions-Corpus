@@ -1,0 +1,9 @@
+Title = Deck the Hall
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 16
+ iM | iM vM iM iM | v7 iM | iM v7 iM iM |
+ iM | iM vM iM iM | v7 iM | iM v7 iM iM |
+ v7 | iM iM iM vM | iM vim | vM ii7 vM vM |
+ iM iM iM vM | iM vM iM iM | ivM iM | iM v7 iM iM |

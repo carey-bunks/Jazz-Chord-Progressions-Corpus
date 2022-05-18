@@ -1,0 +1,14 @@
+Title = Inutil Paisagem
+DB Key = A
+EstKeySig = A
+TimeSig = 4 4
+Bars = 33
+ iM | bvim viiM | bviiM | bvi7 |
+ iim | iim | ivm ivm | ivm ivm |
+ biiiM biii7 | bvi7 | ii7 | v7 |
+ i7 | iv7 | iM | bii7 |
+ iM | bvim viiM | bviiM | bvi7 |
+ iim | iim | ivm ivm | ivm ivm |
+ biiiM biii7 | bvi7 | ii7 | v7 |
+ i7 | iv7 | iM | iv7 |
+ iM |

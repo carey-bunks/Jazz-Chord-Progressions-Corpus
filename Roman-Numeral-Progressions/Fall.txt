@@ -1,0 +1,9 @@
+Title = Fall
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ v7 | bii7 | bv7 | ivM |
+ v7 | bii7 | bv7 | ivM |
+ iiiM | iii7 | vim | biim bviiM |
+ v7 | bii7 | bvm viim | viim |

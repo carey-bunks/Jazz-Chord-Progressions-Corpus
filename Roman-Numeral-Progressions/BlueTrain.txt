@@ -1,0 +1,8 @@
+Title = Blue Train
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 12
+ NC NC NC v7 v7 v7 v7 v7 | NC | NC NC NC v7 v7 v7 v7 v7 | NC |
+ NC NC NC i7 i7 i7 i7 i7 | NC | NC NC NC v7 v7 v7 v7 v7 | NC |
+ NC NC NC ii7 ii7 ii7 ii7 ii7 | NC | NC NC NC v7 v7 v7 v7 v7 | NC |

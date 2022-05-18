@@ -1,0 +1,14 @@
+Title = Do I Love You Because You're Beautiful?
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 34
+ vim iiiM | vim | ii7 | ii7 |
+ v7 | v7 | iM | viih iii7 |
+ vim iiiM | vim | ii7 | ii7 |
+ v7 | v7 | vm | i7 |
+ ivM | bvio | vim | vim |
+ ii7 | ii7 | v7 | viih iii7 |
+ vim vim | vim | ii7 | ii7 |
+ v7 | v7 | iM iii7 | ivM v7 |
+ iM | viih iii7 |

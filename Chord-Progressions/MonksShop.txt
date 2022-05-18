@@ -1,0 +1,13 @@
+Title = Monk's Shop
+DB Key = Ab
+TimeSig = 4 4
+Bars = 32
+ AbM7 | Bbm7 Eb7 | AbM7 | Dbm7 Gb7 |
+ Cm7 F7 | Bbm7 Eb7 | AbM7 | Bbm7 Eb7 |
+ AbM7 | Bbm7 Eb7 | AbM7 | Dbm7 Gb7 |
+ Cm7 F7 | Bbm7 Eb7 | AbM7 | Ebm7 Ab7 |
+ DbM7 | Ebm7 Ab7 | DbM7 | Cm7b5 F7#9 |
+ Bbm7 | F7 | Bb7 | Eb7 |
+ AbM7 | Bbm7 Eb7 | AbM7 | Dbm7 Gb7 |
+ Cm7 F7 | Bbm7 Eb7 | AbM7 | Bbm7 Eb7 |
+

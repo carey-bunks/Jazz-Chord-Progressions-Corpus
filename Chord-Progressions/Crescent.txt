@@ -1,0 +1,12 @@
+Title = Crescent
+DB Key = Eb
+TimeSig = 4 4
+Bars = 28
+ Em7b5 A7#5 | Dm7 | Dm7b5/G G7#5 | Cm7 |
+ Fm7/Bb Bb7b9 | Ebm7 Bb7b9 | Em7b5 A7#5 | D7b9sus4 |
+ Em7b5 A7#5 | Dm7 | Dm7b5/G G7#5 | Cm7 |
+ Fm7/Bb Bb7 | EbM7 A13b9 | D7b9sus4 G7b9b13 | Cm7 |
+ Fm7 | Bb7 | Ebm7 | Ebm7 |
+ Em7b5 | A7#5 | Dm7 | Dm7 |
+ Ab7 | G7#5 | Cm7 | Cm7 |
+

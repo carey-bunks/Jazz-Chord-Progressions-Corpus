@@ -1,0 +1,21 @@
+Title = Caravan
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 64
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ im | im | im | im |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ im | im | im | im |
+ i7 | i7 | i7 | i7 |
+ iv7 | iv7 | iv7 | iv7 |
+ bvii7 | bvii7 | bvii7 | bvii7 |
+ biiiM | biiiM | iih | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ im | im | im | im |

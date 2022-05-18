@@ -1,0 +1,11 @@
+Title = California Girls
+DB Key = G
+TimeSig = 4 4
+Bars = 24
+ G | G | G7 | G7 |
+ C | C | D7 | D7 |
+ G | G | G7 | G7 |
+ C | C | D7 | D7 |
+ G | Am7 | Bb | Bb |
+ Eb | Ab | G | G |
+

@@ -1,0 +1,13 @@
+Title = Ciribiribin
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F | F | F | F |
+ F | F | Gm7 | Gm7 C7 C7 C7 |
+ C7 | C7 | C7 | C7 |
+ Gm7 | C7+ | F | F |
+ F | F | F | F |
+ F | F7 A7+ | Bb Dm Gm7 Dm | Bb |
+ Bo7 | Bo7 | F | F C7 |
+ C#o7 | C7 | F F F C7 | F |
+

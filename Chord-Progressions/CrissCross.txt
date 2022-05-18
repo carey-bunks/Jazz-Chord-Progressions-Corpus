@@ -1,0 +1,11 @@
+Title = Criss Cross
+DB Key = C
+TimeSig = 4 4
+Bars = 24
+ Gm | Gm | Gb7#9 | Gb7#9 Bb13#11 Bb13#11 Bb13#11 |
+ Dm | G7 G7b5 | Gb13 | Gb13 |
+ Cm7 | F7 | Bb | Cm7 |
+ F7 | Bb | Gb7 | Gb7 |
+ Gm | Gm | Gb7#9 | Gb7#9 Bb13#11 Bb13#11 Bb13#11 |
+ Dm | G7 G7b5 | Gb13 | Gb13 |
+

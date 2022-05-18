@@ -1,0 +1,13 @@
+Title = With The Wind and The Rain In Your Hair
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ viih iii7 | vim | bvh vii7 | iiim vi7 |
+ iim | bvii7 | iM | iim v7 |
+ viih iii7 | vim | bvh vii7 | iiim vi7 |
+ iim | bvii7 | iM iv7 | iM |
+ bvh | vii7 | iiim | iiim |
+ vim | ii7 | iim | v7 |
+ viih iii7 | vim | bvh vii7 | iiim vi7 |
+ iim | bvii7 | iM iv7 | iM |

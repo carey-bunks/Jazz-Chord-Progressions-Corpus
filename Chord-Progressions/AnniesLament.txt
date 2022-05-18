@@ -1,0 +1,20 @@
+Title = Annie's Lament
+DB Key = Ab
+TimeSig = 4 4
+Bars = 62
+ Ab6 | A6 | Ab6 | A6 |
+ Ab6 | A6 | Ebm7 | D7 |
+ Db7 | Db7 | Dbm7 | A9 |
+ Ab6 | Bbm7 | Cm7 | Bm7 Bm7/E |
+ Bbm7 | Bbm7/Eb | A6 | A6 |
+ Ab6 | A6 | Ab6 | A6 |
+ Ab6 | A6 | Ebm7 | D7 |
+ Db7 | Db7 | Dbm7 | A9 |
+ Ab6 | Bbm7 | Cm7 | Bm7 Bm7/E |
+ Bbm7 | Bbm7/Eb | A7 | A7 |
+ A7 | A7 | Ab6 | A6 |
+ Ab6 | A6 | Ab6 | A6 |
+ Ebm7 | D7 | Db7 | Db7 |
+ Dbm7 | A9 | Ab6 | Bbm7 |
+ Cm7 | Bm7 Bm7/E | Bbm7 | Bbm7/Eb |
+ A6 | A6 |

@@ -1,0 +1,8 @@
+Title = Chi Chi
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 12
+ iM | viih iii7 | vim | vm i7 |
+ iv7 | ivm | iiim | biiim |
+ iim | ivm | iiim vi7 | iim v7 |

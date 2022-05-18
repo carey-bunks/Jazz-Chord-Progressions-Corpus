@@ -1,0 +1,13 @@
+Title = Head and Shoulders
+DB Key = Db
+TimeSig = 4 4
+Bars = 32
+ Ab7 G7 | Gb7 F7 | Ab7 G7 | Gb7 F7 |
+ EM7b5 Ebm7 | DM7b5 | DM7b5 | DM7b5 |
+ Dbm7 Gb7 | CbM7 | Cm7b5 F7 | Bbm7 Eb7 |
+ Ab7 G7 | Gb7 F7 | Ab7 G7 | Gb7 F7 |
+ EM7b5 Ebm7 | DM7b5 | DM7b5 | DM7b5 |
+ Dbm7 Gb7 | CbM7 | Cm7b5 F7 | Bbm7 Eb7 |
+ DM7 CM7 | DM7 Eb7 | FM7 EbM7 | FM7 F#7 |
+ F#7 DM9 | Ab7#5/C Ab7#5/C Ab7#5/C Db69 | Db69 | Db69 |
+

@@ -1,0 +1,13 @@
+Title = All By Myself
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM | ii7 | ii7 |
+ v7 | iim v7 | iiim vi7 | iim v7 |
+ iM | iM | vii7 | iii7 |
+ iiim | ii7 | iim | v7 |
+ iM | iM | ii7 | ii7 |
+ v7 | iim v7 | iii7 | iii7 |
+ ivM | ivo | iM | iiih vi7 |
+ ii7 | iim v7 | iM | iim v7 |

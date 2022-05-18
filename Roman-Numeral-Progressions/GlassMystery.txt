@@ -1,0 +1,13 @@
+Title = Glass Mystery
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM iM iM vim | im bviim bviim vim bvim bvim bii7 bii7 | iM iM iM vim | im bviim bviim vim bvim bvim bii7 bii7 |
+ bviim bviim | i7 i7 biim bv7 | viiM biiM | iiim vi7 |
+ iim | ivm | iim | biiiM |
+ viM bviim biim iiM | biiim ivm bvM bvi7 | vM vi7 | biiim bvi7 |
+ iM iM iM vim | im bviim bviim vim bvim bvim bii7 bii7 | iM iM iM vim | im bviim bviim vim bvim bvim bii7 bii7 |
+ bviim bviim | i7 i7 biim bv7 | viiM biiM | iiim vi7 |
+ iim | ivm | bviih iii7 | iiih vi7 |
+ bviM bviM bviM bviM | bvim bii7 | iM bviiM | biiiM biiM |

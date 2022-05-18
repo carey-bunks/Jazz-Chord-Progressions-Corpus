@@ -1,0 +1,8 @@
+Title = Blue Hymn
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 12
+ iM | ivM | iM | i7 |
+ iv7 | iv7 | iM | iM |
+ v7 | v7 | v7 | v7 |

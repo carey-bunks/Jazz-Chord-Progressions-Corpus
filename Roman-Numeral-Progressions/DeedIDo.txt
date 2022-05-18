@@ -1,0 +1,13 @@
+Title = 'Deed I Do
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | i7 | ivM | ivm |
+ vi7 | ii7 v7 | iM | iim v7 |
+ iM | i7 | ivM | ivm |
+ vi7 | ii7 v7 | iM | i7 |
+ ivM | ivM | iii7 | iii7 |
+ vi7 | vi7 | ii7 | v7 |
+ iM | i7 | ivM | ivm |
+ vi7 | ii7 v7 | iM | iim v7 |

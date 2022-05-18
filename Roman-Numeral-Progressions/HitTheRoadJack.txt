@@ -1,0 +1,7 @@
+Title = Hit the Road, Jack
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 8
+ vim vim | iv7 iii7 | vim vim | iv7 iii7 |
+ vim vim | iv7 iii7 | vim vim | iv7 iii7 |

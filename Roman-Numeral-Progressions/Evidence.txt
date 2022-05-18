@@ -1,0 +1,13 @@
+Title = Evidence
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iiim vi7 | iim | iim v7 |
+ bv7 | ivm vi7 | iim | ii7 |
+ iM | iiim vi7 | iim | iim v7 |
+ bv7 | ivm vi7 | iim | ii7 |
+ vm | i7 | ivM | vi7 |
+ vim | iii7 | ii7 | v7 |
+ iM | iiim vi7 | iim | iim v7 |
+ bv7 | ivm vi7 | iim | ii7 |

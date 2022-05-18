@@ -1,0 +1,13 @@
+Title = Am I Blue?
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iiim vi7 | iim | v7 |
+ i7 i7 bvii7 vi7 | ii7 ii7 bvi7 v7 | iM vi7 | iim v7 |
+ iM | iiim vi7 | iim | v7 |
+ i7 i7 bvii7 vi7 | ii7 ii7 bvi7 v7 | iM iM ivM bvm | iM vii7 |
+ iiim | iiim | bvh | vii7 |
+ bvh | vii7 | iiim vi7 | iim v7 |
+ iM | iiim vi7 | iim | v7 |
+ i7 i7 bvii7 vi7 | ii7 ii7 bvi7 v7 | iM | iim v7 |

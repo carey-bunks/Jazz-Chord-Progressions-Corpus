@@ -1,0 +1,16 @@
+Title = The Folks Who Live On The Hill
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 44
+ iM bv7 | ivM ivM iim v7 | iiim biiio | v7 vi7 |
+ v7 ivM | vM ivM | iiim vi7 | iim v7 |
+ iiih vi7 | iim iim | iM | iim v7 |
+ iM bv7 | ivM ivM iim v7 | iiim biiio | v7 vi7 |
+ v7 ivM | vM ivM | iiim vi7 | iim v7 |
+ iiih vi7 | iim iim | iM | ivh vii7 |
+ iiim | ivh vii7 | iiim iiim | vim vim vim ii7 |
+ vM | iim iim | iM bv7 | ivM ivM iim v7 |
+ iiim biiio | v7 vi7 | v7 ivM | iM ivM |
+ iiim vi7 | iim v7 | iiim vi7 | iim v7 |
+ bvii7 vi7 | iim iim | iM | iim |

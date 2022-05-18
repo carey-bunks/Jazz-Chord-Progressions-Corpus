@@ -1,0 +1,9 @@
+Title = Hallelujah Trail
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 16
+ iM | ivM iM iM iM | iM v7 | iM |
+ iM | ivM iM iM iM | iM v7 | iM |
+ iM | iiim | vim | iim v7 |
+ iM | iiim | iim v7 | iM |

@@ -1,0 +1,13 @@
+Title = Don't Explain
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ vim vim | viih iii7 | vim vim | vii7 iv7 iii7 iii7 |
+ bvii7 vi7 vi7 vi7 | bvi7 v7 v7 v7 | iM iM iim iiim | iih v7 iv7 iii7 |
+ vim vim | viih iii7 | vim vim | vii7 iv7 iii7 iii7 |
+ bvii7 vi7 vi7 vi7 | bvi7 v7 v7 v7 | iM biiM | iM iM iii7 iii7 |
+ vim iim | v7 iM | ivM iim | iv7 iii7 |
+ vim iim | v7 iM | ivM iim | iv7 iii7 |
+ vim vim | viih iii7 | vim vim | vii7 iv7 iii7 iii7 |
+ bvii7 vi7 vi7 vi7 | bvi7 v7 v7 v7 | iM | iim iim iii7 iii7 |

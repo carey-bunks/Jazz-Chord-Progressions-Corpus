@@ -1,0 +1,19 @@
+Title = Let's Face the Music and Dance
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 56
+ vim | vim | vim vim | vim vim |
+ vim | vim | viih | iii7 |
+ viM | iiim vi7 | iiM | v7 |
+ viM im | viih iii7 | vim | vim |
+ vim vim | vim vim | iii7 | iv7 |
+ vii7 | viim | iii7 | iii7 |
+ biim | bv7 | viim | v7 |
+ viM | vm i7 | ivM | ivM i7 |
+ ivM | ivM i7 | ivM | ivM |
+ iii7 | iii7 | vim | vim |
+ vim vim | vim vim | vim | vim |
+ viih | iii7 | viM | iiim vi7 |
+ iiM | v7 | bvm | iv7 |
+ viim | viim iii7 | viM im | viih iii7 |

@@ -1,0 +1,13 @@
+Title = I Must Have That Man
+DB Key = F
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ ivM | ivm | iM | ii7 |
+ v7 vo | v7 vM | iM | iM |
+ ivM | ivm | iM | ii7 |
+ v7 vo | v7 | iM bvi7 | iM |
+ iii7 | iii7 | vi7 | vi7 |
+ ii7 | ii7 | v7 | iM i7 |
+ ivM | ivm | iM | ii7 |
+ v7 vo | v7 | iM bvi7 | iM |

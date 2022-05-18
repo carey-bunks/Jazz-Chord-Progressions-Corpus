@@ -1,0 +1,8 @@
+Title = 12-Bar Blues
+DB Key = F
+TimeSig = 4 4
+Bars = 12
+ F13 | Bb13 Bo7 | F13 | Cm9 F13b9 |
+ Bb13 | Bo7 | F13 | D7#5#9 |
+ Gm9 | C13b9 | F13 D7#5#9 | Gm9 C13b9 |
+

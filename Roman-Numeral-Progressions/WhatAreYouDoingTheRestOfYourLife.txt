@@ -1,0 +1,15 @@
+Title = What Are You Doing The Rest Of Your Life?
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 40
+ vim vim | vim vim | ivM | ivM |
+ iim | iim viih | viim | iii7 |
+ vim vim | vim vim | ivM | ivM |
+ iim | iim viih iii7 | viM | viM |
+ viih iii7 | viM | viih iii7 | viM |
+ bvim bii7 | bvM | vm i7 | ivM |
+ vim vim | vim vim | ivM | ivM |
+ iim | iim viih | viim | iii7 |
+ ivM | viih iii7 | ivM | iv7 |
+ vim | viih iii7 | vim | iii7 |

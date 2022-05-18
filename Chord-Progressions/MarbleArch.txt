@@ -1,0 +1,16 @@
+Title = Marble Arch
+DB Key = Ab
+TimeSig = 6 8
+Bars = 46
+ Ab6 Eb | Ab Eb | F Eb | Ab G7 |
+ C G7 | C G7 | Am G7 | C Eb7 |
+ Ab6 Eb | Ab Eb | F | Eb Ab |
+ Db Ab | Eb Ab | Go7 Gb7 | Fm Ab7 |
+ Db6 Ab | Eb F7 | Bbm Eb7 | Ab |
+ Ab6 Eb | Ab Eb | F Eb | Ab G7 |
+ C G7 | C G7 | Am G7 | C Eb7 |
+ Ab6 Eb | Ab Eb | F Eb | Ab |
+ Db Ab | Eb Ab | Go7 Gb7 | Fm Ab7 |
+ Db6 Ab | Eb F7 | Bbm | Bbm |
+ Eb | Eb | Db | Db |
+ Ab | Ab |

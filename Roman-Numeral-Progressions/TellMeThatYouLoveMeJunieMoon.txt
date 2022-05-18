@@ -1,0 +1,15 @@
+Title = Tell Me That You Love Me, Junie Moon
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 38
+ iM | vM | vim | iM |
+ iM | v7 | v7 | bvim bviM bviM bviM |
+ bviM | v7 | v7 | iM |
+ vM | vim | iM | iM |
+ v7 | v7 | bvim bviM bviM bviM | bviM |
+ biiM | biiM | bvM | bvM |
+ biiM | biiM | v7 | v7 |
+ iM | vM | vim | iM |
+ iM | v7 | v7 | bvim bviM bviM bviM |
+ v7 | iM |

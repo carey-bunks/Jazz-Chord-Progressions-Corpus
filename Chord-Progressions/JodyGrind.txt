@@ -1,0 +1,8 @@
+Title = The Jody Grind
+DB Key = Db
+TimeSig = 4 4
+Bars = 12
+ Bbm7 | Bbm7 | Bbm7 | Bbm7 |
+ Eb7 | Eb7 | Bbm7 | Bbm7 |
+ A7#11 | B7#11 | Bbm7 | Bbm7 |
+

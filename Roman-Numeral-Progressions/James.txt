@@ -1,0 +1,15 @@
+Title = James
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 38
+ iM ivM | vM vim | ivM biiim | ivM biiim |
+ iM ivM | bviih biii7 vim vim | ivM biiim | ivM biiim |
+ ivM ivM | iM iM ivM vM | iM ivM | vM vim |
+ ivM biiim | ivM biiim | iM ivM | bviih biii7 vim vim |
+ ivM biiim | ivM biiim | ivM ivM | iM |
+ vM biii7 | vim vM | iM bviiM | biiim iiM |
+ vM vM | iM vim | iim vM | ivM vM |
+ iM ivM | vM vim | ivM biiim | ivM biiim |
+ iM ivM | bviih biii7 vim vim | ivM biiim | ivM biiim |
+ ivM ivM | iM iM ivM vM |

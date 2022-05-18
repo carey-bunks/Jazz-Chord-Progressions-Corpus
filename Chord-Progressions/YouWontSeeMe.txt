@@ -1,0 +1,23 @@
+Title = You Won't See Me
+DB Key = C
+TimeSig = 4 4
+Bars = 74
+ D | D | D | E |
+ A | B7 | D | A |
+ A | B7 | D | A |
+ A7 | D | Dm | A |
+ A | B7 | D A | A Bm Adim A |
+ D A | A | A | B7 |
+ D | A | A | B7 |
+ D | A | A7 | D |
+ Dm | A | A | B7 |
+ D A | A Bm Adim A | D A | A Bm Adim A |
+ Bm | Dm | E | A |
+ B7 | B7 | E | E |
+ A | B7 | D | A |
+ A | B7 | D | A |
+ A7 | D | Dm | A |
+ A | B7 | D A | A Bm Adim A |
+ D A | A Bm Adim A | A | B7 |
+ D | A | A | B7 |
+ D | A |

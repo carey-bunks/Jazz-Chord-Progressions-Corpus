@@ -1,0 +1,13 @@
+Title = From Me to You
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | viM | iM | v7 |
+ iv7 | vim | iM v7 | iM vim |
+ iM | viM | iM | v7 |
+ iv7 | vim | iM v7 | iM |
+ vm | i7 | ivM i7 | ivM |
+ vim | ii7 | v7 | v7 |
+ iM | vim | iM | v7 |
+ iv7 | vim | iM v7 | iM |

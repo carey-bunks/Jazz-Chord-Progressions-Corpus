@@ -1,0 +1,13 @@
+Title = Prince Of Darkness
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iim | iim | vim | vim |
+ im | im | vim | vim |
+ bviM | bviM | iM | biiM |
+ i7 | ivm | bvim | bvim |
+ iim | iim | vim | vim |
+ im | im | vim | vim |
+ bviM | bviM | iM | biiM |
+ i7 | ivm | bvim | bvim |

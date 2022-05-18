@@ -1,0 +1,13 @@
+Title = Ugly Beauty
+DB Key = C
+EstKeySig = Db
+TimeSig = 3 4
+Bars = 32
+ biih | bv7 | biih | iM iM ii7 |
+ iim | v7 | iM | iM |
+ biih | bv7 | biih | iM iM ii7 |
+ iim | v7 | iM | iM |
+ vm | i7 | vi7 | iiim vi7 vi7 |
+ v7 | v7 | vm | bv7 |
+ biih | bv7 | biih | iM iM ii7 |
+ iim | v7 | v7 | iM |

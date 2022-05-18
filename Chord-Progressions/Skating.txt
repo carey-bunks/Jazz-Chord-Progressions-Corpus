@@ -1,0 +1,20 @@
+Title = Skating
+DB Key = C
+TimeSig = 3 4
+Bars = 60
+ CM7 | FM7 | C/G C/G G7 | FM7 |
+ CM7 | EbM7 | GbM7 | AM7 |
+ CM7 | FM7 | C/G C/G G7 | FM7 |
+ C69 | EbM7 | AbM7 | DbM7 |
+ CM7 | FM7 | C/G C/G G7 | FM7 |
+ CM7 | EbM7 | GbM7 | AM7 |
+ CM7 | FM7 | C/G C/G G7 | FM7 |
+ C69 | Dm7 | Em7 | Gb7 |
+ Fm7 | Bb7 | EbM7 | EbM7 |
+ Ebm7 | Ab7 Ab7 D7+ | DbM7 | Dm7b5/G Dm7b5/G G7b9 |
+ CM7 | FM7 | C/G C/G G7 | FM7 |
+ CM7 | EbM7 | GbM7 | AM7 |
+ CM7 | FM7 | C/G C/G G7 | FM7 |
+ C69 | F69 | G69 | F69 |
+ C69 | F69 | G69 | F69 |
+

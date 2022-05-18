@@ -1,0 +1,19 @@
+Title = Interchange
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 56
+ iv7 | iii7 | biii7 | ii7 |
+ biih | ivM | im | im |
+ iv7 | iii7 | biii7 | ii7 |
+ biih | ivM | im | bvi7 |
+ bvii7 | bvii7 | viih | viih |
+ bvii7 | bvii7 | viih | viih |
+ bvii7 | bvii7 | viih | viih |
+ bvii7 | bvii7 | viih | viih |
+ iv7 | iii7 | biii7 | ii7 |
+ biih | ivM | im | im |
+ iv7 | iii7 | biii7 | ii7 |
+ biih | ivM | im | im |
+ iiim | iiim | iiim | iiim iiim iiim iiim |
+ iiim | iiim | iiim | iiim |

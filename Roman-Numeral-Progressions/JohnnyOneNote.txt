@@ -1,0 +1,33 @@
+Title = Johnny One Note
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 110
+ iM | bviiM v7 | iM | v7 |
+ iM | v7 | iM iiim | iim v7 |
+ iM | bviiM v7 | iM | v7 |
+ iM | v7 | vi7 | iim |
+ iM | iim v7 | iM | iM |
+ biiiM | biiiM v7 | iM | iM iiim |
+ biiiM | biiiM v7 | iM | iM v7 |
+ iM | bviiM v7 | iM | v7 |
+ iM | v7 | iM iiim | iim v7 |
+ iM | bviiM v7 | iM | v7 |
+ iM | v7 | iM | v7 |
+ vi7 | iim | iM | iim v7 |
+ iM | iM | biiiM | biiiM v7 |
+ iM | iM iiim | biiiM | biiiM v7 |
+ iM | iM | im | v7 v7 ivm v7 |
+ im | iim iim v7 ivM | v7 v7 ivM v7 | ivM ivM v7 ivM |
+ im | v7 | im | v7 v7 ivm v7 |
+ im | iim iim v7 ivM | v7 v7 ivM v7 | ivM v7 |
+ im | im | vM | iM |
+ vM | iM | v7 | iio |
+ vM ivM | iiim v7 | iM | bviiM v7 |
+ iM | v7 | iM | v7 |
+ iM iiim | iim v7 | iM | bviiM v7 |
+ iM | v7 | iM | v7 |
+ vi7 | iim | iM | iim v7 |
+ iM | iim v7 | iM | iim v7 |
+ iM | iim v7 | iM | iim v7 |
+ iM | iM |

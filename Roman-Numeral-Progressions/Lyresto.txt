@@ -1,0 +1,13 @@
+Title = Lyresto
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | vim | iim | v7 |
+ iM | vim | ivm | bvii7 |
+ iM | iim bvi7 | iim | v7 |
+ iM | iim bvi7 | iim | v7 |
+ iM | vim | iim | v7 |
+ iM | vim | ivm | bvii7 |
+ vm | i7 | ivm | bvii7 |
+ iiim iim | iim v7 | iM vim | iim v7 |

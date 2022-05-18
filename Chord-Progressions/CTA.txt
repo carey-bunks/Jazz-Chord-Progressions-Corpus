@@ -1,0 +1,13 @@
+Title = C.T.A.
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb7 Ab7 | Gb7 F7 | Bb7 Ab7 | Gb7 F7 |
+ Bb7 Bb7/D | EbM7 Eo7 | Bb/F G7 | Cm7 F7 |
+ Bb7 Ab7 | Gb7 F7 | Bb7 Ab7 | Gb7 F7 |
+ Bb7 Bb7/D | EbM7 Eo7 | Bb/F G7 Cm7 F7 | Bb6 |
+ D9#11 | D9#11 | G9#11 | G9#11 |
+ C9#11 | C9#11 | F9#11 | F9#11 |
+ Bb7 Ab7 | Gb7 F7 | Bb7 Ab7 | Gb7 F7 |
+ Bb7 Bb7/D | EbM7 Eo7 | Bb/F G7 Cm7 F7 | Bb6 |
+

@@ -1,0 +1,13 @@
+Title = Fools Rush In
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Dm7 | G7 | CM7 | C6 Am7 |
+ Dm7 | G7 | CM7 | C6 |
+ F6 | Dm7 G7 | CM | Am7 |
+ F#m7b5 Am7 | D7 | Dm7 | G7 |
+ Dm7 | G7 | CM7 | C6 Am7 |
+ Dm7 | G7 | Bb7b5 | A7 |
+ Dm | Dm7b5 | CM | Am7 |
+ Dm7 | G7 | C C Dm7b5 Ab7 | C |
+

@@ -1,0 +1,13 @@
+Title = Along Came Betty
+DB Key = C
+TimeSig = 4 4
+Bars = 34
+ Bbm7 | Bm7 E7 | Bbm7 | Bm7 E7 |
+ AM7 | Ab7 | GM7 | F#7 |
+ F#m7 | Gm7 C7 | F#m7 | Gm7 C7 |
+ FM7 | A7 | Dm7 | G7 |
+ Cm7 | F7 | Am7b5 D7 | Gm7 |
+ Em7b5 | A7 | Fm7 | Bb7 |
+ Bbm7 | Bm7 E7 | Bbm7 | Bm7 E7 |
+ Cm7b5 | F7 | Bbm7 | Eb7 |
+ AbM7 | Bm7 E7 |

@@ -1,0 +1,15 @@
+Title = Strode Rode
+DB Key = Ab
+TimeSig = 4 4
+Bars = 40
+ Fm7 | Gm7b5 C7+ | Fm7 | Gm7b5 C7+ |
+ Fm7 | Gm7b5 C7+ | Fm7 | Gm7b5 C7+ |
+ Db7 | C7alt | Fm7 | Fm7 |
+ Fm7 | Gm7b5 C7+ | Fm7 | Gm7b5 C7+ |
+ Fm7 | Gm7b5 C7+ | Fm7 | Gm7b5 C7+ |
+ Db7 | C7alt | Fm7 | Fm7 |
+ Bbm7 | Eb7 | Fm7 | Gm7b5 C7+ |
+ Fm7 | Gm7b5 C7+ | Fm7 | Gm7b5 C7+ |
+ Fm7 | Gm7b5 C7+ | Fm7 | Gm7b5 C7+ |
+ Db7 | C7alt | Fm7 | Fm7 |
+

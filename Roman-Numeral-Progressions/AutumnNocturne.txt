@@ -1,0 +1,14 @@
+Title = Autumn Nocturne
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 34
+ iM vi7 | iim iim v7 vo | ivM vim | ivh ivm |
+ iiim biiio | iim v7 | iii7 iii7 vi7 vi7 | ii7 v7 |
+ iM iM vi7 vi7 | iim iim viih iii7 | vim vim | ivh ivm |
+ iiim biiio | iiih vi7 | ii7 v7 | iM iM ivh vii7 |
+ iiiM iv7 | iiiM iv7 | iiiM iv7 | ivm ivm vim ii7 |
+ vM bvi7 | vM bvi7 | vM vM vi7 ii7 | iim iim v7 v7 |
+ iM iM vi7 vi7 | iim iim viim iii7 | vim vim | ivh ivm |
+ iiim iiim vi7 vi7 | ii7 v7 | iM bii7 | iim bii7 |
+ iM bii7 | iM |

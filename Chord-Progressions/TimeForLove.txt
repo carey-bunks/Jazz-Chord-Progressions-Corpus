@@ -1,0 +1,14 @@
+Title = A Time For Love
+DB Key = Bb
+TimeSig = 4 4
+Bars = 38
+ BbM7 | Ab7#11/Bb | BbM7 | C7#11 |
+ Cm7 | Cm7/Bb | Am7/D D7 | Am7b5 D7b9 |
+ Gm7 | Ab7#11/Bb | Bb/F | C7b9 |
+ Cm7 | Cm7/Bb | Am7b5 | D7b9 |
+ Gm7 Gm7 Am7b5/D D7b9 | Gm7 C7b9 | FM7 A7#9 | Dm7 Dm7 Am7b5 D7#9 |
+ Gm Gm6 FmM7 Fm7 | Em7 Em7b5 A7 A7#11 | DM7 Bm7 | F7 F7+ |
+ BbM7 | Am7b5 D7#9 | Gm7 | C7b9 |
+ Cm7 | Cm7/Bb | Am7 | D7#9 |
+ Gm7 | C7#11 | Cm7 | Cm/F F7#9 |
+ Bb | Bb |

@@ -1,0 +1,13 @@
+Title = In Walked Bud
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Fm | FmM7/E | Fm7/Eb | Bb7 Eb7 |
+ Ab6 F7 | Bbm7 Eb7 | Ab6 | Ab6 C7alt |
+ Fm | FmM7/E | Fm7/Eb | Bb7 Eb7 |
+ Ab6 F7 | Bbm7 Eb7 | Ab6 | Ab6 |
+ Fm | Fm | Db7sus4 | Db7sus4 |
+ Fm | Fm | Db7sus4 | Db7sus4 |
+ Fm | FmM7/E | Fm7/Eb | Bb7 Eb7 |
+ Ab6 F7 | Bbm7 Eb7 | Ab6 | Ab6 C7alt |
+

@@ -1,0 +1,13 @@
+Title = The One I Love Belongs To Somebody Else
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM | ii7 | ii7 |
+ v7 | v7 | iM | iM |
+ iM | biiio | iim | v7 |
+ ii7 | ii7 | iim | v7 |
+ iM | iM | ii7 | ii7 |
+ v7 | v7 | iiih | vi7 |
+ ivM | ivm | iiih | vi7 |
+ iim | v7 | iM | iM |

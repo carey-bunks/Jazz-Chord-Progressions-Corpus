@@ -1,0 +1,13 @@
+Title = Blue Champagne
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM io | v7 | iM | bvi7 ivm |
+ iM io | iih v7 | iM vim | iim v7 |
+ iM io | v7 | iM | bvi7 ivm |
+ iM io | iih v7 | iM ivM | viih iii7 |
+ vim iM | vim v7 | iM iM iim vM | iM iM viih iii7 |
+ vim iM | vim ii7 | iM ii7 | bvi7 v7 |
+ iM io | v7 | iM | bvi7 ivm |
+ iM io | iih v7 | iM vim | iim v7 |

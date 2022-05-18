@@ -1,0 +1,18 @@
+Title = Speak No Evil
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 50
+ iiim | ivM | iiim | ivM |
+ iiim | ivM | iiim | ivM vm |
+ bvim iiim | bvm iim | bii7 | iim |
+ bii7 | iim | iiim | ivM |
+ iiim | ivM | iiim | ivM |
+ iiim | ivM vm | bvim iiim | bvm iim |
+ bii7 | iim | bii7 | iim |
+ biih | i7 | viim | bvii7 |
+ vim | ii7 | v7 | ivM |
+ iiim | ivM | iiim | ivM |
+ iiim | ivM | iiim | ivM vm |
+ bvim iiim | bvm iim | bii7 | iim |
+ bii7 | iim |

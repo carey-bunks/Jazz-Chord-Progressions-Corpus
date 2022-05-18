@@ -1,0 +1,13 @@
+Title = Smooch
+DB Key = F
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ bvm | iim iim bii7 v7 | bvm | iiim iiim biiih bvi7 |
+ iim v7 | iim v7 | bvm iv7 | bvih bii7 |
+ bvm | iim iim bii7 v7 | bvm | iiim iiim biiih bvi7 |
+ iim v7 | iim v7 | bvm iv7 | bvih bii7 |
+ iim v7 | iim v7 | viM viM viim bii7 | bvm ii7 |
+ ii7 bii7 | i7 viim | bvih bii7 | iim v7 |
+ bvm | iim iim bii7 v7 | bvm | iiim iiim biiih bvi7 |
+ iim v7 | iim v7 | bvm iv7 | bvm |

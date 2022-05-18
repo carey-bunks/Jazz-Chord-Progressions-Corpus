@@ -1,0 +1,14 @@
+Title = Can't You Just See Yourself
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 36
+ iM iM | iim iim iim ivM | iM iM iM iM | iM v7 |
+ iM vim | iim v7 | iM | iM |
+ iM biiio | iim v7 | iM | iM bvii7 bvii7 bvii7 |
+ biiiM biiiM biiiM im | im | iih | v7 |
+ iM iM | iim ivM | iM iM iM iM | iM v7 |
+ iM vim | iim v7 | biii7 | biii7 |
+ bviM | bvi7 | vM vM v7 iM | iM ivM iih iih |
+ iM | vM | vim | ii7 |
+ iM vim | iim iim ivM v7 | iM iM | iim v7 |

@@ -1,0 +1,13 @@
+Title = Don't Go To Strangers
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 | Eb7#11 | BbM7 | Dm7b5 G7b9 |
+ Cm7 | Cm7/F F7 | Dm7 G7 | Cm7 F7 |
+ BbM7 | Eb7#11 | BbM7 | Dm7b5 G7b9 |
+ Cm7 | Cm7/F F7 | Bb6 Cm7/F | Bb6 |
+ Fm7 Bb7 | Fm7 Bb7 | EbM7 Bb7 | EbM7 |
+ Gm7 C7 | Gm7 C7 | Gm7/C C7 | Cm7/F F7 |
+ BbM7 | Eb7#11 | BbM7 | Dm7b5 G7b9 |
+ Cm7 | Cm7/F F7 | Bb6 Cm7/F | Bb6 F7 |
+

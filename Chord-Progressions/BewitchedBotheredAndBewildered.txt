@@ -1,0 +1,13 @@
+Title = Bewitched, Bothered, and Bewildered
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ CM7 C#o7 | Dm7 Dm7 G9sus4 G9 | CM7 C7#5 | FM7 Bb9 |
+ C/E Ebo7 | Dm7 Dm7 G7 A7b9 | Dm7 | G9sus4 G7 |
+ CM7 C#o7 | Dm7 Dm7 G9sus4 G9 | CM7 C7#5 | FM7 Bb9 |
+ C/E Ebo7 | Dm7 Dm7 Gm7 C7 | FM7 | Em7b5 A7b9 |
+ Dm7 DmM7 | Dm7 Dm6 | Am Am#5 | Am6 Am7 |
+ Dm7 | G7 | Em7 Ebo7 | Dm7 G7 |
+ CM7 C#o7 | Dm7 Dm7 G9sus4 G9 | CM7 C7#5 | FM7 Bb9 |
+ C/E Ebo7 | Dm7 Dm7 G7 A7b9 | Dm7 G7 | C6 |
+

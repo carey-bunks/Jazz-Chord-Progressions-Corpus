@@ -1,0 +1,17 @@
+Title = I Believe
+DB Key = C
+TimeSig = 4 4
+Bars = 48
+ C | Am | Dm | G7 G7 Dm G7 |
+ C | Dm7 G7b9 | C C+ | Am |
+ Dm | G7 | C CM7 | C6 |
+ C | Am7 Em | F | B7 |
+ E EM7 | E7 E7b9 | Am | Am7 |
+ Dm7 | Dm7 | G9 G9 G9 G7 | Dm7 G7 |
+ C | Am | Dm | G7 G7 Dm G7 |
+ C | Dm7 G7b9 | C C+ | Am |
+ Dm | G7 | C CM7 | C6 |
+ C | Am7 Em | F | B7 |
+ E EM7 | E7 E7b9 | Am Am7 | Am7 Am7 E7 Am |
+ Dm | G7 G7 G7 Dm7 | C Am | Dm7 Dm7 Dm7 G7 |
+

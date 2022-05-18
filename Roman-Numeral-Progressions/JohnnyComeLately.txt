@@ -1,0 +1,13 @@
+Title = Johnny Come Lately
+DB Key = Bb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iiim | i7 vii7 | iiim | i7 vii7 |
+ iiim | i7 vii7 | iiim | i7 vii7 |
+ iiim | i7 vii7 | iiim | i7 vii7 |
+ iiim | i7 vii7 | iiim | iim v7 |
+ iM iim | iiim iim | iM iim | iiim iim |
+ iM iim | iiim vi7 | iim v7 | bv7 vii7 |
+ iiim | i7 vii7 | iiim | i7 vii7 |
+ iiim | i7 vii7 | iiim | i7 vii7 |

@@ -1,0 +1,9 @@
+Title = Some Nerve
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 16
+ ivM | ivM | iM | iM |
+ v7 | v7 | iM | iM |
+ iv7 | iv7 | iM | iM |
+ v7 | v7 v7 v7 ii7 ii7 v7 v7 v7 | iM | iM |

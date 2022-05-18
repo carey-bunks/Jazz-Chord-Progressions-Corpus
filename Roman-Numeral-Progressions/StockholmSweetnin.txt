@@ -1,0 +1,13 @@
+Title = Stockholm Sweetnin'
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iih | viih iii7 | vim | ii7 |
+ iM biio | iim iio | iiim | iiih vi7 |
+ iih | viih iii7 | vim | ii7 |
+ iM biio | iim v7 | iM | bviim biii7 |
+ bviM ivm | bviim biii7 | ih iv7 | bviim biii7 |
+ bviM | ivm iih | iim v7 | iiih vi7 |
+ iih | viih iii7 | vim | ii7 |
+ iM biio | iim v7 | iM | iiih vi7 |

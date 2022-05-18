@@ -1,0 +1,13 @@
+Title = Lady In Red
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | vim | iim | v7 |
+ iim | v7 | iM | iim v7 |
+ iM | vim | iim | v7 |
+ iim | v7 | iM | i7 |
+ ivm | ivm | iM | i7 |
+ ivm | ivm | ii7 | v7 |
+ iM | vim | iim | v7 |
+ iim | v7 | iM | iM |

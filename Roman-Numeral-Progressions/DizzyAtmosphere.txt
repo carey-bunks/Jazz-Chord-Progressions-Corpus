@@ -1,0 +1,13 @@
+Title = Dizzy Atmosphere
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM ivM | iM iim |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM ivM | iM v7 |
+ bv7 | bv7 | iv7 | iv7 |
+ iii7 | biii7 | ii7 | bii7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM ivM | iM iim |

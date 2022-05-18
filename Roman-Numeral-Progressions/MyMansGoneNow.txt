@@ -1,0 +1,25 @@
+Title = My Man's Gone Now
+DB Key = F
+EstKeySig = F
+TimeSig = 3 4
+Bars = 80
+ vim | viM | vi7 | iii7 |
+ vi7 | ivM | ii7 i7 bvii7 | vim |
+ viM | vi7 | vim | bv7 bv7 vii7 |
+ iiim iiim iii7 | vim | viM | vi7 |
+ iii7 | vi7 | ivM | ii7 i7 bvii7 |
+ vim | viM | vi7 | vim |
+ bv7 bv7 vii7 | iiim iiim iii7 | biii7 | bviM |
+ iii7 | vim | bv7 | viim |
+ iM iim iio | iiim | iiim | biii7 |
+ bviM | iii7 | vim | bv7 |
+ viim | iih biiM i7 | ivM | iih iih v7 |
+ iM | viih viih iii7 | vim | vi7 |
+ vim | bv7 bv7 vii7 | iiim iiim iii7 | biii7 |
+ bviM | iii7 | vim | bv7 |
+ viim | iM iim iio | iiim | iiim |
+ biii7 | bviM | iii7 | vim |
+ bv7 | viim | iih biiM i7 | ivM |
+ iih iih v7 | iM | viih viih iii7 | vim |
+ iii7 | vi7 | iii7 | vim |
+ iii7 | vi7 | viih viih iii7 | vim |

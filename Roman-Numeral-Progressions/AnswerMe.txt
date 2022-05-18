@@ -1,0 +1,13 @@
+Title = Answer Me
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 3 4
+Bars = 32
+ iM | v7 | ivM ivM ivm | iM |
+ ivM | iM iM biiio | iim v7 v7 | iM |
+ iM | v7 | ivM ivM ivm | iM |
+ ivM | iM iM biiio | iim v7 v7 | iM |
+ iiim | i7 | iiim | iiim |
+ iiim | im im vih | ii7 | v7 |
+ iM | v7 | ivM ivM ivm | iM |
+ ivM | iM iM biiio | iim v7 v7 | iM |

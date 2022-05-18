@@ -1,0 +1,13 @@
+Title = A Ghost Of A Chance
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | v7 | iiih vi7 | ivm |
+ iM vim | ii7 v7 | iM vi7 | iim v7 |
+ iM | v7 | iiih vi7 | ivm |
+ iM vim | ii7 v7 | iM | iM |
+ iim | v7 | iM | vim |
+ ivh | vii7 | iiim vi7 | iim v7 |
+ iM | v7 | iiih vi7 | ivm |
+ iM vim | ii7 v7 | iM | iM |

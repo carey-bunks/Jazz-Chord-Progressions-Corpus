@@ -1,0 +1,13 @@
+Title = You Belong To My Heart
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iM biio | v7 | v7 |
+ iim | iim v7 | iM | iim v7 |
+ iM | iM biio | v7 | v7 |
+ iim | v7 | iM | iim v7 |
+ iM | iM biio | v7 | v7 |
+ iim | iim v7 | iM | iim v7 |
+ iM | iM biio | v7 | v7 |
+ iim | v7 | iM | iim v7 |

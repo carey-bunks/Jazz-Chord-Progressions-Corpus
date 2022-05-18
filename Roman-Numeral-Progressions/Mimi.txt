@@ -1,0 +1,13 @@
+Title = Mimi
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iim | v7 |
+ iM | iM | iim | v7 |
+ iM | iM | iim | v7 |
+ iM | iM | vm | i7 |
+ ivM | ivM | ivo | ivo |
+ vim | vim | vio | vio |
+ iM | iM | iim | v7 |
+ iM vim | iim v7 | iM | iim v7 |

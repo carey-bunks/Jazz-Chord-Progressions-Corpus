@@ -1,0 +1,19 @@
+Title = Everything I've Got Belongs To You
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 56
+ ivM | ivM | ivM | ivM |
+ ivm | ivm | ivm | ivm |
+ v7 | v7 | iM | i7 |
+ ivM | i7 | ivM | i7 |
+ ivM | ivM | ivM | ivM |
+ ivm | ivm | ivm | ivm |
+ v7 | v7 | iM | i7 |
+ ivM | i7 | ivM | ivM |
+ biiM | v7 | biiM | v7 biiM |
+ ivM | iii7 | vim | i7 |
+ ivM | ivM | ivM | ivM |
+ ivm | ivm | ivm | ivm |
+ v7 | v7 | iM | iM |
+ ivM | i7 | ivM | ivM |

@@ -1,0 +1,13 @@
+Title = I'm Through With Love
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM biiio | iim v7 | iM i7 | ivM bvii7 |
+ iM iM biiio vi7 | iim | iim v7 | iiim vi7 iim v7 |
+ iM biiio | iim v7 | iM i7 | ivM bvii7 |
+ iM iM biiio vi7 | iim | iim v7 | iM |
+ iiim iiim | iiim iiim | iiim iiim | vi7 |
+ vM v7 | vim ii7 | iim vi7 | ii7 v7 |
+ iM biiio | iim v7 | iM i7 | ivM bvii7 |
+ iM iM biiio vi7 | iim | iim v7 | iM iim |

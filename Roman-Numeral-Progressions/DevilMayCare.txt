@@ -1,0 +1,16 @@
+Title = Devil May Care
+DB Key = Db
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 44
+ iim viih | iii7 vi7 | iim viih | iii7 vi7 |
+ iim | viih | iii7 | vi7 |
+ iim viih | iii7 vi7 | iim viih | iii7 vi7 |
+ iiih | vi7 | iim | iim ii7 |
+ vm | i7 i7 | ivM iii7 | vim ii7 |
+ vm | i7 i7 | ivM | ivM |
+ ivm | bvii7 bvii7 | biiiM | biiiM |
+ iii7 | vi7 | ivM iiiM | vi7 |
+ iim viih | iii7 vi7 | iim viih | iii7 vi7 |
+ iim | viih | iii7 | iii7 |
+ viih | vi7 | iim | iim vi7 vi7 vi7 |

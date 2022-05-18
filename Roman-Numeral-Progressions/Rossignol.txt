@@ -1,0 +1,27 @@
+Title = Rossignol
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 85
+ ivM | ivM | ivM | ivM |
+ ivM | ivM | ivM | ivM |
+ ivM | ivM | iM | iM |
+ iM | iM | ivM | ivM |
+ ivM | ivM | iM | iM |
+ iim | vM | iM | iM |
+ ivM | bviiM | ivM | bviiM |
+ ivM | iM | ivM | iM |
+ ivM | bviiM | ivM | bviiM |
+ ivM | iM | ivM | bviiM |
+ bviiM | ivM | ivM | bviiM |
+ iM | ivM | ivM | ivM |
+ ivM | iM | iM | iM |
+ iM | ivM | ivM | ivM |
+ ivM | iM | iM | iim |
+ vM | iM | iM | ivM |
+ bviiM | ivM | bviiM | ivM |
+ iM | ivM | iM | ivM |
+ bviiM | ivM | bviiM | ivM |
+ iM | ivM | bviiM | bviiM |
+ ivM | ivM | bviiM | iM |
+ ivM |

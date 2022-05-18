@@ -1,0 +1,13 @@
+Title = Leila
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iim v7 | iM vi7 | iim v7 | iM |
+ ivm bvii7 | biiiM bviM | iim v7 | iM iM iM iM iM iM iM bviim viim im im iim |
+ iim v7 | iM vi7 | iim v7 | iM |
+ ivm bvii7 | biiiM bviM | iim v7 | iM |
+ vm i7 | ivM | vm i7 | ivM |
+ vim ii7 | vM | vim ii7 | iim iim iim iim vi7 vi7 biiim iim |
+ iim v7 | iM vi7 | iim v7 | iM |
+ ivm bvii7 | biiiM bviM | iim v7 | iM vi7 |

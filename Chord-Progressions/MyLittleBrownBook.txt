@@ -1,0 +1,13 @@
+Title = My Little Brown Book
+DB Key = Bb
+TimeSig = 4 4
+Bars = 34
+ BbM7 BbM7 BbM7 F7#5 | Fm7 Bb7 | EbM7 | Ebm7 Ab7 |
+ BbM7 BbM7#5 | Cm7 F7 | Dm7 Db7 | Cm7 F7 |
+ BbM7 BbM7 BbM7 F7#5 | Fm7 Bb7 | EbM7 | Ebm7 Ab7 |
+ BbM7 BbM7#5 | Cm7 F7 | BbM7 Db7 | GbM7 Ab7 |
+ DbM7 Do7 | Ebm7 Ab7 | DbM7 Eo7 | Ebm7 Ab7 |
+ DbM7 Do7 | Ebm7 Ab7 | DbM7 Gm7b5 | C7 C7#5 F7 F7#5 |
+ BbM7 F7#5 | Fm7 Bb7 | EbM7 | Ebm7 Ab7 |
+ BbM7 BbM7#5 | Cm7 Gb7 F7 F7 | BbM7 BbM7 Dbm7 Gb7 | BM7 |
+ Cm7 B7#11 | BbM7 BbM7 Cm7 F7 |

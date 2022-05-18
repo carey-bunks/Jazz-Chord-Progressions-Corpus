@@ -1,0 +1,13 @@
+Title = A White Sport Coat (and a Pink Carnation
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C | C | Dm7 | G7 |
+ F | G13 | C Am7 | Dm7 G7 |
+ C | C | Dm7 | G7 |
+ F | G13 | C F | C |
+ G7 | G7 | C | C |
+ D7 | D7 | G7 | G7 |
+ C | C | Dm7 | G7 |
+ F | G13 | C F | C |
+

@@ -1,0 +1,16 @@
+Title = Close Enough for Love
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 44
+ vim bvh | viih iii7 | vim ii7 | v7 i7 |
+ ivM | vii7 iii7 | vi7 ii7 | v7 i7 |
+ ivM vii7 | viih iii7 | vim | iv7 iii7 |
+ vim bvh | viih iii7 | vim ii7 | v7 i7 |
+ ivM | vii7 iii7 | vi7 ii7 | v7 i7 |
+ ivM vii7 | viih iii7 | vim | vi7 |
+ iim bvi7 | v7 v7 | iM iii7 | vim bvh |
+ vh bii7 | bvm vii7 | iiiM | iii7 |
+ vim bvh | viih iii7 | vim ii7 | v7 i7 |
+ ivM | vii7 iii7 | vi7 ii7 | v7 i7 |
+ ivM vii7 | viih iii7 | vim | vim |

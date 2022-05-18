@@ -1,0 +1,15 @@
+Title = If I Were A Rich Man
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 40
+ iM | iM | iM | iM |
+ v7 | im | ivo | v7 |
+ iM | iM | iM | iM |
+ v7 | im | ii7 v7 | iM |
+ ivm | bvii7 | biiiM | biiiM bviim i7 i7 |
+ ivm | v7 | iM | i7 |
+ ivm | bvii7 | biiiM | biiiM bviim i7 i7 |
+ ivm | ivo | v7 | v7 |
+ iM | iM | iM | iM |
+ v7 | im | ii7 v7 | iM |

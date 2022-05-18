@@ -1,0 +1,21 @@
+Title = Black Orchid
+DB Key = Db
+TimeSig = 4 4
+Bars = 65
+ DbM9 | DbM9 Ebm9/Ab | DbM9 | DbM9 Ebm9/Ab |
+ DbM9 | DbM9 Ebm9/Ab | Ebm9/Ab Db7#9 | Db7#9 |
+ Db7#9 Eb/Db | Eb/Db | Eb/Db D/Db | D/Db |
+ D/Db Db | Db | Db Ab13b9/Db | Ab13b9/Db Ab13 |
+ DbM9 | DbM9 Ebm9/Ab | DbM9 | DbM9 Ebm9/Ab |
+ DbM9 | DbM9 Ebm9/Ab | Ebm9/Ab Db7#9 | Db7#9 |
+ Db7#9 Eb/Db | Eb/Db | Eb/Db D/Db | D/Db |
+ D/Db Db | Db | Db Ab13b9/Db | Ab13b9/Db |
+ Dbm13 | Dbm13 Ab7#5b9/Db | Dbm13 | Dbm13 Ab7#5b9/Db |
+ Dbm13 | Dbm13 Ab7#5b9/Db | Dbm13 | Dbm13 Ab7#5b9/Db |
+ Dbm13 | Dbm13 Ab7#5b9/Db | Dbm13 | Dbm13 Ebm9/Db |
+ DbM9 | DbM9 Ebm9/Ab | DbM9 | DbM9 Ebm9/Ab |
+ DbM9 | DbM9 Ebm9/Ab | Ebm9/Ab Db7#9 | Db7#9 |
+ Db7#9 Eb/Db | Eb/Db | Eb/Db D/Db | D/Db |
+ D/Db Db | Db | Db C/Db | C/Db |
+ C/Db DbM9 | DbM9 | DbM9 Ab13b9/Db | Ab13b9/Db |
+ Dbm9 |

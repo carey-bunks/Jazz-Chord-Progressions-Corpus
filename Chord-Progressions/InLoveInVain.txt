@@ -1,0 +1,13 @@
+Title = In Love In Vain
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 Gm7 | Cm7 F7 | Dm7 Gm7 | Cm7 F7 |
+ BbM7 | Cm7 F7 | Dm7 | G7 |
+ Cm7 Cm7/Bb | Am7b5 D7alt | Gm GmM7 | Gm7 Gm6 |
+ Gm7 | C7 | Cm7 | Cm7/F |
+ BbM7 Gm7 | Cm7 F7 | Dm7 Gm7 | Cm7 F7 |
+ BbM7 | Cm7 F7 | Fm7 | Bb7 |
+ EbM7 | Em7b5 A7b9 | Dm7 AbM7#11 | G7 |
+ Cm7 | F7 | BbM7 | Cm7 F7 |
+

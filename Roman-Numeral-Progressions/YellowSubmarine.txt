@@ -1,0 +1,12 @@
+Title = Yellow Submarine
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 28
+ iM iM iM bviiM | ivM ivM ivM iim | vm vm vm bviiM | iM iM iM ivM |
+ iM iM iM bviiM | ivM ivM ivM iim | vm vm vm bviiM | iM iM iM ivM |
+ iM iM iM bviiM | ivM ivM ivM iim | vm vm vm bviiM | iM iM iM ivM |
+ iM iM iM bviiM | ivM ivM ivM iim | vm vm vm bviiM | iM iM iM ivM |
+ iM iM iM bviiM | ivM ivM ivM iim | vm vm vm bviiM | iM |
+ ivM | iM | iM | ivM |
+ ivM | iM | iM | ivM |

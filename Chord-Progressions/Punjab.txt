@@ -1,0 +1,9 @@
+Title = Punjab
+DB Key = C
+TimeSig = 4 4
+Bars = 18
+ DM7 | DM7 Bb13b9 | BM7 | AbM7 |
+ Fm7b5 | Bb7 | EM69#11 | EM69#11 |
+ EM69#11 | EM69#11 Eb7b9 | AbM7 | G13 |
+ Gb13 BM7 | F9 | F9sus4 | F9sus4 |
+ GM7 AM7 | BM7 CM7#11 |

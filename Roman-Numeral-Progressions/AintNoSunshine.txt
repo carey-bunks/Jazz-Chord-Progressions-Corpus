@@ -1,0 +1,15 @@
+Title = Ain't No Sunshine
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 38
+ vim iiim | vim | vim iiim | vim |
+ iiim | iim | vim iiim | vim |
+ vim iiim | vim | vim iiim | vim |
+ iiim | iim | vim iiim | vim |
+ vim | vim | vim | vim |
+ vim iiim | vim | iiim | iim |
+ vim iiim | vim | vim iiim | vim |
+ vim iiim | vim | iiim | iim |
+ vim iiim | vim | vim | vim |
+ vim | vim |

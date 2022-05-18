@@ -1,0 +1,13 @@
+Title = Nature Boy
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ vim | viih iii7 | vim | viih iii7 |
+ vim vim | vim vim | iim vim | viih |
+ iii7 | iii7 | vim | vim |
+ vii7 | vii7 | iii7 | iii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ vim vim | vim vim | iim vim | viih |
+ iii7 | iii7 | vim | vim |
+ vii7 | iii7 | vim | viih iii7 |

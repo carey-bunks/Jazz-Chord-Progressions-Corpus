@@ -1,0 +1,13 @@
+Title = How Insensitive
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Dm7 | Dm7 | Dbo7 | Dbo7 |
+ Cm6 | Cm6 | G7 | G7 |
+ BbM7 | BbM7 | EbM7 | EbM7 |
+ Em7b5 | A7b9 | Dm7 | Dm7 Db7 |
+ Cm7 | F7 | Bo7 | Bo7 |
+ BbM7 | Em7b5 A7alt | Dm7 | Dm7 |
+ Cm7 | F7 | Bm7 | E7 |
+ Gm6 | Em7b5 A7 | Dm7 | Em7b5 A7b9 |
+

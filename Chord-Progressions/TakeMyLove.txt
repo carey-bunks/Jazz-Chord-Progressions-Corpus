@@ -1,0 +1,13 @@
+Title = Take My Love
+DB Key = D
+TimeSig = 3 4
+Bars = 32
+ D | DM7 | D Am6 B7 | Em |
+ A7 | A7 A7 Em7 | A7 | D |
+ D | DM7 | D Am6 B7 | Em |
+ A7 | A7 A7 Em7 | A7 | D |
+ Bm B6 C#7 | F#m | G#m7b5 G#m7b5 C#7 | F#m |
+ Dm | A A F#7 | Bm Bm E7 | A Em7 A7 |
+ D | DM7 | D Am6 B7 | Em |
+ A7 | A7 A7 Em7 | A7 | D |
+

@@ -1,0 +1,13 @@
+Title = Big Bertha
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ vim | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | viih bvii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | vim vim bvi7 v7 |
+ v7 | v7 | v7 | v7 v7 bv7 iv7 |
+ iv7 | iv7 | iii7 | iii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | viih bvii7 |

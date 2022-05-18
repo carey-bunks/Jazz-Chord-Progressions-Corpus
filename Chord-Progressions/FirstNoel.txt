@@ -1,0 +1,11 @@
+Title = The First Noel
+DB Key = D
+TimeSig = 3 4
+Bars = 24
+ D | A A G | D A G | D D A |
+ D | A G A | D D A7 | D |
+ D D Bm | A A G | D A G | D D A |
+ D | A | D D A7 | D |
+ D D Bm | F#m F#m D | G | D D A |
+ Bm F# G | D G A7 | D D A7 | D D A7 |
+

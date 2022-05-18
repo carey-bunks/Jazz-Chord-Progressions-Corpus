@@ -1,0 +1,23 @@
+Title = Waltz for Dave
+DB Key = F
+EstKeySig = F
+TimeSig = 3 4
+Bars = 70
+ iv7 | iii7 | vim | biii7 |
+ iim | vii7 | iiim | iii7 |
+ iM | viim | bviio | viim |
+ iM | i7 | vii7 | iii7 |
+ iv7 | iii7 | vim | biii7 |
+ iim | vii7 | iiim | iii7 |
+ iM | viim | bviio | viim |
+ iM | i7 | vii7 | iii7 |
+ viM | iiim | viM | iiim |
+ viM | iiim | viM | iiim |
+ biiih | bvi7 | iih | v7 |
+ ih | iv7 | viih | iii7 |
+ vim | bviM | vm | bvh |
+ ivM | iiim | biiiM | iim |
+ biih | im | vii7 | bviim |
+ vim | ii7 | vm | bviM |
+ vm | bviM | bviM | bviM |
+ bviM | bviM |

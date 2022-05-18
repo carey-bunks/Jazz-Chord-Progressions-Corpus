@@ -1,0 +1,19 @@
+Title = Brownout
+DB Key = C
+TimeSig = 4 4
+Bars = 56
+ G13 | G13 | G13 | G13 |
+ G13 | G13 | G13 | G13 |
+ G13 | G13 | G13 | G13 |
+ G13 | G13 | G13 | G13 |
+ Eb9 | Eb9 | D7#9 | D7#9 |
+ G | F F C G13 | G13 | G13 |
+ G13 | G13 | G13 | G13 |
+ G13 | G13 | G13 | G13 |
+ G13 | G13 | G13 | G13 |
+ G13 | G13 | G13 | G13 |
+ Eb9 | Eb9 | D7#9 | D7#9 |
+ G | F F C G13 | G13 | G13 |
+ Gm7 | Gm7 | Em7 | Em7 |
+ Cm/D | Cm/D | D7sus | D7sus |
+

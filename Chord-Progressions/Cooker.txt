@@ -1,0 +1,8 @@
+Title = The Cooker
+DB Key = Ab
+TimeSig = 4 4
+Bars = 12
+ Ab7 NC NC NC | NC | Ab7 NC NC NC | NC |
+ Db7 NC NC NC | NC | Ab7 NC NC NC | NC |
+ Bb7 NC NC NC | A7 NC NC NC | Ab7 NC NC NC | NC |
+

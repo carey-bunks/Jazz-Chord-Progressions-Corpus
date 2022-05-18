@@ -1,0 +1,14 @@
+Title = Didn't We
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 36
+ iM | iM vim | iim | v7 |
+ iim | v7 | iM | viih iii7 |
+ vim | vim | vim | ii7 |
+ ivM | iim | bviiM | iim v7 |
+ iM | iM vim | iim | v7 |
+ iim | v7 | iM | viih iii7 |
+ vim | vim | vim | ii7 |
+ ivM | iM | iim iiim | ivM |
+ iim | v7 | iM | iim v7 |

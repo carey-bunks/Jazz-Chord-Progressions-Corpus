@@ -1,0 +1,16 @@
+Title = How My Heart Sings
+DB Key = C
+TimeSig = 3 4
+Bars = 44
+ Em7 | Am7 | Dm7 | G7 |
+ CM7 Gb7#11 | FM7 | Bm7b5 | E7 |
+ Am | Am/G# | Am/G | F#m7b5 |
+ EM7/B | Go7/B | F#/B | B7 |
+ DM7 | AM7 | DM7/E | AM7 |
+ CM7/D | GM7 | CM7 | B7alt |
+ Em7 | Am7 | Dm7 | G7 |
+ CM7 Gb7#11 | FM7 | Bm7b5 | E7 |
+ Am | Am/G# | Am/G | F#o7 |
+ CM7/G E7alt | Am7 | Ab13 | G7 |
+ C | Gm7 C7 | F#m7b5 | B7 |
+

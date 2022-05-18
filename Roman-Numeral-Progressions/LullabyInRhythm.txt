@@ -1,0 +1,13 @@
+Title = Lullaby In Rhythm
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM iio | iM | biiim bvi7 |
+ biiM | iim | v7 | iM v7 |
+ iM | iM iio | iM | biiim bvi7 |
+ biiM | iim | v7 | iM |
+ ivm | bvii7 | iM | viih iii7 |
+ vim | ii7 | v7 | bvi7 v7 |
+ iM | iM iio | iM | biiim bvi7 |
+ biiM | iim | v7 | iM |

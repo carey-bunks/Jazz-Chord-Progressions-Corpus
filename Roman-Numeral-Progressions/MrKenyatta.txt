@@ -1,0 +1,15 @@
+Title = Mr. Kenyatta
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 40
+ iim | biii7 | iim | biii7 |
+ iim | biii7 | iim | biii7 |
+ iim | iiim | iim | iiim |
+ iim | iiim | iim | vi7 |
+ iim | iiim | iim | iiim |
+ iim | iiim | iim | iim |
+ ivm | ivm | ivm | ivm |
+ ivm | ivm | ivm | ivm |
+ iim | iiim | iim | iiim |
+ iim | iiim | iim | iim |

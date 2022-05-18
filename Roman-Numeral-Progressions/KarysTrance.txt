@@ -1,0 +1,13 @@
+Title = Kary's Trance
+DB Key = G
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ vim | vim | iim | v7 |
+ viih | iii7 | vim | vim iii7 |
+ vim | vim | iim | v7 |
+ viih | iii7 | vim | vim iii7 |
+ vo | v7 | iM biiM | iM |
+ vii7 | vii7 | iii7 | iii7 |
+ vim | vim | iim | v7 |
+ viih | iii7 | vim | vim |

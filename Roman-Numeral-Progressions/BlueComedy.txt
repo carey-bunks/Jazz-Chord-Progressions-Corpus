@@ -1,0 +1,13 @@
+Title = Blue Comedy
+DB Key = Eb
+EstKeySig = A
+TimeSig = 4 4
+Bars = 32
+ bv7 | vii7 | bv7 | iv7 |
+ iii7 | iii7 iv7 | bvii7 | bvi7 |
+ ii7 | v7 | bvi7 | bvi7 |
+ bv7 | vii7 | bv7 | iv7 |
+ iii7 | iii7 iv7 | bvii7 | bvi7 |
+ ii7 | v7 | bvi7 | bvi7 |
+ iM | iM | iM | iM |
+ iM | iM | bii7 | bii7 |

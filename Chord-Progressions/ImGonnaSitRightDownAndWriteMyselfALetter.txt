@@ -1,0 +1,13 @@
+Title = I'm Gonna Sit Right Down and Write Myself A Letter
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C CM7 | C G7+ | CM7 | CM7 |
+ CM7 C6 CM7 CM7 | E7 | F A7 | Dm |
+ Dm7 | G7sus4 G7 | C | Gm6 A7 |
+ D7 | D7 | G7 | G7 |
+ C CM7 | C G7+ | CM7 | CM7 |
+ CM7 C6 CM7 CM7 | E7 | F A7 | Dm |
+ F | F F#o7 | C Gm6 | A7 |
+ D7 | F G7 | C Dm7 | C G+ |
+

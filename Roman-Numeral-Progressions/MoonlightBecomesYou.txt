@@ -1,0 +1,13 @@
+Title = Moonlight Becomes You
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM io | iim v7 | iM biiio | iim v7 |
+ iiih vi7 | iim v7 | iii7 vi7 | ii7 v7 |
+ iM io | iim v7 | iM biiio | iim v7 |
+ iiih vi7 | iim v7 | i7 bvii7 | iM i7 |
+ ivM | vm | i7 | ivM |
+ viih iii7 | vim | ii7 | iim v7 |
+ iM io | iim v7 | iM biiio | iim v7 |
+ iiih vi7 | iim v7 | iM | iim v7 |

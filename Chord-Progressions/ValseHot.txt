@@ -1,0 +1,11 @@
+Title = Valse Hot
+DB Key = Eb
+TimeSig = 3 4
+Bars = 24
+ Bbm7 Eb7 AbM7 | Bbm7 Eb7 AbM7 | Bbm7 Eb7 AbM7 | AbM7 |
+ Ebm7 Ab7 DbM7 | Ebm7 Ab7 DbM7 | Ebm7 Ab7 DbM7 | DbM7 |
+ AbM7 | DbM7 | Cm7 | F7 |
+ Bbm7 | Eb7 | AbM7 | F7alt |
+ Bbm7 | Dbm7 | Cm7 | F7alt |
+ Bbm7 | Eb7 | AbM7 | Bbm7 Bbm7 Eb7 |
+

@@ -1,0 +1,11 @@
+Title = Nutville
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ vim | vim | vim | vim |
+ vim | vim | vim | vim |
+ iim | iim | iim | bvii7 |
+ vim | vim | vim | vim |
+ iv7 | iii7 | biii7 | ii7 |
+ iv7 | iii7 | vim | vim |

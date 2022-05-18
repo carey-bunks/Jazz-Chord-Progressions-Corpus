@@ -1,0 +1,17 @@
+Title = When the Wind Blows South
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 45
+ i7 | ivm | vim vim vim vim | v7 |
+ i7 | ivm | iM | v7 |
+ i7 | ivm | vim vim vim vim | v7 |
+ i7 | ivm | iM | bvim |
+ iM i7 | iv7 iiih | iv7 | iv7 |
+ iM iM i7 iM | iM | bvi7 v7 | iM |
+ iv7 | iv7 | iM iM i7 iM | iM |
+ bvi7 v7 | vim vim vim vim | ii7 ii7 | v7 v7 |
+ i7 | ivm | vim vim vim vim | v7 |
+ i7 | ivm | iM iM vim vim | iM |
+ ivM iM | ii7 ii7 | iim iim bvi7 v7 | iM iM iM iM |
+ iv7 |

@@ -1,0 +1,25 @@
+Title = The 3rd Man Theme
+DB Key = C
+TimeSig = 4 4
+Bars = 80
+ C | C | G7 | G7 |
+ G7 | G7 | C | C |
+ C | C | G7 | G7 |
+ G7 | G7 | C | C |
+ C | C | G7 | G7 |
+ G7 | G7 | C | C |
+ A7 | A7 | Dm Dm Dm A7 | Dm |
+ G7 | G7 | C | C |
+ C | C | C | C |
+ C | C | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 G7 G7 G+ | C | Fm G7 |
+ C | C | C | G7 |
+ G7 | G7 | G7 | C |
+ C | C | C | G7 |
+ G7 | G7 | G7 | C |
+ C | C | G7 | G7 |
+ G7 | G7 | C | C |
+ C | C | G7 | G7 |
+ G7 | G7 | C | C |
+

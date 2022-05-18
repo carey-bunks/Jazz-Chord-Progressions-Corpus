@@ -1,0 +1,13 @@
+Title = Jubilation
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Cm F7 | Bbm7 Eb7 | Ab7 G7 | C F |
+ C/G G#o7 | Am7 F | D7 DbM7 | C |
+ Cm F7 | Bbm7 Eb7 | Ab7 G7 | C F |
+ C/G G#o7 | Am7 F | D7 DbM7 | C |
+ C F | C | C F | C |
+ Fm7 Bb7 | EbM7 A7+ | Ab7 | G7 |
+ Cm F7 | Bbm7 Eb7 | Ab7 G7 | C F |
+ C/G G#o7 | Am7 F | D7 DbM7 | C |
+

@@ -1,0 +1,8 @@
+Title = One For Daddy-O
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 12
+ vim | viih iii7 | vim | vi7 |
+ iim | iim biiio | vim iii7 | vim |
+ viih | iii7 | vim | vim |

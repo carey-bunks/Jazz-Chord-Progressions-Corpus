@@ -1,0 +1,13 @@
+Title = Margie
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM | vm | i7 |
+ ivM | ivM | ivM | bvii7 |
+ iM | iM | iiim | vi7 |
+ ii7 | ii7 | v7 | v7 |
+ iM | iM | vm | i7 |
+ ivM | ivM | iii7 | iii7 |
+ iM | iim v7 | iM | vi7 |
+ iim | v7 | iM | iim v7 |

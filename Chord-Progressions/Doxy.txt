@@ -1,0 +1,9 @@
+Title = Doxy
+DB Key = Bb
+TimeSig = 4 4
+Bars = 16
+ Bb Ab7 | G7 | C7 F7 | Bb F7 |
+ Bb Ab7 | G7 | C7 | F7 |
+ Bb7 | Bb7 | Eb7 | Eo7 |
+ Bb Ab7 | G7 | C7 F7 | Bb |
+

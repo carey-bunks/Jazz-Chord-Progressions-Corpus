@@ -1,0 +1,25 @@
+Title = Rosewood
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 77
+ bvim | bvim | bvim bviM | bviM |
+ bviM viM | viM | vi7 vM | iii7 v7 |
+ bvm iii7 | bvm iii7 | viim vim | ivM |
+ bvm iii7 | bvm iii7 | viim vim | ivM |
+ vM | vM | vm | i7 bv7 |
+ ivM | ivM | bvii7 | biii7 |
+ viim vim | viim vim | ivM ivM iv7 biiiM | biiiM |
+ viim vim | viim vim | ivM ivM iv7 biiiM | biiiM |
+ bviim bvim | bviim bvim | bvm iiim | bvm iiim |
+ vi7 | bvim | bvim | bvim bviM |
+ bviM | bviM viM | viM | vi7 vM |
+ iii7 v7 | bvm iii7 | bvm iii7 | viim vim |
+ ivM | bvm iii7 | bvm iii7 | viim vim |
+ ivM | vM | vM | vm |
+ i7 bv7 | ivM | ivM | bvii7 |
+ biii7 | viim vim | viim vim | ivM ivM iv7 biiiM |
+ biiiM | viim vim | viim vim | ivM ivM iv7 biiiM |
+ biiiM | viM ivM | ivM | iii7 v7 |
+ vi7 ivM | iii7 v7 | v7 | viM viM |
+ vM v7 |

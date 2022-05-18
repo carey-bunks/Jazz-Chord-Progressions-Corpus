@@ -1,0 +1,13 @@
+Title = The Eternal Triangle
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim v7 | iiim vi7 | iim v7 |
+ vm i7 | iv7 | iiim vi7 | iim v7 |
+ iM vim | iim v7 | iiim vi7 | iim v7 |
+ vm i7 | iv7 | iiim vi7 | iim v7 iM iM |
+ biim | bv7 | im | iv7 |
+ viim iii7 | bviim biii7 | vim ii7 | bvim bii7 |
+ iM vim | iim v7 | iiim vi7 | iim v7 |
+ vm i7 | iv7 | iiim vi7 | iim v7 iM iM |

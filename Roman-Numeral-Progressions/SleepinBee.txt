@@ -1,0 +1,14 @@
+Title = A Sleepin' Bee
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 36
+ iM iim | iM iim | iM | ivM bvii7 |
+ iM ivM | iiim vi7 | iim | v7 iv7 |
+ iii7 iii7 | vi7 vi7 | ii7 ii7 | v7 v7 |
+ i7 i7 | iv7 | iim iiim ivm bvo | iim vM |
+ iM iim | iM iim | iM | ivM bvii7 |
+ iM ivM | iiim vi7 | iim | v7 iv7 |
+ iii7 iii7 | vi7 vi7 | ii7 ii7 | iim v7 |
+ iM ivM | iii7 vi7 | ii7 v7 | iii7 vi7 |
+ ii7 ii7 | iim v7 | iM | iim v7 |

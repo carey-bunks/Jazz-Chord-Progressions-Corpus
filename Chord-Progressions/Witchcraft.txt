@@ -1,0 +1,15 @@
+Title = Witchcraft
+DB Key = F
+TimeSig = 4 4
+Bars = 40
+ F6 | F6 | Abo7 | Abo7 |
+ Gm7 | C7 | FM7 | Cm7 F7 |
+ BbM7 | BbM7 | Bbm7 | Eb7 |
+ Dm7b5 | G7alt | C7 | Gm7 C7 |
+ F6 | F6 | Gm7 | C7 |
+ FM7 | FM7 | Bm7b5 | E7alt |
+ Am | Am#5 | Am6 | Am#5 |
+ Gm | Gm#5 | Gm6 | C7 |
+ F6 | F6 | Abo7 | Abo7 |
+ Gm7 | C7 | F | Gm7 C7 |
+

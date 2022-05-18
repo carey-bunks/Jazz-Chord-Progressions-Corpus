@@ -1,0 +1,16 @@
+Title = Knit for Mary F.
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 44
+ iM | biiio | ivM vi7 | bvi7 bvi7 v7 v7 |
+ iM | biiio | iim iM | ivM v7 |
+ i7 i7 | i7 i7 | ivM | ivM |
+ vii7 vii7 | vii7 vii7 vii7 vii7 | iiiM | v7 |
+ iM | biiio | ivM vi7 | bvi7 bvi7 v7 iv7 |
+ iii7 | iii7 iii7 | vim ii7 | vm i7 |
+ ivM ivM | vii7 vii7 vii7 vii7 | iiiM | vii7 vii7 vii7 bvii7 |
+ biiiM | vi7 vi7 vi7 vi7 | iiM | bvi7 bvi7 bvi7 bvi7 |
+ biiM biiM | bviim bviim | v7 | v7 v7 v7 v7 |
+ iM vim | ivM iM | biiio | iim iM |
+ ivm ivm | v7 v7 v7 v7 | iM | iM |

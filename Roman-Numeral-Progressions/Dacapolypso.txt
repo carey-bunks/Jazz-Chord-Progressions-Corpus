@@ -1,0 +1,15 @@
+Title = Dacapolypso
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 40
+ iim iio | iiim vim | iim v7 | iM |
+ ivM ivo | iM vi7 | iim iim iim v7 v7 v7 iM iM | iM |
+ iim v7 | iM vim | iim v7 | iM vim |
+ iim v7 | iM vi7 | iim iim iim v7 v7 v7 iM iM | iM |
+ iM bvii7 | vi7 | ivm bvii7 | biiiM |
+ vM vM vM vM iv7 iv7 iv7 iii7 | iii7 | im iv7 | bviiM |
+ iim v7 | iM vim | iim v7 | iM vim |
+ iim v7 | iM vi7 | iim iim iim v7 v7 v7 iM iM | iM |
+ iim iio | iiim vim | iim v7 | iM |
+ ivM ivo | iM vi7 | iim iim iim v7 v7 v7 iM iM | iM |

@@ -1,0 +1,13 @@
+Title = Paradox
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ bvm vii7 | iiim iiim | iiio vi7 | iim |
+ iio v7 | iM | iim v7 | iM |
+ bvm vii7 | iiim iiim | iiio vi7 | iim |
+ iio v7 | iM | iim v7 | iM |
+ iM | iM | ii7 v7 | vim |
+ vim | vim | ii7 v7 | iM |
+ bvm vii7 | iiim iiim | iiio vi7 | iim |
+ iio v7 | iM | iim v7 | iM |

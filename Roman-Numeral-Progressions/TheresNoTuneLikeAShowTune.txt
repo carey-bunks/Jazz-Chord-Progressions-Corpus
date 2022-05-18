@@ -1,0 +1,21 @@
+Title = There's No Tune Like A Show Tune
+DB Key = C
+EstKeySig = C
+TimeSig = 2 4
+Bars = 64
+ iM | iM | iM | iM |
+ iim | v7 | v7 | v7 |
+ iM | iM | iM | iM |
+ ii7 | ii7 | bvii7 | bvii7 |
+ iM | iM | bvi7 | bvi7 |
+ iim | iim | iii7 | iii7 |
+ vim | vim | ivo | ivo |
+ iim | iim | v7 | v7 |
+ iM | iM | iM | iM |
+ iim | v7 | v7 | v7 |
+ iM | iM | iM | iM |
+ ii7 | ii7 | bvii7 | bvii7 |
+ iM | iM | iM | iM |
+ vim | vim | ii7 | ii7 |
+ iim | iim | v7 | v7 |
+ iM | iim | iM | iM |

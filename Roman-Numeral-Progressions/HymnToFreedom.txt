@@ -1,0 +1,7 @@
+Title = Hymn To Freedom
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 8
+ iM iii7 | vim i7 | ivM bvo | iM i7 |
+ ivM bvo | iM iM iii7 vim | ii7 | v7 |

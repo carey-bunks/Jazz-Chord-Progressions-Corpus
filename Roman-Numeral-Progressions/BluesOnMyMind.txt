@@ -1,0 +1,13 @@
+Title = Blues on My Mind
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ i7 i7 | iv7 ivh | v7 bvio | vim |
+ ivh | iv7 | iiih | vi7 |
+ iim | v7 | i7 iv7 | ivh v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |

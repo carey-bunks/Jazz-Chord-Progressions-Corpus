@@ -1,0 +1,13 @@
+Title = Muskrat Ramble
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM | v7 | v7 | iM |
+ iM | iiim | vii7 | iiim v7 |
+ iM | v7 | v7 | iM |
+ vi7 | iim | ii7 | iM |
+ v7 | v7 | iM | iM |
+ v7 | v7 | iM | iM |
+ v7 | v7 | iM | iM iM vii7 bvii7 |
+ vi7 | iim | ii7 v7 | iM |

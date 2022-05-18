@@ -1,0 +1,9 @@
+Title = Red Clay
+DB Key = Eb
+TimeSig = 4 4
+Bars = 16
+ Cm11 | Bbm7 | Db7sus4 Eb7sus4 | F7sus4 G7sus4 |
+ Cm11 | Bbm7 | Db7sus4 Eb7sus4 | F7sus4 G7sus4 |
+ Cm7 | Bbm7 Eb7 | AbM7 | Dm7b5 G7alt |
+ Cm7 | Bbm7 Eb7 | AbM7 | Dm7b5 G7alt |
+

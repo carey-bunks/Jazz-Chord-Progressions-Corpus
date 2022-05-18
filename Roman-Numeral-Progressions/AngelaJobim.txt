@@ -1,0 +1,11 @@
+Title = Angela
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 24
+ bvm | vii7 | iiim | vi7 |
+ iim | v7 | iM | vim |
+ bvm | vii7 | iiim | vi7 |
+ iim | v7 | vm | i7 |
+ ivM | bvii7 | iiim | vi7 |
+ bvm | iim | v7 | iM |

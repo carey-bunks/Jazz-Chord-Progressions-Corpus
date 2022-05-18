@@ -1,0 +1,13 @@
+Title = Hit the Road to Dreamland
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb | Bb | Bb | Bb Gm |
+ Cm7 | Cm7 F7 | Cm7 Cm7 F9 F+ | Bb |
+ Bb | Bb | Bb | Bb Gm |
+ Cm7 | Cm7 F7 | Cm7 Cm7 F F+ | Bb |
+ D7 D+ C C | Fm D9 | D9 D9b5 | Am7 D9 |
+ Dm7 Dm7 Dm7 G7 | Dm7 G7 | Eb | F7 |
+ Bb | Bb | Bb | Bb Gm |
+ Cm7 | Cm7 F7 | Cm7 F9+ | Dm7 Gm F#o7 Gm7 |
+

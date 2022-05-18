@@ -1,0 +1,9 @@
+Title = Blue Lace
+DB Key = C
+EstKeySig = Db
+TimeSig = 3 4
+Bars = 14
+ iiim | iiim | iim | iim |
+ iiim | iiim | iim | iim |
+ iM | iM | im | iv7 |
+ bviiM | bviiM |

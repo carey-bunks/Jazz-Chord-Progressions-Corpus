@@ -1,0 +1,13 @@
+Title = Bohemia After Dark
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ vim | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | iv7 iii7 vim iii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | vim |
+ vim | vim | vim | vim |
+ vim | vim | vim | iv7 iii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | iv7 iii7 vim iii7 |

@@ -1,0 +1,13 @@
+Title = September In The Rain
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb69 | Bbm7 Eb7 | AbM7 | AbM7 |
+ Db7 | Fm7 Bb7 | Eb69 | Bb7sus4 |
+ Eb69 | Bbm7 Eb7 | AbM7 | AbM7 |
+ Db7 | Fm7 Bb7 | Eb69 | Cm7 F7 |
+ Bbm7 Eb7 | Bbm7 Eb7 | Ab69 | Ab69 |
+ Cm7 F7 | Cm7 F7 | Fm7 | Bb7alt |
+ Eb69 | Bbm7 Eb7 | AbM7 | AbM7 |
+ Db7 | Fm7 Bb7 | Eb69 | Bb7sus4 |
+

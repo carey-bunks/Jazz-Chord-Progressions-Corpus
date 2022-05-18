@@ -1,0 +1,16 @@
+Title = Love Dance
+DB Key = Eb
+TimeSig = 4 4
+Bars = 47
+ F6/Eb Abm7/Eb | F6/Eb Db13 | F6/Eb Abm7/Eb | F6/Eb Db13 |
+ EbM7 Fm7 Gm7 AbM7 | Db13 | Gm7 Cm7 | F13#11 |
+ Bb13 Bb13 Bb13 Bb13 A13 Ab13 | G13 G7#5 | C9 C7#5#9 | F13 |
+ Bb13sus4 Bb13b9 | F6/Eb Abm7/Eb | F6/Eb Db13sus4 | EbM7 Fm7 Gm7 AbM7 |
+ Db13 | Gm7 Cm7 | F13#11 | Bb13 Bb13 Bb13 Bb13 A13 Ab13 |
+ G13 G7#5 | C9 C7#5#9 | F13 | Bb13sus4 Bb13b9 |
+ F6/Eb Abm7/Eb | F6/Eb F6/Eb Db13 A7b5 | Dm7b5 G7#5 | Cm7 Cm7/Bb |
+ Am7b5 D7#5 | GM7 | Gbm7b5 B7#5 | Em7 Em7/D |
+ F13 | Bb13 Bb7b9 | EbM7 Fm7 Gm7 AbM7 | Db13 |
+ Gm7 Cm7 | F13#11 | Bb13 Bb13 Bb13 Bb13 A13 Ab13 | G13 G7#5 |
+ C9 C7#5#9 | F13 | Bb13sus4 Bb13b9 | F6/Eb Abm7/Eb |
+ F6/Eb Abm7/Eb | D7#5#9 | F/Eb |

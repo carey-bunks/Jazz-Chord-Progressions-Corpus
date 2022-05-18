@@ -1,0 +1,11 @@
+Title = Time Remembered
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ bvim | viM | iiM | biim |
+ bvm viim | iiim | iM | ivM |
+ bvm | viim | iiim | vim |
+ iim | biim | bvim | bvim |
+ im | bvm | vim | iim |
+ bvim iiim | iM | viim | vim |

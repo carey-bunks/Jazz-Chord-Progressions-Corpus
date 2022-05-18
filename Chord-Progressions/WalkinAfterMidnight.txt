@@ -1,0 +1,13 @@
+Title = Walkin' After Midnight
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F | F7 | Bb7 | Bb7 |
+ F | Db7 C7 | F Dm7 | Gm7 C7 |
+ F | F7 | Bb7 | Bb7 |
+ F | Db7 C7 | F | F7 |
+ Bb | Bb | F C7+ | F7 |
+ Bb | Bb | F D7 | Gm7 Db7 C7 C7 |
+ F | F7 | Bb7 | Bb7 |
+ F | Db7 C7 | F Eb7 | F7 C7+ |
+

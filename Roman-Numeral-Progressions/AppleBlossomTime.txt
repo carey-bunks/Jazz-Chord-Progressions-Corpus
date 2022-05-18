@@ -1,0 +1,13 @@
+Title = Apple Blossom Time
+DB Key = C
+EstKeySig = C
+TimeSig = 3 4
+Bars = 32
+ iM | iM | iiim | iiim |
+ ivM | ivM | iM | iM iM iiio |
+ v7 v7 vo | v7 | iM | vi7 |
+ ii7 | ii7 | v7 io iiio | v7 |
+ iM | iM | iiim | iiim |
+ ivM | ivM | iiiM | iiiM iiiM iii7 |
+ vi7 vi7 vio | vi7 | ii7 | ii7 |
+ ivm ivm v7 | ii7 ii7 v7 | iM | iM |

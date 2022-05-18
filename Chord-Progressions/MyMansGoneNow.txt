@@ -1,0 +1,25 @@
+Title = My Man's Gone Now
+DB Key = F
+TimeSig = 3 4
+Bars = 80
+ Dm7 | Dadd9no3 | D7#9 | A13/D |
+ D7#9 | BbM7 | G7 F7 Eb7 | Dm7 |
+ D | D7 | Dm7 | B7b9 B7b9 E7#11 |
+ Am7 Am7 A7 | Dm7 | Dadd9no3 | D7#9 |
+ A13/D | D7#9 | BbM7 | G7 F7 Eb7 |
+ Dm7 | D | D7 | Dm7 |
+ B7b9 B7b9 E7#11 | Am7 Am7 A7 | Ab7 | DbM7 |
+ A7 | Dm7 | B7 | Em7 |
+ F6 Gm7 G#o7 | Am7 | Am7 | Ab7 |
+ DbM7 | A7 | Dm7 | B7 |
+ Em7 | Gm7b5 GbM7 F7+ | Bb69 | Gm7b5 Gm7b5 C7#5b9 |
+ F69 | Em7b5 Em7b5 A7+ | Dm7 | D7#11 |
+ Dm7 | B7b9 B7b9 E7b9 | Am7 Am7 A7 | Ab7 |
+ DbM7 | A7 | Dm7 | B7 |
+ Em7 | F6 Gm7 G#o7 | Am7 | Am7 |
+ Ab7 | DbM7 | A7 | Dm7 |
+ B7 | Em7 | Gm7b5 GbM7 F7+ | Bb69 |
+ Gm7b5 Gm7b5 C7#5b9 | F69 | Em7b5 Em7b5 A7+ | Dm7 |
+ A7 | D7 | A7 | Dm7 |
+ A7 | D7 | Em7b5 Em7b5 A7#5b9 | Dm7 |
+

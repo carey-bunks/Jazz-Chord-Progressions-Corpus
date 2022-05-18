@@ -1,0 +1,13 @@
+Title = A Whiter Shade of Pale
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM iM | iM iM | ivM ivM | iim iim |
+ vM vM | iiim v7 | iM ivM | vM ivM v7 |
+ iM iM | vim vim | ivM ivM | iim |
+ vM vM | iiim v7 | iM iM | vim iiim |
+ ivM ivM | iim | vM vM | iiim v7 |
+ iM iM | vim iiim | ivM ivM | iim v7 |
+ iM iM | vim vim | ivM ivM | iim |
+ vM vM | iiim v7 | iM ivM | iM v7 |

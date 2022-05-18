@@ -1,0 +1,20 @@
+Title = Heartsong
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 60
+ iM | ivM | vM | vM |
+ ivM | ivM | ivm | ivm biiiM |
+ vim ii7 | vM | biii7 | vim |
+ iim | v7 | iM ivM | ivM |
+ iM ivM | ivM | iM ivM | ivM |
+ iM ivM | ivM | iM | ivM |
+ vM | vM | ivM | ivM |
+ ivm | ivm biiiM | vim ii7 | vM |
+ biii7 | vim | iim | v7 |
+ viM iiM | iiM | viM iiM | iiM |
+ viM iiM | iiM | viM iiM | iiM |
+ viM | iim | viM | iim |
+ bviiM | bviiM | vim | ii7 |
+ vm | i7 | iiM vM | vM |
+ iiM vM | vM | iiM vM | vM |

@@ -1,0 +1,21 @@
+Title = Consider Yourself
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 6 8
+Bars = 64
+ iM | iM | iM | iM |
+ iM | iM | iim | vM |
+ iM | iM | vim | vim vio |
+ vM | vo | vim ii7 | vM |
+ iM | iM | iM | iM |
+ iM | iM | iim | vM |
+ iM | iM | vim | vim vio |
+ vM | vo | vim ii7 | vM |
+ vm | vm | i7 | i7 |
+ ivM | ivM | ivM | ivM |
+ vim | vim | ii7 | ii7 |
+ vM vo | vim vio | v7 | v7 |
+ iM | iM | iM | iM |
+ iim | iim | iim | iim |
+ iM | iM | iM vm | vi7 |
+ iim | v7 | iM | iM |

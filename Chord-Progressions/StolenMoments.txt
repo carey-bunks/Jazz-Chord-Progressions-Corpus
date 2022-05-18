@@ -1,0 +1,12 @@
+Title = Stolen Moments
+DB Key = Eb
+TimeSig = 4 4
+Bars = 28
+ Cm7 | Cm6 | Cm7 | Cm6 |
+ Fm7 | Fm6 | Cm7 | Cm6 |
+ D7sus4 Eb7sus4 | E7sus4 F7sus4 | F#7sus4 F7sus4 | E7sus4 Eb7sus4 |
+ Dm7 Ebo7 | C/E Fm7 | Cm7 | G7alt |
+ Cm7 | Cm7 | Cm7 | C7alt |
+ Fm7 | Fm7 | Cm7 | Cm7 |
+ Dm7b5 | G7alt | Cm7 | G7alt |
+

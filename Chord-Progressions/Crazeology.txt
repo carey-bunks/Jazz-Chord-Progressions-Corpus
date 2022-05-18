@@ -1,0 +1,13 @@
+Title = Crazeology
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb | Cm7 F7 | Bb Bbo | Cm7 F7 |
+ Abm7 Db7 | Gb | Cm7 F7 | Bb |
+ Bb | Cm7 F7 | Bb Bbo | Cm7 F7 |
+ Abm7 Db7 | Gb | Cm7 F7 | Bb |
+ D7 | D7 | Dm7 | G7 |
+ C7 | C7 | Cm7 | F7 |
+ Bb | Cm7 F7 | Bb Bbo | Cm7 F7 |
+ Abm7 Db7 | Gb | Cm7 F7 | Bb |
+

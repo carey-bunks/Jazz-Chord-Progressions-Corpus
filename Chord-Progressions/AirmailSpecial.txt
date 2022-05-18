@@ -1,0 +1,13 @@
+Title = Airmail Special
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Bb | Bb | Bb | Bb |
+ Bb | Bb | Bb | Bb |
+ Bb | Bb | Bb | Bb |
+ Bb | Bb | Bb | Bb |
+ Dbo | Dbo | Dbo | Dbo |
+ Bbo Ao | Abo | Gb7 | F7 |
+ Bb | Bb | Bb | Bb |
+ Bb | Bb | Bb | Bb |
+

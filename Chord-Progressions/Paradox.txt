@@ -1,0 +1,13 @@
+Title = Paradox
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Bm7 E7 | Am AmM7 | Ao7 D7 | Gm |
+ Go7 C7 | F | Gm7 C7 | F |
+ Bm7 E7 | Am AmM7 | Ao7 D7 | Gm |
+ Go7 C7 | F | Gm7 C7 | F |
+ F | F | G7 C7 | Dm |
+ Dm | Dm | G7 C7 | F |
+ Bm7 E7 | Am AmM7 | Ao7 D7 | Gm |
+ Go7 C7 | F | Gm7 C7 | F |
+

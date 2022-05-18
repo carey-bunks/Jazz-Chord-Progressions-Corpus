@@ -1,0 +1,13 @@
+Title = Don't Let The Sun Catch You Crying
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM bviiM | iM bviiM | iM bviiM | iM i7 |
+ ivM bvo | iim iim | iM | v7 |
+ iM bviiM | iM bviiM | iM bviiM | iM i7 |
+ ivM bvo | iim iim | iM | vii7 |
+ iiim | iim iii7 | iiim | vi7 |
+ ii7 ii7 | ii7 | v7 | iim v7 |
+ iM bviiM | iM bviiM | iM bviiM | iM i7 |
+ ivM bvo | iim iim | iM vim | iim v7 |

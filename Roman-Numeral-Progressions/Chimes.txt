@@ -1,0 +1,14 @@
+Title = Chimes
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 35
+ iiim | bvi7 | biim | iv7 |
+ bviim | v7 | im ivm | iim v7 im im |
+ vii7 | iiim | bvi7 | biim |
+ iv7 | bviim | v7 | im ivm |
+ iim v7 im im | i7 ivM | viim vM | iii7 viM |
+ iim viiM | i7 ivM | viim vM | iii7 viM |
+ iim viiM | vii7 | iiim | bvi7 |
+ biim | iv7 | bviim | v7 |
+ im ivm | iim v7 im im | vii7 |

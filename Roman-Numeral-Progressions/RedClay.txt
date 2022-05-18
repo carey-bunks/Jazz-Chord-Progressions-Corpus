@@ -1,0 +1,9 @@
+Title = Red Clay
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 16
+ iiim | iim | iv7 v7 | vi7 vii7 |
+ iiim | iim | iv7 v7 | vi7 vii7 |
+ iiim | iim v7 | iM | bvh vii7 |
+ iiim | iim v7 | iM | bvh vii7 |

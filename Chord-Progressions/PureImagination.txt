@@ -1,0 +1,13 @@
+Title = Pure Imagination
+DB Key = Eb
+TimeSig = 4 4
+Bars = 35
+ Fm7 | Bb7 | EbM7 EbM7 Fm7 F#o7 | Gm7 C7#9 |
+ Fm7 | Bb7 | Ebo7 EbM7 | Gm7 C7#9 |
+ Fm7 | Bb7 | EbM7 EbM7 Fm7 F#o7 | Gm7 C7#9 |
+ Fm7 | Bb7 | GM7 | GM7 |
+ AbM7 | Gm7 C7b9 | Fm7 Bb7 | EbM7 |
+ Am7b5 D7#5 | Gm7 | C7 F7 | Fm7 |
+ Bb7 | Fm7 | Bb7 | EbM7 EbM7 Fm7 F#o7 |
+ Gm7 C7#9 | Fm7 | Bb7 | GM7 |
+ Bbm7 Bb7 | Eb6 | Gm7 C7b9 |

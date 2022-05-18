@@ -1,0 +1,8 @@
+Title = Matrix
+DB Key = F
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ v7 | v7 | v7 | v7 v7 v7 v7 v7 v7 v7 i7 |
+ i7 | i7 | v7 | v7 |
+ ii7 | ii7 | v7 | v7 |

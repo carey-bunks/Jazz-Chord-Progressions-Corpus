@@ -1,0 +1,13 @@
+Title = Blue Christmas
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F | F | C7 | C7 |
+ Gm7 | C7 | F | F |
+ Cm6 D7 | Cm6 D7 | Gm | Gm |
+ G7 | G7 | C7 C7 C7 C7b5 | C7 |
+ F | F | C7 | C7 |
+ Gm7 | C7 | F | F |
+ Cm6 D7 | Cm6 D7 | Gm | Fo7 |
+ C7 | Gm C6 | F | C7b9 |
+

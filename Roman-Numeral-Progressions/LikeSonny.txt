@@ -1,0 +1,11 @@
+Title = Like Sonny
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ viim | viim | iim | iim |
+ ivm | ivm v7 | iM | iM |
+ bvm | bvm | iim | iim |
+ vim | vim ii7 | bviM | im iv7 |
+ viim | viim | iim | iim |
+ ivm | ivm v7 | iM | iM |

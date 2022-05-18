@@ -1,0 +1,13 @@
+Title = Close Your Eyes
+DB Key = Ab
+EstKeySig = Gb
+TimeSig = 4 4
+Bars = 32
+ viih | iii7 | viih | iii7 |
+ vim | viih iii7 | vim | vim |
+ viih | iii7 | viih | iii7 |
+ vim | viih iii7 | viM | viM |
+ iiim | vi7 | iiim | vi7 |
+ ii7 | ii7 | iv7 | iii7 |
+ viih | iii7 | viih | iii7 |
+ vim | viih iii7 | vim | vim |

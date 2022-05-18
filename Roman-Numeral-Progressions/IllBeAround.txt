@@ -1,0 +1,13 @@
+Title = I'll Be Around
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM iim | iiim ivM | v7 vo | ivM v7 |
+ iM vim | iim v7 | iM biiiM | bviM biiM |
+ iM iim | iiim ivM | v7 vo | ivM v7 |
+ iM vim | iim v7 | iM iim | biiio iM |
+ bii7 vm | bvM | bii7 vm vm | ivM |
+ bvi7 iim | biiM | iiim biiio | iim v7 |
+ iM iim | iiim ivM | v7 vo | ivM v7 |
+ iM vim | iim v7 | iM biiiM | bviM biiM |

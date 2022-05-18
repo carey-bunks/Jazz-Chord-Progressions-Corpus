@@ -1,0 +1,22 @@
+Title = Desafinado
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 68
+ iM | iM | ii7 | ii7 |
+ iim | v7 | iiih | vi7 |
+ iim | iii7 | vi7 | vi7 |
+ ii7 | ii7 | biiM | biiM |
+ iM | iM | ii7 | ii7 |
+ iim | v7 | iiih | vi7 |
+ ivM | ivm | iiim | bvh vii7 |
+ iiiM | ivo | bvm | vii7 |
+ iiiM | ivo | bvm | vii7 |
+ iiiM | im | bvm | vii7 |
+ vM | vo | vim | ii7 |
+ iim | iiih vi7 | iim | v7 |
+ iM | iM | ii7 | ii7 |
+ iim | v7 | iiih | vi7 |
+ ivM | ivm | iiim | biiio |
+ ii7 | ii7 | ivm | bvii7 |
+ ii7 | v7 | iM | iim v7 |

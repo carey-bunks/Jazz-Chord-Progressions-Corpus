@@ -1,0 +1,13 @@
+Title = Nature Boy
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Dm7 | Em7b5 A7 | Dm7 | Em7b5 A7 |
+ Dm DmM7 | Dm7 Dm6 | Gm6 Dm7 | Em7b5 |
+ A7 | A7 | Dm7 | Dm7 |
+ E7b9 | E7b9 | A7 | A7 |
+ Dm7 | Em7b5 A7 | Dm7 | Em7b5 A7 |
+ Dm DmM7 | Dm7 Dm6 | Gm6 Dm7 | Em7b5 |
+ A7 | A7 | Dm7 | Dm7 |
+ E7b9 | A7+ | Dm7 | Em7b5 A7 |
+

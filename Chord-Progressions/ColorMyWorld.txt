@@ -1,0 +1,11 @@
+Title = Color My World
+DB Key = G
+TimeSig = 4 4
+Bars = 27
+ Gmaj7 | Bm | C | Fmaj7 |
+ Bbmaj7 | Abmaj7 | Abm7b5/E | Amaj7 |
+ Am7b5/F | D7 | Am7 D7 | G G C D |
+ Gmaj7 | Gmaj7 | Bm | C |
+ Fmaj7 | Bbmaj7 | Abmaj7 | E9 |
+ Amaj7 | F9 | D7 | Am7 D7 |
+ G G C D | Gmaj7 | Gmaj7 |

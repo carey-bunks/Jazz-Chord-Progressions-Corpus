@@ -1,0 +1,9 @@
+Title = Games That Lovers Play
+DB Key = F
+TimeSig = 4 4
+Bars = 16
+ F | F | Gm7 | C7 |
+ C7 | C7 | F F F FM7 | F6 |
+ F7 | F7 | Bb Bb Bb BbM7 | Bbm6 |
+ F | Gm C7 | F | F C7 |
+

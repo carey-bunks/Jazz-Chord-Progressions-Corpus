@@ -1,0 +1,9 @@
+Title = Greensleeves
+DB Key = G
+EstKeySig = D
+TimeSig = 3 4
+Bars = 16
+ iim | iM iM io | iim iim biii7 | vi7 |
+ iim | iM iM io | iim iim vi7 | iim |
+ ivM | iM iM io | iim iim biii7 | vi7 |
+ ivM | iM iM io | iim iim vi7 | iim |

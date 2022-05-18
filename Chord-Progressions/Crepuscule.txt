@@ -1,0 +1,13 @@
+Title = Crepuscule
+DB Key = F
+TimeSig = 4 4
+Bars = 35
+ F6 | Gm7 | Am7 Am7 Gm7 C7 | FM7 Gm7 |
+ Am7 Am7 Cm7 F7 | Bb6 Bb7 | Gm7 C7 | F6 Db7 |
+ F6 F6 Gm7 C7 | F6 | Gm7 | Am7 Am7 Gm7 C7 |
+ FM7 Gm7 | Am7 Am7 Cm7 F7 | Bb6 Bb7 | Gm7 C7 |
+ F6 Db7 | F6 F6 Abm7 Db7 | Gb6 Abm7 | Bbm7 Bbm7 Abm7 Db7 |
+ GbM7 Abm7 | Bbm7 Bbm7 Abm7 Db7 | GbM7 Ebm7 | Ebm7 Db7 |
+ Gb6 D7 | Gb6 Gb6 Gm7 C7 | F6 | Gm7 |
+ Am7 Am7 Gm7 C7 | FM7 Gm7 | Am7 Am7 Cm7 F7 | Bb6 Bb7 |
+ Gm7 C7 | F6 Db7 | F6 F6 Gm7 C7 |

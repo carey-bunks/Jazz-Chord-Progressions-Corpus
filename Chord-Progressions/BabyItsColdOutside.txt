@@ -1,0 +1,13 @@
+Title = Baby, It's Cold Outside
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb6 | Eb6 Cm7 | Fm7 Bb7 | Fm7 Bb7 |
+ Eb6 | Eb6 Cm7 | Bbm7 | Eb7 |
+ Ab Ab6 | AbM7 Ab6 | Abm Abm6 | Abm7 Db9 |
+ Eb6 | Cm7 | F7 | Bb7 NC NC NC |
+ Eb6 | Eb6 Cm7 | Fm7 Bb7 | Fm7 Bb7 |
+ Eb6 | Eb6 Cm7 | Bbm7 | Eb7 |
+ Ab Ab6 | AbM7 Ab6 | Cm7 F7 | Fm7 Bb7 |
+ Eb6 | Gm7b5 C7 | F7 Bb7 | Eb6 Bb7 |
+

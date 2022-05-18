@@ -1,0 +1,13 @@
+Title = The Beatles
+DB Key = C
+EstKeySig = E
+TimeSig = 4 4
+Bars = 30
+ bviM | bviM | bviM | bviM |
+ v7 | iM | bvi7 | bvi7 |
+ bvi7 viiM | viiM | bviiM | biim |
+ ivm | iM | biim | bviM |
+ bvM | bvM | biim | bviM |
+ ivM | ivM | biim | bviM |
+ biiiM biiim | ivM | v7 | v7 |
+ v7 | v7 |

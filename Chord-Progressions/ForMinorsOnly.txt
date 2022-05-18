@@ -1,0 +1,13 @@
+Title = For Minors Only
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Cm7 G7/D | Cm7/Eb G7/D | Cm7 G7/D | Cm7/Eb C7 |
+ Fm7 C7/G | Fm7/Ab C7/G | Fm7 C7/G | Fm6 |
+ Dm7 Dm7 G7 Ebm7 | Ebm7 Ab7 | Dm7 | G7 G7#5b9 |
+ Cm7 | Ab7 Db9 | Cm69 | G7+ |
+ Cm7 G7/D | Cm7/Eb G7/D | Cm7 G7/D | Cm7/Eb C7 |
+ Fm7 C7/G | Fm7/Ab C7/G | Fm7 C7/G | Fm6 |
+ Dm7 Dm7 G7 Ebm7 | Ebm7 Ab7 | Dm7 | G7 G7#5b9 |
+ Cm7 | Ab7 Db9 | Cm69 | Dm7b5 G7alt |
+

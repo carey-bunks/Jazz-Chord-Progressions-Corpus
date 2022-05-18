@@ -1,0 +1,9 @@
+Title = Bemsha Swing
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 16
+ NC vi7 | bvi7 bii7 | iM biii7 | ii7 bii7 |
+ iM vi7 | bvi7 bii7 | iM bvii7 | bvi7 bv7 |
+ ivM ii7 | bii7 bv7 | ivM bvi7 | v7 bii7 |
+ iM vi7 | bvi7 bii7 | iM biiM | biiM |

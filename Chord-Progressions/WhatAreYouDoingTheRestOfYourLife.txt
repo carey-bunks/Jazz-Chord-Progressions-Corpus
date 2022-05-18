@@ -1,0 +1,15 @@
+Title = What Are You Doing The Rest Of Your Life?
+DB Key = C
+TimeSig = 4 4
+Bars = 40
+ Am Am/G# | Am7/G Am/F# | FM7 | FM7 |
+ Dm7 | Dm7 Bm7b5 | Bm7/E | E7b9 |
+ Am Am/G# | Am7/G Am/F# | FM7 | FM7 |
+ Dm7 | Dm7 Bm7b5 E7b9 | AM7 | AM7 |
+ Bm7b5 E7b9 | AM7 | Bm7b5 E7b9 | AM7 |
+ Abm7 Db7b9 | GbM7 | Gm7 C7b9 | FM7 |
+ Am Am/G# | Am7/G Am/F# | FM7 | FM7 |
+ Dm7 | Dm7 Bm7b5 | Bm7/E | E7b9 |
+ FM7 | Bm7b5 E7 | FM7 | F7#11 |
+ Am/E | Bm7b5 E7b9 | Am7 | E7b9 |
+

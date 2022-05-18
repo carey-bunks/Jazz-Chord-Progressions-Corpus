@@ -1,0 +1,13 @@
+Title = Tricotism
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | ii7 | ii7 |
+ ivM bvo | iM vi7 | bvi7 | v7 |
+ iM | iM | ii7 | ii7 |
+ ivM bvo | iM vi7 | iim v7 | iM |
+ bvi7 | bvi7 | iM | iM iii7 |
+ vim vim | vim ii7 | iim | iim v7 |
+ iM | iM | ii7 | ii7 |
+ ivM bvo | iM vi7 | iim v7 | iM |

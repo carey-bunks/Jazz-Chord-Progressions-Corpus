@@ -1,0 +1,19 @@
+Title = All In Love Is Fair
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 55
+ vim | vim | bvh | ivM |
+ iiih | vi7 | ii7 | v7 |
+ vim | vim | bvh | ivM |
+ iiih | vi7 vi7 | iim | iii7 iii7 |
+ vim | vim | bvh | ivm bvii7 |
+ iM vi7 | ii7 v7 | iM | iM iii7 |
+ vim | vim | bvh | ivM |
+ iiih | vi7 | ii7 | v7 |
+ vim | vim | bvh | ivM |
+ iiih | vi7 vi7 | iim | iii7 iii7 |
+ vim | vim | bvh | ivm bvii7 |
+ iM vi7 | ii7 v7 | iM | ivm bvii7 |
+ iM vi7 | ii7 v7 | iM | iM |
+ i7 | ivM iiiM | vim |

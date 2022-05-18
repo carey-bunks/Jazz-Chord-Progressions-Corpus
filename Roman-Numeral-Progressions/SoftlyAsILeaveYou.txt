@@ -1,0 +1,12 @@
+Title = Softly, As I Leave You
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 26
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM | ivM | iM vim | iim v7 |
+ biiiM im | ivm bvii7 | biiiM im | ivm bvii7 |
+ biiiM | bviM | vm bvii7 | ivm bvii7 |
+ iM vim | iim v7 | iM | iim iim v7 vo |
+ vim vim | ivM | bviM | ivm bvii7 |
+ iM vi7 | iim v7 |

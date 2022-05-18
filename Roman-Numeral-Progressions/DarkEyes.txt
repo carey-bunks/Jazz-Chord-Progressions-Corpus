@@ -1,0 +1,9 @@
+Title = Dark Eyes
+DB Key = C
+EstKeySig = F
+TimeSig = 3 4
+Bars = 16
+ iii7 | iii7 | vim | vim |
+ iii7 | iii7 | vim | vim |
+ iim | iim | vim | vim |
+ iii7 | iii7 | vim | vim |

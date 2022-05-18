@@ -1,0 +1,8 @@
+Title = Woodchopper's Ball
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 12
+ iM | iM | iM | vi7 |
+ iv7 | iv7 | iM | iM |
+ iim | v7 | iM | iM |

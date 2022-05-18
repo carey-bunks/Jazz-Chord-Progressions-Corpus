@@ -1,0 +1,13 @@
+Title = E.S.P.
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ E7alt | E7alt | FM7 | FM7 |
+ E7alt | E7alt | Eb7#11 | Eb7#11 |
+ D7alt | EbM7#11 | E7alt | FM7 EbM7 |
+ Dm7 | G7 | Gm7 | Gb7alt |
+ E7alt | E7alt | FM7 | FM7 |
+ E7alt | E7alt | Eb7#11 | Eb7#11 |
+ D7alt | EbM7#11 | E7alt | FM7 EbM7 |
+ Db7alt | Gm7 | Dbm7 Gb7 | FM7 |
+

@@ -1,0 +1,13 @@
+Title = Heaven
+DB Key = Bb
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ ivM | ivM | ii7 | ii7 |
+ v7 | v7 | i7 | i7 |
+ ivM | ivM | ii7 | ii7 |
+ v7 | v7 | i7 | i7 |
+ im | iv7 | bviiM | bviiM |
+ viih | iii7 | vim | v7 bv7 |
+ bvM | bvM | ii7 | ii7 |
+ v7 | v7 i7 | ivM | ivM |

@@ -1,0 +1,16 @@
+Title = Yesterday Is Gone
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 43
+ iim v7 | bvio iM | bvh ivm | iM |
+ vim ii7 | ivo v7 | iiim vim | iio vio |
+ iim v7 | ivo ivo vim vM | bvo iM | iM iiim ivM vM |
+ bvh iv7 | iM iM iM bvo | iv7 iiim | viM vi7 bvii7 vi7 |
+ iim v7 | bvio iM | bvh ivm | iM |
+ vim ii7 | ivo v7 | iiim vim | iio vio |
+ iim v7 | ivo ivo vim vM | bvo iM | iM iiim ivM vM |
+ bvh iv7 | iM iM iM bvo | iv7 iiim | viM vi7 bvii7 vi7 |
+ iim | v7 | bvio | iM |
+ bvh | ivm | iM | ivm |
+ bvh | ivm | iM |

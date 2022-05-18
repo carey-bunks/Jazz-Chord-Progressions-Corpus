@@ -1,0 +1,19 @@
+Title = Up Jumped Spring
+DB Key = Bb
+TimeSig = 3 4
+Bars = 56
+ BbM7 | G7alt | Cm7 | F7 |
+ Gm7 | Fm7 | Em7b5 | A7alt |
+ Dm7 | Ebm7 | Dm7 | Ebm7 |
+ Bm7b5 | E7 | Cm7b5 | F7 |
+ BbM7 | G7alt | Cm7 | F7 |
+ Gm7 | Fm7 | Em7b5 | A7alt |
+ Dm7 | Ebm7 | Dm7 | Ebm7 |
+ Cm7 | F7 | BbM7 | Am7b5 Am7b5 D7b9 |
+ Gm7 | C7 | FM7 | D7 |
+ Abm7 | Db7 | Cm7 | F7 |
+ BbM7 | G7alt | Cm7 | F7 |
+ Gm7 | Fm7 | Em7b5 | A7alt |
+ Dm7 | Ebm7 | Dm7 | Ebm7 |
+ Cm7 | F7 | BM7 | BM7 BbM7 BbM7 |
+

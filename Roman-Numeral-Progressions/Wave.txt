@@ -1,0 +1,16 @@
+Title = Wave
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 44
+ viM | viio | iiim | vi7 |
+ iiM | iim | i7 | bv7 |
+ bvm vii7 | iv7 iii7 | vim ii7 | vim ii7 |
+ viM | viio | iiim | vi7 |
+ iiM | iim | i7 | bv7 |
+ bvm vii7 | iv7 iii7 | vim ii7 | vim ii7 |
+ iim | v7 | iM | iM |
+ im | iv7 | bviiM | viih iii7 |
+ viM | viio | iiim | vi7 |
+ iiM | iim | i7 | bv7 |
+ bvm vii7 | iv7 iii7 | vim ii7 | vim ii7 |

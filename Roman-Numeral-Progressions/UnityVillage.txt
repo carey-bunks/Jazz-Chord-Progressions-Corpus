@@ -1,0 +1,11 @@
+Title = Unity Village
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 24
+ iiim | vii7 | iM | iM |
+ iiim | vii7 | iM | ivM |
+ iiiM | vm | iim bvii7 | im bv7 |
+ viiM | viiM | viiM | viiM |
+ vM | iiM | bviiM | ivM |
+ ivM vM | iM | bvM viiM | vii7 |

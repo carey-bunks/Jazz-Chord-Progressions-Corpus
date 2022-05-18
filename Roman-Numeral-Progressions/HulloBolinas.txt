@@ -1,0 +1,13 @@
+Title = Hullo Bolinas
+DB Key = C
+EstKeySig = C
+TimeSig = 3 4
+Bars = 30
+ v7 | iii7 | vim | ii7 |
+ v7 | iii7 | ivM | vii7 |
+ iM | vim | ivM | vii7 |
+ iiim | v7 | iii7 | vim |
+ ii7 | v7 | iii7 | ivM |
+ vii7 | iM | vim | ivM |
+ vii7 | iiim | v7 | iii7 |
+ vim | vim |

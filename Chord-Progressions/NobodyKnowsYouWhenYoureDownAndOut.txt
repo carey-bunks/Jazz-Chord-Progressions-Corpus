@@ -1,0 +1,9 @@
+Title = Nobody Knows You When You're Down and Out
+DB Key = Bb
+TimeSig = 4 4
+Bars = 18
+ Bb D7/A | G7 | Cm7/Eb G7/D | Cm7 |
+ Eb6 A7/E | Bb/F G7 | C9 | C7 F7 |
+ Bb D7/A | G7 | Cm7/Eb G7/D | Cm7 |
+ Eb6 A7/E | Bb/F G7 | C9 | F7 F7 Bb G7/B |
+ C7 F7 | Bb |

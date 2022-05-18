@@ -1,0 +1,11 @@
+Title = Plaintive Prelude
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ iM | v7 | iM | bvii7 |
+ iM | vii7 | iiiM | v7 v7 |
+ ivM ivM | bvii7 | iM | ii7 i7 |
+ ivM ivM | bvii7 | iiim ii7 | v7 |
+ iM | v7 | iM | bvii7 |
+ iM | bii7 bvio | iM v7 | v7 iM |

@@ -1,0 +1,13 @@
+Title = Blue Champagne
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F6 Fo7 | C7 | F6 | Db7 Bbm7 |
+ F6 Fo7 | Gm7b5 C9 | F6 Dm7 | Gm7 C7b9 |
+ F6 Fo7 | C7 | F6 | Db7 Bbm7 |
+ F6 Fo7 | Gm7b5 C9 | F6 Bb6 | Em7b5 A7 |
+ Dm F+/D | Dm7 C9 | F6 F6 Gm7 C+ | F6 F6 Em7b5 A7 |
+ Dm F+/D | Dm7 G9 | F6 G9 | Db7 C7 |
+ F6 Fo7 | C7 | F6 | Db7 Bbm7 |
+ F6 Fo7 | Gm7b5 C9 | F6 Dm7 | Gm7 C7b9 |
+

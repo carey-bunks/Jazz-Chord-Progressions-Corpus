@@ -1,0 +1,16 @@
+Title = Beauty And The Beast
+DB Key = C
+TimeSig = 4 4
+Bars = 47
+ F13 | F13 | F13 | F13 E7#9 |
+ Am7 | B7#9 E7#9 | Am7 | Gm7 C7#9 |
+ Fm7 | Ebm7 Ab7 | DbM7 | C7#9 |
+ Am7 | B7#9 E7#9 | Am7 | Gm7 C7#9 |
+ Fm7 | Ebm7 Ab7 | DbM7 | C7#9 |
+ F13 | F13 | F13 | F13 E7#9 |
+ Am7 | B7#9 E7#9 | Am7 | Gm7 C7#9 |
+ Fm7 | Ebm7 Ab7 | DbM7 | C7#9 |
+ Am7 | B7#9 E7#9 | Am7 | Gm7 C7#9 |
+ Fm7 | Ebm7 Ab7 | DbM7 | C7#9 |
+ Bm7 Em7 | Am7 D7 | Gm7b5/C | C7#9 |
+ F13 | F13 | F13 |

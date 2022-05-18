@@ -1,0 +1,13 @@
+Title = And I Love You So
+DB Key = C
+TimeSig = 4 4
+Bars = 34
+ Dm | Dm7 | C CM7 | Am |
+ Dm7 | F | G7 | C |
+ Dm | Dm7 | C CM7 | Am |
+ Dm7 | F | C | C |
+ C | C | Dm7 | Dm7 |
+ Dm7 | Dm7 | G7 G7 G7 G7b9 | C F |
+ C C F CM7 | C | C | Dm7 |
+ Dm7 | Dm7 | Dm7 | G7 G7b9 |
+ C | C |

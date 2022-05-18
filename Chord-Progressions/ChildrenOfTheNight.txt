@@ -1,0 +1,17 @@
+Title = Children Of The Night
+DB Key = D
+TimeSig = 4 4
+Bars = 50
+ Bm7 | Bm7 | GM7/B | GM7/B |
+ Bm7 | Bm7 | GM7/B | GM7/B |
+ EbM7 | Dm7 G7 | CM7 | Bm7 E7 |
+ AM7 | GM7 | F#m7 F7alt | Em7 A7 |
+ DM7 | C#m7 F#7 | BM7 | BM7 |
+ Dm7b5 | F7alt | Dm7b5 | Bm7b5 E7alt |
+ A7 D7 | Gm7 Bb7 | EbM7 | C#m7 F#7 |
+ Bm7 | Bm7 | GM7/B | GM7/B |
+ Bm7 | Bm7 | GM7/B | GM7/B |
+ EbM7 | Dm7 G7 | CM7 | Bm7 E7 |
+ AM7 | GM7 | F#m7 F7alt | Em7 A7 |
+ F#m7 F7alt | Em7 A7 | DM7 | C#m7 F#7 |
+ BM7 | BM7 | 

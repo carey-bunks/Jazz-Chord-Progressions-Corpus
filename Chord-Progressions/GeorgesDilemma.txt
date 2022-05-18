@@ -1,0 +1,13 @@
+Title = George's Dilemma
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Dm | Eb7 | Dm | Eb7 |
+ Dm | Dm7 G7 | Em7b5 A7alt | Dm |
+ Dm | Eb7 | Dm | Eb7 |
+ Dm | Dm7 G7 | Em7b5 A7alt | Dm |
+ Gm7 | C7 | FM7 | Am7 D7 |
+ Gm7 | C7 | FM7 | Em7b5 A7alt |
+ Dm | Eb7 | Dm | Eb7 |
+ Dm | Dm7 G7 | Em7b5 A7alt | Dm |
+

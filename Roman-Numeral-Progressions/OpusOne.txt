@@ -1,0 +1,13 @@
+Title = Opus One
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iv7 | iv7 |
+ ii7 | iim v7 | iM ivo | iim iim v7 v7 |
+ iM | iM | iv7 | iv7 |
+ ii7 | iim v7 | iM iv7 | iM |
+ biiiM im | ivm iio | biiiM i7 | iv7 bvii7 |
+ bvM biiim | bvim ivo | bvM bvM bvM bvM bvM bvM bvM bv7 | bv7 v7 v7 v7 v7 v7 v7 v7 |
+ iM | iM | iv7 | iv7 |
+ ii7 | iim v7 | iM iv7 | iM io iim v7 |

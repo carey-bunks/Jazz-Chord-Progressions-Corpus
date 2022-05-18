@@ -1,0 +1,13 @@
+Title = The Rainbow People
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM iim | iiim iim | iiim iim | iim bvi7 |
+ iim | v7 | iM vi7 | iim v7 |
+ iM iim | iiim iim | iiim iim | iim bvi7 |
+ iim | v7 | iM bvii7 | vim bvim |
+ vm | i7 | bvh | iv7 |
+ iii7 | vi7 | ii7 | v7 |
+ iM iim | iiim iim | iiim iim | iim bvi7 |
+ iim | v7 | iM vi7 | iim v7 |

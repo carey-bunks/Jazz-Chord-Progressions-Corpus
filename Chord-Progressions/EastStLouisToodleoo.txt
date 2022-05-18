@@ -1,0 +1,13 @@
+Title = East St. Louis Toodle-oo
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Cm Cm/Eb | Fm6/D Fm6 | Cm/Eb Cm/G | Fm6 Fm6/Ab |
+ Cm/G Cm/Eb | Fm6 G7b9/D | Cm Ab7 | G7b9 |
+ Cm Cm/Eb | Fm6/D Fm6 | Cm/Eb Cm/G | Fm6 Fm6/Ab |
+ Cm/G Cm/Eb | Fm6 G7b9/D | Cm Bo7 | Bbm7 Eb7 |
+ Ab6 | Bbm7 Eb7 | Ab6 | Abm6 |
+ Eb6 Gm7/D | C7 | B7 Bb7 Bb7 Bb7 A7 A7 A7 A7 | A7 Ab7 Ab7 Ab7 G7 G7 G7 G7 |
+ Cm Cm/Eb | Fm6/D Fm6 | Cm/Eb Cm/G | Fm6 Fm6/Ab |
+ Cm/G Cm/Eb | Fm6 G7b9/D | Cm | G7b9 |
+

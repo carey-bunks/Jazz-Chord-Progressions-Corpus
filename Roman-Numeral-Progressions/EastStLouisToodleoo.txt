@@ -1,0 +1,13 @@
+Title = East St. Louis Toodle-oo
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iiim iiim | vim vim | iiim iiim | vim vim |
+ iiim iiim | vim vii7 | iiim i7 | vii7 |
+ iiim iiim | vim vim | iiim iiim | vim vim |
+ iiim iiim | vim vii7 | iiim biiio | iim v7 |
+ iM | iim v7 | iM | im |
+ vM viim | iii7 | biii7 ii7 ii7 ii7 bii7 bii7 bii7 bii7 | bii7 i7 i7 i7 vii7 vii7 vii7 vii7 |
+ iiim iiim | vim vim | iiim iiim | vim vim |
+ iiim iiim | vim vii7 | iiim | vii7 |

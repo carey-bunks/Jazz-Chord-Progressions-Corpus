@@ -1,0 +1,13 @@
+Title = Gigi
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C | C | C B | Dm7 |
+ Dm7 G7 | Dm7 G7 | C6 | C6 |
+ E | E D#+ | F#m7 F#m7 F#m7 Bo7 | B7 B7 B7 D7b9 |
+ G G+ C6 Bo7 | Am7 Am7 Am7 D7 | Dm7 | F Gm7 G7 B |
+ C | C | C B | F F F A7 |
+ Dm Dm7 | Gm6 A7 | Dm | Dm7 |
+ F Fm6 | C6 Em7 | F6 Fm6 | CM7 CM7 C6 Fm |
+ C C Em7 Eo7 | Dm7 Dm7 Dm7 G7 | C | C |
+

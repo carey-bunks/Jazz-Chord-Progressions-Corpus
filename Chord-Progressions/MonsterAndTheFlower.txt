@@ -1,0 +1,23 @@
+Title = The Monster and the Flower
+DB Key = Eb
+TimeSig = 4 4
+Bars = 72
+ Eb69 | Eb69 | Bb7sus | Bb7 |
+ Eb69 | Eb69 | Bbm7 | Eb7 |
+ G7+ | G7b9 | C7 | C7+ |
+ Cm7 | F7 | Fm7 | Bb7 |
+ Eb69 | Eb69 | Bb7sus | Bb7 |
+ Eb69 | Eb69 | Bbm7 | Eb7 |
+ G7+ | G7b9 | C7 | C7+ |
+ Abm7/Db | Abm7/Db | GbM7/Db | GbM7/Db |
+ Abm7/Db | Abm7/Db | GbM7/Db | GbM7/Db |
+ Bbm7b5 | Eb7b9 | Abm7 | Abm7/Gb |
+ Fm7 | Bb7 | Gm7 | C7 |
+ Fm7 | Bb7 | Abm7/Db | Abm7/Db |
+ GbM7/Db | GbM7/Db | Abm7/Db | Abm7/Db |
+ GbM7/Db | GbM7/Db | Bbm7b5 | Eb7b9 |
+ Abm7 | Abm7/Gb | Fm7 | Bb7 |
+ Gm7 | C7 | Fm7 | Bb7 |
+ Abm7b5 | Abm69 | Gm7 | Gbo7 |
+ Fm7 | Bb7 | Bb7 | Eb69 |
+

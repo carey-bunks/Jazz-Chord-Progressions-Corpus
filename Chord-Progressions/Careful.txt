@@ -1,0 +1,9 @@
+Title = Careful
+DB Key = A
+TimeSig = 4 4
+Bars = 16
+ A7 | A7 | A7 | A7 |
+ D7 | D7 | D7 | D7 |
+ A7 | A7 | A7 | A7 |
+ F7 | E7 | A7 | A7 |
+

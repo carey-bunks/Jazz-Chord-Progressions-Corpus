@@ -1,0 +1,13 @@
+Title = Dat Dere
+DB Key = Eb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iim iim | viih bviiM | viih iii7 | iiih vi7 |
+ iim iim | viih bviiM | iii7 vi7 | vM |
+ iim iim | viih bviiM | viih iii7 | iiih vi7 |
+ iim iim | viih bviiM | iii7 vi7 | vM iim |
+ iii7 vi7 iim vim | viih iii7 vim vim | viih iii7 | iiih vi7 |
+ iii7 vi7 iim vim | viih iii7 vim vim | iii7 vi7 | vM |
+ iim iim | viih bviiM | viih iii7 | iiih vi7 |
+ iim iim | viih bviiM | iii7 vi7 | vM vM iim biii7 |

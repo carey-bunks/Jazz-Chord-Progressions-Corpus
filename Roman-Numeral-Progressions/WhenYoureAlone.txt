@@ -1,0 +1,20 @@
+Title = When You're Alone
+DB Key = E
+EstKeySig = E
+TimeSig = 3 4
+Bars = 60
+ iM | iM | iM | iM |
+ biim | iM | bviiM | iM |
+ iM | iM | iM | iM iM iM |
+ iM | biim | bviM | vm |
+ iM | iM | biim | iM |
+ vm | iM | biim | bviM |
+ bviiM | iM | iM | iM iM iM |
+ iM | ivm | iM | ivM |
+ iM | ivM | iM | ivm |
+ iM | vm | iM | vm |
+ iM | bviM | iM | iM |
+ iM iM iM | iM | ivM | iM |
+ ivM | iM | ivM | iM |
+ ivm | iM | vm | iM |
+ vm | iM | bviM | iM |

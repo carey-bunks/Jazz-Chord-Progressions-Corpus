@@ -1,0 +1,14 @@
+Title = There's A Room in My House
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 34
+ iM | iim iim iim v7 | iM | iim v7 |
+ iM | ivM iiim | iim iiim | ivM iiim |
+ iiM | iiim iiim iiim vi7 | iiM | iiim vi7 |
+ iiM | vM bvm | iiim bvm | vM bvm |
+ viiM im | iM bv7 | viiM im | iM bv7 |
+ viiM | iiiM viiM viiM viiM | im ii7 vm v7 | iM |
+ iim iim iim v7 | iM | iim v7 | iM i7 |
+ ivM iiim | iim iiim | ivM v7 | iM iim |
+ iiim iim | iM |

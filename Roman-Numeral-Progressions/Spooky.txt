@@ -1,0 +1,9 @@
+Title = Spooky
+DB Key = Eb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ iim | vM | iim | vM |
+ iim | vM | iim | vM |
+ iim | iim | v7 | vo |
+ iim | v7 | iim | vi7 |

@@ -1,0 +1,23 @@
+Title = The Monster and the Flower
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 72
+ iM | iM | v7 | v7 |
+ iM | iM | vm | i7 |
+ iii7 | iii7 | vi7 | vi7 |
+ vim | ii7 | iim | v7 |
+ iM | iM | v7 | v7 |
+ iM | iM | vm | i7 |
+ iii7 | iii7 | vi7 | vi7 |
+ ivm | ivm | biiiM | biiiM |
+ ivm | ivm | biiiM | biiiM |
+ vh | i7 | ivm | ivm |
+ iim | v7 | iiim | vi7 |
+ iim | v7 | ivm | ivm |
+ biiiM | biiiM | ivm | ivm |
+ biiiM | biiiM | vh | i7 |
+ ivm | ivm | iim | v7 |
+ iiim | vi7 | iim | v7 |
+ ivh | ivm | iiim | biiio |
+ iim | v7 | v7 | iM |

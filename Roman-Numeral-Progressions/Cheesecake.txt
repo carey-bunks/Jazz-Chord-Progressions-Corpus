@@ -1,0 +1,19 @@
+Title = Cheesecake
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 56
+ vim | viih iii7 | vim | vim |
+ iim iiih | iim iiih | iim | iim |
+ viih | iii7 | iim | v7 |
+ im iv7 | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | vim |
+ iim iiih | iim iiih | iim | iim |
+ viih | iii7 | iim | v7 |
+ im iv7 | viih iii7 | vim NC NC NC | NC |
+ vi7 | vi7 | v7 | v7 |
+ iv7 | iv7 | viih | iii7 |
+ vim | viih iii7 | vim | vim |
+ iim iiih | iim iiih | iim | iim |
+ viih | iii7 | iim | v7 |
+ im iv7 | viih iii7 | vim NC NC NC | NC |

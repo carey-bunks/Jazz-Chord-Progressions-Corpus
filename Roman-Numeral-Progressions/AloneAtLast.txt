@@ -1,0 +1,13 @@
+Title = Alone At Last
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | vi7 | iim | vii7 |
+ iiim | vim | iim | bvii7 v7 |
+ iM | biiio | iim | v7 |
+ iiih | vi7 | iim | bvii7 v7 |
+ iM | vi7 | iim | vii7 |
+ iiim | vim | iim | viih iii7 |
+ vim | ivm bvii7 | iM | iiih vi7 |
+ iim | iim v7 | iM | iim v7 |

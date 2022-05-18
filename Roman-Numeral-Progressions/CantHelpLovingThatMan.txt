@@ -1,0 +1,13 @@
+Title = Can't Help Loving That Man
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim v7 | iM iM vm bv7 | ivM bvii7 |
+ iM biii7 | bvi7 bvi7 v7 iv7 | iii7 vi7 | ii7 v7 |
+ iM vim | iim v7 | iM iM vm bv7 | ivM bvii7 |
+ iM biii7 | bvi7 bvi7 v7 iv7 | iM | vm i7 |
+ ivM | bvo | iM | ii7 |
+ iM | io | v7 | v7 v7 |
+ iM vim | iim v7 | iM iM vm bv7 | ivM bvii7 |
+ iM biii7 | bvi7 bvi7 v7 iv7 | iii7 vi7 | ii7 v7 |

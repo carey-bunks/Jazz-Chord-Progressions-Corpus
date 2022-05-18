@@ -1,0 +1,8 @@
+Title = Blue Bird
+DB Key = Eb
+TimeSig = 4 4
+Bars = 12
+ Eb6 | Eb6 | Eb6 | Bbm7 Eb7 |
+ Ab7 | Ab7 | Eb6 | Gm7 C7 |
+ Fm7 | Bb7 | Eb6 | Eb6 Bb7 |
+

@@ -1,0 +1,13 @@
+Title = Let's Call This
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ v7 | v7 | v7 | v7 |
+ v7 | v7 bvii7 | bvii7 vi7 | bvi7 v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 bvii7 | bvii7 vi7 | bvi7 v7 |
+ i7 | i7 | iv7 | iv7 |
+ ii7 | ii7 | iiim biii7 | iim bii7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 bvii7 | bvii7 vi7 | iM |

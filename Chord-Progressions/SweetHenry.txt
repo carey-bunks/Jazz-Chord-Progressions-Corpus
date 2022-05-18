@@ -1,0 +1,13 @@
+Title = Sweet Henry
+DB Key = D
+TimeSig = 4 4
+Bars = 34
+ D A/C# | Bm7 Bm7/A | G C | D |
+ Bm7 Bm7/A | E/G# A | G G D/A A7 | D |
+ A/E E | E | E/D D | D |
+ A/C# | E/B | B E/B | B7 E/B |
+ D G/D | D7 G | E7/G# A7 | NC |
+ G/D D | D | D/C C | C |
+ G/B | D/A | A D | A7 D |
+ A D | A7 D | D A/C# | Bm7 Bm7/A |
+ G C | D |

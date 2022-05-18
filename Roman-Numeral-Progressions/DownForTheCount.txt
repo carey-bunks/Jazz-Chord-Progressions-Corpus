@@ -1,0 +1,8 @@
+Title = Down For The Count
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 12
+ iM bv7 | iv7 bvii7 | iM | iM i7 |
+ iv7 i7 | ivm bvii7 | iM | iiih vi7 |
+ iim bvi7 | bvi7 v7 | iM | iM |

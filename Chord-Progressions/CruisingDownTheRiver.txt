@@ -1,0 +1,21 @@
+Title = Cruising Down the River
+DB Key = F
+TimeSig = 3 4
+Bars = 64
+ F F Fo7 | F F Fo7 | F F Cm | D7 |
+ G7 G7 Dm7 | G7 G7 Dm7 | G7 G7 Dm7 | G7 G7 G+ |
+ C7 C7 Co7 | C7 C7 Gm7 | C7 C7 Co7 | C7 |
+ F | D D D#o7 | C7 Gm7 Co7 | C7 |
+ F F Fo7 | F F Fo7 | F C+ Cm | D7 |
+ G7 G7 Dm7 | G7 G7 Dm7 | G7 | G#o7 |
+ F | Gm7 Gm7 C7 | F F Cm | D7 |
+ G7 | C7 | F | F |
+ F7 | F7 | F7 | F7 |
+ F7 | F7 | Bb | Bb |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | C7 | C7 |
+ F F Fo7 | F F Fo7 | F C+ Cm | D7 |
+ G7 G7 Dm7 | G7 G7 Dm7 | G7 | G#o7 |
+ F | Gm7 Gm7 C7 | F F Cm | D7 |
+ G7 | C7 | F | F |
+

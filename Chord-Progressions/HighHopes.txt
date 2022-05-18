@@ -1,0 +1,12 @@
+Title = High Hopes
+DB Key = F
+TimeSig = 4 4
+Bars = 30
+ F | Fo7 | Gm7 | C7 |
+ F6 Dm7 | Gm7 C7 | F | Bb |
+ C7 | F6 | F6 F#o7 | Gm7 G#o7 |
+ Gm7 C7 | F F7 | BbM7 | BbM7 Bo7 |
+ F/C | F Dm7 | G7 | G7 |
+ C7 | C7 | F | F7 |
+ Bb | Bo7 | F F#o7 | Gm7 C7 |
+ F6 | Gm7 C7 |

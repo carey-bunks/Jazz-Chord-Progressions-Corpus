@@ -1,0 +1,13 @@
+Title = Sing, Sing, Sing
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ vim iii7 | vim iii7 | vim iii7 | vim iii7 |
+ vim iii7 | vim iii7 | vim | bviih iii7 vim vim |
+ vim iii7 | vim iii7 | vim iii7 | vim iii7 |
+ vim iii7 | vim iii7 | vim | bviih iii7 vim vim |
+ iM | iim v7 | iim v7 | iM |
+ iM | iim v7 | iim v7 | iM iii7 |
+ vim iii7 | vim iii7 | vim iii7 | vim iii7 |
+ vim iii7 | vim iii7 | vim | bviih iii7 vim vim |

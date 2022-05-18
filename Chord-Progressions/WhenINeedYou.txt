@@ -1,0 +1,20 @@
+Title = When I Need You
+DB Key = C
+TimeSig = 3 4
+Bars = 60
+ C/A# | C/A# C/A# C | F/A | F |
+ Fm/G# | Dm7b5 Dm7b5 Fm | C | C |
+ Am | Am | G | G G Em/G |
+ F | G7sus G7sus G9 | C | C |
+ C | C | G/B | G/D |
+ G | G#dim G#dim E7 | Am | Am/G |
+ Am/F# | Am/E Am/E D7 | G | G G G7 |
+ C | C | C | C/G C/A C/A# |
+ G7/B | G7/B | G7 | E7/G# |
+ Am | Am | Am | Am Am7 D7 |
+ G | G | Am | Am |
+ G | G | Am | Am |
+ G | G Am7 G7/B | C | Am7 |
+ Dm | Dm | Dm | Dm |
+ G11 | G7 G7/A G7/B | C | C |
+

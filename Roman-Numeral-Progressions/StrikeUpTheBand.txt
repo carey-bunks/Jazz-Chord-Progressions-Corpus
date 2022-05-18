@@ -1,0 +1,13 @@
+Title = Strike Up The Band
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | biio | biio |
+ v7 | v7 | iM | iM i7 |
+ ivM | ivM | bvo | bvo |
+ i7 | i7 | ivM | iim v7 |
+ iM | iM | viih | iii7 |
+ vim | vim ii7 | v7 | v7 |
+ iM | iM | iiih | vi7 |
+ iim | v7 | iM | iM |

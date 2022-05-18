@@ -1,0 +1,16 @@
+Title = Armageddon
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 41
+ bvi7 v7 | iv7 | bviiM vi7 | iim |
+ bvi7 v7 | iv7 | bviiM bvii7 | iim |
+ bvii7 | iim | bvii7 | iim |
+ bvii7 | iim | bvii7 | v7 |
+ bvi7 | v7 | bvii7 | iim im |
+ v7 | bvii7 | iim | bvii7 |
+ iim | biii7 | iim | bvii7 |
+ iim | bvii7 | v7 | bvi7 |
+ v7 | bvii7 | iim im | v7 |
+ bvii7 | iim | bvii7 | iim |
+ biii7 |

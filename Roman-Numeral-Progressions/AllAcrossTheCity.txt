@@ -1,0 +1,14 @@
+Title = All Across The City
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 34
+ vim vim | vim vim | vm vm | i7 vii7 |
+ iiim iiim | iiim iiim | iim iim | iim v7 |
+ iM | ih bv7 | iv7 viih | viih iii7 |
+ biii7 vi7 | vi7 vih vh i7 | bvM bvM bvM bv7 | ivm iiim |
+ vim vim | vim vim | vm vm | i7 vii7 |
+ iiim iiim | iiim iiim | iim iim | iim v7 |
+ iM bv7 | iv7 | iiim | vi7 |
+ im | bviim biii7 | bviM vm | bv7 |
+ bvh iv7 | viih iii7 |

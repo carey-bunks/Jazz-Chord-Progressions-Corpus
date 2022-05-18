@@ -1,0 +1,13 @@
+Title = I Thought About You
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM iv7 | iiih vi7 | ii7 biii7 | ii7 |
+ iim | viih iii7 | vim bvi7 | vm i7 |
+ ivM | ivm bvii7 | im iim | iiim ivM |
+ bvh vii7 | bvh vii7 | iiim vi7 | iim v7 |
+ iM iv7 | iiih vi7 | ii7 biii7 | ii7 |
+ iim | viih iii7 | vim bvi7 | vm i7 |
+ ivM | ivm bvii7 | iM vim | bvm vii7 |
+ iiim viM | iim v7 | iM | iim v7 |

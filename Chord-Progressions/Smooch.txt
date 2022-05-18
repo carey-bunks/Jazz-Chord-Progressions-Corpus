@@ -1,0 +1,13 @@
+Title = Smooch
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ DmM7 | Bbm7 Bbm7 A7#5#9 Eb7 | DmM7 | Cm7 Cm7 Bm7b5 E7 |
+ Bbm7 Eb7#11 | Bbm7 Eb7#11 | DmM7 Db7#11 | Em7b5 A7 |
+ DmM7 | Bbm7 Bbm7 A7#5#9 Eb7 | DmM7 | Cm7 Cm7 Bm7b5 E7 |
+ Bbm7 Eb7#11 | Bbm7 Eb7#11 | DmM7 Db7#11 | Em7b5 A7 |
+ Bbm7 Eb7#11 | Bbm7 Eb7#11 | FM7 FM7 Gm7 A7 | Dm7 Bb7#11 |
+ Bb7#11 A7#5 | Ab7#11 Gm7 | Em7b5 A7#5#9 | BbmM7 Eb7#11 |
+ DmM7 | Bbm7 Bbm7 A7#5#9 Eb7 | DmM7 | Cm7 Cm7 Bm7b5 E7 |
+ Bbm7 Eb7#11 | Bbm7 Eb7#11 | DmM7 Db7#11 | DmM7 |
+

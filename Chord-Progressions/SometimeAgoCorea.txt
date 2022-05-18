@@ -1,0 +1,21 @@
+Title = Sometime Ago
+DB Key = A
+TimeSig = 4 4
+Bars = 64
+ A | A | D/A | D/A |
+ A | D/A | A | A |
+ A | A | D/A | D/A |
+ A | D/A | A | A |
+ Am | Dm7/A | Dm7/A | Am |
+ Am | Dm7/A | Dm7/A | Am |
+ Am | Dm7/A | Dm7/A | Am |
+ Am | Dm7/A | Dm7/A | Am |
+ A | A | D/A | D/A |
+ A | D/A | A | A |
+ A | A | D/A | D/A |
+ A | D/A | A | A |
+ Am | Dm7/A | Dm7/A | Am |
+ Am | Dm7/A | Dm7/A | Am |
+ Am | Dm7/A | Am | Am |
+ Dm7/A | Dm7/A | Am | Am |
+

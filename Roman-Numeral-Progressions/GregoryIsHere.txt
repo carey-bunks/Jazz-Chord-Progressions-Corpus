@@ -1,0 +1,19 @@
+Title = Gregory Is Here
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 56
+ bii7 | bii7 | iim | iim |
+ bii7 | bii7 | iim | iim |
+ viih | iii7 | vim | ii7 |
+ iim | bii7 | iM | iM |
+ bii7 | bii7 | iim | iim |
+ bii7 | bii7 | iim | iim |
+ viih | iii7 | vim | ii7 |
+ iim | bii7 | iM | iM |
+ ivm | bvii7 | biiiM | im |
+ ivm | bvii7 | iim | v7 |
+ bii7 | bii7 | iim | iim |
+ bii7 | bii7 | iim | iim |
+ viih | iii7 | vim | ii7 |
+ iim | bii7 | iM | iM |

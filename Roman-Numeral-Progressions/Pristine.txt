@@ -1,0 +1,9 @@
+Title = Pristine
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 16
+ biiim bvi7 | bvim bii7 | bvM | ii7 |
+ biim bv7 | bvm vii7 | iiiM | bviM |
+ vim | vM | iim | iim v7 |
+ iM | iim v7 | iM | iM |

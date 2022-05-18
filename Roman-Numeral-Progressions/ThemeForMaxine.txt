@@ -1,0 +1,11 @@
+Title = Theme for Maxine
+DB Key = C
+EstKeySig = F
+TimeSig = 3 4
+Bars = 24
+ viim | im | vi7 | v7 |
+ iim | vm | iim | vm |
+ viim | im | vi7 | v7 |
+ iim | vm | iim | vm |
+ iiiM | iiM | iM | iiim |
+ iiiM | iiM | iM | iiim |

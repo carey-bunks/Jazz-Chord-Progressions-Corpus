@@ -1,0 +1,17 @@
+Title = And The Angels Sing
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 48
+ iM | iim v7 | iM | i7 i7 bvio vim |
+ iim vi7 | ii7 v7 | iM vim | iim v7 |
+ iM | iim v7 | iM | i7 i7 bvio vim |
+ iim vi7 | ii7 v7 | iM v7 | iM |
+ vm i7 | vm i7 | io i7 | vm i7 |
+ vm i7 | vm i7 | vm | i7 |
+ vm i7 | vm i7 | io i7 | vm i7 |
+ ivM ivM iim vi7 | ii7 v7 | iM vim | iim v7 |
+ iM | iim v7 | iM | i7 i7 bvio vim |
+ iim vi7 | ii7 v7 | iM vim | iim v7 |
+ iM | iim v7 | iM | i7 i7 bvio vim |
+ iim | iih bvii7 | iM | iM |

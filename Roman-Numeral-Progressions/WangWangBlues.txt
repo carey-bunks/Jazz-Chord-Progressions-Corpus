@@ -1,0 +1,13 @@
+Title = Wang-Wang Blues
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | v7 | iM | iM |
+ iM | v7 | iM | iM |
+ iM | vio v7 | iM iim vio iM | ivM iM vio iim |
+ iM | bvi7 | v7 | v7 |
+ iM | v7 | iM | iM |
+ iM | v7 | iM | iM |
+ iM | vio v7 | iM iim vio iM | ivM iM vio iim |
+ ii7 ii7 | v7 | iM | iM |

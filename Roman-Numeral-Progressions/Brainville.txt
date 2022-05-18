@@ -1,0 +1,34 @@
+Title = Brainville
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 114
+ ivm | biiim | ivm | biiim |
+ ivM | ivM | ivM | ivM |
+ ivM | ivM | ivM | ivM |
+ ivM | ivM | ivm | biiim |
+ ivm | biiim | i7 | bvM |
+ viiM | iii7 | ivm | biiim |
+ ivm | biiim | i7 | bvM |
+ viiM | iii7 | iM | iM |
+ iM | iM | iM | iM |
+ iM | iM | iM | iM |
+ iM | iM | iM | iM |
+ iM | iM | ivm | biiim |
+ ivm | biiim | i7 | bvM |
+ viiM | iii7 | iM | iM |
+ iM | iM | iM | iM |
+ iM | iM | iM | iM |
+ iM | iM | iM | iM |
+ iM | iM | iim | iim |
+ iim | iim | ivm | biiim |
+ ivm | biiim | i7 | bvM |
+ viiM | iii7 | ivm | biiim |
+ ivm | biiim | i7 | bvM |
+ viiM | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | ivm | biiim |
+ ivm | biiim | i7 | bvM |
+ viiM | iii7 | iim | iim |
+ iim | iim | iim | iim |
+ viiM | iim v7 |

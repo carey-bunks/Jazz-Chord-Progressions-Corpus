@@ -1,0 +1,9 @@
+Title = Jolly Old Saint Nicholas
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ C | G7 | Am | Em |
+ F | C | G | G7 |
+ C | G7 | Am | Em |
+ F | C | G7 | C |
+

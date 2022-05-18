@@ -1,0 +1,21 @@
+Title = Masquerade
+DB Key = G
+EstKeySig = G
+TimeSig = 3 4
+Bars = 64
+ iM | biiio | v7 | v7 |
+ iM | biiio | v7 | v7 |
+ iM | iim | vi7 | iim iim v7 |
+ iM | iim | iM | iim |
+ iM | biiio | v7 | v7 |
+ iM | biiio | v7 | v7 |
+ iM | iim | vi7 | iim iim v7 |
+ iM | iim | iM | bvii7 |
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | io | io |
+ vM | vM | vM | vM |
+ vi7 | ii7 | v7 | bii7 |
+ iM | biiio | v7 | v7 |
+ iM | biiio | v7 | v7 |
+ iM | iim | vi7 | iim iim v7 |
+ iM | iim | iM | iim |

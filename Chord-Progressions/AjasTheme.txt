@@ -1,0 +1,13 @@
+Title = Aja's Theme
+DB Key = Eb
+TimeSig = 4 4
+Bars = 34
+ EbM7 | Dm7 | EbM7 A7alt | BbM9 |
+ Bbm7 Abo7/Eb | AbM9 | G13sus4 G13b9 | CM9 |
+ F9sus4 Bbo7/F | BbM7/F E9#11 | EbM7 A7alt | DM9 |
+ Ab9sus4 Dbo7/Ab | DbM7/Ab | Gm11 C13 | Em11 A7b9 |
+ Dm7 A7sus4b9 | Dm7 A7sus4b9 | Dm7 EbM7 | Dm DmM7 G7sus4b9 G7b9 |
+ Cm7 G7sus4b9 | Cm7 G7sus4b9 | Cm7 G7#5#9 | C13sus4 C13 |
+ F9sus4 Bbo7/F | BbM7/F E9#11 | EbM7 A7alt | DM9 |
+ Dm7b5 G7#5#9 | Cm9 Ebm6/Gb | BbM7/F EbM7 | DbM7 BM7 |
+ BbM9 | Fm7 Bb7 |

@@ -1,0 +1,13 @@
+Title = Jive Samba
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F7#9 | F7#9 | F7#9 | F7#9 |
+ F7#9 | F7#9 | F7#9 | F7#9 |
+ F7#9 | F7#9 | F7#9 | F7#9 |
+ F7#9 | F7#9 | F7#9 | F7#9 |
+ Bb7 | Bb7 Bb7 Bb7 F7#9 | F7#9 | F7#9 |
+ F7#9 | F7#9 | F7#9 | F7#9 |
+ Bb7 | Bb7 Bb7 Bb7 F7#9 | F7#9 | F7#9 |
+ F7#9 | F7#9 | F7#9 | F7#9 |
+

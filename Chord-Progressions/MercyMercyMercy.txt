@@ -1,0 +1,10 @@
+Title = Mercy, Mercy, Mercy
+DB Key = C
+TimeSig = 4 4
+Bars = 20
+ Bb7 Bb7/D | Eb Eb/F | Bb7 Bb7/D | Eb Eb/F |
+ Bb7 Bb7/D | Eb Eb/F | Bb7 Bb7/D | Eb Eb/F |
+ Bb Eb/Bb | Bb7 Eb/Bb | Bb Eb/Bb | Bb7 Bb7 Bb/D Eb |
+ F NC Eb/F Eb/F Eb/F Eb/F Eb/F Eb/F | Bb NC Bb Bb Bb/D Bb/D Eb Eb | F NC NC NC NC NC NC NC | Cm7 |
+ Dm7 | Gm Gm Gm F Gm Gm Gm F | Gm NC NC NC | NC |
+

@@ -1,0 +1,13 @@
+Title = Detour Ahead
+DB Key = C
+TimeSig = 4 4
+Bars = 34
+ CM7 F#13 | B7#5#9 | FM7 Em7 Am9 Am9 | D7sus4 G7sus4 |
+ Gm7 C7b9#11 | FM7 Bb13#11 | CM7 Am7 | Ab13 Ab13 Dm7 G7 |
+ Dm7 F#13 | B7#5#9 | FM7 Em7 Am9 Am9 | D7sus4 G7sus4 |
+ Gm7 C7b9#11 | FM7 Bb13#11 | CM7 CM7 Am7 Gm7 | F#m7b5 B7 |
+ Em7 C#m7b5 | B7alt | EM7 | F#m7b5/B B7 |
+ Em7 C#m7b5 | B7alt | EM7 | Db13 |
+ CM7 F#13 | B7#5#9 | FM7 Em7 Am9 Am9 | D7sus4 G7sus4 |
+ Gm7 C7b9#11 | FM7 Bb13#11 | CM7 E7#5#9 | Am7 Eb9 |
+ D7 D7 G7sus4 G7 | CM7 |

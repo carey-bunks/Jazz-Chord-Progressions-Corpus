@@ -1,0 +1,23 @@
+Title = Who Are You?
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 70
+ iM bvii7 | iM bvii7 | iM bvii7 | iM iM ivM iiim |
+ iM vii7 | iM bvii7 | iM bvii7 | iM iM |
+ iim v7 | iiim vi7 | iim v7 | iM bvii7 vi7 vi7 |
+ bvii7 vi7 bvi7 v7 | iiim iiim vi7 vi7 | iim v7 | iM |
+ vm | iM | vm | iM |
+ iv7 | iM i7 | iv7 bvo | iM vi7 |
+ iim v7 | iiim | vi7 vi7 | iim iiim |
+ ivM v7 | iM | vm | iM |
+ iv7 | iM i7 | iv7 bvo | iM vi7 |
+ iim v7 | iiim | vi7 vi7 | iim iiim |
+ ivM v7 | viih | iii7 iii7 iii7 bvio | vim |
+ bvio | vm | bvo | ivm |
+ bvo | v7 | v7 bii7 | iM |
+ iv7 | iM i7 | iv7 bvo | iM vi7 |
+ iim v7 | iiim | vi7 vi7 | iim |
+ iiim | ivM | v7 v7 | iM |
+ vm | iM | vm | iM |
+ vm | iM |

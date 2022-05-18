@@ -1,0 +1,19 @@
+Title = One For My Baby
+DB Key = Eb
+EstKeySig = G
+TimeSig = 4 4
+Bars = 56
+ bviM biii7 | bviM biii7 | bviM biii7 | bviM biii7 |
+ bviM biii7 | bviM biii7 | bviM biiim | biiim biiim biiim bvi7 |
+ biiM | biiM bv7 | bviM bviim | im bviim bviM bviM |
+ i7 iv7 | bviim im biiM biii7 | bviM | iim v7 |
+ iM v7 | iM v7 | iM v7 | iM v7 |
+ iM v7 | iM v7 | iM vm | vm vm vm i7 |
+ ivM | ivM bvii7 | iM iim | iiim iim iM iM |
+ iii7 vi7 | iim iiim ivM v7 | iM | vm i7 |
+ im iv7 | im iv7 | iii7 vi7 ii7 v7 | iM iM iM i7 |
+ im iv7 | im iv7 | ii7 bvi7 | v7 |
+ iM v7 | iM v7 | iM v7 | iM v7 |
+ iM v7 | iM v7 | iM vm | vm vm vm i7 |
+ ivM | ivM bvii7 | iM iim | iiim iim iM iM |
+ iii7 vi7 | iim iiim ivM v7 | iM | bviim biii7 |

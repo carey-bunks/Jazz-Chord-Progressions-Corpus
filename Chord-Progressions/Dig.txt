@@ -1,0 +1,13 @@
+Title = Dig
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F7 | F7 | F7 | F7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Eb7 | Eb7 | Eb7 | Eb7 |
+ AbM7 | C7 | Fm7 Bb7 | Gm7b5 C7 |
+ F7 | F7 | F7 | F7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Fm7 | C7 | Fm7 | C7 |
+ AbM7 Gm7 | Gbm7 F7 | Bbm7 Eb7 | AbM7 |
+

@@ -1,0 +1,15 @@
+Title = Gentle Rain
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 38
+ iiim | iiim | bvh | vii7 |
+ iiim vi7 | iim v7 | iM | iM |
+ ih | bv7 | viih | iii7 |
+ vih | bvh vii7 | iiim | iv7 |
+ iiim | iiim | bvh | vii7 |
+ iiim vi7 | iim v7 | iM | iM |
+ ih | bv7 | viih | iii7 |
+ vih | bvh vii7 | iiim vi7 | iim v7 |
+ iM | v7 | iM | viim |
+ iiim | iiim |

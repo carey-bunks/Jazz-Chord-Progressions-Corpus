@@ -1,0 +1,9 @@
+Title = I've Got A Crush On You
+DB Key = Bb
+TimeSig = 4 4
+Bars = 18
+ Bb Dbo | Cm7 F7 | Bb Dbo | Cm7 F7 |
+ Gm7 | C7 | Gm7 C7 | Cm7 F7 |
+ Bb Dbo | Cm7 F7 | Bb Dbo | Cm7 F7 |
+ Gm7 | C7 Dbo | Bb Gm7 | C7 F7 |
+ Bb | Bb |

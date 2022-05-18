@@ -1,0 +1,16 @@
+Title = How My Heart Sings
+DB Key = C
+EstKeySig = C
+TimeSig = 3 4
+Bars = 44
+ iiim | vim | iim | v7 |
+ iM bv7 | ivM | viih | iii7 |
+ vim | vim | vim | ivh |
+ iiiM | vo | ivM | vii7 |
+ iiM | viM | iiM | viM |
+ iM | vM | iM | vii7 |
+ iiim | vim | iim | v7 |
+ iM bv7 | ivM | viih | iii7 |
+ vim | vim | vim | ivo |
+ iM iii7 | vim | bvi7 | v7 |
+ iM | vm i7 | ivh | vii7 |

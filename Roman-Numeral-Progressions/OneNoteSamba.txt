@@ -1,0 +1,15 @@
+Title = One Note Samba
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 40
+ iiim | biii7 | iim | bii7 |
+ iiim | biii7 | iim | bii7 |
+ vm | i7 | ivM | ivm |
+ iiim | biii7 | iim bii7 | iM |
+ ivm | bvii7 | biiiM | biiiM |
+ biiim | bvi7 | iM | iih bii7 |
+ iiim | biii7 | iim | bii7 |
+ iiim | biii7 | iim | bii7 |
+ vm | i7 | ivM | ivm |
+ biiiM | ii7 | biiM | iM |

@@ -1,0 +1,13 @@
+Title = Singin' In The Rain
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iM | iM |
+ iM | iM bviio | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | iM | iM |
+ iM | iM | iM | iM |
+ iM | iM bviio | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | iM | iM |

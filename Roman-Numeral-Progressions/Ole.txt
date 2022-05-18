@@ -1,0 +1,9 @@
+Title = Ole'
+DB Key = B
+EstKeySig = B
+TimeSig = 3 4
+Bars = 16
+ iM | iM | biiM | biiM |
+ biiiM | biiM | iM | iM |
+ iM | iM | biiM iM | iM |
+ biiM | biiiM | biiM iM iM | iM |

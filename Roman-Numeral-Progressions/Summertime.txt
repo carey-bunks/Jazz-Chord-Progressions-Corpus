@@ -1,0 +1,9 @@
+Title = Summertime
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 16
+ vim | iii7 | vim | vim vi7 |
+ iim | iim | viih | iii7 |
+ vim | iii7 | vim | iim v7 |
+ iM | viih iii7 | vim | viih iii7 |

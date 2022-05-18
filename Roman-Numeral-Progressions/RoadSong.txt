@@ -1,0 +1,13 @@
+Title = Road Song
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ vim | vim ii7 | viih | iii7 |
+ vim vim | ivM | bvh iim | iii7 vim |
+ vim | vim ii7 | viih | iii7 |
+ vim vim | ivM | bvh iim | iii7 vim |
+ iim | v7 | iM | biim bv7 |
+ im | iv7 | bviiM | iii7 |
+ vim | vim ii7 | viih | iii7 |
+ vim vim | ivM | bvh iim | iii7 vim |

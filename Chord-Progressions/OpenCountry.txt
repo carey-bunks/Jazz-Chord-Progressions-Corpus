@@ -1,0 +1,14 @@
+Title = Open Country
+DB Key = Ab
+TimeSig = 4 4
+Bars = 36
+ Ab | Ab7 | Db | Dbm7 Gb7 |
+ Fm7 | Bb7 | Dbm7 | Dbm7 Eb7 |
+ Ab | Ab7 | Db | Dbm7 Gb7 |
+ Fm7 | Bb7 | Eb7 | Ab Ab7 |
+ Db Db+ | Bbm G7 | Cm7 | F7 |
+ Bbm7 | Bbm7 Eb7 | E7 | Eb7 |
+ Ab | Ab7 | Db | Dbm7 Gb7 |
+ Fm7 | Bb7 | Em7 | A7 |
+ Bb7 | Bb7 | Bbm7 Eb7 | Ab |
+

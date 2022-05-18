@@ -1,0 +1,13 @@
+Title = Subconscious Lee
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ i7 | i7 | ivm | ivm |
+ v7 | v7 | iM | iM |
+ i7 | i7 | ivm | ivm |
+ v7 | v7 | iM | iM |
+ iv7 | iv7 | bviiM | bviiM |
+ bvi7 | bvi7 | v7 | v7 |
+ i7 | i7 | ivm | ivm |
+ v7 | v7 | iM | iM |

@@ -1,0 +1,8 @@
+Title = Gerkin For Perkin
+DB Key = F
+TimeSig = 4 4
+Bars = 12
+ F7#11 | Bb7#11 Bo7 | F7 | F7alt |
+ Bb7 | Eb7 | AbM7 | Abm7 Db7 |
+ GbM7 | C7 | F7 Ab7 | Gm7b5 C7 |
+

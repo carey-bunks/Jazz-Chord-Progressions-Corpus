@@ -1,0 +1,13 @@
+Title = Penthouse Serenade
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | biiio | iim | v7 |
+ iim v7 | iim v7 | iM biiio | iim v7 |
+ iM | biiio | iim | v7 |
+ iim v7 | iim v7 | iM iv7 | iM |
+ iim io | iim v7 | iM iii7 | vim |
+ ii7 vim | ii7 | v7 iim | v7 |
+ iM | biiio | iim | v7 |
+ iim v7 | iim v7 | iM bvii7 | iM |

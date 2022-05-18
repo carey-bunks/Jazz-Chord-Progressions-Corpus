@@ -1,0 +1,13 @@
+Title = Just You, Just Me
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iiih vi7 | iim | v7 |
+ iM i7 | ivM bvii7 | iim v7 | iM v7 |
+ iM | iiih vi7 | iim | v7 |
+ iM i7 | ivM ivm | iim v7 | iM |
+ vm | i7 | ivM | bvii7 |
+ iM | iii7 vim | ii7 | iim v7 |
+ iM | iiih vi7 | iim | v7 |
+ iM i7 | ivM ivm | iim v7 | iM |

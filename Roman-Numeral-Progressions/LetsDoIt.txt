@@ -1,0 +1,13 @@
+Title = Let's Do It!
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | v7 | iM | ivM ivm |
+ iM | v7 | iM ivm | iM vM vM vM |
+ iM | v7 | iM | ivM ivm |
+ iM | v7 | iM iim | iM |
+ vim | iim | iM | vm i7 |
+ ivM | bvii7 | biiiM | v7 vM vM vM |
+ iM | v7 | iM | iv7 |
+ iM vim | ivm v7 | iM iM iM ivm | iM vM vM vM |

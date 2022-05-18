@@ -1,0 +1,13 @@
+Title = Mister Sandman
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | bv7 | vii7 |
+ iii7 | iii7 | vi7 | vi7 |
+ ii7 | ii7 | v7 | v7 |
+ iiim | iio | bvi7 | v7 |
+ iM | iM | bv7 | vii7 |
+ iii7 | iii7 | vi7 | vi7 |
+ iim | iim | ivm | bvii7 |
+ iM | ii7 v7 | iM | iim v7 |

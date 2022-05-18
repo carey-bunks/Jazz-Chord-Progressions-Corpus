@@ -1,0 +1,13 @@
+Title = The Lady's In Love With You
+DB Key = G
+TimeSig = 4 4
+Bars = 32
+ A7 | A7 | Am7 | D7 |
+ G6 | G6 D7#5 | G6 | G6 |
+ A7 | A7 | Am7 | D7 |
+ G6 | G6 D7#5 | G6 | G6 |
+ Dm7 G7 | Dm7 G7 | Dm7 | G7 |
+ CM7 | CM7 | Cm6 | D7 |
+ A7 | A7 | Am7 | D7 |
+ Am7 | D7 | G6 | G6 |
+

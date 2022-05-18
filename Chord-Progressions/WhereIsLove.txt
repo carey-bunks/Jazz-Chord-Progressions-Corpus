@@ -1,0 +1,12 @@
+Title = Where Is Love?
+DB Key = C
+TimeSig = 4 4
+Bars = 28
+ C C Dm7 G7 | Cmaj7 C6 | C C Dm7 G7 | Cmaj7 C6 |
+ Dm7 G7 C7 F7 | Bbmaj7 Eb9 | Abmaj7 | Dm7 G7 |
+ C C Dm7 G7 | Cmaj7 C6 | C C Dm7 G7 | Cmaj7 C6 |
+ Dm7 G7 C7 F7 | Bbmaj7 Eb9 | Abmaj7 | Dm7 G7 |
+ C6 C6 Dm6 G7 | Cmaj7 C#dim | Dm7 G7 | C A7b9 |
+ Dm7 G7 | Cmaj7 F9 | Bbmaj7 Bb6 | A A7 |
+ Dm7 | Dm7 G7 | C | C |
+

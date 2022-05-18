@@ -1,0 +1,19 @@
+Title = Speak Low
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 56
+ iim | v7 | iim | v7 |
+ iim | v7 | iiim | vi7 |
+ ivm | bvii7 | ivm | bvii7 |
+ iiim vi7 | iim v7 | iM | iiim vi7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iiim | vi7 |
+ ivm | bvii7 | ivm | bvii7 |
+ iiim vi7 | iim v7 | iM | iM |
+ biiiM | biiiM | biiim | biiim |
+ bviiM | bviiM | bvi7 | v7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iiim | vi7 |
+ ivm | bvii7 | iiim | vi7 |
+ ii7 | iim v7 | iM | iiih vi7 |

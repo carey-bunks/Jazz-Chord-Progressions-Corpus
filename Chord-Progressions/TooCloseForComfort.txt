@@ -1,0 +1,15 @@
+Title = Too Close For Comfort
+DB Key = C
+TimeSig = 4 4
+Bars = 40
+ CM7 | G7+ | Em7b5 | A7b9 |
+ Dm7b5 | G7 | CM7 A7 | Dm7 G7 |
+ CM7 | G7+ | Em7b5 | A7b9 |
+ Dm7b5 | G7 | CM7 | Gm7 C7 |
+ F7 | F#o7 | C6 | Gm7 C7 |
+ F7 | F#o7 | Ab7 | G7 |
+ CM7 | G7+ | Em7b5 | A7b9 |
+ Dm7b5 | G7 | CM7 | Gm7 C7 |
+ F7 | F#o7 | Am7b5 | D7 |
+ Ab7 | G7 | C6 | Dm7 G7 |
+

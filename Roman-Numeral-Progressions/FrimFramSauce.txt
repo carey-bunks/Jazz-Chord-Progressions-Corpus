@@ -1,0 +1,13 @@
+Title = The Frim Fram Sauce
+DB Key = Eb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ ivM vm | vim ii7 | v7 | v7 v7 bv7 iv7 |
+ bvii7 viio | ivM iim | v7 i7 | ivM ii7 vm i7 |
+ ivM vm | vim ii7 | v7 | v7 v7 bv7 iv7 |
+ bvii7 viio | ivM iim | v7 i7 | ivM |
+ im iv7 | bviiM vm | im iv7 | bviiM bviiM vim ii7 |
+ v7 | iiim vi7 | iim v7 | i7 |
+ ivM vm | vim ii7 | v7 | v7 v7 bv7 iv7 |
+ bvii7 viio | ivM iim | v7 i7 | ivM i7 |

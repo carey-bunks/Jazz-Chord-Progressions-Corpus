@@ -1,0 +1,7 @@
+Title = 8-Bar Blues
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 8
+ iM | i7 | ivM | ivm |
+ iM vim | iim v7 | iM | v7 |

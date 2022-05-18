@@ -1,0 +1,11 @@
+Title = Africaine
+DB Key = Bb
+TimeSig = 4 4
+Bars = 24
+ Gm | GmM7 | Gm7 | Gm6 | 
+ Fm7 Bb7 | Ebm7 Ab7 | Am7b5 D7 | Gm7 | 
+ Fm7 Bb7 | Ebm7 Ab7 | Am7b5 D7 | Gm7 | 
+ Bbm7 Eb7 | AbM7 GbM7 | Fm7 Bb7 | Ebm7 Ab7 | 
+ Gm | GmM7 | Gm7 | Gm6 | 
+ Fm7 Bb7 | Ebm7 Ab7 | Am7b5 D7 | Gm7 | 
+

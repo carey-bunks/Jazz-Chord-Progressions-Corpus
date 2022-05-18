@@ -1,0 +1,20 @@
+Title = Winnipeg
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 60
+ iM ivM | iM ivM | iM ivM | iM ivM |
+ iM i7 | ivM iM | ivM iM | iim v7 |
+ iM i7 | ivM iM | iiim ivM | iiim ivM |
+ iiim ivM | iM ivM | iM ivM | iM i7 |
+ ivM iM | ivM iM | iim v7 | iM i7 |
+ ivM iM | iiim ivM | iiim ivM | iiim ivM |
+ iM ivM | iM ivM | iM iim | iM |
+ iim iim ivM vim | bviiM bviiM | iM iim | iM |
+ iim iim ivM vim | bviiM bviiM | v7 v7 v7 v7 | iM i7 |
+ ivM iM | ivM iM | iim v7 | iM i7 |
+ ivM iM | iiim ivM | iiim ivM | iiim ivM |
+ iM ivM | iM ivM | iM ivM | iiim ivM |
+ iiim ivM | iiim ivM | iM ivM | iiim ivM |
+ iiim ivM | iiim ivM | iM ivM | iiim ivM |
+ iiim ivM | iiim ivM | iM ivM | iiiM |

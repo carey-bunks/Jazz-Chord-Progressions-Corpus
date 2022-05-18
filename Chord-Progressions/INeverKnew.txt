@@ -1,0 +1,13 @@
+Title = I Never Knew
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ G | Cm | G | Cm |
+ G | Am7 D7 | G | Am7 D7 |
+ G | Cm | G | Cm |
+ G | Am7 D7 | G | G F#7 |
+ Bm | C#m7b5 F#7 | Bm | C#m7b5 F#7 |
+ Bm | C#7 F#7 | Bm | Am7 D7 |
+ G | Cm | G | Cm |
+ G | Am7 D7 | G | Am7 D7b9 |
+

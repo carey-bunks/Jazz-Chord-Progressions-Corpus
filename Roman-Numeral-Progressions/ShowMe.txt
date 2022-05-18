@@ -1,0 +1,19 @@
+Title = Show Me
+DB Key = G
+EstKeySig = D
+TimeSig = 3 4
+Bars = 56
+ ivM | i7 | ivM | i7 |
+ ivM | i7 | ivM | ivM |
+ bviM | biii7 | bviM | biii7 |
+ bviM | biii7 | bviM | bviM |
+ iM | iM | iM | v7 |
+ iM | v7 | iM | iM |
+ iM | iM | iM | ivo v7 ivo |
+ iM ivo bii7 | iM | bviio iM iM | bviio iM biim |
+ ivM | i7 | ivM | i7 |
+ ivM | biiiM | ii7 ii7 ii7 | ii7 ii7 ii7 |
+ vm | vm vm biii7 | ivM | bii7 |
+ ivM | bii7 | ivM | v7 |
+ v7 | ivM | ivM | ivM ivM i7 |
+ ivM | bviio ivM ivM | bviio ivM ivM | bviio iM biim |

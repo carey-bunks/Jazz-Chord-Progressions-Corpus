@@ -1,0 +1,9 @@
+Title = Colour My World
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 13
+ iM | iiim | ivM | bviiM |
+ biiiM | biiM | vi7 | iiM |
+ bvii7 | v7 | v7 | iM iM ivM v7 |
+ iM |

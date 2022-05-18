@@ -1,0 +1,21 @@
+Title = Annie's Lament
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 62
+ iM | biiM | iM | biiM |
+ iM | biiM | vm | bv7 |
+ iv7 | iv7 | ivm | bii7 |
+ iM | iim | iiim | biiim biiim |
+ iim | iim | biiM | biiM |
+ iM | biiM | iM | biiM |
+ iM | biiM | vm | bv7 |
+ iv7 | iv7 | ivm | bii7 |
+ iM | iim | iiim | biiim biiim |
+ iim | iim | bii7 | bii7 |
+ bii7 | bii7 | iM | biiM |
+ iM | biiM | iM | biiM |
+ vm | bv7 | iv7 | iv7 |
+ ivm | bii7 | iM | iim |
+ iiim | biiim biiim | iim | iim |
+ biiM | biiM |

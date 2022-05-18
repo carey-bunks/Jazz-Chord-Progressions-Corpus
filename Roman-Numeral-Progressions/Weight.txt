@@ -1,0 +1,9 @@
+Title = The Weight
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 15
+ iM iiim | ivM iM | iM iiim | ivM iM |
+ iM iiim | ivM iM | iM iiim | ivM iM |
+ iM vM ivM ivM | iM vM ivM ivM | iM vM ivM ivM | ivM |
+ ivM | iM vM vim iiim | ivM |

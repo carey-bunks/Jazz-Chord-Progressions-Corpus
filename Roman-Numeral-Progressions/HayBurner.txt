@@ -1,0 +1,14 @@
+Title = Hay Burner
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 34
+ iM iiim | ivM iim | vim iiim | bviiM v7 |
+ iM iiim | iim ivM iiim vim | ii7 iim | iM ivM iiim iim |
+ iM iiim | ivM iim | vim iiim | bviiM v7 |
+ iM iiim | iim ivM iiim vim | ii7 iim | iM i7 |
+ ivM bvo | iM i7 | ivM bvo | iM i7 |
+ ivM bvo | iM vi7 | ii7 | iim |
+ iM iiim | ivM iim | vim iiim | bviiM v7 |
+ iM iiim | iim ivM iiim vim | ii7 iim | iM vi7 |
+ ii7 iim | iM iM iim v7 |

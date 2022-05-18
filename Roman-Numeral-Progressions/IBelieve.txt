@@ -1,0 +1,17 @@
+Title = I Believe
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 48
+ iM | vim | iim | v7 v7 iim v7 |
+ iM | iim v7 | iM iM | vim |
+ iim | v7 | iM iM | iM |
+ iM | vim iiim | ivM | vii7 |
+ iiiM iiiM | iii7 iii7 | vim | vim |
+ iim | iim | v7 v7 v7 v7 | iim v7 |
+ iM | vim | iim | v7 v7 iim v7 |
+ iM | iim v7 | iM iM | vim |
+ iim | v7 | iM iM | iM |
+ iM | vim iiim | ivM | vii7 |
+ iiiM iiiM | iii7 iii7 | vim vim | vim vim iii7 vim |
+ iim | v7 v7 v7 iim | iM vim | iim iim iim v7 |

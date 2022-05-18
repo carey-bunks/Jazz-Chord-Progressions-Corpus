@@ -1,0 +1,8 @@
+Title = Cariba
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 12
+ vim vim | vim vim | vim vim | vim vim |
+ iim iim | iim iim | vim vim | vim vim bvii7 vi7 |
+ NC NC NC NC NC NC NC v7 | NC | vim vim | vim vim |

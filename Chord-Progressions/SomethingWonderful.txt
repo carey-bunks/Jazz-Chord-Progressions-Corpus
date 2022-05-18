@@ -1,0 +1,17 @@
+Title = Something Wonderful
+DB Key = G
+TimeSig = 4 4
+Bars = 50
+ GM7 G9 | CM7 F9 | GM7 G9 | CM7 F9 |
+ GM7 | CM7 | Am7 | D7sus4 D7 |
+ GM7 G9 | CM7 F9 | GM7 G9 | CM7 F9 |
+ GM7 | CM7 | Am7 | D7sus4 D7 |
+ Gm7 | Dm7 | Gm7 A7 | DM7 |
+ Gm7 | Gm7/F | Em7b5 A7b9 | DM7 DM7 Am7 D7 |
+ GM7 G9 | CM7 F9 | GM7 G9 | CM7 F9 |
+ GM7 | CM7 | Am7 | D7sus4 D7 |
+ GM7 G9 | CM7 F9 | GM7 G9 | CM7 F9 |
+ GM7 | CM7 | Am7 | D7sus4 D7 |
+ B7 | Em7 | G7 | C6 F9 |
+ GM7 G9 | CM7 F9 | Bm7 E7 | Am7 D7sus4 |
+ G6 | Am7 D7 |

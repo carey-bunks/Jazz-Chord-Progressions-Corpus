@@ -1,0 +1,26 @@
+Title = That Great Come-and-Get-It Day
+DB Key = Ab
+TimeSig = 4 4
+Bars = 84
+ EbM7 C7b9 | Fm7 Fm7 Fm7 Bb7 | Eb Ab | Eb |
+ Eb Eb Eb Bb7 | Eb Bb7 | Eb Ab | Eb Fm7 |
+ EbM7 C7b9 | Fm7 Fm7 Fm7 Bb7 | Eb Ab | Eb |
+ Cm | Eb F7 | Bb Fm7 | Bb7 |
+ Eb Fm | Eb Fm | Eb Fm | Eb Fm |
+ Eb Fm | Eb Fm | Eb Fm | Eb Eb7 |
+ Ab Bbm | Ab Bbm | Ab Bbm | Ab Abm |
+ Eb | Eb Cm7 | F7 | Bb7 Fm7 |
+ EbM7 C7b9 | Fm7 Fm7 Fm7 Bb7 | Gm7 | C7 C7 C+ C7 |
+ Fm7 | Bb7 | Eb B7 | Bb7 Fm7 |
+ EbM7 C7b9 | Fm7 Fm7 Fm7 Bb7 | Eb Ab | Eb |
+ Eb Eb Eb Bb7 | Eb Bb7 | Eb Ab | Eb Fm7 |
+ EbM7 C7b9 | Fm7 Fm7 Fm7 Bb7 | Eb Ab | Eb |
+ Cm | Eb F7 | Bb Fm7 | Bb7 |
+ Eb Fm | Eb Fm | Eb Fm | Eb Fm |
+ Eb Fm | Eb Fm | Eb Fm | Eb Eb7 |
+ Ab Bbm | Ab Bbm | Ab Bbm | Ab Abm |
+ Eb | Eb Cm7 | F7 | Bb7 Fm7 |
+ EbM7 C7b9 | Fm7 Fm7 Fm7 Bb7 | Gm7 | C7 C7 C+ C7 |
+ Fm7 | Bb7 | Gm | Ab |
+ Fm7 | Bb7 | Eb Ab | Eb |
+

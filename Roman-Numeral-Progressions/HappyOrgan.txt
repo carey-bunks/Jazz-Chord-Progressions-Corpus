@@ -1,0 +1,10 @@
+Title = The Happy Organ
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 20
+ iM | iM | iM | iM |
+ iM | iM | iM | v7 iM |
+ iM | iM | iM | v7 iM |
+ ivM | v7 | iM | iM |
+ v7 | ivM | iM | iM |

@@ -1,0 +1,12 @@
+Title = You're Blase'
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 28
+ iM | biiio | iim io | iim io |
+ iim | v7 | iiim vi7 | iim v7 |
+ iM | biiio | iim io | iim io |
+ iim | v7 | iM iv7 | iM |
+ vm i7 ivm bvii7 | vm i7 ivm bvii7 | iiim biiio | iim v7 |
+ iM | biiio | iim io | iim io |
+ iim | v7 | iM | iim v7 |

@@ -1,0 +1,13 @@
+Title = Till There Was You
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | Eo7 | Fm7 | Abm7 Db9 |
+ EbM7 EbM7 Gm7 Gbm7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+ EbM7 | Eo7 | Fm7 | Abm7 Db9 |
+ EbM7 EbM7 Gm7 Gbm7 | Fm7 Bb7 | Eb6 Abm | EbM7 |
+ AbM7 | Ao7 | EbM7 | C7 |
+ Fm7 Gm7 | Am7b5 | Fm7/Bb | Bb7+ |
+ EbM7 | Eo7 | Fm7 | Abm7 Db9 |
+ EbM7 EbM7 Gm7 Gbm7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+

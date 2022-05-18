@@ -1,0 +1,13 @@
+Title = Shuffle Boil
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM biii7 | bvi7 v7 | iM bvii7 | biiim iim |
+ iM biii7 | bvi7 v7 | iM bvii7 | biiim iim |
+ iM biii7 | bvi7 v7 | iM bvii7 | biiim iim |
+ iM biii7 | bvi7 v7 | iM bvii7 | biiim iim |
+ vm | i7 | iv7 | iii7 |
+ vim | ii7 | iim | v7 |
+ iM biii7 | bvi7 v7 | iM bvii7 | biiim iim |
+ iM biii7 | bvi7 v7 | iM | iM |

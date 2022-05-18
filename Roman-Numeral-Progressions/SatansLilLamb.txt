@@ -1,0 +1,13 @@
+Title = Satan's Li'l Lamb
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ vim | im | vim | im |
+ vim | im | iM bvi7 iim vM | iM iM ivM iM |
+ vim bviiM | iim im | vim bviiM | iim im |
+ vim bviiM | iim im | iM bvi7 iim vM | iM iM ivM iM |
+ ivM | ivM iM ivM ivM | ivM | bvi7 v7 vm i7 |
+ ivM | ivM i7 ivM ivM | iM vim | iim ivm iim v7 |
+ vim | im | vim | vm vi7 |
+ vi7 vi7 vi7 iim | iim iim iim ivm | iM iM iM ivm | iM ivM iM iM |

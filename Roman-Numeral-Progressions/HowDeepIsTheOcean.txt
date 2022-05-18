@@ -1,0 +1,13 @@
+Title = How Deep Is The Ocean?
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ vim bvh | viih iii7 | vim vim | bvh vii7 |
+ iiim biih | i7 vii7 | iiim biii7 | iim v7 |
+ iM | vm bv7 | iv7 bv7 | iv7 |
+ vih | ii7 | bvi7 v7 | viih iii7 |
+ vim bvh | viih iii7 | vim vim | bvh vii7 |
+ iiim biih | i7 vii7 | iiim biii7 | iim v7 |
+ iM | iiih vi7 | iim | ivm bvii7 |
+ iM | ii7 | iim v7 | iM iM viih iii7 |

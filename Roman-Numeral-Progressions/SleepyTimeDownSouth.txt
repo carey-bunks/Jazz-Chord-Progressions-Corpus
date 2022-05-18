@@ -1,0 +1,13 @@
+Title = Sleepy Time Down South
+DB Key = F
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ ivM | bvii7 | iM | vim ii7 |
+ iim | v7 vo | vim vim iim v7 | iM iM vm i7 |
+ ivM | bvii7 | iM | vim ii7 |
+ iim | v7 vo | vim vim iim v7 | iM iM ivm vii7 |
+ iiiM | bvim bii7 | ivm vii7 | iiiM iiiM ivm vii7 |
+ iiiM | bvim bii7 | ivm vii7 | iiiM iiiM vm i7 |
+ ivM | bvii7 | iM | vim ii7 |
+ iim | v7 vo | vim vim iim v7 | iM iM vm i7 |

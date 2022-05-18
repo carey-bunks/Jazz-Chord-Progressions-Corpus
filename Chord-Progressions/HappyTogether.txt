@@ -1,0 +1,13 @@
+Title = Happy Together
+DB Key = G
+TimeSig = 4 4
+Bars = 32
+ Em | Em | D | D |
+ C | C | B | B |
+ Em | Em | D | D |
+ C | C | B | B |
+ E | Bm7 | E | G |
+ E | Bm7 | E | G |
+ Em | Em | D | D |
+ C | C | B | B |
+

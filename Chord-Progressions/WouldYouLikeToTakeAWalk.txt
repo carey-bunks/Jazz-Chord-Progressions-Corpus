@@ -1,0 +1,14 @@
+Title = Would You Like To Take a Walk?
+DB Key = Eb
+TimeSig = 4 4
+Bars = 36
+ Ab Abm | Bb Bb7/Ab Eb/G Eb/G | Ab Abm | Eb/G Fm7 Eb Eb |
+ Ab Abm | Eb/G C7 | Fm Abm/Cb | Eb/Bb Bb7 |
+ Eb | Ab Abm | Bb Bb7/Ab Eb/G Eb/G | Ab Abm |
+ Eb/G Fm7 Eb Eb | Ab Abm | Eb/G C7 | Fm Abm/Cb |
+ Eb/Bb Bb7 | Eb | Bbm7 Eb7 | Ab |
+ Eb7 | Ab Ab Ab Ab7 | Dm7 G7 | C |
+ Dm7 G7 G7 G7 | C | Ab Abm | Bb Bb7/Ab Eb/G Eb/G |
+ Ab Abm | Eb/G Fm7 Eb Eb | Ab Abm | Eb/G C7 |
+ Fm Abm/Cb | Eb/Bb Bb7 | Eb | Eb |
+

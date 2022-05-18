@@ -1,0 +1,14 @@
+Title = Bossa Nova U.S.A.
+DB Key = F
+TimeSig = 4 4
+Bars = 36
+ Gm7b5 | C7b9 | FM7 F6 | F69 |
+ Cm7b5 | F7b9 | BbM7 Bb6 | Bb69 |
+ Dm7b5 G7b9 | CM9 | Cm7b5 F7b5 | BbM9 |
+ Bbm7b5 Eb7 | AbM7 DbM7 | Gm7b5 | C7b9#11 |
+ Gm7b5 | C7b9 | FM7 F6 | F69 |
+ Cm7b5 | F7b9 | BbM7 Bb6 | Bb6 Bb6 F Fm |
+ Dm7b5 G7#11 | CM7 | Cm7b5 F7b5b9 | BbM9 |
+ Bbm7b5 Dbm/Eb | AbM7 DbM7 | Gm7b5 | C13b9 |
+ F69 | F69 | F69 | F69 |
+

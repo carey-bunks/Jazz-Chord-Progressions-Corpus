@@ -1,0 +1,13 @@
+Title = Blues For Sarka
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 29
+ iM | bvio i7 | ivM ivM iim biiM | iM |
+ viih | iii7 | vim | iio |
+ iim iim | iio | iiim ivM | ivm bvii7 |
+ iM | bvio i7 | ivM ivM iim biiM | iM |
+ viih | iii7 | vim | iio |
+ iim iim | iio | iiim ivM | ivm bvii7 |
+ iiim ivM | ivm bvii7 | iiim ivM | ivm bvii7 |
+ iM |

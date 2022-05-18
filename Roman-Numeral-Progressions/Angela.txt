@@ -1,0 +1,16 @@
+Title = Angela
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 42
+ iiim ivm | vm bvim | vim bviim | vm ivm |
+ iiim | iiim iim | iiim | iiim |
+ iiim ivm | vm bvim | vim bviim | vm ivm |
+ iiim | iiim iim | iiim | iiim |
+ vm i7 | iiim bvii7 | biiiM vi7 | bviM bvim |
+ biiiM vi7 | bviM bvim | iM bv7 | ivM iii7 |
+ iM bv7 | ivM iii7 | vim bvi7 | iim bv7 |
+ ivM bv7 | iim bvi7 | vim bvi7 | iim bv7 |
+ ivM iii7 | ii7 | biiiM | biiiM biiM |
+ biiiM | biiiM biiM | iM | iM bviiM |
+ iM | iM |

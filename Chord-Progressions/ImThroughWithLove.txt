@@ -1,0 +1,13 @@
+Title = I'm Through With Love
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ FM7 Abo7 | Gm7 C7 | FM7 F7+ | BbM7 Eb7#11 |
+ FM7 FM7 Abo7 D7alt | Gm7 | Gm7 C7 | Am7 D7 Gm7 C7 |
+ FM7 Abo7 | Gm7 C7 | FM7 F7+ | BbM7 Eb7#11 |
+ FM7 FM7 Abo7 D7alt | Gm7 | Gm7 C7 | FM7 |
+ Am Am+ | Am6 Am+ | Am Am+ | D7 |
+ CM7 C7+ | Dm7 G7 | Gm7 D7alt | G7 C7 |
+ FM7 Abo7 | Gm7 C7 | FM7 F7+ | BbM7 Eb7#11 |
+ FM7 FM7 Abo7 D7alt | Gm7 | Gm7 C7 | FM7 Gm7/C |
+

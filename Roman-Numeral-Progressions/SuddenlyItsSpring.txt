@@ -1,0 +1,13 @@
+Title = Suddenly It's Spring
+DB Key = Bb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ vim | vii7 | iiim | vi7 |
+ vim | ii7 | vM | viih iii7 |
+ vim | vii7 | iiim | vi7 vio |
+ viiM bvim | biim bv7 | viiM | iim v7 |
+ iim v7 | iM | v7 | iM |
+ viim iii7 | vim | viih | iii7 |
+ vim | vii7 | iiim | vi7 |
+ vim | ii7 | vM | viih iii7 |

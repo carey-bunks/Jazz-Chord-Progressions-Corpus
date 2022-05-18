@@ -1,0 +1,13 @@
+Title = Steppin' Out With My Baby
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Dm Dm/C | Gm/Bb A7 | Dm Dm/C | Gm/Bb A7 |
+ Dm Dm/C | Gm/Bb A7b9 | Dm | Bb7 A7 Dm6 Dm6 |
+ Dm Dm/C | Gm/Bb A7 | Dm Dm/C | Gm/Bb A7 |
+ Dm Dm/C | Gm/Bb A7b9 | Dm | Bb7 A7 Dm6 Dm6 |
+ D6 | D6 | DM7 D6 | DM7 D6 |
+ D6 | D6 | Em7 A7 | Em7 A7 |
+ Dm Dm/C | Gm/Bb A7 | Dm Dm/C | Gm/Bb A7 |
+ Dm Dm/C | Gm/Bb A7b9 | D/F# Fo7 | Em7 A7 D6 D6 |
+

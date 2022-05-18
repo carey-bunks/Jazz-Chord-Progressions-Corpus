@@ -1,0 +1,13 @@
+Title = Swinging At The Haven
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Bb9sus4 | Bb9 | Bb9sus4 | Bb9 |
+ Ab9sus4 | Ab9 | Ab9sus4 | Ab9 D7b5#9 |
+ DbM7 | Gm7b5 C7#5#9 | FM7 | FM7 |
+ Bbm7 | Eb9sus4 Eb7b9 | AbM7 | Gm7b5 C7#5#9 |
+ Bb9sus4 | Bb9 | Bb9sus4 | Bb9 |
+ Ab9sus4 | Ab9 | Ab9sus4 | Ab9 D7b5#9 |
+ DbM7 | Gm7b5 C7#5#9 | FM7 | Bbm7 Eb7 |
+ Am7 D7#5#9 | Gm7 C7#5#9 | F69 | F69 |
+

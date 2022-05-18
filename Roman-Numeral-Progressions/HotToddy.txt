@@ -1,0 +1,13 @@
+Title = Hot Toddy
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ vM iim | vM iim | iM iM | iM iM |
+ vM iim | vM iim | iM iM | iM iM |
+ i7 vm | i7 vm | ivM ivM | ivM ivM |
+ ii7 vim | ii7 vim | v7 | v7 |
+ vM iim | vM iim | iM iM | iM iM |
+ vM iim | vM iim | iM iM | iM iM |
+ i7 vm | i7 vm | ivM ivM | ivm |
+ vM iim | vM iim | vM iim | iM |

@@ -1,0 +1,13 @@
+Title = The Good Life
+DB Key = Ab
+TimeSig = 4 4
+Bars = 32
+ AbM7 Ebm7 | AbM7 | Gm7b5 | C7 |
+ Fm | Fm Fm/Eb | Dm7b5 | G7 |
+ Bbm7 | E7#11 Eb7 | AbM7 | C7alt |
+ Fm | Bb7 | Bbm7 Cm7 | Dbm7 Ebm7 |
+ AbM7 Ebm7 | AbM7 | Gm7b5 | C7 |
+ Fm | Fm Fm/Eb | Dm7b5 | G7 |
+ Bbm7 | E7#11 Eb7 | AbM7 | F7 |
+ Bbm7 Cm7 | Dbm7 Eb7 | AbM7 | AbM7 |
+

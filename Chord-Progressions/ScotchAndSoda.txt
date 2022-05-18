@@ -1,0 +1,14 @@
+Title = Scotch and Soda
+DB Key = Bb
+TimeSig = 4 4
+Bars = 36
+ Cm7 | Ab7 | BbM7 | Dm7 G7 |
+ C7 | Cm7 F7 | Dm7 Dbm7 | Cm7 Cm7 F7 G7 |
+ Cm7 | Ab7 | BbM7 | Dm7 G7 |
+ C7 | Cm7 F7 | BbM7 | Fm7 Bb7 |
+ EbM7 | Em7b5 A7alt | Dm7 G7 Cm7 F7 | BbM7 |
+ C7 | C7 | F7 | Cm7 F7 |
+ Cm7 | Ab7 | BbM7 | Dm7 G7 |
+ C7 | Cm7 F7 | Dm7b5 | G7alt |
+ Cm7 | F7 Eb7 | BbM7 | Dm7b5 G7alt |
+

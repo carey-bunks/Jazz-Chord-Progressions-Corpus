@@ -1,0 +1,15 @@
+Title = Baubles, Bangles, and Beads
+DB Key = Ab
+TimeSig = 3 4
+Bars = 40
+ Bbm7 | Eb7 | AbM7 | AbM7 |
+ Bbm7 | Eb7 | AbM7 | AbM7 |
+ Dm7 | G7 | C | C |
+ Dm7 | G7 | C | C |
+ F#m7 | B7 | EM7 | EM7 |
+ F#m7 | B7 | EM7 | EM7 |
+ A7 | Eb7 | AbM7 | AbM7 A7 |
+ Bbm7 | Eb7 | AbM7 | F7 |
+ Bbm7 | Eb7 | AbM7 | F7 |
+ Bbm7 | Eb7 | AbM7 | Cm7b5 F7 |
+

@@ -1,0 +1,17 @@
+Title = I'll Remember April
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 48
+ iM | iM | iM | iM |
+ im | im | im | im |
+ iih | v7 | iiih | vi7 |
+ iim | v7 | iM | iM i7 |
+ ivm | bvii7 | biiiM | vm i7 |
+ ivm | bvii7 | biiiM | biiiM |
+ iim | v7 | iM | iM |
+ bviim | iii7 | viM | iim v7 |
+ iM | iM | iM | iM |
+ im | im | im | im |
+ iih | v7 | iiih | vi7 |
+ iim | v7 | iM | iim v7 |

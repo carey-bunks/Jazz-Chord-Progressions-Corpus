@@ -1,0 +1,12 @@
+Title = Take Me There
+DB Key = Eb
+TimeSig = 4 4
+Bars = 28
+ Cm7 Dm | EbM7 EbM7 Am D7 | Cm7 Dm7 | G7sus4 G7 |
+ CM7 Bb/C | CM7 Bb/C | FM7 E7b5 | Am D7 |
+ Eb | G7sus4 G7 | Cm7 Dm | EbM7 EbM7 Am D7 |
+ Cm7 Dm7 | G7sus4 G7 | CM7 Bb/C | CM7 Bb/C |
+ FM7 E7b5 | Am D7 | Eb | G7sus4 G7 |
+ Cm F7 | Cm F7 | Bbm F7 | Ab7 G7 |
+ Cm F7 | Cm F7 | Bbm F7 | Ab7 G7 |
+

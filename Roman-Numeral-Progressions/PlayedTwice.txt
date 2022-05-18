@@ -1,0 +1,12 @@
+Title = Played Twice
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 28
+ iiM | biii7 | biii7 | vii7 |
+ iiM | biii7 | ii7 | ii7 |
+ v7 | v7 | v7 | v7 |
+ iiM | biii7 | biii7 | vii7 |
+ iiM | biii7 | ii7 | ii7 |
+ v7 | v7 | v7 | v7 |
+ iiM | biii7 | biii7 ii7 | vii7 iiiM iiiM iiiM |

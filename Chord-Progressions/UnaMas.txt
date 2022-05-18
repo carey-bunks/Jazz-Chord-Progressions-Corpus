@@ -1,0 +1,9 @@
+Title = Una Mas
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ F7#5#9 | Bb13b9 | F7#5#9 | Bb13b9 |
+ Bb7#5#9 | Eb13b9 | Bb7#5#9 | Eb13b9 |
+ Ab13b9 | Db7#5#9 | GbM9 | Cb13#11 |
+ GbM7 E13 | Eb9 | Cm7b5 F7b9 | Bbm7 |
+

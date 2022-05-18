@@ -1,0 +1,11 @@
+Title = You're A Joy
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 24
+ iM | iim v7 | iM iM | ivm bvii7 |
+ biiiM | ivm bvii7 | biiiM biiiM | bvim bii7 |
+ iiim vi7 | iim vi7 | bvii7 vi7 | bvi7 v7 |
+ iM | iim v7 | iM iM | ivm bvii7 |
+ biiiM | iiim vi7 | iim v7 | iiih vi7 |
+ iim | v7 | iM vi7 | iim v7 |

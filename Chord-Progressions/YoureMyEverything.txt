@@ -1,0 +1,13 @@
+Title = You're My Everything
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ CM7 | CM7 | F#m7 B7 | Em7 A7 |
+ Dm7 | Dm7 | Dm7/G | Fm6 |
+ Em7 | Ebm7 Ab7 | Dm7 | Bm7b5 E7alt |
+ Am7 | D7 | Dm7/G | G7 |
+ CM7 | CM7 | F#m7 B7 | Em7 A7 |
+ Dm7 | Dm7 | Bm7b5 | E7alt |
+ Am7 D7 | Gm7 C7 | F | Bb7#11 |
+ Em7 Ebm7 | Dm7 G7 | C6 | Dm7 G7 |
+

@@ -1,0 +1,14 @@
+Title = Would You Like To Take a Walk?
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 36
+ ivM ivm | vM v7 iM iM | ivM ivm | iM iim iM iM |
+ ivM ivm | iM vi7 | iim ivm | iM v7 |
+ iM | ivM ivm | vM v7 iM iM | ivM ivm |
+ iM iim iM iM | ivM ivm | iM vi7 | iim ivm |
+ iM v7 | iM | vm i7 | ivM |
+ i7 | ivM ivM ivM iv7 | viim iii7 | viM |
+ viim iii7 iii7 iii7 | viM | ivM ivm | vM v7 iM iM |
+ ivM ivm | iM iim iM iM | ivM ivm | iM vi7 |
+ iim ivm | iM v7 | iM | iM |

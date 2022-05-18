@@ -1,0 +1,13 @@
+Title = Jeru
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iM | bvii7 |
+ iM vi7 | iim vii7 | iM | iim io |
+ iM | iM | iM | bvii7 |
+ iM vi7 | iim vii7 | iM | iim io |
+ vm | i7 | ivM | ivM |
+ ivm | bvii7 | biiiM | iim v7 |
+ iM | iM | iM | bvii7 |
+ iM vi7 | iim vii7 | iM | iim io |

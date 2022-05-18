@@ -1,0 +1,13 @@
+Title = Nancy (with the Laughing Face
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Fm7 | Bb7b9 | EbM7 Ab7#11 | Gm7 Gbo7 |
+ Fm7 Fm7/Eb | Dm7b5 G7alt | Cm7 F7 | Fm7 Fm7 Gm7b5 C7b9 |
+ Fm7 | Bb7b9 | EbM7 Ab7#11 | Gm7 Gbo7 |
+ Fm7 Fm7/Eb | Dm7b5 G7alt | Cm7 Cm7 Abm7 Db7 | EbM7 G7alt |
+ Cm | CmM7 | Cm7 | F7 F7 Abm7 Db7 |
+ EbM7 Cm7 | Fm7 Fm7/Eb Dm7b5 G7alt | Cm7 F7 | Fm7 Bb7 C7b9 C7b9 |
+ Fm7 | Bb7b9 | EbM7 Ab7#11 | Gm7 Gbo7 |
+ Fm7 Fm7/Eb | Dm7b5 G7alt | Cm7 Cm7 Abm7 Db7 | EbM7 C7alt |
+

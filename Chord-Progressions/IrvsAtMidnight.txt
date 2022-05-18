@@ -1,0 +1,13 @@
+Title = Irv's at Midnight
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Cm7 | Cm7 | Ab7 | Ab7 |
+ Dm7b5 | G7+ | Cm7 Eb7 | AbM7 G7 |
+ Cm7 | Cm7 | Ab7 | Ab7 |
+ Dm7b5 | G7+ | Cm7 | Cm7 |
+ Db7 B7 | Bb7 Ab7 | G7+ Ab7 | G7+ Ab7 |
+ G7+ G7+ Ab7 G7 | G7 | Cm7 | Cm7 |
+ Ab7 | Ab7 | Dm7b5 | G7+ |
+ Cm7 Eb7 | AbM7 G7 | Cm | Cm |
+

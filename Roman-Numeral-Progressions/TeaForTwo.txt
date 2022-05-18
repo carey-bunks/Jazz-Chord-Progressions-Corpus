@@ -1,0 +1,13 @@
+Title = Tea for Two
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iim v7 | iim v7 | iM iM | iM iM |
+ iim v7 | iim v7 | iM | iM |
+ bvm vii7 | bvm vii7 | iiiM iiiM | iiiM iiiM |
+ bvm vii7 | bvm vii7 | iiiM | v7 |
+ iim v7 | iim v7 | iM iM | iM iM |
+ iim v7 | iim v7 | iiih | vi7 |
+ ivM iiio | iim biio | ivM | ivm |
+ iim v7 | iim v7 | iM | iiih vi7 |

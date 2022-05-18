@@ -1,0 +1,11 @@
+Title = Jump, Jive an' Wail
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 24
+ iM | iM | iM | i7 |
+ iv7 | iv7 | iM | iM |
+ iim | v7 | iM | iM |
+ iM | iM | iM | i7 |
+ iv7 | iv7 | iM | iM |
+ iim | v7 | iM biiio | iim v7 |

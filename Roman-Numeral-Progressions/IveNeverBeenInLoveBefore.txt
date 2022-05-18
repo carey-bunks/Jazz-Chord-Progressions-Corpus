@@ -1,0 +1,13 @@
+Title = I've Never Been In Love Before
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim v7 | iM iv7 | iiim vi7 |
+ iim | iim v7 | iM biiiM | bviM biiM |
+ iM vim | iim v7 | iM iv7 | iiim vi7 |
+ iim | iim v7 | iM | vm i7 |
+ ivM | iim v7 | iM | viih iii7 |
+ vim vim | bvh vii7 | iiiM | iim v7 |
+ iM vim | iim v7 | iM iv7 | iiim vi7 |
+ iim | iim v7 | iM | iim v7 |

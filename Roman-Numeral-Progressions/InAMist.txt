@@ -1,0 +1,18 @@
+Title = In A Mist
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 52
+ ivM ivM biii7 ii7 | bii7 | ivM ivM biii7 ii7 | bii7 |
+ vi7 vi7 bvii7 vii7 | i7 bii7 biii7 iv7 | ii7 | ii7 |
+ ivM ivM biii7 ii7 | bii7 | ivM ivM biii7 ii7 | bii7 |
+ vi7 vi7 bvii7 vii7 | i7 bii7 biii7 iv7 | ii7 | v7 iM |
+ vii7 | vii7 | vii7 | vi7 |
+ iim | v7 | iM | vi7 |
+ ii7 | iih v7 | iM v7 | v7 io |
+ iim | v7 | iM | vi7 |
+ ii7 | iih v7 | iM iM ivM ivm | iM |
+ iM bii7 i7 vii7 | bvii7 | iM bii7 vii7 bvii7 | biii7 |
+ biii7 ii7 | bvi7 v7 | biii7 ii7 | v7 |
+ ivM ivM biii7 ii7 | bii7 | ivM ivM biii7 ii7 | bii7 |
+ vi7 vi7 bvii7 vii7 | i7 bii7 biii7 iv7 | ii7 | v7 iM |

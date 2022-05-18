@@ -1,0 +1,16 @@
+Title = Boo -Hoo
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 44
+ iM | v7 v7 v7 iM | iM v7 | iM iM im biiio |
+ v7 | v7 v7 v7 v7 | v7 vo v7 iM | v7 |
+ iM io | v7 v7 v7 iio | iM v7 | iM v7 |
+ iM | v7 v7 v7 iM | iM v7 | iM iM im biiio |
+ v7 | v7 v7 v7 v7 | v7 vo v7 iM | v7 |
+ iM io | v7 v7 v7 iio | iM v7 | iM vii7 |
+ iiiM | iiiM | vii7 ivm | vii7 vii7 |
+ vM | ii7 | v7 iim | v7 v7 |
+ iM | v7 v7 v7 iM | iM v7 | iM iM im biiio |
+ v7 | v7 v7 v7 v7 | v7 vo v7 iM | v7 |
+ iM io | v7 v7 v7 iio | iM v7 | iM |

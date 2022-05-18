@@ -1,0 +1,21 @@
+Title = Woman
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 61
+ iM iim | iM iim | iM vim | iim iim v7 vM |
+ ivM iim | iiim iiim v7 vM | iM iim | iM iim |
+ iM iim | iim iim v7 vM | ivM iim | iiim |
+ v7 | vM | iM | vim |
+ iim | vM | iM | vim |
+ iim | vM | iM iim | iM iim |
+ iM vim | iim iim v7 vM | ivM iim | iiim iiim v7 vM |
+ iM iim | iM iim | iM iim | iim iim v7 vM |
+ ivM iim | iiim | v7 | vM |
+ iM | vim | iim | vM |
+ iM | vim | iim | vM |
+ iM biiim | iM biiim | iM bviim | biiim biiim bvi7 bviM |
+ iM biiim | ivm | bvi7 | bviM |
+ iM | bviim | biiim | bviM |
+ iM | bviim | biiim | bviM |
+ iM |

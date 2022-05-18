@@ -1,0 +1,13 @@
+Title = Surfin' U.S.A.
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ v7 | v7 | iM | iM |
+ v7 | v7 | iM | iM |
+ ivM | ivM | iM | iM |
+ v7 | v7 | iM | i7 |
+ v7 | v7 | iM | iM |
+ v7 | v7 | iM | iM |
+ ivM | ivM | iM | iM |
+ v7 | v7 | iM | iM |

@@ -1,0 +1,13 @@
+Title = Three Flowers
+DB Key = Eb
+EstKeySig = G
+TimeSig = 3 4
+Bars = 32
+ bviM | bv7 | bviM | bv7 |
+ bviM | bv7 | iim | v7 |
+ iM | vm | iM | vm |
+ viM | v7 | viM | bviim biii7 |
+ bviM | bv7 | bviM | bv7 |
+ bviM | bv7 | iim | v7 |
+ iM | vm | iM | vm |
+ viM | v7 | viM | bviim biii7 |

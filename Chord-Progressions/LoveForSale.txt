@@ -1,0 +1,21 @@
+Title = Love for Sale
+DB Key = Eb
+TimeSig = 4 4
+Bars = 64
+ EbM7 | EbM7 | Bbm7 | Bbm7 |
+ EbM7 | EbM7 | Bbm7 | Bbm7 |
+ Ebm7 | Ab7 | DbM7 | Gb7 |
+ Cm7b5 | F7alt | Bbm7 | Bbm7 |
+ EbM7 | EbM7 | Bbm7 | Bbm7 |
+ EbM7 | EbM7 | Bbm7 | Bbm7 |
+ Ebm7 | Ab7 | DbM7 | Gb7 |
+ Cm7b5 | F7+ | Bbm7 | Bbm7 |
+ Ebm7 | Ab7b9 | DbM7 | Fm7 Bb7 |
+ Ebm7 | Ab7 | DbM7 | DbM7 |
+ Bb7b9 | B7 Bb7 | Ebm7 | Ebm7 |
+ Gm7b5 | C7b9 | F#m7 B7 | Fm7 Bb7 |
+ EbM7 | EbM7 | Bbm7 | Bbm7 |
+ EbM7 | EbM7 | Bbm7 | Bbm7 |
+ Ebm7 | Ab7 | DbM7 | Gb7 |
+ Cm7b5 | F7alt | Bbm7 | Bbm7 |
+

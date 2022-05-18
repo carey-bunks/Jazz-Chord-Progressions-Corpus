@@ -1,0 +1,16 @@
+Title = Come Back To Me
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 42
+ iim | iim v7 | iim | iim v7 |
+ iM iM | iM iM | iM | iM |
+ iim | iim v7 | iim | iim v7 |
+ iM iM | iM iM | iM | iM |
+ iiim iM | viM vii7 | iiim iiim | vim vii7 |
+ iiim iiim | vi7 vi7 | iim | iim |
+ iim | iim v7 | vm | vi7 |
+ ii7 | biim iim | iM vim | vim |
+ iM biiiM | biiiM biiiM biiiM v7 | iM | iM |
+ iv7 | iv7 | iM | iM |
+ iM | iM |

@@ -1,0 +1,13 @@
+Title = Serenade In Blue
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb6 | C7b9 | F7 F7 B7 Bb7 | Gm7 Gbm6 |
+ Fm7 Bb7 | G7 C7 | F7 Bb7 | EbM7 Bb7 |
+ Eb6 | C7b9 | F7 F7 B7 Bb7 | Gm7 Gbm6 |
+ Fm7 Bb7 | G7 C7 | F7 Bb7 | EbM7 Bb7 |
+ AbM7 | AbM7 | GbM7 | GbM7 |
+ F7 Cm7/G | G#o7 F7/A | Bb7 Fm7 | Fm7/Bb Bb7b9 |
+ Eb6 | C7b9 | F7 F7 B7 Bb7 | Gm7 Gbm6 |
+ Fm7 | G7/D Gm7b5/Db C7 C7 | F7 Bb7 | Eb6 Bb7 |
+

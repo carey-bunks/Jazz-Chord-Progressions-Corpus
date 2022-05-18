@@ -1,0 +1,13 @@
+Title = Blue And Broken Hearted
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | biiio | biiio |
+ iii7 | iii7 | vi7 | vi7 |
+ iim | iim | ivm | v7 |
+ iM | biiio | iim | v7 |
+ iM | iM | biiio | biiio |
+ iii7 | iii7 | vi7 | vi7 |
+ iim | iim iim iim bvii7 | iM | vi7 |
+ iih | v7 | iM | iM |

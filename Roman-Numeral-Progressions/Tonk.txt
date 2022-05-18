@@ -1,0 +1,20 @@
+Title = Tonk
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 57
+ NC | v7 | v7 | ii7 |
+ ii7 | v7 | v7 | iv7 |
+ iv7 | v7 | v7 | ii7 |
+ ii7 | i7 vii7 | iii7 vi7 | ii7 |
+ ii7 | v7 | v7 | ii7 |
+ ii7 | v7 | v7 | iv7 |
+ iv7 | v7 | v7 | ii7 |
+ ii7 | i7 vii7 | iii7 vi7 | ii7 |
+ ii7 | v7 | v7 | i7 |
+ i7 | i7 iv7 | iv7 bviiM | iii7 vi7 |
+ ii7 | v7 | v7 | ii7 |
+ ii7 | v7 | v7 | iv7 |
+ iv7 | v7 | v7 | ii7 |
+ ii7 | i7 vii7 | iii7 vi7 | ii7 |
+ ii7 |

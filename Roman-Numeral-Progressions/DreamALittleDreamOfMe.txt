@@ -1,0 +1,13 @@
+Title = Dream A Little Dream Of Me
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | bvi7 v7 | iM | vi7 vi7 iiih vi7 |
+ iim iim | iih bvii7 | iM vim | iim v7 |
+ iM | bvi7 v7 | iM | vi7 vi7 iiih vi7 |
+ iim iim | iih bvii7 | iM iM bvi7 v7 | iM iM bviim biii7 |
+ bviM ivm | bviim biii7 | bviM ivm | bviim biii7 |
+ bviM ivm | bviim biii7 | bviM ivm | iim v7 |
+ iM | bvi7 v7 | iM | vi7 vi7 iiih vi7 |
+ iim iim | iih bvii7 | iM iM bvi7 v7 | iM iM bvi7 v7 |

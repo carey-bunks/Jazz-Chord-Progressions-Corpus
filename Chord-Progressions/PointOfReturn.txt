@@ -1,0 +1,13 @@
+Title = Point of Return
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ CM7 | C69 | Fm7 | Bb7#11 Bb7 |
+ Am7 | Am7 | Abm7 | Db7b9 Db7 |
+ GbM7#5 | Gb69 | F7#9#11 | B7 |
+ Bbm7 | Bbm7 | Abm7 | Db9sus |
+ CM7 | C69 | Fm7 | Bb7#11 Bb7 |
+ Am7 | Am7 | Abm7 | Db7b9 Db7 |
+ GbM7#5 | Gb69 | F7#9#11 | B7#11 |
+ EM7 | Eb9sus | AbM7 | G13 |
+

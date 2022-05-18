@@ -1,0 +1,16 @@
+Title = For Every Man There's A Woman
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 42
+ vim | viih iii7 | vim | viih iii7 |
+ vim | ii7 | iii7 iii7 iv7 iii7 | vim |
+ vii7 iii7 | vim | viih iii7 | vim |
+ iv7 iii7 | vim | viih iii7 | vim |
+ viih iii7 | vim | ii7 | iii7 iii7 iv7 iii7 |
+ vim | vii7 iii7 | vim | viih iii7 |
+ vim | iv7 iii7 | iM biio | iim v7 |
+ iiim iiim vi7 ii7 | iv7 iii7 | vim | viih iii7 |
+ vim vim | ii7 | i7 iii7 | vii7 iii7 |
+ vim | viih iii7 | vim | vii7 iii7 |
+ vim | viih iii7 |

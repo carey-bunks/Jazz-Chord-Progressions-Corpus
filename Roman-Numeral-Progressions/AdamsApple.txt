@@ -1,0 +1,11 @@
+Title = Adam's Apple
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 24
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ iv7 | iv7 | iv7 | iv7 |
+ v7 | v7 | v7 | v7 |
+ vm | i7 | vim | ii7 |
+ v7 | v7 | v7 | v7 |

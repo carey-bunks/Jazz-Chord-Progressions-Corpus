@@ -1,0 +1,15 @@
+Title = Jazz Me Blues
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 40
+ iM | iM | iM | ii7 v7 |
+ iM | iM | io | v7 iM |
+ iM | iM | iM | ii7 v7 |
+ iM | iM | iim v7 | iM |
+ v7 | vo | v7 | v7 |
+ vi7 | vi7 | ii7 | ii7 |
+ v7 | v7 | iM | iM |
+ vi7 | vi7 | ii7 | ii7 |
+ iM | iii7 | vim | io |
+ ii7 | v7 | iM | iM |

@@ -1,0 +1,8 @@
+Title = Ecclusiastics
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 10
+ i7 iim | iiim iv7 | bv7 vii7 | iiim vi7 |
+ iv7 bvi7 | vii7 iiM | v7 i7 | iv7 bvii7 |
+ biii7 bvi7 | iih v7 |

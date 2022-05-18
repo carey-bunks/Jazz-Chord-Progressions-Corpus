@@ -1,0 +1,13 @@
+Title = From Me to You
+DB Key = G
+TimeSig = 4 4
+Bars = 32
+ G | E | G | D7 |
+ C7 | Em | G D7 | G Em |
+ G | E | G | D7 |
+ C7 | Em | G D7 | G |
+ Dm7 | G7 | C G7 | C |
+ Em7 | A7 | D7 | D7+ |
+ G | Em | G | D7 |
+ C7 | Em | G D7 | G |
+

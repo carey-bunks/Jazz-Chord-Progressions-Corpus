@@ -1,0 +1,9 @@
+Title = Azure
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 16
+ biiim iiim iiim iiim | iiim biiim biiim biiim | biiim iiim iim v7 | iM |
+ biiim iiim iiim iiim | iiim biiim biiim biiim | biiim iiim iim v7 | iM i7 |
+ iiiM ivM viih iii7 | vim i7 | iiiM ivM iiim vi7 | ii7 v7 |
+ biiim iiim iiim iiim | iiim biiim biiim biiim | biiim iiim iim v7 | iM |

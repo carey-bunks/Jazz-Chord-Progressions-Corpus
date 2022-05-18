@@ -1,0 +1,13 @@
+Title = Someone to Watch Over Me
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Eb Eb7 | Ab Abo | Eb Ebo | Bb7 Bbo |
+ Fm7 | Fm7 Bb7 | Eb | Fm7 Bb7 |
+ Eb Eb7 | Ab Abo | Eb Ebo | Bb7 Bbo |
+ Fm7 | Fm7 Bb7 | Eb | Eb Eb7 |
+ Ab | Ab | Ab | Eb |
+ D7 | G7 | C7 | F7 Bb7 |
+ Eb Eb7 | Ab Abo | Eb Ebo | Bb7 Bbo |
+ Fm7 | Fm7 Bb7 | Eb | Eb |
+

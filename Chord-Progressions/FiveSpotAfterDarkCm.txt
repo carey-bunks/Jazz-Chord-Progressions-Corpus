@@ -1,0 +1,8 @@
+Title = Five Spot After Dark
+DB Key = Eb
+TimeSig = 4 4
+Bars = 12
+ Cm69 | Cm69 | Cm69 | Cm69 |
+ Fm7 | Fm7 | Cm69 | Cm69 |
+ Ab7 | G7alt | Cm69 | Dm7b5 G7b9 |
+

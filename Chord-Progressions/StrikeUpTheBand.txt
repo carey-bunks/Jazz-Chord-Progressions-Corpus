@@ -1,0 +1,13 @@
+Title = Strike Up The Band
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Bb | Bb | Bo | Bo |
+ F7 | F7 | Bb | Bb Bb7 |
+ Eb | Eb | Eo | Eo |
+ Bb7 | Bb7 | Eb | Cm7 F7 |
+ Bb | Bb | Am7b5 | D7 |
+ Gm | Gm7 C7 | F7 | F7 |
+ Bb | Bb | Dm7b5 | G7 |
+ Cm7 | F7 | Bb | Bb |
+

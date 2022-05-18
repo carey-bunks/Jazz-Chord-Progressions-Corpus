@@ -1,0 +1,13 @@
+Title = Tidal Breeze
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | bvii7 | bvii7 |
+ iM | iM | bvii7 | bvii7 bvi7 |
+ v7 v7 v7 bvi7 | bvi7 | v7 v7 v7 bvi7 | bvi7 |
+ vi7 | vi7 | bvii7 | bvii7 vii7 |
+ iM | iM | bvii7 | bvii7 |
+ iM | iM | bvii7 | bvii7 bvi7 |
+ v7 v7 v7 bvi7 | bvi7 | v7 v7 v7 bvi7 | bvi7 |
+ vi7 | vi7 | bvii7 | bvii7 |

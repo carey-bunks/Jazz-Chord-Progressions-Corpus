@@ -1,0 +1,13 @@
+Title = Skylark
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM iM iim biiio | iiim iv7 | iM bv7 | ivM ivM iiim vim |
+ ii7 ii7 | v7 v7 | iM iM bvh vii7 | iiim vi7 bviM v7 |
+ iM iM iim biiio | iiim iv7 | iM bv7 | ivM ivM iiim vim |
+ ii7 ii7 | v7 v7 | iM v7 | iM i7 |
+ ivM ii7 | vm i7 | ivM | iiih vi7 |
+ iim bvii7 | vm i7 ivM ivM | iiiM biim | bv7 vii7 iiiM v7 |
+ iM iM iim biiio | iiim iv7 | iM bv7 | ivM ivM iiim vim |
+ ii7 ii7 | v7 v7 | iM iM v7 v7 | iM v7 |

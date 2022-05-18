@@ -1,0 +1,11 @@
+Title = Minor Mood
+DB Key = Ab
+TimeSig = 4 4
+Bars = 24
+ Fm | Bbm6 C7 | Fm | Bb7 |
+ Bbm7 | Bbm7 Eb7 | Gm7b5 C7#5 | Fm |
+ Fm Db7 | Db7 C7 | FmM7 FmM7 FmM7 C7b5#9 | C7b5#9 |
+ Fm | Bbm6 C7 | Fm | Bb7 |
+ Bbm7 | Bbm7 Eb7 | Gm7b5 C7#5 | Fm |
+ Fm Db7 | Db7 C7 | FmM7 | FmM7 |
+

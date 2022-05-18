@@ -1,0 +1,16 @@
+Title = Rahsaan's Run
+DB Key = C
+TimeSig = 4 4
+Bars = 46
+ Am7 | Am7 | Am7 | Am7 |
+ Am7 | Am7 | Am7 | Am7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ Am7 | Am7 | Am7 | Am7 |
+ B7alt NC | NC | NC | NC |
+ NC | Bm7b5 | Bm7b5 E7#9 E7#9 E7#9 | Am7 |
+ Am7 | Am7 | Am7 | Am7 |
+ Am7 | Am7 | Am7 | Dm7 |
+ Dm7 | Dm7 | Dm7 | Am7 |
+ Am7 | Am7 | Am7 | B7alt NC |
+ NC | NC | NC | NC |
+ Bm7b5 E7#9 | E7#9 Am7 Am7 Am7 |

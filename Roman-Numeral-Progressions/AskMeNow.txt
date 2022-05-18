@@ -1,0 +1,13 @@
+Title = Ask Me Now
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ bvm vii7 iiim bvii7 | iiim vi7 biiim bvi7 | iim v7 | bvii7 vi7 |
+ ii7 bii7 | iM ii7 | iim v7 | bvii7 vi7 bvi7 v7 |
+ bvm vii7 iiim bvii7 | iiim vi7 biiim bvi7 | iim v7 | bvii7 vi7 |
+ ii7 bii7 | iM ii7 | iim v7 | iM |
+ iim v7 | iM iM iiim biii7 | iim bii7 | iM |
+ ii7 | ii7 | iim v7 | iv7 |
+ bvm vii7 iiim bvii7 | iiim vi7 biiim bvi7 | iim v7 | bvii7 vi7 |
+ ii7 bii7 | viiM ii7 | iim v7 | iM |

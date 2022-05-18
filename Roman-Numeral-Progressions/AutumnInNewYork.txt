@@ -1,0 +1,13 @@
+Title = Autumn in New York
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iim iiim | ivM v7 | iM iim | iiim vi7 |
+ iim iiim | ivM v7 | iiih | vi7 |
+ ivM | ivm bvii7 | biiiM | biiiM ii7 |
+ vm | vih ii7 | vM | iim v7 |
+ iim iiim | ivM v7 | iM iim | iiim iiim vi7 bvi7 |
+ vm vim | vh i7 | ivm | iih v7 |
+ im v7 | im biii7 | bviM biii7 | bviM v7 |
+ iim iiim | iih v7 | im | iiih vi7 |

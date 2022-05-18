@@ -1,0 +1,13 @@
+Title = Bye Bye Blues
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C | C | Ab7 | Ab7 |
+ C | C | A7 | A7 |
+ D7 | D7 | G7 | G7 |
+ C | Ebo | Dm7 | G7 |
+ C | C | Ab7 | Ab7 |
+ C | C | A7 | A7 |
+ D7 | D7 | G7 | G7 |
+ C | Ab7 | C | C |
+

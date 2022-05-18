@@ -1,0 +1,9 @@
+Title = Games That Lovers Play
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 16
+ iM | iM | iim | v7 |
+ v7 | v7 | iM iM iM iM | iM |
+ i7 | i7 | ivM ivM ivM ivM | ivm |
+ iM | iim v7 | iM | iM v7 |

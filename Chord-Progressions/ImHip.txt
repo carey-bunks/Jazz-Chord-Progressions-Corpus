@@ -1,0 +1,16 @@
+Title = I'm Hip
+DB Key = F
+TimeSig = 4 4
+Bars = 46
+ FM7 C7 | FM7 C7 | FM7 C7 | FM7 FM7 Em7b5 A7#5 |
+ Dm Dm/C | Bm7 | Bbm7 | Bbm7 |
+ Am7 | Am7 D7 | G13 G7#5 | C9 C7#5 |
+ FM7 C7 | FM7 C7 | FM7 C7 | FM7 FM7 Em7b5 A7#5 |
+ Dm Dm/C | Bm7 | Bbm7 | Bbm7 |
+ Am7 | Am7 D7 | Dm7 Em7 | Fm7 Bb7 |
+ EbM7 Fm7 | F#o7 EbM7/G | Abm7 Db9#11 | F#m7 B7 |
+ EM7 F#m7 | Go7 EM7/G# | Am7 D9#11 | G7#5b9 C7b9 |
+ FM7 C7 | FM7 C7 | FM7 C7 | FM7 FM7 Em7b5 A7#5 |
+ Dm Dm/C# | Bm7 | Bbm7 Eb7 | Bbm7 Eb7 |
+ Am7/D | Am7/D D7 | G13 G7#5 | C9sus4 C9#5 |
+ F6 Am7 Abo7 Abo7 | Gm7 C7#5 |

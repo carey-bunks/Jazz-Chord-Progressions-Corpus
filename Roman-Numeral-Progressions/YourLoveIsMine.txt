@@ -1,0 +1,13 @@
+Title = Your Love Is Mine
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iim | v7 | iM | iM biiio |
+ ivm | v7 | iM | vm i7 |
+ ivM | ivm v7 | iM | iM |
+ vim ii7 | vim ii7 | iim | v7 |
+ iim | v7 | iM | iM biiio |
+ ivm | v7 | iiim | vi7 |
+ ivM | ivm v7 | iM | vi7 vi7 vi7 iiM |
+ iim | v7 v7 iim v7 | iM bvii7 | iM |

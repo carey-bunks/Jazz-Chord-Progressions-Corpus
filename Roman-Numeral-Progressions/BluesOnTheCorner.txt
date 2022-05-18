@@ -1,0 +1,8 @@
+Title = Blues On The Corner
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 12
+ v7 | i7 biio | v7 v7 iv7 | ii7 bii7 vii7 |
+ i7 | v7 | v7 i7 | vii7 iii7 |
+ vim | ii7 | v7 iii7 | vi7 ii7 |

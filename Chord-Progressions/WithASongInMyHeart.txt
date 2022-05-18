@@ -1,0 +1,13 @@
+Title = With A Song in My Heart
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | Fm7 Bb7 | EbM7 | Fm7 G7b9 |
+ Cm7 | Dm7b5 G7 | Cm7 | Dm7b5 G7b9 |
+ Cm7 Cm7/Bb | Am7b5 | AbM7 G7 | Cm Cm/B |
+ Cm/Bb Cm/A | AbM7 D7 | G7 C7 | Fm7 Bb7 |
+ EbM7 | Fm7 Bb7 | EbM7 | Fm7 G7b9 |
+ Cm7 | Dm7b5 G7 | Cm7 | Dm7b5 G7b9 |
+ Cm7 Cm7/Bb | Am7b5 | Eb/Bb | Am7b5 Abm6 |
+ Gm7 Gbo7 | Fm7 Bb7 | Eb6 | Fm7 Bb7 |
+

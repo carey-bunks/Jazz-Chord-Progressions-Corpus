@@ -1,0 +1,11 @@
+Title = Gdansk
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 24
+ vim | vim | vim | vim |
+ vim | vim | vim | vim |
+ iim | iim | iim | iim |
+ vim | vim | vim | vim |
+ iv7 NC | NC | v7 NC | NC |
+ vim | vim | iv7 | v7 |

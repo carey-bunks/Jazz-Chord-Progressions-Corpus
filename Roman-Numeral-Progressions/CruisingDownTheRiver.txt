@@ -1,0 +1,21 @@
+Title = Cruising Down the River
+DB Key = F
+EstKeySig = C
+TimeSig = 3 4
+Bars = 64
+ ivM ivM ivo | ivM ivM ivo | ivM ivM im | ii7 |
+ v7 v7 iim | v7 v7 iim | v7 v7 iim | v7 v7 vM |
+ i7 i7 io | i7 i7 vm | i7 i7 io | i7 |
+ ivM | iiM iiM iio | i7 vm io | i7 |
+ ivM ivM ivo | ivM ivM ivo | ivM iM im | ii7 |
+ v7 v7 iim | v7 v7 iim | v7 | vo |
+ ivM | vm vm i7 | ivM ivM im | ii7 |
+ v7 | i7 | ivM | ivM |
+ iv7 | iv7 | iv7 | iv7 |
+ iv7 | iv7 | bviiM | bviiM |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | i7 | i7 |
+ ivM ivM ivo | ivM ivM ivo | ivM iM im | ii7 |
+ v7 v7 iim | v7 v7 iim | v7 | vo |
+ ivM | vm vm i7 | ivM ivM im | ii7 |
+ v7 | i7 | ivM | ivM |

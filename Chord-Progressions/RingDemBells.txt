@@ -1,0 +1,9 @@
+Title = Ring Dem Bells
+DB Key = Bb
+TimeSig = 4 4
+Bars = 16
+ Bb Bb Bb F7+ | Bb | C9 | C9 |
+ F7 | Cm7 F7 | Bb Bb Bb F7+ | Bb |
+ Bb Bb Bb F7+ | Bb Eo Bb7 Bb7 | Eb Ebm | Ebm |
+ Bb Bb Bb F7+ | Bb C9 | F7 F9+ | Bb |
+

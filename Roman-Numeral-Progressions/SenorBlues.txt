@@ -1,0 +1,8 @@
+Title = Senor Blues
+DB Key = Gb
+EstKeySig = Db
+TimeSig = 12 8
+Bars = 12
+ iim | iim | iim | iim |
+ bvii7 | bvii7 | iim | iim |
+ vi7 | v7 | iim | iim |

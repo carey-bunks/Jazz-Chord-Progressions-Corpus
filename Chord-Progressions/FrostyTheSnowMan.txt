@@ -1,0 +1,13 @@
+Title = Frosty the Snow Man
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C | C C7 C7 C7 | F | C |
+ F | C | G7 | C G7 |
+ C | C C7 C7 C7 | F | C |
+ F | C C Am A7 | Dm7 G7 | C |
+ F | C | Dm7 G7 | C |
+ G | G Do7 | Am7 D7 | G G7 |
+ C | C C7 C7 C7 | F | C |
+ F | C C Am A7 | Dm7 G7 | C |
+

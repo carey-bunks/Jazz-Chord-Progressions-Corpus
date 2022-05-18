@@ -1,0 +1,14 @@
+Title = When
+DB Key = C
+TimeSig = 4 4
+Bars = 36
+ Bm7b5 | E7b9 | Am7b5 | D13b9 D13sus |
+ Gmaj7 | C9#11 | Bm7 | E9 E9 E9 Bb9 |
+ Am E+ | Am7 D7b9 | Gmaj7 F#7 | Fmaj7 E7b9 |
+ Am Abm7b5 Gm6 F#m7 | Fm11 Bb13 | Eb Eb/Db Cm7 Bbm7 | Am11 D7 |
+ B7alt | E7alt | A7alt | D7alt |
+ Gmaj7 | C9#11 | Bm7 | E9 E9 E9 Bb9 |
+ Am E+ | Am7 D7b9 | Gmaj7 F#7 | Fmaj7 E7b9 |
+ Am Abm7b5 Gm6 Gm6 | F#m7b5 B7b9 | Em Em/D | Em/C# Cm6 |
+ Bm7b5 Bb13/E | CmMaj7/A Am7b5/D | Gmaj13 | Ebm6 Ab13 |
+

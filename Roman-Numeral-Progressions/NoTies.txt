@@ -1,0 +1,13 @@
+Title = No Ties
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iim v7 | iM | iim v7 |
+ iM | iim v7 | iM | iim v7 |
+ iii7 | vim | bvm vii7 | iiim |
+ bvm vii7 | iiim | iiim biii7 | iim v7 |
+ iM | iim v7 | iM | iim v7 |
+ iM | iim v7 | iM | iim v7 |
+ iii7 | vim | viim iii7 | vim |
+ vim ii7 | iim v7 | vim ii7 | iim v7 |

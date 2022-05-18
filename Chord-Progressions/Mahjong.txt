@@ -1,0 +1,12 @@
+Title = Mahjong
+DB Key = C
+TimeSig = 4 4
+Bars = 28
+ Fm11 | Eb69 | Fm11 | Eb69 |
+ Fm11 | Eb69 | Fm11 | Eb69 |
+ DbM9 | Eb69 | DbM9 | Eb69 |
+ DbM9 | Eb69 | DbM9 | Eb69 |
+ D7#9 | Ebm7 Ab7 | DbM9 | Dbm7 Gb7 |
+ Fm11 | Eb69 | Fm11 | Eb69 |
+ Fm11 | Eb69 | Fm11 | Eb69 |
+

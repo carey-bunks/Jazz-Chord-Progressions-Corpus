@@ -1,0 +1,13 @@
+Title = Kary's Trance
+DB Key = G
+TimeSig = 4 4
+Bars = 32
+ Am7 | Am7 | Dm7 | G7 |
+ Bm7b5 | E7 | Am7 | Am7 E7 |
+ Am7 | Am7 | Dm7 | G7 |
+ Bm7b5 | E7 | Am7 | Am7 E7 |
+ Go7 | G7b9 | CM7 DbM7 | CM7 |
+ B7b9 | B7b9 | E7 | E7 |
+ Am7 | Am7 | Dm7 | G7 |
+ Bm7b5 | E7 | Am7 | Am7 |
+

@@ -1,0 +1,13 @@
+Title = Petite Fleur
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iii7 | iii7 | vim | vim |
+ vii7 | vii7 | iii7 | iii7 |
+ iii7 | iii7 | iM | biio |
+ iim | v7 | iM | iM |
+ viih | iii7 | vim | vim |
+ vii7 | vii7 | iii7 | iii7 |
+ iii7 | iii7 | vim | vim |
+ viih | iii7 | vim | vim |

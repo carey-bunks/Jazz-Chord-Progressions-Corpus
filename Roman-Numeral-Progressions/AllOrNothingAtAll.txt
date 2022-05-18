@@ -1,0 +1,21 @@
+Title = All or Nothing at All
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 64
+ vim | vim | vim | vim |
+ vim | vim | bvii7 | bvii7 |
+ vm vm | iiih vi7 | iim | iim iio |
+ iim | v7 | iM | viih iii7 |
+ vim | vim | vim | vim |
+ vim | vim | bvii7 | bvii7 |
+ vm vm | iiih vi7 | iim | iim iio |
+ iim | v7 | iM | bviih biii7 |
+ bviM bviM | bviM bviM | bviM | bviim biii7 |
+ bviM | biiM bviM | biii7 | biii7 |
+ bviim | biii7 | bviim | vh i7 |
+ ivm | bii7 | i7 | iii7 |
+ vim | vim | vim | vim |
+ vim | vim | bvii7 | bvii7 |
+ vm vm | iiih vi7 | iim | iii7 |
+ vim | ivm | iM | viih iii7 |

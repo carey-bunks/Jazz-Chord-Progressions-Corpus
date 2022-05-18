@@ -1,0 +1,15 @@
+Title = Buffalo Wings
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 40
+ iiim bviiM | iiim bviiM | iiim bviiM | iiim bviiM |
+ vim biiiM | vim biiiM | iiim bviiM | v7 bv7 |
+ viim iM | viim iM | viim iM | vii7 iii7 |
+ iiim bviiM | iiim bviiM | iM ivM | bviiM biiiM |
+ iiim bviiM | iiim bviiM | iiim bviiM | iiim bviiM |
+ vim biiiM | vim biiiM | iiim bviiM | v7 bv7 |
+ viim iM | viim iM | viim iM | vii7 iii7 |
+ iiim bviiM | iiim bviiM | iM ivM | bviiM biiiM |
+ iim biii7 | vm vm vm v7 v7 v7 iiim iiim | iiim iv7 | iiim iiim iiim vi7 vi7 vi7 biiim biiim |
+ iim biii7 | vm vm vm v7 v7 v7 im im | viim v7 | bv7 bv7 bv7 vii7 vii7 vii7 iii7 iii7 |

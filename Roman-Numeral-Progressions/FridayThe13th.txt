@@ -1,0 +1,7 @@
+Title = Friday the 13th
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 8
+ iM bvii7 | bvi7 v7 | iM bvii7 | bvi7 v7 |
+ iM bvii7 | bvi7 v7 | iM bvii7 | bvi7 v7 |

@@ -1,0 +1,9 @@
+Title = Freedom Jazz Dance
+DB Key = Bb
+TimeSig = 4 4
+Bars = 16
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Bb7 | Bb7 | Bb7 | Bb7 Bb7 Bb7 Bb7#9 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+

@@ -1,0 +1,13 @@
+Title = The Fruit
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | vii7 iM | vim ii7 | iim v7 |
+ vm i7 | ivM bvii7 | iM | iim bvi7 |
+ iM | vii7 iM | vim ii7 | iim v7 |
+ vm i7 | ivM bvii7 | iM v7 | iM |
+ i7 | bv7 | ivM | ivm bvii7 |
+ iM | iiim vi7 | iim | v7 |
+ iM | vii7 iM | vim ii7 | iim v7 |
+ vm i7 | ivM bvii7 | iM | iM |

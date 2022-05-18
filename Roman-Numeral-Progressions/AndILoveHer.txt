@@ -1,0 +1,14 @@
+Title = And I Love Her
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 36
+ iim | vim | iim | vim |
+ iim | vim | ivM | v7 |
+ iM | iM | iim | vim |
+ iim | vim | iim | vim |
+ ivM | v7 | iM | iM |
+ vim | vM | vim | iiim |
+ vim | iiim | v7 | iim |
+ vim | iim | vim | iim |
+ vim | ivM | v7 | iM |

@@ -1,0 +1,15 @@
+Title = Bimini
+DB Key = Eb
+TimeSig = 4 4
+Bars = 40
+ Cm7 Cm7 Bm7 Bbm7 | Fm7 Fm7 Em7 Ebm7 | Cm Cm Dm7b5 G7#11 | G7 |
+ Cm9 | G7+ | Cm9 | G7+ |
+ Cm9 | G7+ | Cm9 | Bbm7 Eb7 |
+ Ab | Abm7 Db7 | Cm | Dm7b5 G7b9 |
+ Cm9 | G7+ | Cm9 | Bbm7 Eb7 |
+ Ab | Abm7 Db7 | Cm | Dm7b5 G7b9 |
+ C | C7 | F | F |
+ D7 | Dm7b5 D7 | Dm7b5 | G7+ |
+ Cm9 | G7+ | Cm9 | Bbm7 Eb7 |
+ Ab | Abm7 Db7 | Cm | Dm7b5 G7b9 |
+

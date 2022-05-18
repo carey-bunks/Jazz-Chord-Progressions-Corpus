@@ -1,0 +1,13 @@
+Title = What Am I Here For?
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | biio | iim | v7 |
+ iM | biio | iim | v7 |
+ i7 | i7 | ivM | iiim vi7 |
+ ii7 | ii7 | iim | iim v7 |
+ iM | biio | iim | v7 |
+ iM | biio | iim | v7 |
+ i7 | bii7 bv7 | ivM | iih v7 |
+ iM | biio | iim v7 | iM v7 |

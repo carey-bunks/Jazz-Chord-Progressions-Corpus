@@ -1,0 +1,14 @@
+Title = It Was A Very Good Year
+DB Key = F
+EstKeySig = C
+TimeSig = 4 4
+Bars = 36
+ iim | iim | biiiM | biiiM |
+ iim | ivM | biiiM | biiiM |
+ iiM | iiM | iM | iM |
+ iiM | iiM | iim | iim |
+ vim | vi7 | iim | iim |
+ biiiM | biiiM | iim | ivM |
+ biiiM | biiiM | iiM | iiM |
+ iM | iM | iiM | iiM |
+ iim | iim | vim | viM |

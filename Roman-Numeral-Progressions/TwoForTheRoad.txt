@@ -1,0 +1,13 @@
+Title = Two For The Road
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ bviih | iii7 iii7 | vim vim | ivM ivM |
+ iim iim | vM | iio iM | iiim |
+ vim bviM | iM ivh | vm bvM | bviiM iiih |
+ im ii7 | bviim i7 | ivM ivM | iim ivM |
+ bviih | iii7 iii7 | vim vim | ivM ivM |
+ iim iim | vM | iio iM | i7 |
+ vim vim | ivh ivm | iM | ivM |
+ iiim biii7 | iim bii7 | iM | vm i7 |

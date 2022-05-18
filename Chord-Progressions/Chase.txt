@@ -1,0 +1,13 @@
+Title = The Chase
+DB Key = A
+TimeSig = 4 4
+Bars = 32
+ A6 | A6 | D7 | D7 |
+ A6 | Dm7 G7 | Bm7 E7 | A6 |
+ A6 | A6 | D7 | D7 |
+ A6 | Dm7 G7 | Bm7 E7 | A6 |
+ Em7 A7 | Em7 A7 | F#m7 Bm7 | F#m7 Bm7 |
+ Gm7 C7 | Gm7 C7 | F#m7 Bm7 | Fm7 Bb7 |
+ A6 | A6 | D7 | D7 |
+ A6 | Dm7 G7 | Bm7 E7 | A6 |
+

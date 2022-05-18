@@ -1,0 +1,22 @@
+Title = You Light Up My Life
+DB Key = Ab
+EstKeySig = Eb
+TimeSig = 3 4
+Bars = 68
+ vm | iM | ivM | iim |
+ iiim | vi7 | iim iim iM | ii7 |
+ vm | iM | ivM ivM iM | iim |
+ iiiM | iiiM | v7 v7 iim | v7 |
+ iM | iM | i7 | i7 |
+ vi7 | vi7 | iim | iim |
+ v7 | v7 | iM iM vM | vim |
+ iim | v7 | vm | iM |
+ ivM | iim | iiim | vi7 |
+ iim iim iM | ii7 | vm | iM |
+ ivM ivM iM | iim | iiiM | iiiM |
+ v7 v7 iim | v7 | iM | iM |
+ i7 | i7 | vi7 | vi7 |
+ iim | iim | v7 | v7 |
+ iiiM | iiiM | vim | iiM |
+ iM | iiiM | vim | ii7 |
+ iM | iim | vM | vM |

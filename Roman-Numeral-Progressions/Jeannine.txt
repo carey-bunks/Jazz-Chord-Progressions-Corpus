@@ -1,0 +1,19 @@
+Title = Jeannine
+DB Key = Ab
+EstKeySig = E
+TimeSig = 4 4
+Bars = 56
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ biim | v7 | iM | iv7 |
+ bvm | vii7 | iiiM | iiiM |
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ biim | v7 | iM | iv7 |
+ bvm | vii7 | iiiM | viim iii7 |
+ viM | iih bvi7 | biiM | biiM |
+ biim | biim bv7 | bvm | vii7 |
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ biim | v7 | iM | iv7 |
+ bvm | vii7 | iiiM | iiiM |

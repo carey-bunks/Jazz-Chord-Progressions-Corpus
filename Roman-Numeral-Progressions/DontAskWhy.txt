@@ -1,0 +1,14 @@
+Title = Don't Ask Why
+DB Key = Ab
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 34
+ iiim biih | bvh vii7 | iiim biih | vim ii7 |
+ iim v7 | im vi7 | bviim biii7 | bvim vm bvm ivm |
+ iiim biih | bvh vii7 | iiim biih | vim ii7 |
+ iim v7 | im vi7 | iM biiiM | iiim vi7 |
+ iiM iiM viM iM | iiM iiM iM iM | iiM iiM iM bii7 | iiM v7 |
+ iM iM bviM iM | iM iM v7 bvio | vim ivM | bvh vii7 |
+ iiiM iiiM biim bii7 | bvm bvm vii7 ii7 | bvim biim | vim ii7 |
+ iim v7 biim bv7 | im iv7 | viim iii7 | vih ii7 |
+ ivM | ivm |

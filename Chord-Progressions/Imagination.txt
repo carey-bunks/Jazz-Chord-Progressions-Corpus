@@ -1,0 +1,14 @@
+Title = Imagination
+DB Key = Eb
+TimeSig = 4 4
+Bars = 36
+ Eb Eo | Fm7 F#o | Eb Gm7b5 | C7 |
+ Fm C7 | Fm7 Bb7 | Eb | Fm7 Bb7 |
+ Eb Eo | Fm7 F#o | Eb Gm7b5 | C7 |
+ Fm C7 | Fm7 Bb7 | Eb | Bbm7 Eb7 |
+ Ab | Am7 D7 | Gm7 | C7 |
+ Bb | Cm7 F7 | Bb7 | Bb7+ |
+ Eb Eo | Fm7 F#o | Eb Gm7b5 | C7 |
+ Fm C7 | Fm7 Bb7 | G7 | C7 |
+ Fm7 | Fm7 Bb7 | Eb | Eb |
+

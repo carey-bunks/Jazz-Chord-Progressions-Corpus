@@ -1,0 +1,13 @@
+Title = In Pursuit of the 27th Man
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ bii7 | ii7 | vm | vm |
+ bii7 | ii7 | biii7 | ii7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |

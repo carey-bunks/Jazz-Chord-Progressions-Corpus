@@ -1,0 +1,13 @@
+Title = Ecaroh
+DB Key = Db
+TimeSig = 4 4
+Bars = 32
+ DbM7 | Gb13 | DbM7 | G13 |
+ GbM7 | Gm7 C7#11 | F#m7 B7#11 | EM7 EM7 Ebm7 Ab7 |
+ DbM7 | Gb13 | DbM7 | G13 |
+ GbM7 | Fm7b5 Bb7alt | Ebm7b5 Ab7alt | DbM7 |
+ Abm7 | Db7b9 | GbM7#11 | Ebm7 |
+ Bm7 | E7b9 | AM7#11 | AM7 D7#11 |
+ DbM7 | Gb13 | DbM7 | G13 |
+ GbM7 | Fm7b5 Bb7#9 | Ebm7b5 Ab7#5 | Db |
+

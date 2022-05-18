@@ -1,0 +1,13 @@
+Title = Turn Around, Look At Me
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C F6 C F | C F6 C C | Dm G7 | G9 G7 |
+ Dm | Bb G7 | C | C7 |
+ F | E7 | Am | Fm6 |
+ C | C+ C+ C+ Am | Dm7 | G7 G7 G7 Dm7 |
+ C F6 C F | C F6 C C | Dm G7 | G9 G7 |
+ Dm | Bb G7 | C | C7 |
+ F | E7 | Am | Fm6 |
+ C C+ | Am Am7 | Dm9 Dm9 Dm9 G7 | C6 C6 C6 F |
+

@@ -1,0 +1,7 @@
+Title = Petit Machins
+DB Key = C
+EstKeySig = A
+TimeSig = 4 4
+Bars = 8
+ bviM | v7 | biim | v7 |
+ iv7 | v7 | bvim | biii7 |

@@ -1,0 +1,22 @@
+Title = Desert Air
+DB Key = C
+EstKeySig = Ab
+TimeSig = 3 4
+Bars = 66
+ ivM ivM ivM iiim | iiim | iiim bviiM bviiM bviiM | vim |
+ vim iiiM | iiiM ivM ivM ivM | bvi7 | bvi7 vim |
+ vim | vim vim vim viiM | viiM iM | iM |
+ viiM viiM viiM iM | iM | iM bviM bviM bviM | biim |
+ biim bviM | bviM biim biim biim | biim biim biim biiiM | biiiM iiiM |
+ iiiM | iiiM iiiM iiiM iih | iih | iih iih iih iih |
+ iii7 iii7 iii7 ivM | ivM iiim | iiim | bviiM bviiM bviiM vim |
+ vim | vim iiiM iiiM iiiM | ivM ivM ivM bvi7 | bvi7 |
+ bvi7 vim vim vim | vim | vim viiM | viiM iM iM iM |
+ iM iM iM viiM | viiM iM | iM | bviM bviM bviM biim |
+ biim | biim bviM bviM bviM | biim | biim biiiM |
+ biiiM iiiM iiiM iiiM | iiiM iiiM iiiM iiiM | iiiM iih | iih v7 v7 v7 |
+ ih ih ih iv7 | iv7 bvih | bvih biim biim biim | iiim iiim iiim vo |
+ vo bvim | bvim viim viim viim | iim iim iim ivh | ivh bvm |
+ bvm biiih biiih biiih | iiM iiM iiM iim | iim vim | vim bviiM bviiM bviiM |
+ vim vim vim bviiM | bviiM vim | vim bviiM bviiM bviiM | vim vim vim bviiM |
+ bviiM vi7 | vi7 |

@@ -1,0 +1,16 @@
+Title = You Oughta Be In Pictures
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C C C Am7 | Dm7 G7 | C C7 Am7 Am7 | C |
+ Dm7 Dm7 G7 C#o7 | G7 | C C#o7 | Dm7 G7 |
+ C C C Am7 | Dm7 G7 | C C7 Am7 Am7 | C C C Am7 |
+ Em7 A7 | Em7 A7 | C7 D7 | G G7 |
+ C C C7 C | C7 Am7 Am7 D#o7 | Dm7 | G7 |
+ Dm7 G7 | G7 | C C C7 Am7 | Dm Dm Dm G+ |
+ C C C7 C | C7 Am7 Am7 D#o7 | Dm7 | G7 |
+ Dm7 G7 | G7 | C C C7 Am7 | B7 |
+ Em7 G+ | Em7 G+ | Em7 G | Em7 A7 Em7 Em7 |
+ G Emi | G D7 | Em7 D7 | G7 |
+ C C C7 C | C7 Am7 Am7 D#o7 | Dm7 | G7 |
+ Dm7 G7 | G7 G7 G7 F | Dm7 G7 | C | 

@@ -1,0 +1,11 @@
+Title = Night Train
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 24
+ i7 | i7 | i7 | i7 |
+ iv7 | iv7 | iM | i7 |
+ v7 | iv7 | iM | iM |
+ iM | iM | iM | i7 |
+ iv7 | iv7 | iM | iM |
+ iv7 | iv7 | iM | iM |

@@ -1,0 +1,20 @@
+Title = Armando's Rhumba
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 60
+ vim | vii7 | iii7 | vim |
+ vim | vii7 | iii7 | vim |
+ vi7 | iim | vii7 | iiim |
+ ivo | vii7 | iM | iM |
+ ivm | ivm ivm iii7 vim | NC bii7 ii7 ii7 | iii7 iii7 iii7 iii7 iii7 iii7 iii7 iii7 |
+ vim | vii7 | iii7 | vim |
+ vim | vii7 | iii7 | vim |
+ vi7 | iim | vii7 | iiim |
+ ivo | vii7 | iM | iM |
+ ivm | ivm ivm iii7 vim | NC bii7 ii7 ii7 | iii7 iii7 iii7 iii7 iii7 iii7 iii7 iii7 |
+ vim | vii7 | iii7 | vim |
+ vim | vii7 | iii7 | vim |
+ vi7 | iim | vii7 | iiim |
+ ivo | vii7 | iM | iM |
+ ivm | ivm ivm iii7 vim | NC bii7 ii7 ii7 | iii7 iii7 iii7 iii7 iii7 iii7 vim vim |

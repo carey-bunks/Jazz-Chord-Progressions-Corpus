@@ -1,0 +1,24 @@
+Title = Rosewood
+DB Key = C
+TimeSig = 4 4
+Bars = 77
+ Am11 | Am11 | Am11 A6 | A6 |
+ A6 BbM7 | BbM7 | Bb7sus4 AbM7 | Fsus4/G Ab9sus |
+ Gm7 F7 | Gm7 F7 | Cm11 Bbm11 | Gb6 |
+ Gm7 F7 | Gm7 F7 | Cm11 Bbm11 | Gb6 |
+ AbM7 | AbM7 | Abm7 | Db7 G7 |
+ GbM7 | GbM7 | B9 | E9 |
+ Cm7 Bbm7 | Cm7 Bbm7 | Gb/G Gb/G Gb7sus4 E/D | E/D |
+ Cm7 Bbm7 | Cm7 Bbm7 | Gb/G Gb/G Gb7sus4 E/D | E/D |
+ Bm7 Am7 | Bm7 Am7 | Gm7 Fm7 | Gm7 Fm7 |
+ Bb7sus4 | Am11 | Am11 | Am11 A6 |
+ A6 | A6 BbM7 | BbM7 | Bb7sus4 AbM7 |
+ Fsus4/G Ab9sus | Gm7 F7 | Gm7 F7 | Cm11 Bbm11 |
+ Gb6 | Gm7 F7 | Gm7 F7 | Cm11 Bbm11 |
+ Gb6 | AbM7 | AbM7 | Abm7 |
+ Db7 G7 | GbM7 | GbM7 | B9 |
+ E9 | Cm7 Bbm7 | Cm7 Bbm7 | Gb/G Gb/G Gb7sus4 E/D |
+ E/D | Cm7 Bbm7 | Cm7 Bbm7 | Gb/G Gb/G Gb7sus4 E/D |
+ E/D | Bb6 Gbadd9 | Gbadd9 | Fsus4/G Ab9sus4 |
+ Bb7sus4 Gbadd9 | Fsus4/G Ab9sus4 | Ab9sus4 | Bb6 Bbadd9 |
+ Ab/G Ab7sus4 |

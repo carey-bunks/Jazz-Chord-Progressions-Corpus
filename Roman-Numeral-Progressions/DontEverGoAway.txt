@@ -1,0 +1,13 @@
+Title = Don't Ever Go Away
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM iM | iM i7 | ivM | ivm |
+ iim bviim | iim v7 | iiim iiih | vi7 |
+ ivM ivM | bvh vii7 | iiim im | iiih vi7 |
+ iim bviim | iim v7 | iM | iiih vi7 |
+ iim iim | viih v7 | iM | iiih vi7 |
+ iim bviim | iim v7 | iM | iiih vi7 |
+ ivM ivM | bvh iih | iM iii7 | vi7 vi7 |
+ iim | iih v7 | iM | iim v7 |

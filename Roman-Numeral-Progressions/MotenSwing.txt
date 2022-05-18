@@ -1,0 +1,13 @@
+Title = Moten Swing
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iim | v7 |
+ ii7 | iim | iM vi7 | ii7 v7 |
+ iM | iM | iim | v7 |
+ ii7 | iim | iM | bvm vii7 |
+ iiiM biim | bvm vii7 | iiiM biim | bvm vii7 |
+ iiiM biim | bvm vii7 | iiiM | iim v7 |
+ iM | iM | iim | v7 |
+ ii7 | iim | iM vi7 | ii7 v7 |

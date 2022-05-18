@@ -1,0 +1,13 @@
+Title = The Golden Horn
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ vim | vim | ivM ivM ivM iii7 | iii7 |
+ vim | vim | ivM ivM ivM iii7 | iii7 |
+ vim | ii7 | v7 | im |
+ ivM | viio | iii7 | iii7 |
+ vim | vim | ivM ivM ivM iii7 | iii7 |
+ vim | vim | ivM ivM ivM iii7 | iii7 |
+ vim | ii7 | v7 | im |
+ ivM | viio | iii7 | iii7 |

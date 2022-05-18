@@ -1,0 +1,13 @@
+Title = Topsy
+DB Key = Gb
+EstKeySig = Gb
+TimeSig = 4 4
+Bars = 32
+ vim | iv7 iii7 | vim | iv7 iii7 |
+ vim | iv7 iii7 | vim | vim vi7 |
+ iim | bvii7 vi7 | iim | bvii7 vi7 |
+ vim | iv7 iii7 | vim | vim |
+ iiim | vi7 | iim | iim |
+ iim | v7 | iM im | viim iii7 |
+ vim | iv7 iii7 | vim | iv7 iii7 |
+ vim | iv7 iii7 | vim | vim |

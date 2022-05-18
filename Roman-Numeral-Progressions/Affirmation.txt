@@ -1,0 +1,15 @@
+Title = Affirmation
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 40
+ iim | iim | vim | vim |
+ iim | iim | vim | vim |
+ vim | vm i7 | ivM | ivM |
+ ii7 | ii7 | v7 | v7 |
+ iim | iim | vim | vim |
+ iim | iim | vim | vim |
+ vim | vm i7 | ivM | bvii7 |
+ biiim biii7 | iim bii7 | iM | iM |
+ bviM | bviM | bviM | bviM |
+ bviM | bviM | v7 | v7 |

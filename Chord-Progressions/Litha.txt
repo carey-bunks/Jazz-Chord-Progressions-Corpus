@@ -1,0 +1,17 @@
+Title = Litha
+DB Key = C
+TimeSig = 4 4
+Bars = 50
+ DM7 | C#m7 | BM7 | Bbm7 |
+ AbM7 | Gm7 | FM7#11 | FM7#11 |
+ FM7#11 | FM7#11 | DM7 | DM7 |
+ DM7 | DM7 | EbM7 | EbM7 |
+ EbM7 | EbM7 | CM7 | CM7 |
+ CM7 | CM7 | Cm7/F | Cm7/F |
+ Cm7/F | Cm7/F | B7#9 | B7#9 |
+ B7#9 | B7#9 | Em7 | Em7 |
+ Em7 | Em7 | Em7 | Em7 |
+ Em7 | Em7 | Fm7/Bb | Fm7/Bb |
+ Fm7/Bb | Fm7/Bb | Fm7/Bb | Fm7/Bb |
+ Fm7/Bb | Fm7/Bb | Am7 | Am7 |
+ Am7 | Am7 |

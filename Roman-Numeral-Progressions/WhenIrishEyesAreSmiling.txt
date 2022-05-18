@@ -1,0 +1,13 @@
+Title = When Irish Eyes Are Smiling
+DB Key = C
+EstKeySig = C
+TimeSig = 3 4
+Bars = 32
+ iM | v7 | iM | i7 |
+ ivM | ivM | iM | iM |
+ ivM | ivM | iM | vi7 |
+ ii7 | ii7 | v7 | v7 |
+ iM | v7 | iM | iM |
+ ivM | ivM | iM | iM |
+ ivM | ii7 | iM | vi7 |
+ ii7 | v7 | iM | v7 |

@@ -1,0 +1,13 @@
+Title = Cara Mia
+DB Key = G
+TimeSig = 4 4
+Bars = 32
+ G | Bm | C | G |
+ C C C Cm | G | A7 | D7 |
+ G | Bm | C | G |
+ Cm | G | Am Am Am D7 | G |
+ Eb | Cm | G G G D7 | G |
+ Cm6 | Cm | G G G Eb7 | D7 |
+ G | Bm | C | G |
+ Cm | G | Am Am Am D7 | G |
+

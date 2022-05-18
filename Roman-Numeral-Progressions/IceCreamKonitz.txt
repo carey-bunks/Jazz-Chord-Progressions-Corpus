@@ -1,0 +1,13 @@
+Title = Ice Cream Konitz
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iim | v7 | iM | vi7 |
+ iim | v7 | iM | vi7 |
+ iim | v7 | iM | vi7 |
+ iim | bii7 | iM | iM |
+ viim | iii7 | iiim | vi7 |
+ vim | ii7 | iim | v7 |
+ iim | v7 | iM | vi7 |
+ iim | v7 | iM | vi7 |

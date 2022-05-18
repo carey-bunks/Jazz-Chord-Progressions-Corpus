@@ -1,0 +1,13 @@
+Title = You Took Advantage of Me
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM biio | iim v7 | iM biiio | iim v7 |
+ iM i7 | ivM ivm | iM v7 | iM v7 |
+ iM biio | iim v7 | iM biiio | iim v7 |
+ iM i7 | ivM ivm | iM v7 | iM iii7 |
+ bvh vii7 | iii7 vi7 | ii7 v7 | iM |
+ bvh vii7 | iii7 vi7 | ii7 v7 | iM v7 |
+ iM biio | iim v7 | iM biiio | iim v7 |
+ iM i7 | ivM ivm | iM v7 | iM |

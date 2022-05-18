@@ -1,0 +1,10 @@
+Title = One Finger Snap
+DB Key = C
+TimeSig = 4 4
+Bars = 20
+ NC | NC | NC NC NC NC NC NC NC AM13#11 | AM13#11 |
+ Bbm7/Eb | Eb7 | Bbm7/Eb | Eb7 |
+ Ebm7 | Ab7 | Ebm7 | Ab7 |
+ Gm7b5 | C7b9 | Fm7b5 | Bb7b9 |
+ EbM7 | EbM7 | Dm7b5 | G7b9 |
+

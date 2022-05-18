@@ -1,0 +1,13 @@
+Title = You Stepped Out Of A Dream
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM iM | iM iM | biiM biiM | biiM biiM |
+ bviim | biii7 | bviM | bviM |
+ vm | i7 | ivM | ivM |
+ vim | ii7 | bvi7 | v7 |
+ iM iM | iM iM | biiM biiM | biiM biiM |
+ bviim | biii7 | bv7 | iv7 iv7 |
+ iih | v7 | iiim iv7 | iiim vi7 |
+ iim | v7 v7 | iM iM | iM v7 |

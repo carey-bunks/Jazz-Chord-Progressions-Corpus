@@ -1,0 +1,13 @@
+Title = King Porter Stomp
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Ab Abm | Eb Do7 Eb Eb7 | Ab Abm | Eb Do7 Eb Eb7 |
+ Ab Abm | D Eb C9 C9 | F9 | F9+ F9 Bb7 Bb7 |
+ Ab Abm | Eb Do7 Eb Eb7 | Ab Abm | Eb Do7 Eb Eb7 |
+ Ab Abm | D Eb C9 C9 | F7 Fm7/Bb | Eb Eb7 Eb7 Eb7 |
+ Ab Ebo7 | Eb7 | Ab Ebo7 | Eb7 |
+ Ab Ebo7 | Eb7 Eb7 Db9 C9 | F9 F7b9 Fm7/Bb Fm7/Bb | Eb Eb7 |
+ Ab Abm | Eb Do7 Eb Eb7 | Ab Abm | Eb Do7 Eb Eb7 |
+ Ab Abm | D Eb C9 C9 | F9 F7b9 Fm7/Bb Fm7/Bb | Eb |
+

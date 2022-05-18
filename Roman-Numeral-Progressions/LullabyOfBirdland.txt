@@ -1,0 +1,13 @@
+Title = Lullaby of Birdland
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ vim bvh | vii7 iii7 | vim ivM | iim v7 |
+ iiim vim | iim v7 | iM iv7 | viih iii7 |
+ vim bvh | vii7 iii7 | vim ivM | iim v7 |
+ iiim vim | iim v7 | iM v7 | iM |
+ vi7 | iim | iim v7 | iM |
+ vi7 | iim | v7 | iM iii7 |
+ vim bvh | vii7 iii7 | vim ivM | iim v7 |
+ iiim vim | iim v7 | iM v7 | iM iii7 |

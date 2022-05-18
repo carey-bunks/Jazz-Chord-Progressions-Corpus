@@ -1,0 +1,13 @@
+Title = Parisienne Thoroughfare
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM iim | iim v7 | iiim vi7 | iim v7 |
+ iM iim | iim v7 | iM | iim v7 |
+ iM iim | iim v7 | iiim vi7 | iim v7 |
+ iM iim | iim v7 | iM | bvm vii7 |
+ iiiM im | bvm vii7 | iiiM | iiim vi7 |
+ iiM | vim ii7 | iim | v7 |
+ iM iim | iim v7 | iiim vi7 | iim v7 |
+ iM iim | iim v7 | iM | iim v7 |

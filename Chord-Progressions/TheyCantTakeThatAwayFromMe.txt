@@ -1,0 +1,14 @@
+Title = They Can't Take That Away From Me
+DB Key = Eb
+TimeSig = 4 4
+Bars = 36
+ Eb6 Eb6 Fm7 Gbo7 | Eb/G Gbo7 | Fm7 | Ab/Bb |
+ Bbm7 | Eb7 | Ab Fm7 Gm7 C7b9 | Fm7 Ab/Bb |
+ Eb6 Eb6 Fm7 Gbo7 | Eb/G Gbo7 | Fm7 | Ab/Bb |
+ Bbm7 | Eb7 | Ab Fm7 Bb7 Bb7 | Eb6 Eb6 Am7b5 D7b9 |
+ Gm Gm Am7b5 D7b9 | Gm7 Gm7 Am7b5 D7b9 | Gm7 Em7b5 Em7b5 A7 | Am11 D11 |
+ Gm Gm Am7b5 D7b9 | Gm7 C7 | F7 | Ab/Bb |
+ Eb6 Eb6 Fm7 Gbo7 | Eb/G Gbo7 | Fm7 | Ab/Bb |
+ Bbm7 | Eb7 | Ab Fm7 Bb7 Bb7 | Cm Fm7b5 Fm7b5 Fm7b5 |
+ Eb/Bb | Fm7/Bb Bb13 | Eb | Ab/Bb |
+

@@ -1,0 +1,15 @@
+Title = For Every Man There's A Woman
+DB Key = Ab
+TimeSig = 4 4
+Bars = 42
+ Fm7 | Gm7b5 C7 | Fm7 | Gm7b5 C7 |
+ Fm7 | Bb7 | C7#9 C7#9 Db9 C7 | Fm7 |
+ G7#5 C7 | Fm7 | Gm7b5 C7 | Fm7 |
+ Db9 C7 | Fm7 | Gm7b5 C7 | Fm7 |
+ Gm7b5 C7 | Fm7 | Bb7 | C7#9 C7#9 Db9 C7 |
+ Fm7 | G7#5 C7 | Fm7 | Gm7b5 C7 |
+ Fm7 | Db9 C7 | AbM7 Ao7 | Bbm7 Eb7 |
+ Cm7 Cm7 F7 Bb7 | Db9 C7#5 | Fm7 | Gm7b5 C7 |
+ Fm7 Fm7/Eb | Bb9/D | Cb9 C7#5 | G7#5 C7 |
+ Fm7 | Gm7b5 C7 | Fm7 | G7#5#9 C7 |
+ Fm7 | Gm7b5 C7 |

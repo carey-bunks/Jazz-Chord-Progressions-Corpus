@@ -1,0 +1,13 @@
+Title = Work
+DB Key = G
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ biii7 | biii7 | v7 | v7 |
+ v7 bv7 | iv7 | iii7 | iii7 |
+ biii7 | biii7 | v7 | v7 |
+ v7 bv7 | iv7 | iii7 | iii7 |
+ iii7 | vi7 | ii7 | ii7 |
+ iih | v7 | bv7 vii7 | bvii7 |
+ biii7 | biii7 | v7 | v7 |
+ v7 bv7 | iv7 | iii7 | iii7 |

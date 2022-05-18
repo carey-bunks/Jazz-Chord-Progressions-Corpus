@@ -1,0 +1,16 @@
+Title = Alone Together
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 44
+ vim | viih iii7 | vim | viih iii7 |
+ vim | iiih vi7 | iim | iim |
+ bvm vii7 | iim v7 | iM iM | viih iii7 |
+ viM | viim iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | iiih vi7 |
+ iim | iim | bvm vii7 | iim v7 |
+ iM iM | viih iii7 | viM | viM |
+ iiih | vi7 | iim iim | iim iim |
+ iih | v7 | iM | viih iii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ vim | iv7 iii7 | vim | iv7 iii7 |

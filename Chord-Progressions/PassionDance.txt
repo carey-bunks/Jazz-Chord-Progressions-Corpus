@@ -1,0 +1,13 @@
+Title = Passion Dance
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ F7sus4 | F7sus4 | F7sus4 | F7sus4 |
+ F7sus4 | F7sus4 | F7sus4 | F7sus4 |
+ F7sus4 | F7sus4 | F7sus4 | F7sus4 |
+ F7sus4 | F7sus4 | F7sus4 | F7sus4 F7sus4 F7sus4 Absus4 |
+ Bsus4 Bsus4 Bsus4 Dbsus4 Dbsus4 Dbsus4 Dbsus4 Dbsus4 | Dbsus4 Dbsus4 Dbsus4 Absus4 | Bsus4 Ebsus4 Dbsus4 Dbsus4 | Dbsus4 Dbsus4 Dbsus4 Absus4 |
+ Bsus4 Bsus4 Bsus4 Dbsus4 Dbsus4 Dbsus4 Dbsus4 Dbsus4 | Dbsus4 Dbsus4 Dbsus4 Absus4 | Bsus4 Ebsus4 Dbsus4 Dbsus4 | Dbsus4 Dbsus4 Dbsus4 Absus4 |
+ Db/Eb Db/Eb Db/Eb Ebm7 Ebm7 Ebm7 Ebm7 Ebm7 | Ebm7 | Db/Eb Db/Eb Db/Eb Ebm7 Ebm7 Ebm7 Ebm7 Ebm7 | Ebm7 |
+ Db/Eb Db/Eb Db/Eb Ebm7 Ebm7 Ebm7 Ebm7 Ebm7 | Ebm7 | Bb7#9 C7#9 | C7#9 |
+

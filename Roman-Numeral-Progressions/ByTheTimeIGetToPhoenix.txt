@@ -1,0 +1,18 @@
+Title = By the Time I Get To Phoenix
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 52
+ iim | iim | iM | iM |
+ iim | iim | iM | vm i7 |
+ ivM | v7 | iiim | vim |
+ iim v7 | iim | bviiM | v7 |
+ iim | iim | iM | iM |
+ iim | iim | iM | i7 i7 i7 i7 |
+ ivM ivM | v7 | iiim | vim |
+ iim | iim | bviiM | v7 |
+ iim | iim | iM | iM |
+ iim | iim | iM | iM i7 |
+ ivM | v7 | iiim | vim |
+ iim | v7 | iM | ivM |
+ iim | iii7 | viM | viM |

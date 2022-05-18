@@ -1,0 +1,21 @@
+Title = Wunderbar
+DB Key = G
+TimeSig = 3 4
+Bars = 64
+ G | G | G | G |
+ G G C | C C G | G | G |
+ D7 | D7 | D7 | D7 |
+ G | G | G | G |
+ G | G | G | G |
+ G G C | C C G | G | G |
+ D7 | D7 | D7 | D7 |
+ G | G | G | G |
+ Fm7 | Fm7 Bb7 Bb7 | Eb | Eb |
+ Fm7 | Fm7 Bb7 Bb7 | Eb | Eb |
+ Am | Am Am D7 | G | G |
+ C#m7 | F#7 | D9 | D9 |
+ G | G | G | G |
+ G G C | C C G | G | G |
+ D7 | D7 | D7 | D7 |
+ G | G | G | G D7 D7 |
+

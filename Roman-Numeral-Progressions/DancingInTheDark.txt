@@ -1,0 +1,13 @@
+Title = Dancing In The Dark
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | biiio | biiio |
+ iim | iim | iih | iih v7 |
+ iM | im | iiih | vi7 |
+ iih | bii7 | bii7 bvi7 | v7 |
+ iM | iM | biiio | biiio |
+ iim | iim | iih | iih v7 |
+ iM | im | bviim | viio |
+ iM | ivm | iM | iM |

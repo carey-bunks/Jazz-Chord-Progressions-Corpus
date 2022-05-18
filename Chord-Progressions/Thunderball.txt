@@ -1,0 +1,19 @@
+Title = Thunderball
+DB Key = Bb
+TimeSig = 4 4
+Bars = 56
+ Gm | Cm | Gm | Gm |
+ Ab | D7 D7 D+ D7 | Gm | Gm |
+ Cm | D7 D7 D+ D7 | Bm G | Bm6 G |
+ Cm | A7 A7b5 | D7 | D7#9 D7b9 |
+ Gm | Cm | Gm | Gm |
+ Ab | D7 D7 D+ D7 | Gm | Gm |
+ Cm | D7 D7 D+ D7 | Bm G | Bm6 G |
+ Cm | D7 D7 D7 Cm | Gm | Gm |
+ Cm | Fm | Gm | AbM7 |
+ Fm | Dm7b5 D7 | Gm | Am7b5 D7 |
+ Gm | Cm | Gm | Gm |
+ Ab | D7 D7 D+ D7 | Gm | Gm |
+ Cm | D7 D7 D+ D7 | Bm G | Bm6 G |
+ Cm | D7 | Gm | Gm |
+

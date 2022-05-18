@@ -1,0 +1,11 @@
+Title = Big Blues
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 24
+ v7 | i7 | v7 | v7 |
+ i7 | i7 | v7 | v7 |
+ ii7 | ii7 | v7 | v7 |
+ v7 | i7 | v7 | v7 |
+ i7 | i7 | v7 | v7 |
+ ii7 | ii7 | v7 | v7 |

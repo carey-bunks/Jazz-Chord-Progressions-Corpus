@@ -1,0 +1,13 @@
+Title = Chimes
+DB Key = C
+TimeSig = 4 4
+Bars = 35
+ Em7 | Ab7 | Dbm7 | F7 |
+ Bbm7 | G7 | Cm7 Fm7 | Dm7 G7 Cm7 Cm7 |
+ B7 | Em7 | Ab7 | Dbm7 |
+ F7 | Bbm7 | G7 | Cm7 Fm7 |
+ Dm7 G7 Cm7 Cm7 | C7 FM7 | Bm7 GM7 | E7 AM7 |
+ D#m7 BM7 | C7 FM7 | Bm7 GM7 | E7 AM7 |
+ D#m7 BM7 | B7 | Em7 | Ab7 |
+ Dbm7 | F7 | Bbm7 | G7 |
+ Cm7 Fm7 | Dm7 G7 Cm7 Cm7 | B7 |

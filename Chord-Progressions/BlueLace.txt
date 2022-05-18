@@ -1,0 +1,8 @@
+Title = Blue Lace
+DB Key = C
+TimeSig = 3 4
+Bars = 14
+ Fm7 | Fm7 | Ebm7 | Ebm7 |
+ Fm7 | Fm7 | EbmM7 | EbmM7 |
+ DbM7 | DbM7 | Dbm7 | Gb11 |
+ BM7 | BM7 |

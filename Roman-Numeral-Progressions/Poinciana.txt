@@ -1,0 +1,17 @@
+Title = Poinciana
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 48
+ v7 | v7 iim | v7 | v7 iim |
+ v7 | v7 v7 | iM | iM |
+ v7 | v7 iim | v7 | v7 iim |
+ v7 | v7 v7 | iM | iM v7 |
+ iM | iM | vm | i7 |
+ ivm | ivm | iM iM | iim v7 |
+ iM | iM | vm | i7 |
+ ivm | ivm | iM iM | iM iM |
+ ivm | ivm | vM | vM |
+ ivm | ivm | iim | v7 |
+ iM | iM | vm | i7 |
+ ivm | ivm | iM iM | v7 |

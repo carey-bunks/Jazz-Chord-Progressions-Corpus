@@ -1,0 +1,15 @@
+Title = When I Die
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 38
+ iM iiim | iim iim | iim | iim vim |
+ ii7 ivM | iM | iM iiim | iim iim |
+ iim | iim vim | ii7 ivM | iM |
+ iM iiim | iim iim | iim | iim vim |
+ ii7 ivM | iM | iiiM | iiM |
+ iiiM | iiM | iiiM | iiM |
+ iiiM | iiM | iiM | viM biim bvm viM |
+ vii7 | iim iim | iim | iM iiim |
+ iim iim | iim | iim vim | ii7 ivM |
+ iM | iM |

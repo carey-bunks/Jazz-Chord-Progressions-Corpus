@@ -1,0 +1,21 @@
+Title = It's A Big Wonderful World
+DB Key = Ab
+TimeSig = 3 4
+Bars = 64
+ DbM7 | DbM7 | DbM7 | G7b9 |
+ Cm7 | Cm7 | F7 | F7 |
+ Bbm7 | Bbm7 | Eb7 | Eb7 |
+ AbM7 | AbM7 | Ebm7 | Ab7 |
+ DbM7 | DbM7 | DbM7 | G7b9 |
+ Cm7 | Cm7 | F7 | F7 |
+ Bbm7 | Bbm7 | Eb7 | Eb7 |
+ AbM7 | AbM7 | Ebm7 | Ab7 |
+ DbM7 | DbM7 | Bbm7 | Eb7 |
+ Cm7 | Cm7 | Fm7 | Fm7 |
+ Bbm7 | Bbm7 | Eb7 | Eb7 |
+ AbM7 | AbM7 | Ebm7 | Ab7 |
+ DbM7 | DbM7 | DbM7 | G7b9 |
+ Cm7 | Cm7 | F7 | F7 |
+ Bbm7 | Bbm7 | Eb7 | Eb7 |
+ Ab6 | Ab6 | Ebm7 | Ab7 |
+

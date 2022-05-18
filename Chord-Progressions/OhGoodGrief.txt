@@ -1,0 +1,9 @@
+Title = Oh, Good Grief!
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ CM7 | CM7 | D7 | D7 |
+ Dm7 G7 | Dm7 G7 | Em7 Ebm7 | Dm7 G7 |
+ CM7 | CM7 | D7 | D7 |
+ Dm7 G7 | Dm7 G7 | Dm7 G7 | C6 G7b9 |
+

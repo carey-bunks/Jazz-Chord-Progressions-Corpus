@@ -1,0 +1,13 @@
+Title = Ornithology
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM | im | iv7 |
+ bviiM | bviiM | bviim | biii7 |
+ bvi7 | iih v7 | im | v7 |
+ iiim | vi7 | iim | v7 |
+ iM | iM | im | iv7 |
+ bviiM | bviiM | bviim | biii7 |
+ bvi7 | iih v7 | iM | ivm bvii7 |
+ iiim vi7 | iim v7 | iM vi7 | iim v7 |

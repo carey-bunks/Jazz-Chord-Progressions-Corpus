@@ -1,0 +1,7 @@
+Title = Figurine
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 8
+ iiim | iim v7 | iM | viih iii7 |
+ vim | vm i7 | ivM | vii7 |

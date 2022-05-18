@@ -1,0 +1,9 @@
+Title = If You Never Come To Me
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ EbM7 | DM7 | DbM7 | C7#5b9 |
+ Fm7 | Fm7 | Abm7 | Db7 |
+ G7 G7+ | C7 | F7alt | Bb7b9 |
+ Eb7 | Abm7 | EbM7 | E7#11 |
+

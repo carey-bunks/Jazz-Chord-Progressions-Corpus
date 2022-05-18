@@ -1,0 +1,13 @@
+Title = Line for Lyons
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM i7 | ivm bvii7 | iiim vi7 | iim v7 |
+ iM vim | iim v7 | iM vi7 | iim v7 |
+ iM i7 | ivm bvii7 | iiim vi7 | iim v7 |
+ iM vim | iim v7 | iM | bvih bii7 |
+ ivm | bvii7 | iiim | vi7 |
+ iim | v7 | iM vi7 | iim v7 |
+ iM i7 | ivm bvii7 | iiim vi7 | iim v7 |
+ iM vim | iim v7 | iM | iim v7 |

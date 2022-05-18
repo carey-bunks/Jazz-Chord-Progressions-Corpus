@@ -1,0 +1,13 @@
+Title = Autumn Leaves
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Cm7 | F7 | BbM7 | EbM7 |
+ Am7b5 | D7 | Gm7 | Gm6 |
+ Cm7 | F7 | BbM7 | EbM7 |
+ Am7b5 | D7 | Gm6 | Gm6 |
+ D7 | D7 | Gm6 | Gm6 |
+ Cm7 | F7 | BbM7 | BbM7 |
+ Am7b5 | D7 | Gm7 C7 | Fm7 Bb7 |
+ Am7b5 | D7 | Gm6 | G7 |
+

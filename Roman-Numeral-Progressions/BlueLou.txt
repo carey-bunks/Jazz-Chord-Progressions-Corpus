@@ -1,0 +1,13 @@
+Title = Blue Lou
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iih | v7 | iih | v7 |
+ iM | ivM | iim | v7 |
+ iih | v7 | iih | v7 |
+ iM | ivM | ii7 v7 | iM |
+ vM | vo | vim | ii7 |
+ vM | vo | vim ii7 | v7 |
+ iih | v7 | iih | v7 |
+ iM | ivM | ii7 v7 | iM |

@@ -1,0 +1,15 @@
+Title = Rocker
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 40
+ iiim iiim iiim biii7 biii7 biii7 iim iim | iim v7 | iM iM iM vo vo vo iim iim | iim v7 |
+ iiim iiim iiim ivm ivm ivm biio biio | biio ivm | iiim iiim iiim biii7 biii7 biii7 iim iim | iim v7 |
+ iM iM iM vo vo vo iim iim | iim v7 | iiim iiim iiim ivm ivm ivm biio biio | biio ivm |
+ iiim iiim iiim biii7 biii7 biii7 iim iim | iim bii7 bii7 bii7 | bvm | bvm vii7 |
+ iiiM | iiiM | bvm | bvm vii7 |
+ iiiM | iiiM | iiim | iiim vi7 |
+ iiM | vii7 | bvm | bvm vii7 |
+ vm vim | iiio vim | vm vm vm v7 v7 v7 bvm bvm | bvm iv7 |
+ iiim iiim iiim biii7 biii7 biii7 iim iim | iim v7 | iM iM iM vo vo vo iim iim | iim v7 |
+ iiim iiim iiim ivm ivm ivm biio biio | biio ivm | iiim iiim iiim biii7 biii7 biii7 iim iim | iim bii7 bii7 bii7 |

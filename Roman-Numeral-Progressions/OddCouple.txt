@@ -1,0 +1,13 @@
+Title = The Odd Couple
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 30
+ vim ii7 | vim ii7 | vim iiM vim iiM | vim vim iiM vim |
+ iim v7 | iim v7 | vm vM iim vM | iim iim vM iim |
+ i7 i7 | ivM ivM | viim iii7 | vim ii7 ivM iii7 |
+ vim i7 | viih iii7 | vim ii7 | vim ii7 |
+ vim iiM vim iiM | vim vim iiM vim | iim v7 | iim v7 |
+ vm vM iim vM | iim iim vM iim | i7 i7 | ivM ivM |
+ ivM iii7 | vim i7 | ivM iim | v7 |
+ iM iM ivM iM | iv7 iii7 |

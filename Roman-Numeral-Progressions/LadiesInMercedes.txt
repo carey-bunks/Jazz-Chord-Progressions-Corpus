@@ -1,0 +1,13 @@
+Title = Ladies in Mercedes
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iv7 | iv7 |
+ iiim | iiim | vi7 | vi7 |
+ bv7 | bv7 | viim | viim |
+ bvih | bvih | bii7 | bii7 |
+ bvM | bvM | vii7 | vii7 |
+ bviim | bviim | biii7 | biii7 |
+ i7 | i7 | ivm | ivm |
+ iih | iih | v7 | v7 |

@@ -1,0 +1,24 @@
+Title = Evergreen
+DB Key = A
+EstKeySig = A
+TimeSig = 4 4
+Bars = 74
+ iM | iM | iim | iim |
+ iim | iim | iM | iM iM |
+ bvim | bvim | biiim | biiim |
+ iim | iim | bviiM | iim v7 |
+ iM | iM | iim | iim |
+ iim | iim | iM | iM iM |
+ bvim | bvim | biiim | biiim |
+ ivM | ivM | biiiM | vm i7 |
+ ivM | ivM | biiim | biiim |
+ ivM | ivM vM | biiim | vm i7 |
+ ivM | bvm vii7 | biiim | biii7 |
+ bvim | ii7 | iim | iim |
+ iM | iM | iim | iim |
+ iim | iim | iM | iM iM |
+ bvim | bvim | biiim | biiim |
+ vm | vm | ivM | ivM ivm |
+ iM | iM | iiM | iiM |
+ biiM | biiM | iM | biiM |
+ iM | iM |

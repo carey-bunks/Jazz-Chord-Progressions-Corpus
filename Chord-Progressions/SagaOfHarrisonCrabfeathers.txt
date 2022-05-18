@@ -1,0 +1,19 @@
+Title = The Saga Of Harrison Crabfeathers
+DB Key = C
+TimeSig = 4 4
+Bars = 56
+ Em7 | Em7 | Em7 | Em7 |
+ CM7 | CM7 | CM7 | CM7 |
+ Am7 | Am7 | Am7 | Am7 |
+ Em7 | Em7 | Em7 | Em7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ BbM7 | BbM7 | BbM7 | BbM7 |
+ Gm7 | Gm7 | Gm7 | Gm7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ AbM7 | AbM7 | AbM7 | AbM7 |
+ AbM7 | AbM7 | AbM7 | AbM7 |
+ Cm7 | Cm7 | Cm7 | Cm7 |
+ AbM7 | AbM7 | AbM7 | AbM7 |
+ Fm7 | Fm7 | Fm7 | Fm7 |
+ Cm7 | Cm7 | Cm7 | Cm7 |
+

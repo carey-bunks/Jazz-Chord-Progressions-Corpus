@@ -1,0 +1,13 @@
+Title = Yesterday I Heard the Rain
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Cmaj7 Dm7 | E7 A7b9 | Dm7 Em7 | F G9 |
+ Fm9 Bb9 | Bm7b5 Bbm7 | Am7 Abdim | Gm7 C7 |
+ Fmaj7 Bbmaj7 | Em7 A7b9 | Dm A7+ | Dm7 G7 |
+ F#m7b5 B7 | F#m7b5 B7 | Em7 A7b9 | Dm7 G7b9 |
+ Cmaj7 Dm7 | E7 A7b9 | Dm7 Em7 | F G9 |
+ Fm6/G# A7+ | Bb9 B9#11 | C9 B7+ | Bb9 A7+ |
+ Dm#5 Dm/C | Bm7b5 E7 | Am Am/G | F#m7b5 Fm |
+ Em7 Ebm6 | Dm7 Dbmaj7 | C Bbmaj9 | Abmaj7 G7sus |
+

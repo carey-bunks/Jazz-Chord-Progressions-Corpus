@@ -1,0 +1,13 @@
+Title = I Got It Bad
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ biiio iM ivM iM | iii7 vim | ii7 | ii7 |
+ iim | iii7 vi7 ii7 v7 | iM vim | iim v7 |
+ biiio iM ivM iM | iii7 vim | ii7 | ii7 |
+ iim | iii7 vi7 ii7 v7 | iM vim | bv7 |
+ ivM | ivM | ivm | bvii7 |
+ iM bvii7 | iiim vi7 | iim | v7 |
+ biiio iM ivM iM | iii7 vim | ii7 | ii7 |
+ iim | iii7 vi7 ii7 v7 | iM | iim v7 |

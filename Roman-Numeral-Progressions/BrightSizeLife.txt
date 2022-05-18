@@ -1,0 +1,13 @@
+Title = Bright Size Life
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 32
+ ivM | ivM | bviM | bviM |
+ iM | iM | bviM | ivM |
+ ivM | ivM | bviM | bviM |
+ iM | iM | ivM | iM |
+ ivM | ivM | biiiM | biiiM |
+ v7 | v7 | iM | ivM |
+ ivM | ivM | bviM | bviM |
+ iM | iM | v7 | iM |

@@ -1,0 +1,18 @@
+Title = Falling Grace
+DB Key = Ab
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 50
+ ivM | ivM | vii7 | iiim |
+ iim v7 | iM vii7 | iiim | viM |
+ iiM | iih | bvi7 | biim |
+ bvm vii7 | iiiM | vim | vio |
+ vM | iM | biih | bv7 |
+ viim bvii7 | vim ii7 | vM | iM |
+ ivM | ivM | vii7 | iiim |
+ iim v7 | iM vii7 | iiim | viM |
+ iiM | iih | bvi7 | biim |
+ bvm vii7 | iiiM | vim | vio |
+ vM | iM | biih | bv7 |
+ viim bvii7 | vim ii7 | vM | iM |
+ ivM | bviiM |

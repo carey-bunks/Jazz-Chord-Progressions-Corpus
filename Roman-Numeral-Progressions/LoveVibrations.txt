@@ -1,0 +1,11 @@
+Title = Love Vibrations
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ viih | bvii7 | vim | ii7 |
+ iim | v7 | iM bv7 | iv7 vii7 |
+ iiim | iiim | iiim | iiim vi7 |
+ iim | iiim vi7 | iim | v7 |
+ viih | bvii7 | vim | ii7 iio |
+ iiim vi7 | iim v7 | bviiM viiM | iM |

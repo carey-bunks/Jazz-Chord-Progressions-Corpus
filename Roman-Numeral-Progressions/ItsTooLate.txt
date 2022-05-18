@@ -1,0 +1,21 @@
+Title = It's Too Late
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 62
+ iiim | viM | iiim | viM |
+ iiim | iim | iM | iM |
+ ivM | iM | ivM | iM |
+ ivM | iM | vim iM | vii7 viim |
+ iiim | viM | iiim | viM |
+ iiim | viM | iiim | viM |
+ iiim | iim | iM | iM |
+ ivM | iM | ivM | iM |
+ ivM | iM | vim iM | vii7 viim |
+ iiim | viM | iiim | viM |
+ iiim | viM | iiim | viM |
+ iiim | iim | iM | iM |
+ ivM | iM | ivM | iM |
+ ivM | iM | vim iM | ii7 ii7 |
+ vM | iM | vM | iM |
+ vM | vM |

@@ -1,0 +1,10 @@
+Title = I Wish I Knew How It Would Feel To Be Free
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 17
+ iM iii7 | vim i7 | ivM v7 | iM v7 |
+ iM ivM | iM | vM ii7 | v7 |
+ iM | iM iii7 | vim i7 | ivM v7 |
+ iM bvo | iM iii7 | vim bvo | iM v7 |
+ iM v7 |

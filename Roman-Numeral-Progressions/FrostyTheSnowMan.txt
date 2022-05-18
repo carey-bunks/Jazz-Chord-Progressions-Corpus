@@ -1,0 +1,13 @@
+Title = Frosty the Snow Man
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM i7 i7 i7 | ivM | iM |
+ ivM | iM | v7 | iM v7 |
+ iM | iM i7 i7 i7 | ivM | iM |
+ ivM | iM iM vim vi7 | iim v7 | iM |
+ ivM | iM | iim v7 | iM |
+ vM | vM iio | vim ii7 | vM v7 |
+ iM | iM i7 i7 i7 | ivM | iM |
+ ivM | iM iM vim vi7 | iim v7 | iM |

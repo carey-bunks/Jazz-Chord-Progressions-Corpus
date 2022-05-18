@@ -1,0 +1,13 @@
+Title = You Are Beautiful
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Em7 A7 | G A7 | F#m7 Bm7 | Em7 A7 |
+ D | C9 | D | C9 |
+ Em7 F#m7 | G F#m7 | Em7 C13 | D A11 |
+ D | C9 | D | C9 |
+ Em7 F#m7 | G F#m7 | G A13 | D13sus D13 |
+ G A7 | Bm D7/A | G A7 | Dmaj9 D7 |
+ G F#7 | Bm Bm/A | E9 Bm7 | Em7b5/A# A7 |
+ D | C9 | D | C9 |
+

@@ -1,0 +1,13 @@
+Title = Ugly Beauty
+DB Key = C
+TimeSig = 3 4
+Bars = 32
+ Dm7b5 | G7b9 | Dm7b5 | DbM7 DbM7 Eb7 |
+ Ebm7 | Ab13b9 | DbM7 | DbM7 |
+ Dm7b5 | G7b9 | Dm7b5 | DbM7 DbM7 Eb7 |
+ Ebm7 | Ab13b9 | DbM7 | DbM7 |
+ Abm7 | Db7b9 | Bb7#5#9 | Fm7 Bb7#11 Bb7#11 |
+ Ab9sus4 | Ab7#11 | Abm7 | G7b5 |
+ Dm7b5 | G7b9 | Dm7b5 | DbM7 DbM7 Eb7 |
+ Ebm7 | Ab13b9 | Ab13b9 | DbM7 |
+

@@ -1,0 +1,11 @@
+Title = Gemini
+DB Key = Eb
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 24
+ iiM | iM | iiM | iM |
+ iiM | iM | iiM | iM |
+ iim | v7 | iim | v7 |
+ iiM | iM | iiM iiM bv7 | vii7 |
+ iii7 | iii7 | bvii7 | bvii7 vii7 vi7 |
+ iiM | iM | iiM | iM |

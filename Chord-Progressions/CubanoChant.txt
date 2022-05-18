@@ -1,0 +1,13 @@
+Title = Cubano Chant
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Fm C7#9 | Fm | Bbm7 Ab7 | Gb7 Fm |
+ Fm C7#9 | Fm | Bbm7 Ab7 | Gb7 Fm |
+ Fm C7#9 | Fm | Bbm7 Ab7 | Gb7 Fm |
+ Fm C7#9 | Fm | Bbm7 Ab7 | Gb7 F7 |
+ Bb7 | Bb7 | Fm | Fm |
+ Bbm Ab7 | G7 Db7 | C7 G7 | C7 Gb7 |
+ Fm C7#9 | Fm | Bbm7 Ab7 | Gb7 Fm |
+ Fm C7#9 | Fm | Bbm7 Ab7 | Gb7 Fm |
+

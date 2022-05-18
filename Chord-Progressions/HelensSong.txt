@@ -1,0 +1,16 @@
+Title = Helen's Song
+DB Key = D
+TimeSig = 4 4
+Bars = 46
+ DM7 | DM7 | DM7 | DM7 |
+ DM7 | DM7 | Bm | Bm |
+ Abo7 Db7#5#9 | G#11 D/F# | FMb5 Bm | C9sus4 |
+ C9sus4 | Bm7 Bbo7 | A11 | Ab13#11 |
+ Gm C9 | Bm GM7 | Em Asus4 | DM7 Bm/F# |
+ Bm/F# | Bm/F# Bm/F# A/E G/D | G/D | DM7 |
+ DM7 | DM7 | DM7 | DM7 |
+ DM7 | Bm | Bm | Abo7 Db7#5#9 |
+ G#11 D/F# | FMb5 Bm | C9sus4 | C9sus4 |
+ Bm7 Bbo7 | A11 | Ab13#11 | Gm C9 |
+ Bm GM7 | Em Asus4 | DM7 Bm/F# | Bm/F# |
+ Bm/F# | D7#5#9 |

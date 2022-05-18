@@ -1,0 +1,15 @@
+Title = You Go To My Head
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 40
+ iM iM vm bvm | ivm bvii7 | biiiM | ii7 v7 |
+ im vih | ii7 v7 | iM | iim v7 |
+ iM iM vm bvm | ivm bvii7 | biiiM | ii7 v7 |
+ im vih | ii7 v7 | iM | vm i7 |
+ ivM | bvo | iM v7 | iM |
+ bvm vii7 | iiiM bii7 | bvm vii7 | iiim biiim iim v7 |
+ iM iM vm bvm | ivm bvii7 | biiiM | ii7 v7 |
+ im vih | ii7 v7 | iM | vm i7 |
+ ivM | bvii7 | iM | vim iio |
+ v7 biio | iim v7 | iM | iih v7 |

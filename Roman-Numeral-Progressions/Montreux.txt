@@ -1,0 +1,14 @@
+Title = Montreux
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 35
+ vim iim | viih iii7 | ivM ivM iim iim | viih iii7 |
+ vim vim | iim | vim vi7 | iim ivM |
+ iv7 ivM iiiM iiiM | vim iim | viih iii7 | ivM ivM iim iim |
+ viih iii7 | vim vim | iim | vim vi7 |
+ iim ivM | iv7 ivM iiiM iiiM | ivM iiim iim iiim | vim vim viim iM vim vim vM vM |
+ ivM iiim iim iiim | vim vim viim iM vim vim vM vM | bviiM vm | vim vim ivM iii7 |
+ ii7 | iiM iiM viim viim | vim vim | ivM iim |
+ viM bvm | iii7 vM | bvm iii7 | bvm iiM |
+ iii7 | vi7 | viM iiM biim viim |

@@ -1,0 +1,17 @@
+Title = Katrina Ballerina
+DB Key = C
+TimeSig = 3 4
+Bars = 48
+ Gm7 | F7 | EbM7 | F7 |
+ AbM7#11 | GbM7#11 | Gbm7 Abm7 D7alt | D7alt |
+ Gm7 | F7 | EbM7 | F7 |
+ AbM7#11 | GbM7#11 | Am7b5 D7alt | Gm7 |
+ AbM7 | Bb7#11 | AbM7 | Bb7#11 |
+ AbM7 | Bb7#11 | AbM7 | Bb7#11 |
+ AM7 | B7#11 | AM7 | B7#11 |
+ Dm7 Cm7 | Cm7 Bbm7 | Bbm7 Abm7 | D7alt |
+ Gm7 | F7 | EbM7 | F7 |
+ AbM7#11 | GbM7#11 | Am7b5 D7alt | Gm7 |
+ Bb7b9#11 | Bb7b9#11 | Bb7b9#11 | Bb7b9#11 |
+ Bb7b9#11 | Bb7b9#11 | Bb7b9#11 | Bb7b9#11 |
+

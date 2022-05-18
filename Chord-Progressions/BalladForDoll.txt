@@ -1,0 +1,8 @@
+Title = Ballad For Doll
+DB Key = C
+TimeSig = 4 4
+Bars = 14
+ C#m69 | Dm69 | E7#9 | Ebm9 |
+ F#M7 | B7b5 | EM7 | A7b5 |
+ DM7 | G7 | DbM7 F#sus4 | BM7 Esus4 |
+ AM7 Dsus4 | GM7 |

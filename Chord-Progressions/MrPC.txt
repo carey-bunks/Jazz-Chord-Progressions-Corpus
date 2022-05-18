@@ -1,0 +1,8 @@
+Title = Mr. P.C.
+DB Key = Eb
+TimeSig = 4 4
+Bars = 12
+ Cm | Cm | Cm | Cm |
+ Fm | Fm | Cm | Cm |
+ Ab7 | G7 | Cm | Dm7b5 G7alt |
+

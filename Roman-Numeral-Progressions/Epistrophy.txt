@@ -1,0 +1,13 @@
+Title = Epistrophy
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iv7 bv7 | iv7 bv7 | iv7 bv7 | iv7 bv7 |
+ v7 bvi7 | v7 bvi7 | v7 bvi7 | v7 bvi7 |
+ v7 bvi7 | v7 bvi7 | v7 bvi7 | v7 bvi7 |
+ iv7 bv7 | iv7 bv7 | iv7 bv7 | iv7 bv7 |
+ vim | vim | vim | vim |
+ biii7 | biii7 | iv7 | bv7 |
+ v7 bvi7 | v7 bvi7 | v7 bvi7 | v7 bvi7 |
+ iv7 bv7 | iv7 bv7 | iv7 bv7 | iv7 bv7 |

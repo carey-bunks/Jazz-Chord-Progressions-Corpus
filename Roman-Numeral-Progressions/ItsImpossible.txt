@@ -1,0 +1,13 @@
+Title = It's Impossible
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 31
+ iM | iM | bviih | iii7 |
+ vim | vm i7 | iiih | vi7 |
+ iim | ivm | iM | vi7 |
+ iim | ii7 | v7 | iim v7 |
+ iM | iM | bviih | iii7 |
+ vim | vm i7 | iiih | vi7 |
+ iim | v7 | iM | vim |
+ iim v7 | iM ivm | iM |

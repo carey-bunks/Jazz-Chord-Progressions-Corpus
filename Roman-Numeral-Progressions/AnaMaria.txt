@@ -1,0 +1,19 @@
+Title = Ana Maria
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 56
+ iii7 | iM | iii7 | iM |
+ iii7 | iM | iii7 | iM |
+ iiiM | vim | iii7 | vim |
+ bviiM | biiiM | ivm | v7 |
+ iiim | vi7 | vii7 | vi7 |
+ ivM | ivM | iii7 | iM |
+ iii7 | iM | iiiM | iii7 |
+ iM bii7 | i7 | viiM ii7 | vm |
+ ivm | v7 | iiim | vi7 |
+ vM bvm | iim | v7 | v7 |
+ bvii7 | bvii7 | bvim | bvim |
+ im | im | viiM ii7 | vm |
+ ivm | v7 | iiim | vi7 |
+ vM bvm | iim biim | iii7 | iM |

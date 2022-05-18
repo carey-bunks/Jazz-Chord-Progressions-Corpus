@@ -1,0 +1,9 @@
+Title = Guataca City
+DB Key = Bb
+TimeSig = 4 4
+Bars = 16
+ Gm | Gm | Gm | Gm |
+ Cm | Cm | Cm | Cm |
+ Gm | Gm | D7alt | D7alt |
+ Gm | C7 | Gm | C7 |
+

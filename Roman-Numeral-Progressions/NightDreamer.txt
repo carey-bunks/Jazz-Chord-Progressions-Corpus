@@ -1,0 +1,9 @@
+Title = Night Dreamer
+DB Key = C
+EstKeySig = Eb
+TimeSig = 3 4
+Bars = 16
+ iiiM iiiM iim | iM iM vii7 | iiiM iiiM iim | iM iM vii7 |
+ iiiM iiiM iim | iM iM vii7 | im | iv7 |
+ bvim | bvim | vim | vim |
+ iiiM iiiM iim | iM iM vii7 | iiiM iiiM iim | iM iM vii7 |

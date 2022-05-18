@@ -1,0 +1,13 @@
+Title = Cross Current
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM vi7 | iim v7 | iiim vi7 | iim v7 |
+ iM i7 | ivM bvo | v7 | iM v7 |
+ iM biii7 | iim v7 | iM vi7 | iim v7 |
+ iM i7 | ivM bvo | v7 v7 | iM |
+ ivm | iiiM | biiim | iiM |
+ biiM | bv7 vi7 | iim | v7 |
+ iM biii7 | iim v7 | iM vi7 | iim v7 |
+ iM i7 | ivM bvo | v7 v7 | iM v7 |

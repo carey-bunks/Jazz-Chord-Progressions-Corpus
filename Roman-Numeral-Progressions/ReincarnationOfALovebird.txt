@@ -1,0 +1,22 @@
+Title = Reincarnation Of A Lovebird
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 66
+ vim | ivM | vii7 | iii7 |
+ vim | ivM | vii7 | iii7 |
+ vim | ivM | iim | bv7 |
+ vii7 | iii7 | vim | vii7 iii7 |
+ vim | ivM | vii7 | iii7 |
+ vim | ivM | vii7 | iii7 |
+ vim | ivM | iim | bvM |
+ vii7 | iii7 | vim | vim |
+ vim ii7 | vim ii7 | vM iM | vM iM |
+ im | iv7 | bviiM | iih v7 |
+ im | iv7 | vii7 | iiiM |
+ vim | ivM | vii7 | iii7 |
+ vim | ivM | vii7 | iii7 |
+ vim | ivM | iim | bv7 |
+ vii7 | iii7 | vim | vii7 iii7 |
+ iim | bvM | vii7 | iii7 |
+ vim | vim |

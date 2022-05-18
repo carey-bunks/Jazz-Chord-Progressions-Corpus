@@ -1,0 +1,8 @@
+Title = Far More Blue
+DB Key = Ab
+TimeSig = 5 4
+Bars = 12
+ Fm7 Fm7 Fm7 Bb7 Bb7 | Fm7 | Bb7+ Bb7+ Bb7+ Bb7 Eb7 | FmM7 FmM7 FmM7 Fm7 Fm7 |
+ Bb7 | Eb7 Eb7 Eb7 C7 C7 | Fm7 Fm7 Fm7 G7 C7 | Fm7 |
+ Bbm6 Bbm6 Bbm6 C7 C7 | Bbm6 Bbm6 Bbm6 Bbm7 | Bbm6 Bbm6 Bbm6 C7 | FmM7 |
+

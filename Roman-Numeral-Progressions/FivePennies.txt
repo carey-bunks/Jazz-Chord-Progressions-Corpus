@@ -1,0 +1,13 @@
+Title = The Five Pennies
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iim | iim |
+ iim | iim | v7 | iM |
+ iM | i7 | ivM | ivm |
+ ii7 | ii7 | v7 | v7 |
+ iM | iM | iim | iim |
+ iim | iim | v7 | i7 |
+ ivM | ivm | iM bviiM | vi7 |
+ iim | iim | iim v7 | iM |

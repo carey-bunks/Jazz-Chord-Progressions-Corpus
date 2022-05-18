@@ -1,0 +1,9 @@
+Title = Delirium
+DB Key = F
+TimeSig = 4 4
+Bars = 16
+ F7 Eb7#11 | Db7 B7#11 | Bb7 B7#11 | Bb7 C7#9 |
+ F7 Eb7#11 | Db7 B7#11 | F#m7 | B7 |
+ Fm7 | Bb7 Bb7 Bbm7 Eb7 | Am7 | D7#5 |
+ Gm7 | Dbm7 Gb7 | FM7 | Bb7 C7#5 |
+

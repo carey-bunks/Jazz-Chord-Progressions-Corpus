@@ -1,0 +1,13 @@
+Title = The One I Love Belongs To Somebody Else
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ G | G | A7 | A7 |
+ D7 | D7 | G | G |
+ G | Bbo | Am7 | D7 |
+ A7 | A7 | Am7 | D7 |
+ G | G | A7 | A7 |
+ D7 | D7 | Bm7b5 | E7 |
+ C | Cm | Bm7b5 | E7 |
+ Am7 | D7 | G | G |
+

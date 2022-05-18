@@ -1,0 +1,19 @@
+Title = Let's Take the Long Way Home
+DB Key = Eb
+TimeSig = 4 4
+Bars = 57
+ Eb | Ab Bb7 | Eb | Eb Fm7 |
+ Eb Cm7 | Fm7 | Fm7 | Bb7 Bb9 |
+ Gm7 Eb | Eb Eo7 | Fm Db7 | Bb7 Do7 |
+ Gm7 Gm7 Gm7 Cm7 | Cm7 | Dm7 Bbm | G7 E9 |
+ Eb Cm | Fm7 Bb7 | Eb | Eb Fm |
+ Eb9 Ab | Fm7 | Gm Eb | C9 C7+ |
+ Ab | Fm | G G G C9+ | C9+ C9+ C9+ C7b9 |
+ F9 | Fm7 Bb7 | G7+ Cm7 | Ab9 |
+ Eb Cm7 | Fm7 Bb7 | Eb | Eb |
+ Eb Eb Ab Bb7sus | Bb7sus | Bb7 Bb7 Bb7 Bb7sus | Eb |
+ Eb | Fm7 | Bb7 Bb7 Bb7 Bb7sus | Eb |
+ Cm Ab | F9 F7#5b9 | Bb | Fm7 |
+ Bb7 Bb7#5b9 | Eb Cm7 | Fm7 Bb9 | Eb |
+ Eb Fm7 | Eb Cm7 | Fm7 Bb7 | Eb |
+ Fm Fm7 Bb7 Bb7+ |

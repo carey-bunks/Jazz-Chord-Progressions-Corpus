@@ -1,0 +1,13 @@
+Title = Winter Wonderland
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM | v7 | v7 |
+ v7 iim | vo v7 | ii7 v7 | iM iM iM v7 |
+ iM | iM | v7 | v7 |
+ v7 iim | vo v7 | ii7 v7 | iM |
+ iiiM vii7 | iiiM | iiiM vii7 | iiiM |
+ vM ii7 | vM | vi7 ii7 | v7 |
+ iM | iM | v7 | v7 |
+ v7 iim | vo v7 | ii7 v7 | iM |

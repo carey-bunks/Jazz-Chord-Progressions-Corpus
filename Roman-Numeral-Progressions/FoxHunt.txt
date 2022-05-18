@@ -1,0 +1,13 @@
+Title = Fox Hunt
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM biio | iim v7 | iM biio | iim v7 |
+ iM i7 | ivM bvo | iM v7 | iM |
+ iM biio | iim v7 | iM biio | iim v7 |
+ iM i7 | ivM bvo | iM v7 | iM |
+ bv7 | bv7 | vii7 | vii7 |
+ iiih | vi7 | bvi7 | bii7 |
+ iM biio | iim v7 | iM biio | iim v7 |
+ iM i7 | ivM bvo | iM v7 | iM |

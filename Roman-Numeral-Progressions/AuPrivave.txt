@@ -1,0 +1,8 @@
+Title = Au Privave
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 12
+ iM | iim biiio | iM iM iM iM | vm i7 |
+ iv7 bv7 | iv7 bvo | i7 bvii7 | iiim vi7 |
+ iim | v7 v7 | iM vi7 | iim v7 |

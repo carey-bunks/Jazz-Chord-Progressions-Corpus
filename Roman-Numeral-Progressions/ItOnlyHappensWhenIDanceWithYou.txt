@@ -1,0 +1,14 @@
+Title = It Only Happens When I Dance With You
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 36
+ iM | io | iim | v7 |
+ iM | io | iih | v7 |
+ ivM | ivm | iM | iM |
+ iiim | vi7 | iim | v7 |
+ iM | io | iim | v7 |
+ iM | io | iih | v7 |
+ ivM | ivm | iiih | vi7 |
+ iim | v7 | iM iiim | vi7 |
+ iim | v7 | iM | iim v7 |

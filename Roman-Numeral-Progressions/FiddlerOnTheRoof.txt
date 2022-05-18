@@ -1,0 +1,11 @@
+Title = Fiddler On the Roof
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 24
+ ivM | ivM | bvM | ivM |
+ ivM | ivM | bvM bvM bviM bvM | ivM |
+ ivM | ivM | bvM | ivM |
+ ivM | ivM | bvM bvM bviM bvM | ivM |
+ ivM | ivM | bvM | ivM |
+ ivM | ivM | bvM | ivM |

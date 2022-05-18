@@ -1,0 +1,29 @@
+Title = In the Days of Our Love
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 96
+ vim iii7 | vim vim iim v7 | iM | iii7 |
+ vim iii7 | vim vim iim v7 | iM ivM | iii7 |
+ vim vim | ivM | ii7 | iim ivM |
+ iM | ivM | im | iim |
+ iii7 | vim iii7 | vim vim iim v7 | iM |
+ iii7 | vim | ivM | vim |
+ ii7 | ivM v7 | iM ivM | viih bviiM |
+ vim ivM | vim ii7 ivM ivM | iM ivM | viim bviiM |
+ vim | vim | ivM | im |
+ iim iim | viih iii7 | vim | iii7 |
+ vim ii7 | iim v7 | iM ivM | viih iii7 |
+ vim | viih iiM | vim iii7 | vim vim iim v7 |
+ iM | iii7 | vim iii7 | vim vim iim v7 |
+ iM ivM | iii7 | vim vim | ivM |
+ ii7 | iim ivM | iM | ivM |
+ im | iim | iii7 | vim iii7 |
+ vim vim iim v7 | iM | iii7 | vim |
+ ivM | vim | ii7 | ivM v7 |
+ iM ivM | viih bviiM | vim ivM | vim ii7 ivM ivM |
+ iM ivM | viim bviiM | vim | vim |
+ ivM | im | iim iim | viih iii7 |
+ vim | iii7 | vim ii7 | iim v7 |
+ iM ivM | viih iii7 | vim | ivM |
+ im iM | viim bviiM | viM | viM |

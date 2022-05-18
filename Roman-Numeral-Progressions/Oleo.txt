@@ -1,0 +1,13 @@
+Title = Oleo
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim v7 | iM vim | iim v7 |
+ vm i7 | ivM ivm | iiim vi7 | iim v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ vm i7 | ivM ivm | iiim vi7 | iim v7 iM iM |
+ iii7 | iii7 | vi7 | vi7 |
+ ii7 | ii7 | v7 | v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ vm i7 | ivM ivm | iiim vi7 | iim v7 iM iM |

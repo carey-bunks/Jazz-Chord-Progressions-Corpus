@@ -1,0 +1,20 @@
+Title = What's Goin On?
+DB Key = E
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 58
+ biiM | biiM | vim | vim |
+ biiM | biiM | vim | vim |
+ iim | iim | iim | bvi7 |
+ biiM | biiM | vim | vim |
+ biiM | biiM | vim | vim |
+ iim | iim | iim | bvi7 |
+ iim | iim bvi7 | iim | iim bvi7 |
+ iim | iim bvi7 | biiM | vim |
+ biiM | vim | bvm | bvm |
+ bvm | bvm | bvm | bvm |
+ bvm | bvm | iim | iim |
+ iim | iim | biiM | biiM |
+ vim | vim | biiM | biiM |
+ vim | vim | iim | iim |
+ iim | bvi7 |

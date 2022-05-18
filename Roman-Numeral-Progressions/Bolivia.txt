@@ -1,0 +1,13 @@
+Title = Bolivia
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ biiiM | iiim vi7 | iiM | iiM bvi7 |
+ vM | bv7 | viim | iM |
+ viim | viim | bvih | vm i7 |
+ ivM | bvii7 vii7 vii7 vii7 | bviiM | vi7 |

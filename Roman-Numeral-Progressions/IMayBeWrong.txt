@@ -1,0 +1,13 @@
+Title = I May Be Wrong
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iM i7 | ivM | ivm |
+ iM | ii7 | iim | iM iim |
+ iM | iM i7 | ivM | ivm |
+ iM | ii7 | iim | iM |
+ iim v7 | iM biio | iim v7 | bvh |
+ iiim | vi7 | vim ii7 | iim |
+ iM | iM i7 | ivM | ivm |
+ iM | ii7 | iim | iM iim |

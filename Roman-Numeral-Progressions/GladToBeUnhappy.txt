@@ -1,0 +1,11 @@
+Title = Glad To Be Unhappy
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 24
+ iim | bvii7 | iim iiim | ivM iiim |
+ iim | bvii7 | iim v7 | iM i7 |
+ iim v7 | iM vi7 | iim v7 | iM |
+ bvh vii7 | iiim biii7 | iim v7 | vm i7 |
+ ivM | bvii7 | iim | v7 |
+ iiim biii7 | iim v7 | iM | iiim vi7 |

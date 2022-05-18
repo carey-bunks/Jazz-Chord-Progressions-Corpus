@@ -1,0 +1,19 @@
+Title = The Single Petal of a Rose
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 56
+ iM | iM | iM ivM | ivM |
+ iM | iM | iim | v7 |
+ iM | iM | iM ivM | ivM |
+ ii7 | biiM | bviim iM iM iM | bviiM iM iM iM |
+ iM | iM | iM ivM | ivM |
+ iM | iM | iim | v7 |
+ iM | iM | iM ivM | ivM |
+ ii7 | biiM | bviim iM iM iM | bviiM iM iM iM |
+ vim | vim | vim | v7 |
+ vim | vim | vim | v7 v7 v7 bii7 |
+ iM | iM | iM ivM | ivM |
+ iM | iM | iim | v7 |
+ iM | iM | iM ivM | ivM |
+ ii7 | biiM | bviim iM iM iM | bviiM iM iM iM |

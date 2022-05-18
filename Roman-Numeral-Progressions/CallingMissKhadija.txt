@@ -1,0 +1,8 @@
+Title = Calling Miss Khadija
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 6 4
+Bars = 12
+ v7 | v7 | v7 | v7 |
+ i7 | i7 | v7 | v7 |
+ ii7 | i7 | v7 | v7 |

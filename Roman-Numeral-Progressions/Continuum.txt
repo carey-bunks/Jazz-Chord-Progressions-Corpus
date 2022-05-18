@@ -1,0 +1,10 @@
+Title = Continuum
+DB Key = E
+EstKeySig = E
+TimeSig = 4 4
+Bars = 20
+ iM | iM | iM | iM |
+ ivM | ivM | iM | iM |
+ iM | iM | iM | bvm |
+ ivm | io iM | iM | vii7 |
+ bvii7 | iM | vm ivm | iM |

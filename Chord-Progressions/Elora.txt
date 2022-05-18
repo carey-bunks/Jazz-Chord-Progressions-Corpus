@@ -1,0 +1,13 @@
+Title = Elora
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Cm7 | F7 | BbM7 EbM7 | Dm7 Db7 |
+ Cm7 G7b9 | Cm7 F7 | BbM7 | Dm7b5 Db7 |
+ Cm7 | F7 | BbM7 EbM7 | Dm7 Db7 |
+ Cm7 G7b9 | Cm7 F7 | BbM7 | Fm7 Bb7 |
+ EbM7 | Ebm7 | BbM7 | Am7b5 D7b9 |
+ Gm7 | C7 | Cm7 | F7 |
+ Cm7 | F7 | BbM7 EbM7 | Dm7 Db7 |
+ Cm7 G7b9 | Cm7 F7 | BbM7 | Dm7b5 Db7 |
+

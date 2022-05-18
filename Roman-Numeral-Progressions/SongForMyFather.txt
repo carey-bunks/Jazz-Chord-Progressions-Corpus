@@ -1,0 +1,11 @@
+Title = Song For My Father
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 24
+ vim | vim | v7 | v7 |
+ iv7 | iii7 | vim | vim |
+ vim | vim | v7 | v7 |
+ iv7 | iii7 | vim | vim |
+ v7 | v7 | vim | vim |
+ v7 iv7 | iii7 | vim | vim |

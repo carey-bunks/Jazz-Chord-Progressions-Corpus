@@ -1,0 +1,12 @@
+Title = Song of the Underground Railroad
+DB Key = G
+TimeSig = 4 4
+Bars = 31
+ A/E | Em | A/E | Em |
+ CM7/E Bm/D | Am/C GM7/B | Am7 | A/E Em |
+ A/E | Em | A/E | Em |
+ CM7/E Bm/D | Am/C GM7/B | Am7 | A/E Em |
+ Em F#m | G F#m | Em F#m | G F#m |
+ CM7/E Bm7/D | Am7/C GM7/B | Am7 | A/E |
+ Em | F#m | Em | A/E |
+ Em | F#m | Em |

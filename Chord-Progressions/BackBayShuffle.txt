@@ -1,0 +1,13 @@
+Title = Back Bay Shuffle
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F | F | C7 | C7 |
+ F F7 | Bb Bbm | F C13 | F C7 |
+ F | F | C7 | C7 |
+ F F7 | Bb Bbm | F C13 | F |
+ Am | Am | Am | E7 |
+ C | C | C | C C7 |
+ F | F | C7 | C7 |
+ F F7 | Bb Bbm | F C13 | F |
+

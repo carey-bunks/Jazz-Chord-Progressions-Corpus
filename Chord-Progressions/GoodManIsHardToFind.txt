@@ -1,0 +1,10 @@
+Title = A Good Man Is Hard To Find
+DB Key = C
+TimeSig = 4 4
+Bars = 22
+ A7 | A7 | D7 | D7 |
+ G7 | G7 | CM6 | CM6 G7 C6 C6 |
+ A7 | A7 | D7 | D7 G7 |
+ CM7 Ebo7 | Dm7 G7 | CM6 | CM6 |
+ CM6 | Am7 | D7 | Dm7 G7 |
+ CM6 | CM6 |

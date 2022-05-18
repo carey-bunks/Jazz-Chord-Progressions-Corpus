@@ -1,0 +1,14 @@
+Title = Moment's Notice
+DB Key = C
+TimeSig = 4 4
+Bars = 38
+ Em7 A7 | Fm7 Bb7 | EbM7 | Abm7 Db7 |
+ Dm7 G7 | Ebm7 Ab7 | DbM7 | Dm7b5 G7 |
+ Cm7 | Bbm7 Eb7 | AbM7 | Db9 |
+ G7 C7 | Abm7 Db7 | GbM7 | Fm7 Bb7 |
+ Em7 A7 | Fm7 Bb7 | EbM7 | Abm7 Db7 |
+ Dm7 G7 | Ebm7 Ab7 | DbM7 | Dm7b5 G7 |
+ Cm7 | Bbm7 Eb7 | AbM7 | Db9 |
+ G7 C7 | Fm7 Bb7 | Eb/Bb | Fm/Bb |
+ Gm/Bb | Fm/Bb | Eb/Bb Fm/Bb | Gm/Bb Fm/Bb |
+ Eb NC NC NC | NC |

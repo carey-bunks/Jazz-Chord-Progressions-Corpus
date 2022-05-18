@@ -1,0 +1,9 @@
+Title = Minority
+DB Key = Ab
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 16
+ iim | viih | iiim | vi7 |
+ iim | viih | vim | ii7 |
+ vm | i7 | ivm | bvii7 |
+ biiim | bvi7 | iiim | vi7 |

@@ -1,0 +1,26 @@
+Title = That Thing You Do!
+DB Key = E
+EstKeySig = E
+TimeSig = 4 4
+Bars = 84
+ iM | ivM vM | iM | ivM vM |
+ bvim | biiM | biim | ivm vM |
+ iM | ivM vM | iM | ivM vM |
+ bvim | biiM | bviiM | vM |
+ bvim | biiM | iM i7 | ivM ivm |
+ iM | ivm | iM | v7 |
+ iM | ivM vM | iM | ivM vM |
+ bvim | biiM | biim | ivm vM |
+ iM | ivM vM | iM | ivM vM |
+ bvim | biiM | bviiM | vM |
+ bvim | biiM | iM i7 | ivM ivm |
+ iM | ivm | iM | iM |
+ ivM | ivM | bvim | bvim |
+ biiM v7 | bvi7 | v7 | v7 |
+ iM | ivM vM | iM | ivM vM |
+ bvim | biiM | biim | ivm vM |
+ iM | ivM vM | iM | ivM vM |
+ bvim | biiM | bviiM | vM |
+ bvim | biiM | iM i7 | ivM ivm |
+ iM | ivm | iM | ivm |
+ iM | v7 | ivM ivm | iM |

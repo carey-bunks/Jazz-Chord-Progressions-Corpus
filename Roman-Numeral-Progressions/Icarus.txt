@@ -1,0 +1,20 @@
+Title = Icarus
+DB Key = G
+EstKeySig = C
+TimeSig = 4 4
+Bars = 58
+ vM | vM | iim | iim |
+ iim | iim | im | im |
+ im | im | vM | vM |
+ iim | iim | iim | iim |
+ vM | vM | v7 | v7 |
+ iM | iM | iM | iM |
+ ivM | ivM | ivM | ivM |
+ iiM | iiM | iiM | iiM |
+ viim | viim | viim | viim |
+ v7 | v7 | v7 | v7 |
+ viim | viim | viim | viim |
+ iim | iim | iim | iim |
+ iM | iM | vm | vm |
+ biiiM | biiiM | ivM | ivM |
+ ivM | ivM |

@@ -1,0 +1,17 @@
+Title = Basin Street Blues
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 48
+ iM iim biiio iiim | iM iim biiio iiim | iM io iim v7 | iM io iim v7 |
+ iM i7 | ivM ivm | iM bvi7 | v7 v7 iM v7 |
+ iM iim biiio iiim | iM iim biiio iiim | iM io iim v7 | iM io iim v7 |
+ iM i7 | ivM ivm | iM bvi7 | v7 iM |
+ iM | iii7 | vi7 | vi7 |
+ ii7 | v7 | iM biiio | iim v7 |
+ iM | iii7 | vi7 | vi7 vi7 |
+ ii7 | v7 | iM | iim v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |

@@ -1,0 +1,16 @@
+Title = A Man And A Woman
+DB Key = C
+TimeSig = 4 4
+Bars = 46
+ DM7 | DM7 | C#7 | C#7 |
+ CM7 | CM7 | F#m7 | B7 |
+ EM7 | EM7 | DM7 | DM7 |
+ C#7 | C#7 | CM7 | CM7 |
+ F#m7 | B7 | EM7 | EM7 |
+ Dm7 | G7b9 | CM7 | CM7 |
+ Dm7 | G7 | C6 | C6 |
+ F#m7 | B7 | EM7 | EM7 |
+ Em7 | A7 | DM7 | DM7 |
+ DM7 | DM7 | C#7 | C#7 |
+ CM7 | CM7 | F#m7 | B7 |
+ EM7 | EM7 |

@@ -1,0 +1,10 @@
+Title = Love Is A Simple Thing
+DB Key = C
+TimeSig = 4 4
+Bars = 20
+ CM7 Am7 | Dm7 Dm7 G7 G7/F | Em7 A7b9 | Dm7 G7 |
+ Em7 Ebo7 | Dm7 G7 | Em7 A7 | Ab9#11 G7 |
+ CM7 Am7 | Dm7 Dm7 G7 G7/F | Em7 A7b9 | Dm7 G7 |
+ Em7 Ebo7 | Dm7 G7 | CM7 F7 | Em7b5 A7b9 |
+ Dm7 G7 | Em7b5 A7b9 | Dm7 G7 | C6 C6 Dm7 G7 |
+

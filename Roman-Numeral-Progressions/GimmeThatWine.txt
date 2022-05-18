@@ -1,0 +1,11 @@
+Title = Gimme That Wine
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 24
+ iM i7 | ivM bvo | iM vim | iim v7 |
+ iM i7 | ivM bvo | iM vim | iim v7 iM iM |
+ iM i7 | ivM bvo | iM vim | iim v7 |
+ iM i7 | ivM bvo | iM | i7 |
+ ivM | bvo | iM | i7 |
+ ivM | bvo NC | NC | NC |

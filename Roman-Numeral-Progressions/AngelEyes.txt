@@ -1,0 +1,13 @@
+Title = Angel Eyes
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iiim iiim i7 vii7 | iiim iiim i7 vii7 | iiim | bvh vii7 |
+ iiim iiim i7 vii7 | iiim i7 | iiim vii7 | iiim vii7 |
+ iiim iiim i7 vii7 | iiim iiim i7 vii7 | iiim | bvh vii7 |
+ iiim iiim i7 vii7 | iiim i7 | iiim vii7 | iiim |
+ iim v7 | iM | iim v7 | iM |
+ biim bv7 | viiM | bvii7 | vii7 |
+ iiim iiim i7 vii7 | iiim iiim i7 vii7 | iiim | bvh vii7 |
+ iiim iiim i7 vii7 | iiim i7 | iiim vii7 | iiim |

@@ -1,0 +1,13 @@
+Title = You're the Top
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb Bb7b9 | Eb Eb Eb Eo7 | Bb7 | Bb7 Bb6 |
+ Eb | Cm | G7 | G7 |
+ Ab | Fm7 Bb7 | Eb Eb Eb Bb/D | Cm |
+ D Gm Gm Gm | C9 F7 F7 F7 | Bb9 Eo7 | Bb7 Bb7+ |
+ Eb Bb7b9 | Eb Eb Eb Eo7 | Bb7 | Bb7 Bb6 |
+ Eb | Cm | Eb7 | Eb7 Eb9 |
+ Ab | Fm7 Gm7 Eb | AbM7 AbM7 C7+ C7 | F7 |
+ Fm7 Eb | Ab Bb11 | Eb Eo7 Bb7 Bb7 | F#o7 Eb |
+

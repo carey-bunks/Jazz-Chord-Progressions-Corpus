@@ -1,0 +1,18 @@
+Title = What a Wonderful World
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 52
+ iM iiim | ivM iiim | iim iM | iii7 vim |
+ bviM | iim v7 | iM | ivM v7 |
+ iM iiim | ivM iiim | iim iM | iii7 vim |
+ bviM | iim v7 | iM ivM | iM |
+ v7 | iM | v7 | iM |
+ vim vM | vim vM | vim io | iim v7 |
+ iM iiim | ivM iiim | iim iM | iii7 vim |
+ bviM | iim v7 | iM ivM | iM |
+ v7 | iM | v7 | iM |
+ vim vM | vim vM | vim io | iim v7 |
+ iM iiim | ivM iiim | iim iM | iii7 vim |
+ bviM | iim | iM vm | vi7 |
+ iim | iim v7 v7 v7 | iM ivM | iM |

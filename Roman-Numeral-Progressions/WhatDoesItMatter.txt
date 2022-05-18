@@ -1,0 +1,20 @@
+Title = What, Does It Matter?
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 58
+ vim | vim | bvi7 | bvi7 |
+ bvii7 | bvii7 | vi7 | vi7 |
+ ivM | ivM | bii7 | bii7 |
+ iM | iM | iM | iM |
+ ii7 | ii7 | ii7 | ii7 |
+ v7 | v7 | v7 | v7 |
+ bviim | bviim | bvii7 bvii7 bvii7 vi7 | vi7 |
+ biiim | biiim | bviim | bviim |
+ biiim | biiim | bviim | bviim |
+ vi7 | vi7 | bvi7 | bvi7 bvi7 bvi7 v7 |
+ v7 | v7 | vii7 | vii7 vii7 vii7 bvii7 |
+ bvii7 | bvii7 | vim | iiim |
+ iM | vM | ivM | ivM |
+ ivM | ivM | ivM | ivM |
+ ivM | ivM |

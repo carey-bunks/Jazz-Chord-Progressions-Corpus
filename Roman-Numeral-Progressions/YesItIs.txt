@@ -1,0 +1,13 @@
+Title = Yes, It Is
+DB Key = C
+EstKeySig = E
+TimeSig = 4 4
+Bars = 30
+ iM ivM | biim vM | iM ivM | bviiM v7 |
+ iM bvim | ivM bvii7 | bvim iM | iM |
+ iM ivM | biim vM | iM ivM | bviiM v7 |
+ iM bvim | ivM bvii7 | bvim iM | iM |
+ vm i7 | ivM biim | vm i7 | bvim bvim |
+ bii7 v7 | iM ivM | biim vM | iM ivM |
+ bviiM v7 | iM bvim | ivM bvii7 | bvim iM |
+ biiiM biiiM ivM v7 | iM |

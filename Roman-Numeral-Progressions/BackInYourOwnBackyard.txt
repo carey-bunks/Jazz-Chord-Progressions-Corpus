@@ -1,0 +1,13 @@
+Title = Back in Your Own Backyard
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM bvi7 | iim | iim |
+ v7 | v7 vM | iM | iM |
+ iM | iM bvi7 | iim | iim |
+ v7 | v7 | iM | iM |
+ iiim | iiim | vi7 | vi7 |
+ ii7 | ii7 | iim iim iim ivm | v7 vM |
+ iM | iM bvi7 | iim | iim |
+ v7 | v7 | iM ivm | iM vM |

@@ -1,0 +1,15 @@
+Title = The Girl That I Marry
+DB Key = Bb
+TimeSig = 3 4
+Bars = 40
+ BbM7 | Gm7 | Cm7 | F7 |
+ Cm7 | F7 | BbM7 | BbM7 |
+ Cm7 | F7 | BbM7 | Cm7 Cm7 F7 |
+ BbM7 | Cm7 Cm7 F7 | Dm7 Dm7 Gm7 | Cm7 Cm7 F7 |
+ BbM7 | Gm7 | Cm7 | F7 |
+ Cm7 | F7 | BbM7 | BbM7 |
+ Fm7 | Bb7 | EbM7 | EbM7 |
+ EbM7 | Eo7 | Dm7 G7 G7 | Cm7 Cm7 F7 |
+ BbM7 | Gm7 | Cm7 | F7 |
+ BbM7 | Gm7 | Cm7 | F7 |
+

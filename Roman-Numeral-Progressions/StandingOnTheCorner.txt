@@ -1,0 +1,22 @@
+Title = Standing On The Corner
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 65
+ iM i7 | ivM bvii7 | iM biii7 | bvi7 v7 |
+ iM i7 | ivM bvii7 | vi7 ii7 | bvi7 v7 |
+ iM i7 | ivM | ivm | v7 |
+ iM i7 | ivM bviM | bviM iM vim vim | iim v7 |
+ iM biii7 | bvi7 v7 | iM i7 | ivM bvii7 |
+ iM biii7 | bvi7 v7 | iM i7 | ivM bvii7 |
+ vi7 ii7 | bvi7 v7 | iM i7 | ivM |
+ ivm | v7 | iM i7 | ivM bviM |
+ bviM iM vim vim | iim v7 | iM biii7 | bvi7 v7 iM iii7 |
+ vim vim | vim vim | vim vim | vim vim |
+ iM iM | iM iM | iM biiM | biiiM biiM |
+ iM vim | bvi7 v7 | iM i7 | ivM bvii7 |
+ iM biii7 | bvi7 v7 | iM i7 | ivM bvii7 |
+ vi7 ii7 | bvi7 v7 | iM i7 | ivM |
+ ivm | v7 | iM i7 | ivM bviM |
+ bviM iM vim vim | iim v7 | iM biii7 | bvi7 v7 |
+ iM |

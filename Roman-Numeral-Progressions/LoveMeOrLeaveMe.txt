@@ -1,0 +1,13 @@
+Title = Love Me Or Leave Me
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ vim | vii7 iii7 | vim | vii7 iii7 |
+ iM | ii7 v7 | iM | iv7 iii7 |
+ vim | vii7 iii7 | vim | vii7 iii7 |
+ iM | ii7 v7 | iM | iM |
+ iiih | vi7 | iim vi7 | iim |
+ iim | v7 | iM biiio | viih iii7 |
+ vim | vii7 iii7 | vim | vii7 iii7 |
+ iM | ii7 v7 | iM | iM |

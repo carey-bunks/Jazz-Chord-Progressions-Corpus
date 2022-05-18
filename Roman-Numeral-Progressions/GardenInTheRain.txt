@@ -1,0 +1,13 @@
+Title = A Garden In The Rain
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iiim i7 | ivM ivM | iiih vi7 |
+ iim iih | iM biiio iim v7 | iM vi7 | iim v7 |
+ iM | iiim i7 | ivM ivM | iiih vi7 |
+ iim iih | iM biiio iim v7 | iM ivm | iM |
+ iiim iiim bvm vii7 | iiim iiim i7 vii7 | iiim vii7 | iiim vii7 |
+ iiiM iiiM viim vii7 | iiiM iiiM bvm vii7 | iiiM vii7 | v7 v7 |
+ iM vim | biiim i7 | ivM ivM | iiih vi7 |
+ iim iih | iM biiio iim v7 | iM ivm | iM |

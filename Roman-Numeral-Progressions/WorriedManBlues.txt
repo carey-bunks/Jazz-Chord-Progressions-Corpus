@@ -1,0 +1,9 @@
+Title = Worried Man Blues
+DB Key = C
+EstKeySig = A
+TimeSig = 4 4
+Bars = 16
+ iM | iM i7 | ivM | ivM iM |
+ iM | iM | v7 | v7 iM |
+ iM | iM i7 | ivM | ivM iM |
+ iM | iM | v7 | v7 iM |

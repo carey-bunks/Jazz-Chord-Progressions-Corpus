@@ -1,0 +1,13 @@
+Title = September Song
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ ivm | bviim | ivM | ivM |
+ v7 | vh i7 | ivM | ivM |
+ ivm | bviim | ivM | ivM |
+ v7 | vh i7 | ivM | ivM |
+ bviim | bviim | bviio | bviio |
+ bviim | bviim | bviio | bviio |
+ ivm | bviim | ivM | ivM |
+ v7 | vh i7 | ivM | ivM |

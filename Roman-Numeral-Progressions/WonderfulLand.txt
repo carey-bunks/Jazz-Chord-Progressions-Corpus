@@ -1,0 +1,17 @@
+Title = Wonderful Land
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 47
+ vM ivM | vM ivM | vM ivM | vM ivM |
+ vM | iiM | ivM | iM |
+ vim | iim | bviiM | v7 |
+ iM | iiim | iM | ivM |
+ vim | iM | v7 | ivM |
+ ivm ivm | iM iiim | iiim | iiim vM |
+ vM | iiM | ivM | iM |
+ vim | iim | bviiM | v7 |
+ iM iiim | ivM iM | iM iiim | ivM |
+ iM iiim | iim iim | iiim | iiim |
+ iiim vM | vM ivM | vM ivM | vM ivM |
+ vM ivM | vM ivM | iM iM iM |

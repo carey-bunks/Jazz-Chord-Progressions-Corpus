@@ -1,0 +1,13 @@
+Title = A Gal in Calico
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | Eb | Fm7 | Bb7 |
+ Eb | Eb | Fm7 | Bb7 |
+ D Eb Ab Eb | D Eb Ab Eb | Bb7 | Bb7 |
+ D Eb Ab Eb | D Eb Ab Eb | F7 | Bb7 |
+ Eb | Eb | Fm7 | Bb7 |
+ Eb | Eb | Fm7 | Bb7 |
+ D Eb Ab Eb | Bbm7 Eb7 | Ab | G7 C7 F7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb | Eb |
+

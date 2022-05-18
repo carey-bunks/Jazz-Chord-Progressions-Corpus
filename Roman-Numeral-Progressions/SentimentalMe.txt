@@ -1,0 +1,13 @@
+Title = Sentimental Me
+DB Key = F
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ ivM iim | v7 v7 | iM | vm i7 |
+ ivM iim | v7 v7 | iM | iM iM iiim vi7 |
+ iim iih | v7 v7 v7 v7 | iM iiih | vi7 |
+ vM iiim | vim ii7 | v7 | v7 i7 |
+ ivM iim | v7 v7 | iM | vm i7 |
+ ivM iim | v7 v7 | iM | iM iM iiim vi7 |
+ iim iih | v7 v7 v7 v7 | iM v7 | iM iM iiim vi7 |
+ iim | v7 v7 | iM | vm i7 |

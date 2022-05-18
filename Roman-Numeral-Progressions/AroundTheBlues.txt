@@ -1,0 +1,8 @@
+Title = Around the Blues
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 12
+ v7 | iv7 | biii7 | bii7 |
+ i7 | i7 | v7 | iii7 |
+ bviim biii7 | vim ii7 | v7 | vim ii7 |

@@ -1,0 +1,8 @@
+Title = Isotope
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 12
+ v7 | bvii7 vi7 | ii7 v7 | v7 |
+ i7 | iv7 | v7 | viim |
+ bviim | vim | v7 iii7 | bii7 bvii7 |

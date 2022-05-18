@@ -1,0 +1,13 @@
+Title = Little Girl
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ ivM | ivM | bvii7 | bvii7 |
+ iM | iM | iiim | vi7 |
+ iim | iim | v7 | v7 |
+ iiim | iio | iim | v7 i7 |
+ ivM | ivM | bvii7 | bvii7 |
+ iM | iM | iiim | vi7 |
+ iim | iii7 | vim | vi7 |
+ ii7 | v7 | iM | vm i7 |

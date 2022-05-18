@@ -1,0 +1,23 @@
+Title = De Pois Do Amor O Vazio
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 69
+ ivM | ivM | iiim | iiim |
+ iim | iim | v7 | v7 |
+ bvM | bvM | biiM | i7 |
+ ivM | ivM | iii7 | iii7 |
+ vim | vim | vii7 | vii7 |
+ iim | iim | v7 | v7 |
+ biih | biih | bv7 | bv7 |
+ ivm | ivm | ivm | ivm |
+ ivM | ivM | iiim | iiim |
+ iim | iim | v7 | v7 |
+ bvM | bvM | biiM | i7 |
+ ivM | ivM | iii7 | iii7 |
+ vim | vim | vii7 | vii7 |
+ ivm | ivm | vm | vm |
+ vim | vim | vii7 | vii7 |
+ iiim | iiim | iiim | iiim |
+ biim | biim | biim | biim |
+ biim |

@@ -1,0 +1,13 @@
+Title = Calcutta Blues
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iiim | iiim | vim | iiim |
+ vim | vii7 | iiim | iiim |
+ bvm | viiM | iiim | iiim |
+ iiim | iiim | vim vii7 | iiim |
+ vim | vii7 | iiim | iiim |
+ bvo | viiM | iiim | iiim |
+ iiim | iiim | iiim | iiim |
+ iiim | iiim | iiim | iiim |

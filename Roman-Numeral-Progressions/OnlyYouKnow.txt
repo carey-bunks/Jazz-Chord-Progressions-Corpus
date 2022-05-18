@@ -1,0 +1,18 @@
+Title = Only You Know
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 50
+ ivM | ivM | ivM | ivM |
+ iiim | ivM | iiim | ivM |
+ ivM | ivM | ivM | ivM |
+ iiim | ivM | iiim | ivM |
+ bviiM | bviim iii7 | bvim bii7 | bvM bvM bvM bvM |
+ vh | i7 | biiM | iih |
+ v7 | iM | bviim bviiM | vim |
+ bviM | biiM | iih bvi7 | v7 |
+ im | NC | bvii7 | bvii7 |
+ iiim | iiim | biih | iM |
+ bvii7 | bvii7 | iiim | ivM |
+ iiim | ivM | iiim | ivM |
+ iiim | ivM |

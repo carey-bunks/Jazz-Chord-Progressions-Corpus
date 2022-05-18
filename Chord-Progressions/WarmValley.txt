@@ -1,0 +1,12 @@
+Title = Warm Valley
+DB Key = Bb
+TimeSig = 4 4
+Bars = 31
+ BbM7 | E7 | Eb7 Eb7 Em7b5 A7 | D7 |
+ Dm7b5/Ab G7 | Cm7b5 | BbM7/F BbM7/F C7 F7 | BbM7 Cm7/F |
+ BbM7 | E7 | Eb7 Eb7 Em7b5 A7 | D7 |
+ Dm7b5/Ab G7 | Cm7b5 | BbM7/F BbM7/F C7 F7 | BbM7 B7 EM7 |
+ G#m7 Go7 | F#m7 B7 | Bm7 E7 | AM7 |
+ Em7b5 A7 | DM7 C#o7 | Cm7b5 F7 | BbM7 |
+ E7 | Eb7 Eb7 Em7b5 A7 | D7 | Dm7b5/Ab G7 |
+ Cm7b5 | BbM7/F BbM7/F C7 F7 | BbM7 Cm7/F |

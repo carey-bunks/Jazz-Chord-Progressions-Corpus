@@ -1,0 +1,10 @@
+Title = For Your Eyes OnlyBill Conti, Michael Leeson
+DB Key = G
+TimeSig = 4 4
+Bars = 23
+ G | C/G G | G | G |
+ C/G | C/G | CM7 Bm7 | Bm7 Em7 |
+ Em7 | CM7 | Am7/D | Am7/D |
+ C/G | GM7 Em7 | Am7 | Am7/D |
+ C/G | GM7 Em7 | C Am7 | G/B Em7 |
+ Am7/D | Am7/D | G |

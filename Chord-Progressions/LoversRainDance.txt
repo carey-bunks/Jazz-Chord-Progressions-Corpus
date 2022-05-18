@@ -1,0 +1,23 @@
+Title = Lovers' Rain Dance
+DB Key = Bb
+TimeSig = 3 4
+Bars = 72
+ BbM7 | BbM7 | Am7b5 | D7b9 |
+ Gm7 | Db/Gb | Fm7 | Bb7alt |
+ EbM7#11 | EbM7#11 | Dm7 | G7b9#11 |
+ Gb7alt | Gb7alt | Cm7/F | F7alt |
+ BbM7 | BbM7 | Am7b5 | D7b9 |
+ Gm7 | Db/Gb | Fm7 | Bb7alt |
+ EbM7#11 | EbM7#11 | Dm7 | G7b9#11 |
+ Gb7alt | Gb7alt | Cm7/F | F7alt |
+ BM7 | BM7 | F#M7 | F#M7 |
+ EM7 | EM7 | EbM7 | EbM7 |
+ DbM7 | DbM7 | Gm7 | Gm7 |
+ A7alt | A7alt | DM7 | DM7 |
+ BbM7 | BbM7 | Am7b5 | D7b9 |
+ Gm7 | Db/Gb | Fm7 | Bb7alt |
+ EbM7#11 | EbM7#11 | Dm7 | G7b9#11 |
+ Gb7alt | Gb7alt | Cm7/F | F7alt |
+ Em7b5 | Ebm7 | DM7 | DM7 |
+ BM7 | Cm7 | F7b9 | BbM7#11 |
+

@@ -1,0 +1,13 @@
+Title = Stockholm Sweetnin'
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Cm7b5 | Am7b5 D7b9 | Gm7 | C7 |
+ BbM7 Bo7 | Cm7 C#o7 | Dm7 | Dm7b5 G7b9 |
+ Cm7b5 | Am7b5 D7b9 | Gm7 | C7 |
+ BbM7 Bo7 | Cm7 F7 | BbM7 | Abm7 Db7 |
+ GbM7 Ebm7 | Abm7 Db7+ | Bbm7b5 Eb7alt | Abm7 Db7b9 |
+ GbM7 | Ebm7 Cm7b5 | Cm7 F7 | Dm7b5 G7b9 |
+ Cm7b5 | Am7b5 D7b9 | Gm7 | C7 |
+ BbM7 Bo7 | Cm7 F7 | BbM7 | Dm7b5 G7b9 |
+

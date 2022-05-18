@@ -1,0 +1,13 @@
+Title = Dedicated To You
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iv7 | iM | iiim vi7 |
+ iih v7 | iM iM viim iii7 | vim ii7 | iim v7 |
+ iM | iv7 | iM | iiim vi7 |
+ iih v7 | iM iM viim iii7 | vim vim ii7 v7 | iM iM bvm vii7 |
+ iiiM | biim bv7 | bvm vii7 | iiiM iiiM vim ii7 |
+ vM iii7 | vim ii7 | iim | v7 |
+ iM | iv7 | iM | iiim viM |
+ iih v7 | iM iM viim iii7 | vim vim iim v7 | iM iM iim v7 |

@@ -1,0 +1,8 @@
+Title = Bird Feathers
+DB Key = Bb
+TimeSig = 4 4
+Bars = 12
+ Bb | Bb | Bb | Bb |
+ Eb | Ab7 | Bb | G7 Ab7 G7 G7 G7 G7 G7 G7 |
+ Cm7 | F7 | D7 C#o7 | Cm7 F7#5#9 |
+

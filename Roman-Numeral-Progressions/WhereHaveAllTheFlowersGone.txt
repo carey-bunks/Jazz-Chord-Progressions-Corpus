@@ -1,0 +1,10 @@
+Title = Where Have All the Flowers Gone?
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 18
+ iM | vim | iim | vM |
+ iM | vim | iim | v7 |
+ iM | vim | iim | v7 |
+ ivM iim | iM | iim | v7 |
+ iM | iM |

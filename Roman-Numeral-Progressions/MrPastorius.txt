@@ -1,0 +1,10 @@
+Title = Mr. Pastorius
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 17
+ vi7 vi7 bv7 iv7 | iiim iiim bv7 vii7 | iM iv7 | iM bv7 iv7 iii7 |
+ vi7 vi7 bv7 iv7 | iiim iiim bv7 vii7 | iM iv7 | iM iv7 |
+ viih vii7 iii7 iii7 | ivM vim | viih ivM | ivM iii7 |
+ vim vim bvh iv7 | iiim iiim bv7 vii7 | bvh iv7 | iM vii7 |
+ iii7 iii7 |

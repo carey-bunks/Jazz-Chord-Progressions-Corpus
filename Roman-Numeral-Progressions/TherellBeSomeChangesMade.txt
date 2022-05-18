@@ -1,0 +1,10 @@
+Title = There'll Be Some Changes Made
+DB Key = Bb
+EstKeySig = F
+TimeSig = 4 4
+Bars = 18
+ ii7 | ii7 | v7 | v7 |
+ vi7 | ii7 | v7 | vm i7 |
+ ii7 | ii7 | v7 | v7 |
+ vi7 | ii7 | v7 i7 | iv7 biii7 ii7 ii7 |
+ v7 i7 | ivM ivM iii7 biii7 |

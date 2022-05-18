@@ -1,0 +1,13 @@
+Title = Julian
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM vii7 | iim v7 | im bvi7 | iim v7 |
+ bvh | ivm bvii7 | iiim bvii7 | vi7 v7 |
+ iM vii7 | iim v7 | im bvi7 | iim v7 |
+ bvh | ivm bvii7 | iiim bvii7 | iiim bvii7 |
+ biiiM | iii7 | ivM | bvM vii7 |
+ biiiM | iii7 | ivM | iih v7 |
+ iM vii7 | iim v7 | im bvi7 | iim v7 |
+ bvh | ivm bvii7 | iiim vi7 iim v7 | iM |

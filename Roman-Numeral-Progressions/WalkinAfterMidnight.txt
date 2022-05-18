@@ -1,0 +1,13 @@
+Title = Walkin' After Midnight
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | i7 | iv7 | iv7 |
+ iM | bvi7 v7 | iM vim | iim v7 |
+ iM | i7 | iv7 | iv7 |
+ iM | bvi7 v7 | iM | i7 |
+ ivM | ivM | iM v7 | i7 |
+ ivM | ivM | iM vi7 | iim bvi7 v7 v7 |
+ iM | i7 | iv7 | iv7 |
+ iM | bvi7 v7 | iM bvii7 | i7 v7 |

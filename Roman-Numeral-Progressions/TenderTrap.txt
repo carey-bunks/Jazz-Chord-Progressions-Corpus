@@ -1,0 +1,17 @@
+Title = The Tender Trap
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 48
+ iM | biio | vm | v7 |
+ vm i7 | ivM | iii7 | vi7 |
+ ii7 | iim v7 | iM | iim v7 |
+ iM | biio | vm | v7 |
+ vm i7 | ivM | iii7 | vi7 |
+ ii7 | iim v7 | iM | iM |
+ viih | iii7 | vim | vim vim vim io |
+ viih | iii7 | vim ii7 | iim v7 |
+ iM | biio | vm | v7 |
+ vm i7 | ivM | iii7 | vi7 |
+ ii7 | iim v7 | iiih | vi7 |
+ iim | v7 | iM | iim v7 |

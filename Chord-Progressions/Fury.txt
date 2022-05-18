@@ -1,0 +1,13 @@
+Title = Fury
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C7 Am7 | D+7 G9 | C7 Am7 | D+7 G9 |
+ Gm7 C7 | FM7 Fm7 | AbM7 G7#9 | C7 G7#9 |
+ C7 Am7 | D+7 G9 | C7 Am7 | D+7 G9 |
+ Gm7 C7 | FM7 Fm7 | AbM7 G7#9 | C7 G7#9 |
+ CM7 | EbM7 | FM7 | BbM7 |
+ CM7 | EbM7 | FM7 | Bb7 |
+ C7 Am7 | D+7 G9 | C7 Am7 | D+7 G9 |
+ Gm7 C7 | FM7 Fm7 | AbM7 G7#9 | C7 |
+

@@ -1,0 +1,14 @@
+Title = Spinning Wheel
+DB Key = G
+TimeSig = 4 4
+Bars = 37
+ E7 A7 | D7 G | E7 A7 | D7 G |
+ E7 A7 | D7 G | D7 | D7 D7#9 D7#9 D7#9 D7#9 D7#9 D7#9 D7#9 |
+ E7 A7 | D7 G | E7 A7 | D7 G |
+ E7 A7 | D7 G | D7 | D7 D7#9 D7#9 D7#9 D7#9 D7#9 D7#9 D7#9 |
+ C | Bb | Ab | G |
+ C | Bb | Ab | G |
+ Ab/G | Bb | C | D9 |
+ D9 | E7 A7 | D7 G | E7 A7 |
+ D7 G | E7 A7 | D7 G | D7 |
+ D7 D7#9 D7#9 D7#9 D7#9 D7#9 D7#9 D7#9 |

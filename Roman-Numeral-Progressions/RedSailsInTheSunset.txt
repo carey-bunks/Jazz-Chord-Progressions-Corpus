@@ -1,0 +1,13 @@
+Title = Red Sails In The Sunset
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iM i7 | ivM ivm | iM |
+ iM io | iim v7 | iim v7 | iM v7 |
+ iM | iM i7 | ivM ivm | iM |
+ iM io | iim v7 | iim v7 | iM i7 |
+ ivM ivm | iM | iim v7 | iM i7 |
+ ivM ivm | iM | ii7 | iim v7 |
+ iM | iM i7 | ivM ivm | iM |
+ iM io | iim v7 | iim v7 | iM v7 |

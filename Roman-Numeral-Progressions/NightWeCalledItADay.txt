@@ -1,0 +1,13 @@
+Title = The Night We Called It A Day
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ ivm v7 | iM iM | v7 v7 | iM |
+ vim ii7 | iiim biii7 | iim bii7 | iM iM |
+ ivm v7 | iM iM | iii7 iii7 | vim |
+ vim ii7 | iiim biii7 | iim bii7 | iM iM bviim i7 |
+ ivM vm | iiiM ivM | iii7 iii7 | vim vim |
+ iim iii7 | vim vim iii7 vim | vih ii7 | biiiM biiiM biiiM v7 |
+ ivm ivm bviim ivo | iM iM | iii7 iii7 | vim |
+ vim vim | ii7 ii7 | iiim biiim iim bii7 | iM iM |

@@ -1,0 +1,12 @@
+Title = Stolen Moments
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 28
+ vim | vim | vim | vim |
+ iim | iim | vim | vim |
+ vii7 i7 | bii7 ii7 | ii7 ii7 | bii7 i7 |
+ viim io | viM iim | vim | iii7 |
+ vim | vim | vim | vi7 |
+ iim | iim | vim | vim |
+ viih | iii7 | vim | iii7 |

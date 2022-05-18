@@ -1,0 +1,8 @@
+Title = Quincy Boogie
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 12
+ iM | i7 i7 i7 ivM | iM | i7 |
+ ivM | iv7 | iM | iiim vi7 |
+ iim vo | iim vo | iim v7 | iM |

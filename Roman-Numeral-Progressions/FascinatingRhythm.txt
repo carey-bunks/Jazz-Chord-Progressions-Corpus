@@ -1,0 +1,13 @@
+Title = Fascinating Rhythm
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iim v7 | iim v7 | iim v7 | iim v7 |
+ vm i7 | vm i7 | vm i7 | vm i7 |
+ ivM | iim v7 | iM | viih iii7 |
+ vim | ii7 | iim v7 | iiih vi7 |
+ iim v7 | iim v7 | iim v7 | iim v7 |
+ vm i7 | vm i7 | vm i7 | vm i7 |
+ ivM | viih iii7 | vim | ii7 |
+ iim v7 | iim v7 | iM | biiim bvi7 |

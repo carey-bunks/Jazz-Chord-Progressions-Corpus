@@ -1,0 +1,20 @@
+Title = Traces
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 59
+ iM | biiim | vm | vi7 |
+ iim | bviiM | iim | biii7 |
+ vim | vim | ivh | ivM |
+ bviM | bii7 | iim | iim v7 |
+ iM | biiim | vm | vi7 |
+ iim | bviiM | iim | biii7 |
+ vim | vim | ivh | ivM |
+ bviM | bii7 | iim | v7 |
+ iM | iM | vim | biiim |
+ vim | biiim | vim | biiim |
+ ivM | v7 | v7 | iM |
+ biiim | vm | vi7 | iim |
+ bviiM | iim | biii7 | vim |
+ vim | ivh | ivM | bviM |
+ bii7 | iim | iim v7 |

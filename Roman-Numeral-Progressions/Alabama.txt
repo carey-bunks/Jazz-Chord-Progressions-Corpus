@@ -1,0 +1,7 @@
+Title = Alabama
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 6
+ vim | vim | vim vim vim ivM | iiim vim vim vim vim vim vim vim |
+ ivM ivM ivM iiim | vim |

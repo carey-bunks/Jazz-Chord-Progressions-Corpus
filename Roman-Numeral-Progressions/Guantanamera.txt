@@ -1,0 +1,11 @@
+Title = Guantanamera
+DB Key = F
+EstKeySig = C
+TimeSig = 4 4
+Bars = 24
+ ivM bviiM | i7 | ivM bviiM | iM |
+ ivM bviiM | i7 | ivM bviiM | iM |
+ ivM bviiM | iM | ivM bviiM | iM |
+ ivM bviiM | iM | ivM bviiM | iM |
+ ivM bviiM | iM | ivM bviiM | iM |
+ ivM bviiM | iM | ivM bviiM | iM |

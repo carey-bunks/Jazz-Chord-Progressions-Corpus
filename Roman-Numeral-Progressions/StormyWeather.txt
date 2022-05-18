@@ -1,0 +1,13 @@
+Title = Stormy Weather
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM vi7 | iim v7 | iM vi7 | iim ivm |
+ iM vi7 | iim v7 | iM vi7 | iim v7 |
+ iM vi7 | iim v7 | iM vi7 | iim ivm |
+ iM vi7 | iim v7 | iM ivm | iM bv7 |
+ ivM bvo | iM i7 | ivM bvo | iM i7 |
+ ivM bvo | iM vim | iiim vim | ii7 v7 |
+ iM vi7 | iim v7 | iM vi7 | iim ivm |
+ iM vi7 | iim v7 | iM | iim v7 |

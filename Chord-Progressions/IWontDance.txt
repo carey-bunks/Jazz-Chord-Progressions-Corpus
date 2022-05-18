@@ -1,0 +1,20 @@
+Title = I Won't Dance
+DB Key = C
+TimeSig = 4 4
+Bars = 60
+ C Am7 | Dm7 G7 | C Am7 | Dm7 G7 |
+ C Am7 | Dm7 G7 | C | Gm7 C7 |
+ F | Bb7 | C | Dm7 G7 |
+ C Am7 | Dm7 G7 | C Am7 | Dm7 G7 |
+ C Am7 | Dm7 G7 | C | C7 |
+ F | Bb7 | C | Gm7 C7 |
+ F | Bb7 | C | Bbm7 Eb7 |
+ Ab | Ab | Ebm7 | Ab7 |
+ Db | Db | Abm7 | Db7 |
+ B | B7 | CM7 | CM7 |
+ Bm7 E7 | Am7 D7 | Dm7 | G7 |
+ C Am7 | Dm7 G7 | C Am7 | Dm7 G7 |
+ C Am7 | Dm7 G7 | C | Gm7 C7 |
+ F | Bb7 | C | Gm7 C7 |
+ F | Dm7 G7 | C | Dm7 G7 |
+

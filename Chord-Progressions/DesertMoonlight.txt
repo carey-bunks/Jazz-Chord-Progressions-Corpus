@@ -1,0 +1,19 @@
+Title = Desert Moonlight
+DB Key = F
+TimeSig = 4 4
+Bars = 56
+ Dm7 | Dm7 | Em11 | Em11 |
+ Eb7 | Eb7 | Dm69 | Dm69 |
+ Dm7 | Dm6 | FM7 | EbM7 |
+ Em13 | Eb7b5 | Dm69 | Dm69 |
+ Dm7 | Dm7 | Em11 | Em11 |
+ Eb7 | Eb7 | Dm69 | Dm69 |
+ Dm7 | Dm6 | FM7 | EbM7 |
+ Em13 | Eb7b5 | Dm69 | Dm69 |
+ A7#9 | A7#9 | DmM7 | DmM7 |
+ FM7 | EbM7 | EM7 | Eb7b5 |
+ Dm7 | Dm7 | Em11 | Em11 |
+ Eb7 | Eb7 | Dm69 | Dm69 |
+ Dm7 | Dm6 | FM7 | EbM7 |
+ Em13 | Eb7b5 | Dm69 | Dm69 |
+

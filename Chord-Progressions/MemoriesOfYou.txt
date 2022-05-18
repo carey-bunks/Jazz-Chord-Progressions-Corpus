@@ -1,0 +1,12 @@
+Title = Memories Of You
+DB Key = Eb
+TimeSig = 4 4
+Bars = 30
+ EbM7 Eo7 | Fm7 F#o7 | EbM7/G Cm7 | Am7b5 Abm6 |
+ EbM7 D7 | Db13 C7b9 | F7 Bb9 | Eb Eb Fm7 Bb7 EbM7 Eo7 |
+ Fm7 F#o7 | EbM7/G Cm7 | Am7b5 Abm6 | EbM7 D7 |
+ Db13 C7b9 | F7 Bb9 | Eb Eb Dm7b5 G7 Cm | Ab9 |
+ Cm7 | F9 G7 | Cm | F9sus4 F9 |
+ Gm7 C7 | Fm7 Bb7 | EbM7 Eo7 | Fm7 F#o7 |
+ EbM7/G Cm7 | Am7b5 Abm6 | EbM7 D7 | Db13 C7b9 |
+ F7 Bb9 | Eb |

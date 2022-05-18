@@ -1,0 +1,13 @@
+Title = Things To Come
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ vim viio | vim viio | vim | viih iii7 |
+ vim viio | vim viio | vim | vim |
+ vim viio | vim viio | vim | viih iii7 |
+ vim viio | vim viio | vim | vim |
+ vim | ii7 | vM | vM |
+ vm | i7 | ivM | viih iii7 |
+ vim viio | vim viio | vim | viih iii7 |
+ vim viio | vim viio | vim | vim |

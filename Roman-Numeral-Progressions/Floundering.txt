@@ -1,0 +1,13 @@
+Title = Floundering
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 31
+ iim | biiim | iim | biiim |
+ vm | bvim | vm | vim |
+ iiim | vi7 | iiM | iiM |
+ iim | v7 | iM | iM |
+ biiiM | iv7 | bviiM | iim |
+ iiim | iiim | iiih | vi7 |
+ iim | biiim | iim | biiim |
+ iim | biiim | iiM |

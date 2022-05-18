@@ -1,0 +1,13 @@
+Title = Seems to Me
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 | Gm7 | Cm7 | F7 |
+ BbM7 | Gm7 | Cm7 | F7 D7 |
+ Gm7 Gb7+ | Fm7 Bb7 | EbM7 | Ab7#11 |
+ DbM7 | Gb7#11 | Cm7 | F7 |
+ BbM7 | Gm7 | Cm7 | F7 |
+ BbM7 | Gm7 | Cm7 | F7 D7 |
+ Gm7 Gb7+ | Fm7 Bb7 | EbM7 | Ab7#11 |
+ DbM7 Bb7 | Ebm7 Ab7 | Db69 | Db69 |
+

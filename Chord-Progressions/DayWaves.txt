@@ -1,0 +1,11 @@
+Title = Day Waves
+DB Key = C
+TimeSig = 4 4
+Bars = 25
+ Dm7 | Bb | Gm6 | Em7 FM7#11 |
+ G7 Am7 | Dm7 | E7#9 | F |
+ F#m7b5 | G7sus4 | G7sus4 | Eb7#11/G |
+ Eb7#11/G | F#m7b5 | FmM7 | C/E |
+ B7/D# | G/D | A/C# | F/C |
+ Ab7sus4 | Ab7 Bbm7 | Bbm7 | Eo7 EM7 |
+ EM7 |

@@ -1,0 +1,16 @@
+Title = Without You
+DB Key = C
+EstKeySig = E
+TimeSig = 4 4
+Bars = 44
+ iM | iM | iM | biiim |
+ biim | biiiM | bvim bvim | bii7 bii7 |
+ iM | v7 v7 | iM | biiim |
+ biim | biiiM | bvim bvim | bii7 bii7 |
+ iM | v7 | iM | bvim |
+ biim | v7 | iM | bvim |
+ biim | v7 | v7 | iM |
+ biiim | biim | biiiM | bvim bvim |
+ bii7 bii7 | iM | v7 | iM |
+ bvim | biim | v7 | iM |
+ bvim | biim | v7 | iM |

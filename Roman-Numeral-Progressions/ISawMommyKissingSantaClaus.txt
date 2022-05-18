@@ -1,0 +1,13 @@
+Title = I Saw Mommy Kissing Santa Claus
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM iM iM v7 | iM vim | iiim | vim |
+ iM | iM | v7 | v7 |
+ v7 v7 v7 vo | v7 v7 v7 v7 | iM io | iM |
+ ii7 | ii7 | v7 ivm | v7 v7 v7 v7 |
+ iM iM iM v7 | iM vim | iiim | vim |
+ iM iM | i7 | ivM vi7 | iim |
+ ivM | vii7 | iM vi7 | iim v7 |
+ iM ivM | ivm v7 | iM biiio | iim v7 |

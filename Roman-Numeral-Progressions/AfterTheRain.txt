@@ -1,0 +1,12 @@
+Title = After The Rain
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 27
+ iiM iiM iiM viiM | iM | ivM ivM ivM ivo | iM |
+ ivM ivo | iM viiM | ivm ivm | iM |
+ v7 | iiM iiM iiM viiM | iM | ivM ivM ivM ivo |
+ iM | ivM ivo | iM viiM | ivm ivm |
+ iM | v7 | iM | v7 |
+ iM | v7 | iM | v7 |
+ iM | v7 | iM |

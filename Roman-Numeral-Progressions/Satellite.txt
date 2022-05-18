@@ -1,0 +1,14 @@
+Title = Satellite
+DB Key = G
+EstKeySig = D
+TimeSig = 4 4
+Bars = 36
+ ivM iv7 | iv7 iv7 | ivM ivM | ivM bvii7 |
+ biiiM biii7 | biii7 biii7 | biiiM biiiM | biiiM bvi7 |
+ biiM | vm i7 | ivm | vm i7 |
+ ivM | biiim bvi7 | biiM | vm i7 |
+ ivM iv7 | iv7 iv7 | ivM ivM | ivM bvii7 |
+ biiiM biii7 | biii7 biii7 | biiiM biiiM | biiiM bvi7 |
+ biiM | vm i7 | ivM | bviim biii7 |
+ iM | iM | iM | iM |
+ iM | iM | iM | iM |

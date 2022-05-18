@@ -1,0 +1,11 @@
+Title = Early Morning Mood
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 24
+ iM | iM | iv7 | ivo |
+ iM | iM | i7 | i7 |
+ iv7 | iv7 | iv7 | iv7 |
+ iM | iM | iiim | biiim |
+ iim | iim | v7 | v7 |
+ iM | iv7 | iM | v7 |

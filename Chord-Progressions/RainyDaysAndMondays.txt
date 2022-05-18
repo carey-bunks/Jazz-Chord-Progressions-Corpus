@@ -1,0 +1,13 @@
+Title = Rainy Days and Mondays
+DB Key = Eb
+TimeSig = 4 4
+Bars = 33
+ Eb Gm/D | Gm7b5/Db Gm7b5/Db C7sus4 C7 | Fm11 Gm7 | Fm11/Ab Gm7 |
+ Cm7 Cm7/Bb AbM7 AbM7/G | Fm7 Fm7/Bb Eb Eb/G | Ab Ab/Bb | Eb/Bb Bb7sus4 |
+ Eb Gm/D | Gm7b5/Db Gm7b5/Db C7sus4 C7 | Fm11 Gm7 | Fm11/Ab Gm7 |
+ Cm7 Cm7/Bb AbM7 AbM7/G | Fm7 Fm7/Bb Eb Eb/G | Ab Ab/Bb | Eb/Bb G7/B |
+ Cm7 AbM7 | Fm7 Bb7 EbM7 EbM7 | Gm7 AbM7 | Bb7sus4/F Bb7sus4/F Bb7 G7/B |
+ Cm7 AbM7 | Fm7 Bb7 Gm7 Gm7 | Gm7 AbM7 | Bb7sus4/F Bb7sus4/F Bb |
+ Bb7sus4/F Bb | Eb Gm/D | Gm7b5/Db Gm7b5/Db C7sus4 C7 | Fm11 Gm7 |
+ Fm11/Ab Gm7 | Cm7 Cm7/Bb AbM7 AbM7/G | Fm7 Fm7/Bb Eb Eb/G | Ab Ab/Bb |
+ Eb/Bb |

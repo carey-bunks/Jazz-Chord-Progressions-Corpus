@@ -1,0 +1,13 @@
+Title = Someone to Watch Over Me
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM i7 | ivM ivo | iM io | v7 vo |
+ iim | iim v7 | iM | iim v7 |
+ iM i7 | ivM ivo | iM io | v7 vo |
+ iim | iim v7 | iM | iM i7 |
+ ivM | ivM | ivM | iM |
+ vii7 | iii7 | vi7 | ii7 v7 |
+ iM i7 | ivM ivo | iM io | v7 vo |
+ iim | iim v7 | iM | iM |

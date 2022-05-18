@@ -1,0 +1,21 @@
+Title = Del Sasser
+DB Key = F
+TimeSig = 4 4
+Bars = 64
+ Fm7 | Bb7 | Eb | Eb |
+ Fm | Bb7 | Eb | Eb |
+ Eb | Cm7 Bb7 | Am7b5 | Abm7 |
+ Gm7 C7 | Fm7 Bb7 | Eb | Eb |
+ Fm7 | Bb7 | Eb | Eb |
+ Fm | Bb7 | Eb | Eb |
+ Eb | Cm7 Bb7 | Am7b5 | Abm7 |
+ Gm7 C7 | Fm7 Bb7 | Eb | Eb |
+ Bbm7 | Eb7 | Ab | F7#5#9 |
+ Bbm7 | Eb7 | Ab | Ab |
+ Gm7 | C7 | F | F |
+ Fm7 | Bb7 | Gm7 | C7 |
+ Fm7 | Bb7 | Eb | Eb |
+ Fm | Bb7 | Eb | Eb |
+ Eb | Cm7 Bb7 | Am7b5 | Abm7 |
+ Gm7 C7 | Fm7 Bb7 | Eb | Eb |
+

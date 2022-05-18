@@ -1,0 +1,15 @@
+Title = Rattler's Groove
+DB Key = Eb
+TimeSig = 4 4
+Bars = 40
+ Eb | Abm7 Db7 | Gm7 C7 | Gbm7 B7 |
+ Fm7 Bb7+ | Bb7+ | Eb | Fm Bb7 |
+ Eb | Fm7 Bb7 | Eb | Fm7 Bb7 |
+ Eb | Am7b5 D7+ | Gm | Am7b5 D7 |
+ Gm | Am7b5 D7 | Gm7 | C7 |
+ Fm7 | Bb7 | Eb | Bbm7 Eb7 |
+ Ab | Gm7 C7 | Fm7 | Bb7 G7 |
+ Cm | Fm7 Bb7 | Eb | Fm Bb7 |
+ Eb | Fm7 Bb7 | Eb | Fm7 Bb7 |
+ Eb C7 | Gbm7 B7 | Fm7 Bb7+ | Bb7+ |
+

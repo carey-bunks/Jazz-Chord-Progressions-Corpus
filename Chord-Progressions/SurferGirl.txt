@@ -1,0 +1,13 @@
+Title = Surfer Girl
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F Dm | Bb C7 | FM7 F7 | Bb Bbm6 |
+ F Dm | Bb C7 | F Dm | Bb C7 |
+ F Dm | Bb C7 | FM7 F7 | Bb Bbm6 |
+ F Dm | Bb C7 | F Bb | F F7 |
+ Bb C7 | F Am | Gm7 C7 | F |
+ Bb C7 | F Am | Dm7 G7 | C7 C7#5 |
+ F Dm | Bb C7 | FM7 F7 | Bb Bbm6 |
+ F Dm | Bb C7 | F Bb | F |
+

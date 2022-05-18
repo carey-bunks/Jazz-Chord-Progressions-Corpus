@@ -1,0 +1,13 @@
+Title = Milano
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iim v7 | iM vim | iim v7 | i7 iv7 |
+ ivM ivM iim v7 | iiim vi7 | iim v7 | iM vi7 |
+ iim v7 | iM vim | iim v7 | i7 iv7 |
+ ivM ivM iim v7 | iiim vi7 | iim v7 | vm i7 |
+ ivM ivm | iiim vim vim vim | iim v7 | i7 i7 vm i7 |
+ ivM ivm | iiim vim vim vim | ivh vii7 | iiim vi7 |
+ iim v7 | iM vim | iim v7 | i7 iv7 |
+ ivM ivM iim v7 | iiim vi7 | iim v7 | iM vi7 |

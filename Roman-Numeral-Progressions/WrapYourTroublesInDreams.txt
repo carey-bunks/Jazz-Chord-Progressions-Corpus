@@ -1,0 +1,13 @@
+Title = Wrap Your Troubles In Dreams
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM v7 | iM iM iM v7 | iM iM viih iii7 | vim |
+ vim | ii7 | iim v7 | iM v7 |
+ iM v7 | iM iM iM v7 | iM iM viih iii7 | vim |
+ vim | ii7 | iim v7 | iM iii7 |
+ vim vii7 | iii7 vi7 | ii7 v7 | iM iii7 |
+ vim vii7 | iii7 vi7 | ii7 v7 | iM v7 |
+ iM v7 | iM iM iM v7 | iM iM viih iii7 | vim |
+ vim | ii7 | iim v7 | iM v7 |

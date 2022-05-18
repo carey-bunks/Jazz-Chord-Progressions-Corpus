@@ -1,0 +1,13 @@
+Title = Django
+DB Key = Ab
+TimeSig = 4 4
+Bars = 32
+ Fm Dm7b5 | G7 C7 | F7 Bbm | Eb7 Ab |
+ Db | Gm7b5 C7 | Fm Dm7b5 | G7 C7 |
+ F7 Bbm | Eb7 Ab | Db7 C7 | Fm |
+ F7 | Bbm | F7 | Bbm |
+ F7 | Bbm | F C7 | F F7 |
+ Bbm Gm7b5 | C7 F7 | Bb7 Ebm7 | Ab7 Db |
+ Gb7 | Gb7 | Db7 | Db7 |
+ Gb7 | Gb7 | Db7 | Db7 |
+

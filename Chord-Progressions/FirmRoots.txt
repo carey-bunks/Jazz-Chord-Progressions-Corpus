@@ -1,0 +1,16 @@
+Title = Firm Roots
+DB Key = C
+TimeSig = 4 4
+Bars = 44
+ Fm7/Bb7 | Bb7b9 | Ebo7/Bb | EbM7/Bb |
+ Fm7/Bb7 | Bb7b9 | Ebo7/Bb | EbM7/Bb |
+ Dm7/G | G7 | CM7/G | CM7/G |
+ Cm7b5/F | F7b9 | BbM7 | BbM7 |
+ Fm7/Bb7 | Bb7b9 | Ebo7/Bb | EbM7/Bb |
+ Fm7/Bb7 | Bb7b9 | Ebo7/Bb | EbM7/Bb |
+ Dm7/G | G7 | CM7/G | CM7/G |
+ Cm7b5/F | F7b9 | BbM7 | BbM7 |
+ Fm11 | Gm11 | Am11 | Bbm11 |
+ Ebm9/Ab | Ebm9/Ab | Ebm9/Ab | Ebm9/Ab |
+ Cm11/F | Cm11/F | Cm11/F | Cm11/F |
+

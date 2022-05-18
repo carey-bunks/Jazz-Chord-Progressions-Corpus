@@ -1,0 +1,14 @@
+Title = Pretty Eyes
+DB Key = Gb
+EstKeySig = B
+TimeSig = 4 4
+Bars = 34
+ iiim | iim | iiim | iim |
+ iiim | iim | iiim | iim |
+ iiim | iim | iiim | iim |
+ iiim | iim | iiim | iim |
+ im | iv7 | bviiM | bviiM |
+ bviim | biii7 | bviM | bviM |
+ bvh | vii7 | iiim | iim |
+ iiim | iim | iiim | iim |
+ iiim | iim |

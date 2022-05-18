@@ -1,0 +1,13 @@
+Title = Please Don't Talk About Me When I'm Gone
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iii7 | vi7 | vi7 |
+ ii7 | v7 | iM vi7 | ii7 v7 |
+ iM | iii7 | vi7 | vi7 |
+ ii7 | v7 | iM iM ivM bvo | iM |
+ iii7 | iii7 | vi7 | vi7 |
+ ii7 | ii7 | v7 | v7 |
+ iM | iii7 | vi7 | vi7 |
+ ii7 | v7 | iM iM ivM bvo | iM |

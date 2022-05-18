@@ -1,0 +1,13 @@
+Title = I've Found A New Baby
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ vim | viih iii7 | vim | vi7 |
+ ii7 | v7 | iM | viih iii7 |
+ vim | viih iii7 | vim | vi7 |
+ ii7 | v7 | iM | iM |
+ iii7 | iii7 | vim | vim |
+ ii7 | ii7 | v7 | iii7 |
+ vim | viih iii7 | vim | vi7 |
+ ii7 | v7 | iM | viih iii7 |

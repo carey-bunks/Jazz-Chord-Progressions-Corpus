@@ -1,0 +1,11 @@
+Title = The Stopper
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 24
+ iM | vim | ivM | v7 |
+ vim | v7 | ivM | v7 |
+ iM | vim | ivM | v7 |
+ vim | v7 | ivM | v7 |
+ iM | iM | iiim | iiim |
+ vim | v7 | ivM | v7 |

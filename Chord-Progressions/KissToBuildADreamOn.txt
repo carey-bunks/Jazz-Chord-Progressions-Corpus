@@ -1,0 +1,13 @@
+Title = A Kiss To Build A Dream On
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ CM7 Dm7 | Em7 Ebo7 | Dm7 A7alt | Dm7 G7 |
+ Dm7 A7alt | Dm7 G7 | CM7 A7alt | Dm7 G7 |
+ CM7 Dm7 | Em7 Ebo7 | Dm7 A7alt | Dm7 G7 |
+ Dm7 A7alt | Dm7 G7 | CM7 Fm6 | CM7 |
+ Fm7 Bb7 | EbM7 Eo7 | Fm7 Bb7 | EbM7 |
+ Dm7b5 G7alt | Cm7 Cm7/Bb | Am7 D7 | Dm7 G7 |
+ CM7 Dm7 | Em7 Ebo7 | Dm7 A7alt | Dm7 G7 |
+ Dm7 A7alt | Dm7 G7 | CM7 A7alt | Dm7 G7 |
+

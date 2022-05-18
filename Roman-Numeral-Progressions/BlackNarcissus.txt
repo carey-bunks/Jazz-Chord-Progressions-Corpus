@@ -1,0 +1,11 @@
+Title = Black Narcissus
+DB Key = C
+EstKeySig = Gb
+TimeSig = 3 4
+Bars = 24
+ iim | iiim | iim | iiim |
+ iim | iiim | iim | ivM |
+ viim | biim | viim | iim |
+ viim | iim | viim | biiiM |
+ viM | viiM | iiiM | bvM |
+ viM | viiM iiiM | biiM iiM | iiiM bvM bvM |

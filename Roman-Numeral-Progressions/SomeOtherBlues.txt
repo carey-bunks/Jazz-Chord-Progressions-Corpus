@@ -1,0 +1,8 @@
+Title = Some Other Blues
+DB Key = F
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ v7 | i7 | v7 | v7 bii7 |
+ i7 | iv7 | bvii7 | biii7 |
+ ii7 | i7 | v7 | v7 ii7 |

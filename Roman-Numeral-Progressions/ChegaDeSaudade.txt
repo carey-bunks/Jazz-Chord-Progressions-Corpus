@@ -1,0 +1,22 @@
+Title = Chega De Saudade
+DB Key = F
+EstKeySig = D
+TimeSig = 4 4
+Bars = 68
+ im | im | ii7 | ii7 |
+ iih | v7 | im | iih v7 |
+ im | vih ii7 | vm | vm |
+ bviM | bviM | v7 | v7 |
+ im | im | ii7 | ii7 |
+ iih | v7 | im | i7 |
+ ivm ivm | v7 v7 | im | im |
+ vih | bvim | im | v7 |
+ iM | vi7 | iim | iim |
+ v7 v7 | v7 | io | iM |
+ biiim | biiio | iim | iim |
+ ii7 | ii7 | iih | v7 |
+ iM | iM | vim | ii7 |
+ biii7 | biii7 | vim bvim | vm i7 |
+ ivM | ivm | biiim | vi7 vi7 |
+ ii7 | iim v7 | biiim | vi7 |
+ ii7 | iim v7 | iM | v7 |

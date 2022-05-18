@@ -1,0 +1,10 @@
+Title = Withita Lineman
+DB Key = Bb
+EstKeySig = F
+TimeSig = 4 4
+Bars = 18
+ ivM | iiim vim | i7 | vim iiim |
+ iiM | viM | viM | vM |
+ vM | iiM | iim | viM |
+ iiM | ivM | vM | ivM |
+ iim | iim |

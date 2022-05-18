@@ -1,0 +1,13 @@
+Title = Airmail Special
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iM | iM |
+ iM | iM | iM | iM |
+ iM | iM | iM | iM |
+ iM | iM | iM | iM |
+ biiio | biiio | biiio | biiio |
+ io viio | bviio | bvi7 | v7 |
+ iM | iM | iM | iM |
+ iM | iM | iM | iM |

@@ -1,0 +1,10 @@
+Title = Cornbread
+DB Key = F
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 20
+ iim | iim | iim | iim |
+ iim | iim | vi7 | vi7 |
+ ii7 | ii7 | v7 | v7 |
+ ii7 | v7 | ii7 | v7 |
+ iiM viim | iii7 vi7 | iim | iim |

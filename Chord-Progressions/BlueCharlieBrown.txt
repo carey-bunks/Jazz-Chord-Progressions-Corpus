@@ -1,0 +1,8 @@
+Title = Blue Charlie Brown
+DB Key = F
+TimeSig = 4 4
+Bars = 12
+ F7 | Bb7 | F7 | F7 |
+ Bb7 | Bb7 | F7 | D7b9 |
+ Gm7 | C7 | F7 | C7#9 |
+

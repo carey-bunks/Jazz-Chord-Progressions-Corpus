@@ -1,0 +1,12 @@
+Title = Cast Your Fate To The Wind
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 26
+ vM | iM | vM | ivM |
+ vM | iM | ivM v7 | iM iM ivM v7 |
+ v7 ivM | iM ivM | v7 ivM | vM |
+ iM | vM | ivM | vM |
+ iM | ivM v7 | iM iM ivM v7 | v7 ivM |
+ iM ivM | v7 ivM | i7 v7 | v7 iv7 |
+ i7 iv7 | v7 iv7 |

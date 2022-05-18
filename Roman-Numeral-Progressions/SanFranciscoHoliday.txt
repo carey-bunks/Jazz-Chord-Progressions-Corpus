@@ -1,0 +1,13 @@
+Title = San Francisco Holiday
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ bvh vii7 | iiih vi7 | v7 | iim v7 v7 v7 |
+ bvh vii7 | iiih vi7 | v7 | v7 |
+ bvh vii7 | iiih vi7 | v7 | iim v7 v7 v7 |
+ bvh vii7 | iiih vi7 | v7 | v7 v7 v7 v7 |
+ vih | vih ii7 | vih ii7 | vih ii7 |
+ vih | vih ii7 | vih ii7 | vih ii7 |
+ bvh vii7 | iiih vi7 | v7 | iim v7 v7 v7 |
+ bvh vii7 | iiih vi7 | v7 | bviiM bviM bviM bviM |

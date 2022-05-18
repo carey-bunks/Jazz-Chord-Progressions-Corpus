@@ -1,0 +1,13 @@
+Title = Oblivion
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Am7b5 D7 | D7 | Gm7b5 C7 | C7 |
+ Fm7 Bb7 | Bb7 | Eb7 | A7 |
+ Ab Abm7 | Abm7 | Eb | Cm7 |
+ F7 | F7 | Fm7 | Bb7 |
+ Am7b5 D7 | D7 | Gm7b5 C7 | C7 |
+ Fm7 Bb7 | Bb7 | Eb7 | A7 |
+ Ab Abm7 | Abm7 | Eb | Cm7 |
+ F7 | Bb7 | Eb | Eb |
+

@@ -1,0 +1,16 @@
+Title = My Way
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 44
+ iM | iiim | iiih | vi7 |
+ iim | iim | iim v7 | iM |
+ iM | vm i7 | ivM | ivm |
+ iM vim | iim v7 | ivM | iM |
+ iM | iiim | iiih | vi7 |
+ iim | iim | iim v7 | iM |
+ iM | vm i7 | ivM | ivm |
+ iM vim | iim v7 | ivM | iM ivM |
+ iM | vm i7 | ivM | ivM ivM ivM ivM |
+ iim | v7 | iiim | vim |
+ iim | v7 | ivM | iM iM iM iim |

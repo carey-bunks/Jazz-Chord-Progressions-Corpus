@@ -1,0 +1,11 @@
+Title = Whittlin'
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 24
+ vim | iim | vim | viM vim |
+ iim | ii7 iv7 | vim | bv7 |
+ ivM | iiM iii7 | vim v7 | ivM iii7 |
+ vim | vim | vim | vim |
+ iim | iim | vim | vim |
+ iv7 | iii7 | vim | vim iii7 |

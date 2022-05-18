@@ -1,0 +1,19 @@
+Title = Do You Hear What I Hear?
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 56
+ iM iM ivM vM | iM | iM iM iM iM | iM iM iM iM |
+ iM iM ivM vM | iM | iM iM iM iM | iM iM iM iM |
+ vim | iiim | ivM vM | iM vM vim vim |
+ ivM v7 | i7 iM | iM iM ivM v7 | iM |
+ iM iM iM iM | iM iM iM iM | vim | iiim |
+ ivM vM | iM vM vim vM | ivM | v7 |
+ iiim ivM | ivM v7 | i7 iM | vim |
+ iiim | ivM vM | viM | ivM ivM v7 v7 |
+ iM i7 iM iM | iM iM ivM v7 | iM iM iM i7 | iM |
+ iM iM iM iM | iM iM iM iM | vim | iiim |
+ ivM vM | iM vM vim iiim | ivM ivM v7 v7 | iiim ivM |
+ ivM v7 | ivM iM | iim v7 | iM iM iM iM |
+ vim | ivM v7 | iim iim iM iM | ivM ivM v7 v7 |
+ iM ivM | iM ivM | iM | iM |

@@ -1,0 +1,16 @@
+Title = Little Dancer
+DB Key = Db
+TimeSig = 3 4
+Bars = 44
+ Gm7b5 | C7b9 | Fm7b5 | Bb7b9 |
+ Ebm7 | Ab7b9 | DbM7 | G7#11 |
+ GbM7 | GbM7 | F#m7 | B7 |
+ Bbm7 | Eb7 | Em7 A7 | Ebm7 Ab7 |
+ Gm7b5 | C7b9 | Fm7b5 | Bb7b9 |
+ Ebm7 | Ab7b9 | DbM7 | G7#11 |
+ GbM7 | GbM7 | F#m7 | B7 |
+ Bbm7 | Bbm7/Ab | Gm7b5 | F#m7 F#m7 B7 |
+ EM7 | Bb7b9 | AM7 | DM7#11 |
+ Ebm7/Ab | Ab7 | Ebm7/Ab | Ab7 |
+ Ebm7/Ab | Ab7 | Ebm7/Ab | Ab7 |
+

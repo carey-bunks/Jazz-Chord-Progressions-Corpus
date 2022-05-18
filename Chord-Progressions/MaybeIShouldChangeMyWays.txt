@@ -1,0 +1,13 @@
+Title = Maybe I Should Change My Ways
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Cm7b5 F7b9 | BbM7 | Eb7 D7#5 | G7 |
+ C7 B7 | Bb7 | EbM7 | EbM7 |
+ EbM7 | Ebm6 Ab7 | BbM7 | Dm7 Db7#11 |
+ Cm7b5 | G7 G7 C7 F7 | BbM7 | BbM7 |
+ Cm7b5 F7b9 | BbM7 | Eb7 D7#5 | G7 |
+ C7 B7 | Bb7 | EbM7 | EbM7 |
+ EbM7 | Ebm6 Ab7 | BbM7 | Dm7 Db7#11 |
+ Cm7b5 | G7 G7 C7 F7 | Bb6 | Bb6 |
+

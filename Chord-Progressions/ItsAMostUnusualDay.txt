@@ -1,0 +1,23 @@
+Title = It's A Most Unusual Day
+DB Key = G
+TimeSig = 3 4
+Bars = 72
+ F#/G F#/G G | Em7 | Am7 | D7 |
+ F#/G F#/G G | Em7 | Am7 | D7 |
+ G/B | CM7 | C#o7 | G/D |
+ Bm7 | Em7 | A7 | D7 |
+ F#/G F#/G G | Em7 | Am7 | D7 |
+ F#/G F#/G G | Em7 | Am7 | D7 |
+ G/B | CM7 | C#o7 | G/D |
+ Am7 | D7 | G6 | G6 Em7 Ebm7 |
+ Dm7 | G7 | CM7 | C6 Em7 Ebm7 |
+ Dm7 | G7 | CM7 | C6 F#m7 Fm7 |
+ Em7 | A7 | DM7 | D6 |
+ Am7 | D7 | Am7 | D7 |
+ F#/G F#/G G | Em7 | Am7 | D7 |
+ F#/G F#/G G | Em7 | Am7 | D7 |
+ G/B | CM7 | C#o7 | G/D |
+ Bm7 | Em7 | A7 | D7 |
+ Bm7 | CM7 | Bm7 | CM7 |
+ Bm7 | Am7 Am7 D7b9 | G6 | D7sus4 |
+

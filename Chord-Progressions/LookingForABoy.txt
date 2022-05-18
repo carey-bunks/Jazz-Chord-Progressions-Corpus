@@ -1,0 +1,13 @@
+Title = Looking For A Boy
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ G | G | Gm7 C7 | G |
+ Gm7 C7 | D7 | G | Am7 D7 |
+ G | G | Gm7 C7 | G |
+ Bm | F#7 | Bm | E7 |
+ Am | Bm7b5 E7 | Am | Bm7b5 E7 |
+ Am | Em7 A7 | D7 | D7 |
+ G | G | Gm7 C7 | G |
+ Gm7 C7 | D7 | G | G |
+

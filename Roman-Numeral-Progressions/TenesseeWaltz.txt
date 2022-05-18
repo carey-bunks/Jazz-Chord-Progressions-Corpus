@@ -1,0 +1,13 @@
+Title = The Tennessee Waltz
+DB Key = C
+EstKeySig = C
+TimeSig = 3 4
+Bars = 32
+ iM | iM | i7 | ivM |
+ iM | iM | v7 | v7 |
+ iM | iM | i7 | ivM |
+ iM | v7 | iM | iM |
+ iM | iii7 | ivM | iM |
+ iM | iM | v7 | v7 |
+ iM | iM | i7 | ivM |
+ iM | v7 | iM | iM |

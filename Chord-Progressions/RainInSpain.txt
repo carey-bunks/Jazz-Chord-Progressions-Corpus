@@ -1,0 +1,11 @@
+Title = The Rain in Spain
+DB Key = F
+TimeSig = 4 4
+Bars = 25
+ F F F F#o7 | C7 | F | F |
+ F F F C#7 | C7 | F | F |
+ F | Gm7 Gm7 Gm7 C7 | F | C7 |
+ F | Bb Bb Bb Em7b5 | A | E7 |
+ A C7 | F F F F#o7 | C7 | F |
+ F | F F F C#7 | C7 | F |
+ F |

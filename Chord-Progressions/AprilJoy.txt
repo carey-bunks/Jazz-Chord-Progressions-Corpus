@@ -1,0 +1,12 @@
+Title = April Joy
+DB Key = Bb
+TimeSig = 4 4
+Bars = 28
+ BbM7 | BbM7 | BbM7 Am7/D Am7/D Am7/D | Am7/D |
+ BbM7 | BbM7 | BbM7 A/Bb | A/Bb |
+ BbM7 Am7 | BbM7 Am7 | D9 | D9 |
+ Dm7 | BbM7 | Am7 | Am7 |
+ BbM7 | Bb/C | FM7 | BbM7 |
+ BbM7 Am7 | BbM7 Bb/C | FM7 | BbM7 |
+ Em7b5 | A7sus4 | D7sus4 | D7sus4 |
+

@@ -1,0 +1,13 @@
+Title = Autumn Nocturne
+DB Key = C
+TimeSig = 4 4
+Bars = 34
+ CM7 A7b9 | Dm7 Dm7 G9sus4 G#o7 | F/A Am7/G | F#m7b5 Fm6 |
+ Em7 Ebo7 | Dm7 G7#5 | E7#5 E7 A7b9 A7b9 | D9 G7#5b9 |
+ CM7 CM7 A9sus4 A7b9 | Dm7 Dm7 Bm7b5 E7#5b9 | Am7 Am7/G | F#m7b5 Fm6 |
+ Em7 Ebo7 | Em7b5 A7#5b9 | D9 G7#5b9 | C6 C6 F#m7b5 B7b9 |
+ EM7 F9#11 | EM7 F9#11 | EM7 F9#11 | F#m7 F#m7 Am7 D7b9 |
+ GM9 Ab9#11 | GM9 Ab9#11 | GM9 GM9 A7b9 D7b9 | Dm9 Dm9 G7#5 G13 |
+ CM7 CM7 A9sus4 A7b9 | Dm7 Dm7 Bm7 E7#5b9 | Am7 Am7/G | F#m7b5 Fm6 |
+ Em7 Em7 A7#5b9 A7b9 | D9 G7#5b9 | CM9 Db9 | Dm9 Db9 |
+ CM9 Db9#11 | CM9 |

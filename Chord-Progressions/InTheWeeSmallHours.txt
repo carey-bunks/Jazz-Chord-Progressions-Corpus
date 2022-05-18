@@ -1,0 +1,9 @@
+Title = In The Wee Small Hours
+DB Key = C
+TimeSig = 4 4
+Bars = 18
+ C C+ | C6 C+ | C C+ | Dm7 G7 |
+ Dm7 G7 | Em7b5 A7+ | F#m7b5 B7alt | Em7 A7b9 Dm7 G7b9 |
+ C C+ | C6 C+ | C C7 | A7 A7alt |
+ Dm7 Ebo7 | Em7 A7b9 | Dm7 | Ab7#11 G7b9 |
+ CM7 | Dm7/G |

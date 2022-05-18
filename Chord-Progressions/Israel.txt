@@ -1,0 +1,8 @@
+Title = Israel
+DB Key = C
+TimeSig = 4 4
+Bars = 12
+ Dm | Dm+ | Dm7 | D7alt |
+ Gm7 | C7 | Dm Em | FM7 BbM7 |
+ E7alt | A7#11 | Dm B7+ | E7alt A7alt |
+

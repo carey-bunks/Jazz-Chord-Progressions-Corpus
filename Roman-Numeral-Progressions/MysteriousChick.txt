@@ -1,0 +1,11 @@
+Title = Mysterious Chick
+DB Key = Gb
+EstKeySig = Gb
+TimeSig = 4 4
+Bars = 24
+ iM | iv7 | iM | i7 |
+ iv7 | ivm | iiim | vi7 |
+ ii7 | v7 | iM | iM |
+ iM | iv7 | iM | i7 |
+ iv7 | ivm | iiim | vi7 |
+ ii7 | v7 | iM | iM |

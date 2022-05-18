@@ -1,0 +1,13 @@
+Title = Frenesi
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iim v7 | iim v7 | iim v7 | iim v7 |
+ iM | iim v7 | iM | iM NC NC NC |
+ iim v7 | iim v7 | iim v7 | iim v7 |
+ iM | iim v7 | iM | iM NC NC NC |
+ iiiM | iim | iiiM | iiiM NC NC NC |
+ iiiM | vim ii7 | iim | v7 NC NC NC |
+ iim v7 | iim v7 | iim v7 | iim v7 |
+ iM | iim v7 | iM | iM NC NC NC |

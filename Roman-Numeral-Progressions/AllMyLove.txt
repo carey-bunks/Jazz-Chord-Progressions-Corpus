@@ -1,0 +1,13 @@
+Title = All My Love
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ vim vim | vim ii7 | ivm | iM vi7 |
+ iim bii7 | iM | viih | iii7 |
+ vim vim | vim ii7 | ivm | iM vi7 |
+ iim bii7 | iM | viih | iii7 |
+ viM | iiim vi7 | iiM | iiM |
+ ivm vii7 | ivm vii7 | iii7 iM | viih bviiM |
+ vim vim | vim ii7 | ivm | iM vi7 |
+ iim iim | iim v7 | iM biii7 | bviM bii7 |

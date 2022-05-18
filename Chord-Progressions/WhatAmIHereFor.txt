@@ -1,0 +1,13 @@
+Title = What Am I Here For?
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 | Bo7 | Cm7 | F7 |
+ BbM7 | Bo7 | Cm7 | F7 |
+ Bb7 | Bb7#11 | EbM7 | Dm7 G7 |
+ C7 | C7 | Cm7 | Cm7 F7 |
+ BbM7 | Bo7 | Cm7 | F7 |
+ BbM7 | Bo7 | Cm7 | F7 |
+ Bb7 | B7 E7 | EbM7 | Cm7b5 F7 |
+ BbM7 | Bo7 | Cm7 F7 | BbM7 F7#5#9 |
+

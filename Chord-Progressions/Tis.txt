@@ -1,0 +1,8 @@
+Title = Tis'
+DB Key = Eb
+TimeSig = 4 4
+Bars = 12
+ Eb7#9 | Eb7#9 | Eb7#9 | Eb7#9 |
+ Ab7#9 | Ab7#9 | Eb7#9 | Eb7#9 |
+ Fm7 | Bb7#9 Bb7#9 Bb7#9 Eb7#9 | Eb7#9 | Eb7#9 |
+

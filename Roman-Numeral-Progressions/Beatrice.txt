@@ -1,0 +1,9 @@
+Title = Beatrice
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 16
+ iM | biiM | iM | bviiM |
+ vim | bviiM | vim | ivm |
+ iiim | ivM | viih iii7 | vim |
+ iim | biiM | im | biiM |

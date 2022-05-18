@@ -1,0 +1,13 @@
+Title = There Goes My Everything
+DB Key = Bb
+TimeSig = 3 4
+Bars = 32
+ Bb | Eb | Bb | Bb |
+ Bb | F7 | Bb | Bb Bb F7 |
+ Bb | Eb | Bb | Bb |
+ Bb | F7 | Bb | Bb |
+ Bb | F7 | Bb Bb F7 | Bb Bb Bb7 |
+ Eb | F7 | Bb | F7 |
+ Bb | Bb7 | Eb | Eb |
+ Bb | F7 | Bb | F7 |
+

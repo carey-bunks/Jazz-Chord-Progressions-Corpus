@@ -1,0 +1,13 @@
+Title = What's New?
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | bviim biii7 | bviM | iih v7 |
+ im vih | iih v7 | iM vim | iih v7 |
+ iM | bviim biii7 | bviM | iih v7 |
+ im vih | iih v7 | iM | vm i7 |
+ ivM | biiim bvi7 | biiM | vh i7 |
+ ivm iih | vh i7 | ivm | iih v7 |
+ iM | bviim biii7 | bviM | iih v7 |
+ im vih | iih v7 | iM | iim v7 |

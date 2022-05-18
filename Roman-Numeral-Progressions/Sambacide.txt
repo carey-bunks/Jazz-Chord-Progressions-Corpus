@@ -1,0 +1,18 @@
+Title = Sambacide
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 52
+ bv7 | bv7 | vii7 | vii7 |
+ iii7 | iii7 | biiiM | bviM |
+ biiM | bvM | ivM | bviiM |
+ ivM | bviiM | iiim iim | iiim iim |
+ iim im | iim im | biiM | viiM |
+ biiM | viiM | biiM | viiM |
+ viiM viiM v7 | v7 | bv7 | bv7 |
+ vii7 | vii7 | iii7 | iii7 |
+ biiiM | bviM | biiM | bvM |
+ ivM | bviiM | ivM | bviiM |
+ iiim iim | iiim iim | iim im | iim im |
+ biiM | viiM | biiM | viiM |
+ biiM | viiM | viiM viiM v7 | v7 |

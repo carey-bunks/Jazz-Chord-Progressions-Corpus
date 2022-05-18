@@ -1,0 +1,11 @@
+Title = Ballad for Anita
+DB Key = C
+TimeSig = 4 4
+Bars = 24
+ BbM7#11 A7+ | Dm7 C#7+ | BbM7 A7+ | DM7#5 DM7 |
+ C#m7 CM7 | Bm7 E7 | FM7 BbM7 | Em7 Eb7 |
+ DM7 Ab7 | Gm7 GbM7 | FM7 | Gb/Ab Ab/Bb |
+ Bb/C C/D | EbM7 D7b9 | Gm C7 | BM7 Bb7+ |
+ Ebm7 Ab7 | Cm7b5 F7b9 | BbM7#11 A7+ | Dm7 C#7+ |
+ BbM7 A7+ | Dm7 G7 | AbM7 B7 | EM7 G7 |
+

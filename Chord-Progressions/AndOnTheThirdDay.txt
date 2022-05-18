@@ -1,0 +1,12 @@
+Title = And On the Third Day
+DB Key = D
+TimeSig = 4 4
+Bars = 28
+ D7 | D7 | D7 | D7 |
+ D7 | D7 | D7 | D7 |
+ D7 | D7 | Cmaj7 | Cmaj7 |
+ D7 | D7 | E7 | E7 |
+ E7 | E7 | Dmaj7 | Dmaj7 |
+ E7 | E7 | Gb7 | Gb7 |
+ Gbm7b5 | E7 | E7 | E7b5 |
+

@@ -1,0 +1,15 @@
+Title = Agua de Beber
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 40
+ vim | vii7 iii7 | vim | vii7 iii7 |
+ vim | ivM | vim | iiih |
+ vim | vii7 iii7 | vim | vii7 iii7 |
+ vim | ivM | vim | vim |
+ vii7 | iii7 | vim | vim |
+ iim | v7 | iM | iM |
+ vii7 bvii7 | vim bvio | i7 i7 | vii7 |
+ vii7 | iii7 | vim | vi7 |
+ ii7 | iim | vim | vim |
+ ii7 | iim | vim | NC iiim iiim iiim |

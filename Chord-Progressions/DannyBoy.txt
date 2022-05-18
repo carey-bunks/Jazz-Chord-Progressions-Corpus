@@ -1,0 +1,13 @@
+Title = Danny Boy
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Eb | Eb Eb7 | Ab | Fm7 Bb7 |
+ Eb | Cm7 | F7 | Bb7 |
+ Eb | Eb Eb7 | Ab | Abm |
+ Gm7 C7 | Fm7 Bb7 | Eb | Eb Bb7 |
+ Eb | Ab | Eb | Eb Bb7 |
+ Eb | Ab | Fm7 | Bb7 |
+ Eb7 | Ab Ao | Eb Cm7 | F7 Abm |
+ Eb | Fm7 Bb7 | Eb | Eb |
+

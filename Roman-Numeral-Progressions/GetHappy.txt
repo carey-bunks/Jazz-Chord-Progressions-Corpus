@@ -1,0 +1,13 @@
+Title = Get Happy
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM iim | iiim iim | iM iim | iM iim |
+ iM iim | iiim iim | iM v7 | iM i7 |
+ ivM vm | vim vm | ivM vm | ivM vm |
+ ivM vm | vim vm | ivM i7 | ivM ivM ivM v7 |
+ iv7 | bvii7 | vi7 | v7 |
+ iv7 | bvii7 | vi7 ii7 | v7 |
+ iM iim | iiim iim | iM iim | iM iim |
+ iM iim | iiim iim | iM v7 | iM iM iim v7 |

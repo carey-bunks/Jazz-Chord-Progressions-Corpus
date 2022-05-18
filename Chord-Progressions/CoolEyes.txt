@@ -1,0 +1,13 @@
+Title = Cool Eyes
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb7 | Eb7 Ab7 | Dm7 G7 | F#m7 B7 |
+ Bb7 | Eb7 Eo7 | Bb/F | F7 Bb69 |
+ Bb7 Do7 | Dbo7 Co7 | Dm7 G7 | F#m7 B7 |
+ Bb7 | Eb7 Eo7 | Bb/F | F7 Bb69 |
+ Fm7 | Bb7#9 | EbM7 | EbM7 |
+ Gm7 | C7 | F7+ | F7+ |
+ Bb7 | Eb7 Eo7 | Bb/F G7 | F#m7 B7 |
+ Bb7 | Eb7 Eo7 | Bb/F | F7 Bb69 |
+

@@ -1,0 +1,8 @@
+Title = Neal's Blues
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 12
+ v7 v7 | i7 bv7 | v7 iim | v7 i7 |
+ i7 iv7 | bvii7 i7 | v7 iim | v7 |
+ ii7 | i7 | v7 v7 iim v7 | v7 |

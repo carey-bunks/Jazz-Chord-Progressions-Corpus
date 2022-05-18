@@ -1,0 +1,25 @@
+Title = Make Me Do Anything You Want
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 80
+ iM iM | iim iim | iM iM | vM vM |
+ iM iM | iim iim | iM iM | iim iim |
+ iM iM | iM iM | iM iM | iim iim |
+ iM iM | iim iim | iM iM | iM iM |
+ iM iM | iM ivM | ivM iM | vim iM |
+ iM iM | iM ivM | ivM iM | vim iM |
+ iM iM | iim iim | iM iM | vM vM |
+ iM iM | iim iim | iM iM | vM vM |
+ iM iM | iM ivM | ivM iM | vim iM |
+ iM iM | iM ivM | ivM iM | vim iM |
+ iM iM | iM ivM | ivM iM | vim iM |
+ iM iM | iim iim | iM iM | vM vM |
+ iM iM | iim iim | iM iM | vM vM |
+ iM iM | iim iim | iM iM | vM vM |
+ iM iM | iim iim | iM iM | vM vM |
+ iM iM | iM ivM | ivM iM | vim iM |
+ iM iM | iM ivM | ivM iM | vim iM |
+ iM iM | iM ivM | ivM iM | vim iM |
+ iM iM | iM ivM | ivM iM | vim iM |
+ iM iM | iM ivM | ivM iM | vim vim iM |

@@ -1,0 +1,13 @@
+Title = At Last
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C69 Am7 | Dm7 G7#5 | CM7 Am7 | Dm7 G7#5#9 |
+ Em7 A7b9 | Dm7 G7b9 | C6 Am7 | Ab9 G7#5 |
+ C69 Am7 | Dm7 G7#5 | CM7 Am7 | Dm7 G7#5#9 |
+ Em7 A7b9 | Dm7 G7b9 | C6 Fm6 | C6 |
+ Dm7 G13b9 | CM7 | F#m7b5 F#m7b5 B7#5b9 B7b9 | Em7 |
+ Am7b5 D7b9 | GM7 E7b9 | Am7 D7b9 | Dm7 G7 |
+ C69 Am7 | Dm7 G7#5 | CM7 Am7 | Dm7 G7#5#9 |
+ Em7 A7b9 | Dm7 G7b9 | C6 Fm6 | C6 |
+

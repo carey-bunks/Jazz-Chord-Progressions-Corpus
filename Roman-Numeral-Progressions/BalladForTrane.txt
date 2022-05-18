@@ -1,0 +1,11 @@
+Title = Ballad for Trane
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 22
+ iM | iim v7 | iM | iim |
+ iiim iii7 | vim vi7 | iim iim | bvii7 |
+ iM | ivM | iM iim | io iM |
+ bvii7 bvii7 | biii7 v7 | iM | biiiM ivM iv7 iv7 |
+ iii7 | vim | bviM | iM ivM |
+ v7 iM | viih iii7 |

@@ -1,0 +1,9 @@
+Title = Bemsha Swing
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ NC A7#11 | Ab7#11 Db7 | C Eb7 | D7 Db7 |
+ CM7 A7#11 | Ab7#11 Db7 | C Bb7 | Ab7 Gb7 |
+ F D7 | Db7 Gb7 | F Ab7 | G7 Db7 |
+ C A7#11 | Ab7#11 Db7 | C DbM7 | DbM7 |
+

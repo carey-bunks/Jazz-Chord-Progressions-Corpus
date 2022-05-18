@@ -1,0 +1,13 @@
+Title = Santa Baby
+DB Key = G
+EstKeySig = D
+TimeSig = 4 4
+Bars = 32
+ ivM iim | v7 i7 | ivM iim | v7 i7 |
+ ivM iim | v7 i7 | ivM iim | v7 i7 |
+ ivM iim | v7 i7 | ivM iim | v7 i7 |
+ ivM iim | v7 i7 | ivM iim | v7 v7 i7 ivM |
+ vi7 biiim | vi7 | ii7 vim | ii7 |
+ v7 iim | v7 | iM bviiM vm vm | vm iio i7 i7 |
+ ivM iim | v7 i7 | ivM iim | v7 i7 |
+ ivM iim | v7 i7 | ivM iim | v7 i7 |

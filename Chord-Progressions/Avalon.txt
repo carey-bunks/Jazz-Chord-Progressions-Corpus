@@ -1,0 +1,13 @@
+Title = Avalon
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Gm7 | Gm7 | C7 | C7 |
+ FM7 | Bb7 | Am7 | D7 |
+ C7 | C7 | Gm7 | C7 |
+ FM7 | FM7 C7 | FM7 | FM7 |
+ Am7b5 | Am7b5 | D7 | D7alt |
+ Gm | Gm | Bbm7 | Bbm7 Eb7 |
+ FM7 | Bb7 | Am7 | D7 |
+ Gm7 | C7 | F | Am7b5 D7alt |
+

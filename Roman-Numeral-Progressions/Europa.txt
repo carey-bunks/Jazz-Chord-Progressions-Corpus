@@ -1,0 +1,15 @@
+Title = Europa
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 40
+ v7 | v7 | iM iM iM bv7 | ivM |
+ viim | iii7 | vim | vim |
+ v7 | v7 | iM iM iM bv7 | ivM |
+ viim | iii7 | vim | vim |
+ iim | v7 | iM iM iM bv7 | ivM |
+ viim | iii7 | vim | vim |
+ v7 | v7 | iM iM iM bv7 | ivM |
+ viim | iii7 | vim | vim |
+ v7 | v7 | iM iM iM bv7 | ivM |
+ viim | iii7 | vim | vim |

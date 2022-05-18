@@ -1,0 +1,13 @@
+Title = The World of Make Believe
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iiim iiim iiim biiio | iim | iiim |
+ iM | viim | iiim iii7 | viM viM iim v7 |
+ iM | iiim iiim iiim biiio | iim | iiim |
+ iM | viim | viim iii7 | viM viM vm i7 |
+ ivM ivM | bviiM bviim | ivM ivM | ivM |
+ vim | bviiM bviiM | i7 | ivM v7 |
+ iM | iiim iiim iiim biiio | iim | iiim |
+ vim | iim v7 | iM | iM |

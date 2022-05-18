@@ -1,0 +1,13 @@
+Title = My Blue Heaven
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iM | vi7 |
+ ii7 | v7 | iM | iim v7 |
+ iM | iM | iM | vi7 |
+ ii7 | v7 | iM | i7 |
+ ivM | iiim vi7 | iim | iim |
+ v7 | v7 | iM | v7 |
+ iM | iM | iM | vi7 |
+ ii7 | v7 | iM | iim v7 |

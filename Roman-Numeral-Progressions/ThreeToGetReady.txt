@@ -1,0 +1,8 @@
+Title = Three To Get Ready
+DB Key = C
+EstKeySig = C
+TimeSig = 3 4
+Bars = 12
+ iM iM i7 | ivM ivM v7 | iM | iM |
+ ivM ivM iim | vM | ivM ivM iv7 | iiim iiim vi7 |
+ iim iim v7 | iM iM i7 | ivM ivM v7 | iM |

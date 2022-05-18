@@ -1,0 +1,13 @@
+Title = Gettin' It Togetha
+DB Key = Bb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 30
+ iiim | iiim | iiim | iiim |
+ vim | vim | vim | vim |
+ iiim | iiim | iiim | iiim |
+ vim | vim | vim | NC NC NC vii7 |
+ iiim | iiim iiim iiim viM viM viM iiim iiim | iiim | iiim iiim iiim viM viM viM iiim iiim |
+ vim vim | bvh ivM | viih iii7 | vim vim vim vii7 |
+ iiim | iiim iiim iiim viM viM viM iiim iiim | vim vim | bvh ivM |
+ viih iii7 | vim vim vim vii7 |

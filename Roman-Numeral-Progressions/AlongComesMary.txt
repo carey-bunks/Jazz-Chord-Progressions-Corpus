@@ -1,0 +1,21 @@
+Title = Along Comes Mary
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 63
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ viM iiM | vi7 iiM | viM iiM | vi7 iiM |
+ viM iiM | v7 iM | iiiM viM | iiiM viM |
+ iiiM iiiM viM iiM | iiM | vm vim | bvii7 |
+ vm iim | iim vM | iim vM | iim |
+ v7 | iim | v7 | iim |
+ v7 | iim | v7 | iim |
+ v7 | iim | v7 | iim |
+ v7 | iim | v7 | viM iiM |
+ vi7 iiM | viM iiM | vi7 iiM | viM iiM |
+ v7 iM | iiiM viM | iiiM viM | iiiM iiiM viM iiM |
+ iiM | vm vim | bvii7 | vm iim |
+ iim vM | iim vM | iim vM |

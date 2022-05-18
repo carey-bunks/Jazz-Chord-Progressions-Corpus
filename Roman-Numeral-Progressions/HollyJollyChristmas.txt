@@ -1,0 +1,13 @@
+Title = A Holly Jolly Christmas
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iM io | v7 |
+ v7 | v7 io | v7 | iM iM iM v7 |
+ iM | iM | iM io | v7 |
+ v7 | v7 io | v7 | iM i7 |
+ ivM | iiim | ivM | iM |
+ iim | vim | ii7 ii7 vim ii7 | v7 |
+ iM | iM | iM io | v7 |
+ v7 | iM | ii7 v7 | iM iM iM v7 |

@@ -1,0 +1,13 @@
+Title = Drop Me Off in Harlem
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM io | iim v7 | iiih biii7 | iim v7 |
+ viih iii7 | vim ivm | iim v7 | iM v7 |
+ iM io | iim v7 | iiih biii7 | iim v7 |
+ viih iii7 | vim ivm | iim v7 | iM |
+ vm | i7 | ivM i7 | ivM iv7 |
+ bvii7 | biii7 | ii7 | v7 |
+ iM io | iim v7 | iiih biii7 | iim v7 |
+ viih iii7 | vim ivm | iim v7 | iM v7 |

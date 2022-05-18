@@ -1,0 +1,20 @@
+Title = It's Too Late
+DB Key = C
+TimeSig = 4 4
+Bars = 62
+ Am7 | D6 | Am7 | D6 |
+ Am7 | Gm7 | FM7 | FM7 |
+ BbM7 | FM7 | BbM7 | FM7 |
+ BbM7 | FM7 | Dm7 FM7 | E7sus Em7 |
+ Am7 | D6 | Am7 | D6 |
+ Am7 | D6 | Am7 | D6 |
+ Am7 | Gm7 | FM7 | FM7 |
+ BbM7 | FM7 | BbM7 | FM7 |
+ BbM7 | FM7 | Dm7 FM7 | E7sus Em7 |
+ Am7 | D6 | Am7 | D6 |
+ Am7 | D6 | Am7 | D6 |
+ Am7 | Gm7 | FM7 | FM7 |
+ BbM7 | FM7 | BbM7 | FM7 |
+ BbM7 | FM7 | Dm7 FM7 | G7sus G7 |
+ CM7 | FM7 | CM7 | FM7 |
+ CM7 | CM7 |

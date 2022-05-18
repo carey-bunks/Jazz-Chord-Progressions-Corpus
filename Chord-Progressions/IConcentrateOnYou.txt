@@ -1,0 +1,21 @@
+Title = I Concentrate On You
+DB Key = Eb
+TimeSig = 4 4
+Bars = 64
+ EbM7 | EbM7 | Ab7#11 | Ab7#11 |
+ Ebm7 | Dbm7 Gb7 | BM7 | BM7 |
+ Fm7b5 | Bb7#5 | Ebm7 | Dbm7 Gb7 |
+ Cm7b5 B7#11 | Bb7+ Bb7 | Eb6 | Fm7 Bb7 |
+ EbM7 | EbM7 | Ab7#11 | Ab7#11 |
+ Ebm7 | Dbm7 Gb7 | B6 | B6 |
+ Fm7b5 | Bb7#5 | Ebm7 Do7 | Gb7/Db |
+ Fm7b5 | Bb7alt | EbM7 | EbM7 |
+ AbM7 | Abm7 | EbM7 | Gm7 C7 |
+ Fm7 | Bb7 | EbM7 | Bbm7 Eb7 |
+ AbM7 | Abm7/Db | GbM7 GbM7/F | Ebm7 Ebm7/Db |
+ Cm7b5 | F7b9 | Fm7 | Bb7 |
+ EbM7 | Gm7 | Am7b5 | Am7b5 |
+ Fm7 | Bb7 | Dm7b5 | G7#5 |
+ Gm7b5 | C7b9 | Fm7 | Fm7 F#7#11 |
+ B7#11 | Bb7#5 Bb7 | Eb6 | Fm7 Bb7 |
+

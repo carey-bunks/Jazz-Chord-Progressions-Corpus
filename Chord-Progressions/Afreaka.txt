@@ -1,0 +1,9 @@
+Title = Afreaka
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ C7 Bb7 | AbM7 G7b9 | GbM7 F9sus | EbM7 DbM7 |
+ DbM7 DbM7 BM7 BM7 BM7 DbM7 DbM7 BM7 | BM7 BM7 DbM7 BM7 | DbM7 DbM7 BM7 BM7 BM7 DbM7 DbM7 BM7 | BM7 BM7 DbM7 BM7 |
+ C7 Gm7 | C7 Gm7 | C7 Gm7 | C7 Gm7 |
+ C7 Gm7 | C7 Gm7 | C7 Gm7 | C7 Gm7 |
+

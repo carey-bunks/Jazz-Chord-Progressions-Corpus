@@ -1,0 +1,14 @@
+Title = Thier's Tears
+DB Key = Ab
+TimeSig = 4 4
+Bars = 36
+ Fm | Fm/Eb | DbM7#11 | C7#9 |
+ DbM7#11 | C7 | Fm | Fm |
+ F7#9 | F7#9 | Bbm7 | Eb7 |
+ A7#9 | D7b9 | AbM7#11 G7 | C69 Gb7#11 |
+ Fm | Fm/Eb | DbM7#11 | C7#9 |
+ DbM7#11 | C7 | Fm | Fm |
+ F7#9 | F7#9 | Bbm7 | Eb7 |
+ A7#9 | D7b9 | AbM7#11 G7 | C69 Gb7#11 |
+ DbM7 | G7alt C7+ | Fm69 | Fm69 |
+

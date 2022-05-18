@@ -1,0 +1,11 @@
+Title = Bridge Over Troubled Water
+DB Key = Eb
+TimeSig = 4 4
+Bars = 24
+ Eb | Ab | Eb | Ab Ab Db Ab |
+ Eb | Ab | Eb Ab Ab Ab | Eb Ab |
+ Eb Eb Bb Cm | Bb | Bb Bb Bb Bb9 | Eb Eb/D |
+ Eb7 Eb7 Eb7 Eb9 | Ab F | Bb Bb Eb7 Eb9 | Ab Ab Ab F#o7/A |
+ Eb/Bb Eb/Bb C7sus4 C7 | Ab G7 | Cm Cm Eb7 Eb9 | Ab Ab Ab F#o7/A |
+ Eb/Bb Eb/Bb C7sus4 C7 | Ab Ab Bb9sus4 Bb13 | Eb | Ab |
+

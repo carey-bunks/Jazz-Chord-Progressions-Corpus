@@ -1,0 +1,15 @@
+Title = Wait 'Til You See Her
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 40
+ iim | v7 | iM | vim |
+ iim | v7 | iiim | vi7 |
+ iim | v7 | iM | vim |
+ iim | vii7 | iiim | iiim |
+ vim | ii7 ii7 ii7 | vM | iiim |
+ vim | iii7 | iiim | vi7 |
+ iim | v7 | iM | iiim |
+ vim | vim | bvh | ivo |
+ iM | biiio | v7 | biio |
+ iim | v7 | iM | iM |

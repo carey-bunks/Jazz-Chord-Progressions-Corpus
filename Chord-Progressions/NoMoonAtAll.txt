@@ -1,0 +1,13 @@
+Title = No Moon At All
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Dm | A7 | D7 | Gm |
+ Em7b5 A7 | Dm Dm Bb7 A7 | Dm | Em7b5 A7 |
+ Dm | A7 | D7 | Gm |
+ Em7b5 A7 | Dm Dm Bb7 A7 | Dm | Dm |
+ D7 | D7 | G7 | G7 |
+ C7 | C7 | FM7 | A7 |
+ Dm | A7 | D7 | Gm |
+ Em7b5 A7 | Dm Dm Bb7 A7 | Dm | Em7b5 A7b9 |
+

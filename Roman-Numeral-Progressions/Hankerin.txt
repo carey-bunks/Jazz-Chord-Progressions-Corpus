@@ -1,0 +1,13 @@
+Title = Hankerin'
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iim | bii7 | iM iM iiim biii7 | iim bii7 |
+ im iv7 | ii7 bii7 | bii7 iiim | biiim |
+ iim | bii7 | iM iM iiim biii7 | iim bii7 |
+ im iv7 | ii7 bii7 | vm | vm bv7 |
+ ivM | iim iiim biiim iim | iM | viih iii7 |
+ vim iii7 | vim vim | iim | v7 |
+ iim | bii7 | iM iM iiim biii7 | iim bii7 |
+ im iv7 | ii7 bii7 | iiim | biiim |

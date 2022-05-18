@@ -1,0 +1,15 @@
+Title = Moon River
+DB Key = C
+EstKeySig = C
+TimeSig = 3 4
+Bars = 38
+ iM | vim | iv7 | iM |
+ iv7 | iM | viih | iii7 |
+ vim | i7 | ivM | bvii7 |
+ vim vim vim | ivh vii7 vii7 | iiim vi7 vi7 | iim v7 v7 |
+ iM | vim | iv7 | iM |
+ iv7 | iM | viih | iii7 |
+ vim | vim | ivh | ivM |
+ iM | iv7 | iM | iv7 |
+ iM | vim | iim | v7 |
+ iM | iim iim v7 |

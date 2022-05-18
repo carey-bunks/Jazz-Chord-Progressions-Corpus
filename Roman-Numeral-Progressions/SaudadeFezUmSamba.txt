@@ -1,0 +1,10 @@
+Title = Saudade Fez um Samba
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 18
+ iM | iM | iim | v7 |
+ iM | iM | iim | v7 |
+ vm | i7 | ivM | bviim biii7 |
+ vim vim | biiio | iim | v7 v7 |
+ iM | iM |

@@ -1,0 +1,9 @@
+Title = Up A Lazy River
+DB Key = F
+TimeSig = 4 4
+Bars = 18
+ D7 | D7 D7 D7 D7+ | G7 | G7 Ab7 G7 G7 |
+ C7 | C7 Db7 C7 C7 | F C7 | NC F7 E7 Eb7 |
+ D7 | D7 D7 D7 D7+ | G7 | G7 Ab7 G7 G7 |
+ Bb Bo7 | F E7 D7 Db7 | G7 C7 | F Eb D7 D7 |
+ G7 C7 | F F E7 Eb7 |

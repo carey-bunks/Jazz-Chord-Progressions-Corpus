@@ -1,0 +1,13 @@
+Title = Shangri-La
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | vim | iim | iim v7 |
+ iM | vim | iim | bii7 v7 |
+ iM | iM | biii7 | bviM |
+ bii7 | iM iM iM iM | ivM | bvii7 |
+ iim | v7 | iM | vim |
+ iim | iim v7 | iM | vim |
+ iim | bii7 v7 | iiih | vi7 vi7 vi7 vi7 |
+ iim | bii7 bii7 v7 | iM bii7 | iM iM iim v7 |

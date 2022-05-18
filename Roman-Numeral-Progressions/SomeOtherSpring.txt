@@ -1,0 +1,13 @@
+Title = Some Other Spring
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM v7 | vm vo | iim ivm | bvi7 v7 |
+ i7 viiM bvii7 bvii7 | biiiM vm | biii7 biii7 ii7 io | vm ii7 v7 v7 |
+ iM v7 | vm vo | iim ivm | bvi7 v7 |
+ i7 viiM bvii7 bvii7 | biiiM vm | ivm viio | biiiM biii7 ii7 ii7 |
+ iiM iiM iiM biiM | i7 i7 i7 ii7 | v7 vo | vim ii7 |
+ iiim vi7 | iiM i7 i7 viiM | bvi7 viM vi7 vi7 | ii7 v7 |
+ iM v7 | vm vo | iim ivm | bvi7 v7 |
+ i7 viiM bvii7 bvii7 | im bvi7 | iM iM ii7 ivo | iM v7 |

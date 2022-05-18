@@ -1,0 +1,14 @@
+Title = Nice And Easy
+DB Key = C
+TimeSig = 4 4
+Bars = 36
+ C | C+ | C6 | C7 |
+ Dm7 | Em7 A7alt | Dm7 | G7 |
+ C | C+ | C6 | C7 |
+ Dm7 | Em7 A7alt | Dm7 | Bm7b5 E7b9 |
+ Am | AmM7/G# | Am7/G FM7 | Em7 |
+ Em7b5 | A7alt | Ab7#11 | Dm7/G G7 |
+ C | C+ | C6 | C7 |
+ FM7 | E7b9 | Am7 | D7 D#o7 |
+ Em7 Am7 | Dm7 G7 | CM7 | Dm7 G7 |
+

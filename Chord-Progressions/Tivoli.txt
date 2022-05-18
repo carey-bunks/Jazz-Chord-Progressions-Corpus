@@ -1,0 +1,19 @@
+Title = Tivoli
+DB Key = Db
+TimeSig = 4 4
+Bars = 58
+ DbM9 | D9#11 | DbM9 | D9#11 |
+ DbM9 | D9#11 | Fm7 | Bb7 Bb7 G7#11 |
+ GbM7 | Ebm7 Ab7 | DbM7 | Abm7 G7 |
+ GbM7 | Ebm7 Ab7 | Fm7 | Bbm7 |
+ Gm7b5 | C7alt | Fm7 | Bb7 |
+ Ebm7 | Ab7 | Ebm7 | D9#11 |
+ DbM9 | D9#11 | DbM9 | D9#11 |
+ DbM9 | D9#11 | Fm7 | Bb7 Bb7 G7#11 |
+ GbM7 | Ebm7 Ab7 | DbM7 | Abm7 G7 |
+ GbM7 | Ebm7 Ab7 | Fm7 | Bbm7 |
+ Gm7b5 | C7alt | Cm7 | F7 |
+ Ebm7 | Ab7 | Fm7 | E7 |
+ Ebm7 | Ab7 | Fm7 | Bb7 |
+ Ebm7 | Ab7 | D9#11 | D9#11 |
+ D9#11 | D9#11 |

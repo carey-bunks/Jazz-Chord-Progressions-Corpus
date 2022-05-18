@@ -1,0 +1,17 @@
+Title = Maybe September
+DB Key = Eb
+EstKeySig = G
+TimeSig = 4 4
+Bars = 48
+ im | im | iim | v7 |
+ im im im vM | im im im bvim | ivm | bvii7 |
+ biiiM biiiM iih v7 | im im | ii7 ii7 | ii7 ii7 |
+ ivm | ivm ivm | v7 | v7 v7 |
+ im | im | iim | v7 |
+ im im im vM | im im im bvim | ivm | bvii7 |
+ biiiM biiiM iih v7 | im im iv7 iv7 | ivm | bvi7 |
+ im | iih v7 | iM | iM |
+ iim iim iim iim | v7 v7 v7 v7 | iM iM iM iM | iiim |
+ iim | iim | iM | vi7 |
+ iim iim iim iim | v7 v7 v7 v7 | iiim | biii7 |
+ iim | iim | iM | im im im v7 |

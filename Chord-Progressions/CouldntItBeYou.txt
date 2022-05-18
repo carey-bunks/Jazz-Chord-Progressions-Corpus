@@ -1,0 +1,13 @@
+Title = Couldn't It Be You
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Fm7 | Bb7 | Fm7 | Bb7 |
+ Ebm7 | Ab7 | Gm7 Fm7 | Ebm7 |
+ Fm7 | Bb7 | Fm7 | Bb7 |
+ Ebm7 | Ab7 | Gm7 Fm7 | Ebm7 |
+ Bbm7 | Eb7 | Bbm7 Eb7 | Abm7 |
+ Abm7 | Db7 | Db7 | Fm7 |
+ Fm7 | Bb7 | Fm7 | Bb7 |
+ Ebm7 | Ab7 | Gm7 Fm7 | Ebm7 |
+

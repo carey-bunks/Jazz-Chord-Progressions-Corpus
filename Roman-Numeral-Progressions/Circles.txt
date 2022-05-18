@@ -1,0 +1,13 @@
+Title = Circles
+DB Key = Bb
+EstKeySig = A
+TimeSig = 4 4
+Bars = 32
+ biiM | iim v7 | viiM | iiiM |
+ bviim | biii7 biii7 | bvim | ii7 |
+ vM | bviiM | ivM | bviM |
+ biiiM | ivM | v7 bvi7 | biiim bvi7 |
+ biiM | iiiM | viiM | iiM |
+ viM | iM | bii7 ii7 | bvim ii7 |
+ vM | bviiM | ivM | bviM |
+ biiiM | ivM | v7 bvi7 | biiim bvi7 |

@@ -1,0 +1,11 @@
+Title = Teo
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 24
+ vim | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ iim | iii7 vi7 | iim | iii7 vi7 |
+ iim | iii7 vi7 | iv7 | iii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | viih iii7 |

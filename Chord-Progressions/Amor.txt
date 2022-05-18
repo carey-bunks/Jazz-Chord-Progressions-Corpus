@@ -1,0 +1,15 @@
+Title = Amor
+DB Key = C
+TimeSig = 4 4
+Bars = 40
+ C | C | C | C |
+ C | C | G7 | G7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ G7 | G7 | Bo7/C C | C |
+ Em | B7 | B7 | Em |
+ G7 G#o7 | Am D7 | D7 | G7 |
+ C | C | C | C |
+ C | C | G7 | G7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ G7 | G7 | Fm6 C | Dm7 G7 |
+

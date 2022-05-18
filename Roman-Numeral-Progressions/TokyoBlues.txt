@@ -1,0 +1,9 @@
+Title = Tokyo Blues
+DB Key = Db
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 16
+ iv7 | iv7 | iiim | iiim |
+ iv7 | iv7 | iiim | iiim |
+ iv7 | iv7 | iiim | iiim |
+ v7 | iv7 vii7 | iiim | iiim |

@@ -1,0 +1,13 @@
+Title = Black Nile
+DB Key = F
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iiim | iv7 | iiim | iim v7 |
+ iM | bvh vii7 | iiim | vii7 |
+ iiim | iv7 | iiim | iim v7 |
+ iM | bvh vii7 | iiim | iiim bvii7 |
+ vim bvii7 | vim bvi7 | vm i7 | ivM bvii7 |
+ vim bvii7 | vim bvi7 | vm i7 | ivM vii7 |
+ iiim | iv7 | iiim | iim v7 |
+ iM | bvh vii7 | iiim | vii7 |

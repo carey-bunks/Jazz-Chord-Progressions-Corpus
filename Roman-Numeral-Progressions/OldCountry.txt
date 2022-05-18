@@ -1,0 +1,9 @@
+Title = The Old Country
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 16
+ vim | viih | iii7 | vim |
+ vim vi7 | iim | iim v7 | iM |
+ iM | viih | iii7 | vim vim |
+ bv7 | bv7 | viih iii7 | vim |

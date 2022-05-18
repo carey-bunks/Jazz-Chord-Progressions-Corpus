@@ -1,0 +1,16 @@
+Title = After You
+DB Key = C
+EstKeySig = D
+TimeSig = 4 4
+Bars = 42
+ iim iM | vim | iim iM vM ivM | ivM |
+ iim iM | vim | iim iM vm vim | ivM |
+ biiim | biii7 | ivM | iim iM |
+ vim | iim iM vM ivM | ivM | iim iM |
+ vim | iim iM vm vim | ivM | biiim |
+ biii7 bviim | im bvii7 | ivm | bviim bviM biiiM biiiM |
+ ivm | bviim vim | ivm | bviim vim vM iiM |
+ biiim vM vim ivM | ivM | ivM | iim iM |
+ vim | iim iM vM ivM | ivM | iim iM |
+ vim | iim iM vm vim | ivM | biiim |
+ biii7 | biii7 |

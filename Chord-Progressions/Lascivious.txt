@@ -1,0 +1,11 @@
+Title = Lascivious
+DB Key = Bb
+TimeSig = 4 4
+Bars = 24
+ Bbm | Bbm | Bbm | Bbm Abo7 |
+ Ebm | Ebm | Bbm | Bbm |
+ Cm7b5 | F7 | Bbm | Bbm |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Eb7 | Eb7 | Bb7 | Bb7 |
+ Cm7 | F7 | Bb7 | Bb7 |
+

@@ -1,0 +1,9 @@
+Title = La Folia
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ Am | E7 | Am | G |
+ C | G | Am | E7 |
+ Am | E7 | Am | G |
+ C | G | Am E7 | Am |
+

@@ -1,0 +1,13 @@
+Title = By Myself
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ viih | viih | iii7 | iii7 |
+ viih | viih | iii7 | iii7 |
+ i7 | i7 | ivM | ivM |
+ iim | v7 | iM | iM |
+ bvh | bvh | vii7 | vii7 |
+ iiih | iiih | vi7 | vi7 |
+ iim | v7 | iM | iii7 |
+ vim ii7 | iim v7 | iM | iM |

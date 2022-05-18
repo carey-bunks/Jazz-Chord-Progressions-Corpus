@@ -1,0 +1,13 @@
+Title = It's Always You
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iim v7 | iM biio | iim v7 | iiim vi7 |
+ iim v7 | iM biio | iim v7 | iiim vi7 |
+ iim v7 | iM biio | iim v7 | iiim vi7 |
+ iim v7 | iM biio | iim v7 | iM |
+ vm i7 | vm | ivM | ivM |
+ vim ii7 | vim ii7 | iim | v7 |
+ iim v7 | iM biio | iim v7 | iiim vi7 |
+ iim v7 | iM biio | iim v7 | iM |

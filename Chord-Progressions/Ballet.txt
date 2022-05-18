@@ -1,0 +1,11 @@
+Title = Ballet
+DB Key = Eb
+TimeSig = 3 4
+Bars = 24
+ Eb7 | Eb7 | Ab7 | Ab7 |
+ Eb7 | Eb7 | Eb7 | Eb7 |
+ Ab7 | Ab7 | Ab7 | Ab7 |
+ Eb7 | Eb7 | Eb7 | Eb7 |
+ E7#9 | E7#9 | D7#9 | D7#9 |
+ Eb7 | Eb7 | Eb7 | Eb7 |
+

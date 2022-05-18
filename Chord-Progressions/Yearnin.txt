@@ -1,0 +1,12 @@
+Title = Yearnin'
+DB Key = C
+TimeSig = 4 4
+Bars = 28
+ C13 | F13 | C7 | C9 |
+ F13 | F13 | C13 FM7 | Em7 A7+ |
+ G | G | G7sus | G7sus |
+ G7sus | G7sus | C/E F | F#o7 C/G |
+ F C | Bb F | F C | F C |
+ Bb F | Bb7sus | E/G# Am | Am7/G D7/F# |
+ C G | Bb F | F C | F C |
+

@@ -1,0 +1,12 @@
+Title = April Joy
+DB Key = Bb
+EstKeySig = F
+TimeSig = 4 4
+Bars = 28
+ ivM | ivM | ivM iiim iiim iiim | iiim |
+ ivM | ivM | ivM iiiM | iiiM |
+ ivM iiim | ivM iiim | vi7 | vi7 |
+ vim | ivM | iiim | iiim |
+ ivM | ivM | iM | ivM |
+ ivM iiim | ivM ivM | iM | ivM |
+ viih | iii7 | vi7 | vi7 |

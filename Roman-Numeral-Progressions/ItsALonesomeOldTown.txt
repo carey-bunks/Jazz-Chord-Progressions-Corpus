@@ -1,0 +1,17 @@
+Title = It's A Lonesome Old Town
+DB Key = Bb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 48
+ iiio iiim | iiim | vii7 vii7 | vii7 |
+ vim | vii7 viiM | iiim iM | iii7 |
+ vim vim vim iii7 | vim | iiim | iiim |
+ bv7 | i7 | vii7 i7 | vii7 vii7 iiim vii7 |
+ iiio iiim | iiim | vii7 vii7 | vii7 vii7 iim vii7 |
+ vim | vii7 viiM | iiim i7 | vii7 vii7 iiim vii7 |
+ iiio iiim | iiim | vii7 vii7 | vii7 |
+ vim | vii7 viiM | iiim iM | iii7 |
+ vim vim vim iii7 | vim | iiim | iiim |
+ bv7 | i7 | vii7 i7 | vii7 vii7 iiim vii7 |
+ iiio iiim | iiim | vii7 vii7 | vii7 vii7 iim vii7 |
+ vim | vii7 viiM | iiim vim | iiim |

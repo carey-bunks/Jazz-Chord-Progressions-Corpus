@@ -1,0 +1,14 @@
+Title = Introspection
+DB Key = Bb
+EstKeySig = D
+TimeSig = 4 4
+Bars = 36
+ bviim vii7 | bvii7 vi7 | bvim bii7 | bii7 bvM |
+ bvi7 vi7 | vi7 vi7 v7 v7 | iM | iM vim |
+ bviim vii7 | bvii7 vi7 | bvim bii7 | bii7 bvM |
+ bvi7 vi7 | vi7 vi7 v7 v7 | iM | iM |
+ bviiM | iM | bviiM | iM |
+ biiM | iM | iM bviiM | iM vi7 |
+ bviim vii7 | bvii7 vi7 | bvim bii7 | bii7 bvM |
+ bvi7 vi7 | vi7 vi7 v7 v7 | iM | iM |
+ viiM | iM | viiM | viiM |

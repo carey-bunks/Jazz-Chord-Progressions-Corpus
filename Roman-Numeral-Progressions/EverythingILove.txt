@@ -1,0 +1,13 @@
+Title = Everything I Love
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | bv7 | ivM | iiim vi7 |
+ iim | v7 | iiim vi7 | iim v7 |
+ iM | biiio | iim | iiim vim |
+ ivm | bvii7 | biiiM | iim v7 |
+ iM | bv7 | ivM | iiim vi7 |
+ iim | bvh vii7 | viim | viim iii7 |
+ vim bvio | vm i7 | ivM vi7 | ii7 iio |
+ iiim vi7 | iim iim iim v7 | iM | iim |

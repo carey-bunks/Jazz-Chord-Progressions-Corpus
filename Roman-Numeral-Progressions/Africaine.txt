@@ -1,0 +1,11 @@
+Title = Africaine
+DB Key = Bb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ iiim | iiim | iiim | iiim |
+ iim v7 | im iv7 | bvh vii7 | iiim |
+ iim v7 | im iv7 | bvh vii7 | iiim |
+ vm i7 | ivM biiiM | iim v7 | im iv7 |
+ iiim | iiim | iiim | iiim |
+ iim v7 | im iv7 | bvh vii7 | iiim |

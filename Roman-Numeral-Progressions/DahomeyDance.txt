@@ -1,0 +1,8 @@
+Title = Dahomey Dance
+DB Key = G
+EstKeySig = C
+TimeSig = 4 4
+Bars = 12
+ vM | ivM | v7 | v7 |
+ vM | iv7 | v7 | v7 |
+ vM | ivM | v7 | v7 |

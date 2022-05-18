@@ -1,0 +1,21 @@
+Title = Exotica
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 64
+ iiiM | iiiM | v7 | v7 |
+ iii7 biii7 | bviM vii7 | iiiM v7 | bvim bii7 |
+ iiiM | iiiM | v7 | v7 |
+ iii7 biii7 | bviM vii7 | iiiM iim | iim v7 |
+ iiiM | iiiM | v7 | v7 |
+ iii7 biii7 | bviM vii7 | iiiM v7 | bvim bii7 |
+ iiiM | iiiM | v7 | v7 |
+ iii7 biii7 | bviM vii7 | iiiM iim | iim v7 |
+ iiim | vi7 | iiim | vi7 |
+ iiM i7 | iv7 vii7 | bvii7 vi7 | iiM |
+ iim | v7 | iim | v7 |
+ iM bvii7 | biii7 bv7 | vii7 ii7 | iim v7 |
+ iiiM | iiiM | v7 | v7 |
+ iii7 biii7 | bviM vii7 | iiiM v7 | bvim bii7 |
+ iiiM | iiiM | v7 | v7 |
+ iii7 biii7 | bviM vii7 | iiiM iim | iim v7 |

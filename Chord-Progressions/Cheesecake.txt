@@ -1,0 +1,19 @@
+Title = Cheesecake
+DB Key = Eb
+TimeSig = 4 4
+Bars = 56
+ Cm7 | Dm7b5 G7 | Cm7 | Cm7 |
+ Fm7 Gm7b5 | Fm7/Ab Gm7b5 | Fm7 | Fm7 |
+ Dm7b5 | G7 | Fm7 | Bb7 |
+ Ebm7 Ab7 | Dm7b5 G7 | Cm6 | Dm7b5 G7 |
+ Cm7 | Dm7b5 G7 | Cm7 | Cm7 |
+ Fm7 Gm7b5 | Fm7/Ab Gm7b5 | Fm7 | Fm7 |
+ Dm7b5 | G7 | Fm7 | Bb7 |
+ Ebm7 Ab7 | Dm7b5 G7 | Cm6 NC NC NC | NC |
+ C9 | C9 | Bb9 | Bb9 |
+ Ab9 | Ab9 | Dm7b5 | G7 |
+ Cm7 | Dm7b5 G7 | Cm7 | Cm7 |
+ Fm7 Gm7b5 | Fm7/Ab Gm7b5 | Fm7 | Fm7 |
+ Dm7b5 | G7 | Fm7 | Bb7 |
+ Ebm7 Ab7 | Dm7b5 G7 | Cm6 NC NC NC | NC |
+

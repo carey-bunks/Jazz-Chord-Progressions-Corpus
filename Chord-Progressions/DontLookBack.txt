@@ -1,0 +1,23 @@
+Title = Don't Look Back
+DB Key = Eb
+TimeSig = 3 4
+Bars = 72
+ EbM7 | EbM7 | Eb9sus | Eb9sus |
+ Ab/Eb | Ab/Eb | Bb/Eb | Bb/Eb |
+ EbM7 | EbM7 | Eb9sus | Eb9sus |
+ Ab/Eb | Ab/Eb | Bb/Eb | Bb/Eb |
+ Dm7b5 | G7b9 | CM7 | CM7 |
+ F7 | F7 | Bb7 A7 | Ab7 G7 |
+ Gb7 Fm7 | E7#9 Eb7 | AbM7 | C7 |
+ Db7 | Db7 | Eb/Bb | Ebo7 Ebo7 Ebo7/Bb |
+ Ab/Bb | D/Bb | EbM7/Bb | D/Bb |
+ Ab/Bb | D/Bb | EbM7 | EbM7 |
+ Eb9sus | Eb9sus | Ab/Eb | Ab/Eb |
+ Bb/Eb | Bb/Eb | EbM7 | EbM7 |
+ Eb9sus | Eb9sus | Ab/Eb | Ab/Eb |
+ Bb/Eb | Bb/Eb | Dm7b5 | G7b9 |
+ CM7 | CM7 | F7 | F7 |
+ Bb7 A7 | Ab7 G7 | Gb7 Fm7 | E7#9 Eb7 |
+ AbM7 | C7 | Db7 | Db7 |
+ Eb/Bb | Ebo7 Ebo7 Ebo7/Bb | Ab/Bb | D/Bb |
+

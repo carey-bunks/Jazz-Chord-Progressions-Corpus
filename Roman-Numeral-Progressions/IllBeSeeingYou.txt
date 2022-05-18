@@ -1,0 +1,13 @@
+Title = I'll Be Seeing You
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iii7 | ivM vi7 | iim vi7 |
+ iim vi7 | iim v7 | iM | viih iii7 |
+ vim | vim | iim | iim |
+ v7 | v7 | iiim vi7 | v7 |
+ iM | iii7 | ivM vi7 | iim vi7 |
+ iim vi7 | iim v7 | iiih | vi7 |
+ iim | viih iii7 | vim | ii7 |
+ iim | ivm v7 | iM | iim v7 |

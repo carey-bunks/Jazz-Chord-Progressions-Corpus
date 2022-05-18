@@ -1,0 +1,13 @@
+Title = You'd Be So Nice to Come Home To
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ vim | viih iii7 | vim | vim |
+ vm | i7 | ivM | ivM |
+ viih | iii7 | vim | vm |
+ ivh | vii7 | viih | iii7 |
+ vim | viih iii7 | vim | vim |
+ vm | i7 | ivM | ivM |
+ iim v7 | iM | viih iii7 | vim |
+ iiim bvi7 | bvi7 v7 | iM | viih iii7 |

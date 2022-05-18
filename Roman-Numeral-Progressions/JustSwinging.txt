@@ -1,0 +1,8 @@
+Title = Just Swinging
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ iM | ivM | iM | i7 |
+ iv7 | bvii7 | iM | vi7 |
+ iim | v7 | iM | iM |

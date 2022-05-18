@@ -1,0 +1,15 @@
+Title = Alfie
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 40
+ iM | iim | iM | iiim vi7 |
+ iim | iiim vi7 | iim | ivo |
+ iim | v7 v7 | iM | iim |
+ iM | iiim vi7 | iim | iiim vi7 |
+ iim | ivo | viim | im vim |
+ viim | vim | viim | im vim |
+ iim | v7 | iM | iim |
+ ivh iv7 | iiim vim | ivh iv7 | iiim vim |
+ ii7 | iim | ivo | iim |
+ i7 | iim | i7 | iM |

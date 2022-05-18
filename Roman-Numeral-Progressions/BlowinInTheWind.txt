@@ -1,0 +1,13 @@
+Title = Blowin' in the Wind
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 32
+ iM | ivM | iM | iM |
+ iM | ivM | v7 | vM |
+ iM | ivM | iM | iM |
+ iM | ivM | v7 | vM |
+ iM | ivM | iM | iM |
+ iM | ivM | v7 | vM |
+ ivM | vM | iM biiiM | vim |
+ ivM | vM | iM | v7 |

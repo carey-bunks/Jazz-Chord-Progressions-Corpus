@@ -1,0 +1,13 @@
+Title = Whisper Not
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Cm Cm7/Bb | Am7b5 D7b9 | Gm Gm7/F | Em7b5 A7b9 |
+ Dm7 Dm7/B | Em7b5 A7b9 | Dm7 Em7 | Fm7 G7b9 |
+ Cm Cm7/Bb | Am7b5 D7b9 | Gm Gm7/F | Em7b5 A7b9 |
+ Dm7 Dm7/B | Em7b5 A7b9 | Dm7 Em7 | Fm7 Bb7 |
+ Am7b5 | D7 D7 C/E D7/F# | Gm7 | C7 |
+ Em7b5 | A7b9 | Dm7b5 | G7b9 |
+ Cm Cm7/Bb | Am7b5 D7b9 | Gm Gm7/F | Em7b5 A7b9 |
+ Dm7 Dm7/B | Em7b5 A7b9 | Dm7 Dm7/C | Ab7 G7 |
+

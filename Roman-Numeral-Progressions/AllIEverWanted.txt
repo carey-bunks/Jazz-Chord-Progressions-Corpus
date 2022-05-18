@@ -1,0 +1,26 @@
+Title = All I Ever Wanted
+DB Key = G
+EstKeySig = D
+TimeSig = 4 4
+Bars = 81
+ ivM | iim | bviiM | iM |
+ ivM | iim | bviiM | iM |
+ bviiM | bviiM | iM | iM |
+ iv7 ivM | iim | iM bviiM | iM |
+ iv7 ivM | iim | iM bviiM | iM |
+ iim | vM | iM | ivM |
+ bviiM bviiM | bviiM bviiM | iim | iim iM |
+ bviiM | bviiM | ivM | iv7 |
+ ivM | iv7 | ivM | iim |
+ bviiM | iM | ivM | iM iim |
+ iM bviiM | iM | iiM | iiM |
+ vm | iM | iv7 ivM | bviiM |
+ biiiM | biiiM | vm | vm |
+ biiiM | biiiM | iM | iM |
+ ivM | iv7 | ivM | iv7 |
+ iv7 iv7 ivM iM | iM iim iim iim | iv7 ivM | iM iim |
+ iM | iM | iv7 ivM | iM iim iim iim |
+ iM bviiM bviiM bviiM | iM | bviiM | bviiM |
+ iM | iM | ivM | iv7 |
+ ivM | bviiM | bviiM ivM | iv7 |
+ ivM |

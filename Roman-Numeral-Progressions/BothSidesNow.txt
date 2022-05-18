@@ -1,0 +1,12 @@
+Title = Both Sides Now
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 26
+ iM | ivM iM | iM iM | ivM iM |
+ iM | ivM | iim | vM |
+ iM | ivM iM | iM iM | ivM iM |
+ iM | ivM | iim | vM |
+ iM | ivM iM | ivM iM | ivM iM |
+ vM vM vM ivM | iM | ivM | iM ivM |
+ iM ivM | iM ivM |

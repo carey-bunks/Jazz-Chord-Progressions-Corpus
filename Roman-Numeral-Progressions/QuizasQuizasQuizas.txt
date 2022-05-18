@@ -1,0 +1,13 @@
+Title = Quiza's, Quiza's, Quiza's
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ vim | iim iii7 | vim | iim iii7 |
+ vim | iv7 iii7 | vim iim | vim |
+ vim | iim iii7 | vim | iim iii7 |
+ vim | iv7 iii7 | vim iim | vim |
+ iii7 | iii7 | viM | viM |
+ iii7 | iii7 | viM | viM |
+ vim | iim iii7 | vim | iim iii7 |
+ vim | iv7 iii7 | vim iim | vim |

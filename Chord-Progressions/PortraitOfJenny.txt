@@ -1,0 +1,13 @@
+Title = Portrait of Jenny
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | Bbm7 Eb7 | Ab | Abm |
+ Eb Cm7 | Fm7 Bb7 | Eb | Fm7 Bb7 |
+ Eb | Bbm7 Eb7 | Ab | Abm |
+ Eb Cm7 | Fm7 Bb7 | Eb | Am7 D7 |
+ G | Cm7 F7 | Bb | Dm7b5 G7 |
+ Cm7 | F7 | Fm7 | Bb7 |
+ Eb | Bbm7 Eb7 | Ab | Abm |
+ Eb Cm7 | Fm7 Bb7 | Bb7sus4 Bb7 | Eb |
+

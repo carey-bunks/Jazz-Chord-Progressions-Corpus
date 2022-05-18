@@ -1,0 +1,9 @@
+Title = Delirium
+DB Key = F
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 16
+ ii7 i7 | bvii7 bvi7 | v7 bvi7 | v7 vi7 |
+ ii7 i7 | bvii7 bvi7 | iim | bvi7 |
+ iim | v7 v7 vm i7 | bvm | vii7 |
+ iiim | bviim biii7 | iiM | v7 vi7 |

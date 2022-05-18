@@ -1,0 +1,13 @@
+Title = My Reward
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ iM iM | viih viih viih iii7 | vim viM | vm |
+ ivM bvii7 | iM vii7 iii7 vim | ii7 | iim |
+ iM iM | viih viih viih iii7 | vim viM | vm |
+ ivM bvii7 | iM vii7 iii7 vim | ii7 ii7 iim iio | iM iM im iv7 |
+ bviiM vm | iim i7 | ivm ivm ivm iv7 | iiim bvii7 |
+ biiiM vih | vM bii7 | vim ii7 | v7 |
+ iM iM | viih viih viih iii7 | vim viM | vm |
+ ivM bvii7 | iM vii7 iii7 vim | ii7 ii7 iim iio | iM |

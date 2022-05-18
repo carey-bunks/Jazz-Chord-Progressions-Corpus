@@ -1,0 +1,8 @@
+Title = The Champ
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 12
+ iM | iM | iM | iM |
+ ivM | ivM | iM | iM |
+ iim | v7 | iM | iM |

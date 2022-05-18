@@ -1,0 +1,9 @@
+Title = Barney Google
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 16
+ ivM | ivM ivM ivM ivo | i7 | ivM ivM ivo i7 |
+ ivM | ivM | v7 | iM iM iM i7 |
+ iv7 | bviiM ivm | v7 | iM i7 |
+ ivM | ivM ivM ivM ivo | v7 i7 | ivM i7 |

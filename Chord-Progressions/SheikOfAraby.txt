@@ -1,0 +1,13 @@
+Title = The Sheik of Araby
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb | Bb | F7 | F7 |
+ F7 | F7 | Bb | Bb |
+ Bb7 | Bbo7 | F7 | F7 |
+ F7 | F7 | Bb | Bb |
+ Bb | Bb | F7 | F7 |
+ F7 | F7 | D7 | D7 |
+ G7#5 | G7#5 | C7 | C7 |
+ F7 | F7 | Bb | Bb |
+

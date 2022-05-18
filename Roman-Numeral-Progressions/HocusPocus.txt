@@ -1,0 +1,13 @@
+Title = Hocus Pocus
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iim v7 | iM | bvh vii7 |
+ iiim biii7 | iim bii7 | iM iM iM biii7 biii7 biii7 bviM bviM | bii7 |
+ iM | iim v7 | iM | bvh vii7 |
+ iiim biii7 | iim bii7 | iM | bv7 |
+ ivM iim | vm i7 | ivM | iiih vi7 |
+ iim | iiih vi7 | ii7 ii7 | v7 |
+ iM | iim v7 | iM | bvh vii7 |
+ iiim biii7 | iim bii7 | iM iM iM biii7 biii7 biii7 bviM bviM | bii7 |

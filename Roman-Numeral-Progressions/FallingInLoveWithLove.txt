@@ -1,0 +1,13 @@
+Title = Falling In Love With Love
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iiim vi7 | iim | v7 |
+ iim | v7 | iM | iim v7 |
+ iM | iM | viih | iii7 |
+ vim | ii7 | iim | v7 |
+ iM | iiim vi7 | iim | v7 |
+ iim | v7 | iM | iim v7 |
+ iM | ivM | bvii7 | vi7 |
+ iim vi7 | iim v7 | iM | iim v7 |

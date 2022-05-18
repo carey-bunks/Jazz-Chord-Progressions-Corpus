@@ -1,0 +1,9 @@
+Title = Walk Right In
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 16
+ iM | vi7 | ii7 v7 | iM |
+ iM | vi7 | ii7 | v7 |
+ iM | i7 | ivM | ii7 |
+ iM | vi7 | ii7 v7 | iM v7 |

@@ -1,0 +1,23 @@
+Title = What Now My Love
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 72
+ iM | iM | ivM iM | iM |
+ iim | v7 | iM | iM iim |
+ iM | iM | ivM iM | iM |
+ iim | v7 | iM | i7 |
+ iim | v7 | iM | vim |
+ iim iim iim v7 | iim iim iim v7 | iM | iM i7 |
+ ivm | bvii7 | biiiM | bviM bviM |
+ ivm | ivm bvo | v7 | v7 |
+ iM | iM | ivM iM | iM |
+ iim | v7 | iM | iM iim |
+ iM | iM | ivM iM | iM |
+ iim | v7 | iM | i7 |
+ iim | v7 | iM | vim |
+ iim iim iim v7 | iim iim iim v7 | iM | iM i7 |
+ ivm | bvii7 | biiiM | bviM bviM |
+ ivm | ivm bvo | v7 | v7 iim |
+ iM | iM | ivM iM | iM |
+ iim | iim v7 | iM | iM |

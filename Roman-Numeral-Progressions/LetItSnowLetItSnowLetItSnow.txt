@@ -1,0 +1,13 @@
+Title = Let It Snow! Let It Snow! Let It Snow!
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM v7 | iM | iM | v7 v7 v7 vi7 |
+ iim vi7 | iim iim iim biiio | v7 | iM iM iM v7 |
+ iM v7 | iM | iM | v7 v7 v7 vi7 |
+ iim vi7 | iim iim iim biiio | v7 | iM |
+ vM | vM vM vo | vim ii7 | vM |
+ vM | iim iii7 | vi7 ii7 | vM vM vM v7 |
+ iM v7 | iM | biiio | v7 v7 v7 vi7 |
+ iim vi7 | iim iim iim biiio | v7 | iM iM iM v7 |

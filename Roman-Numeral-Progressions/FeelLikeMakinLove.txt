@@ -1,0 +1,10 @@
+Title = Feel Like Makin' Love
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 17
+ iim | iim | iM | bvii7 vi7 |
+ iim | iim | iM | bv7 |
+ ivM | iiim | iim | vim |
+ ivM | iiim | bvii7 | vim vim vim vim i7 i7 bii7 ii7 |
+ ii7 |

@@ -1,0 +1,13 @@
+Title = Blue Skies
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Dm | DmM7 | Dm7 | Dm6 |
+ F | Gm7 C7 | F | Em7b5 A7 |
+ Dm | DmM7 | Dm7 | Dm6 |
+ F | Gm7 C7 | F Bbm | F |
+ F | Bbm F | Bbm F | Bbm F |
+ F | Bbm F | Bbm F | Bbm Bbm F A7 |
+ Dm | DmM7 | Dm7 | Dm6 |
+ F | Gm7 C7 | F | A7alt |
+

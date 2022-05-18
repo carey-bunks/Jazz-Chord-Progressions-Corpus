@@ -1,0 +1,13 @@
+Title = Smile
+DB Key = F
+TimeSig = 4 4
+Bars = 34
+ F | F | F | F |
+ F | Fo7 | Gm7 Gm7 Ao7 Gm | D7b9 D7b9 Gm D7 |
+ Gm7 | Gm7 | Bbm | Eb9 |
+ FM7 | FM7 | Gm7 | C7 |
+ F | F | F | F |
+ F | Fo7 | Gm7 Gm7 Ao7 Gm | D7b9 D7b9 Gm D7 |
+ Gm7 | Gm7 | Bbm | Eb9 |
+ FM7 | FM7 | Gm7 | Gm9 C13b9 |
+ F6 Eb9 | F69 |

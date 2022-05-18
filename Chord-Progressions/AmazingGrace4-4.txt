@@ -1,0 +1,9 @@
+Title = Amazing Grace
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ G | G/B | C | G |
+ G | G | D7sus | D7 |
+ G | G7/B | C | G D7 |
+ Em G/B | Am9 D7 | G | D7sus4 |
+

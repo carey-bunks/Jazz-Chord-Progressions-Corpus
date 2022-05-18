@@ -1,0 +1,13 @@
+Title = As Long As I Live
+DB Key = F
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ ivM | iM im | im ii7 | iM ii7 |
+ v7 v7 | bviiM bviiM bviiM i7 | ivM vm ivM ivM | v7 i7 |
+ ivM | iM im | im ii7 | iM ii7 |
+ v7 v7 | bviiM bviiM bviiM i7 | ivM vm ivM ivM | ivM |
+ ivo | vm | bviim | ivM |
+ iim | v7 | i7 biiim | bviiM i7 |
+ ivM | iM im | im ii7 | iM ii7 |
+ v7 v7 | bviiM bviiM bviiM i7 | ivM vm ivM ivM | viio i7 |

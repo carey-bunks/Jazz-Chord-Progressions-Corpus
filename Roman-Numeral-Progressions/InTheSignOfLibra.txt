@@ -1,0 +1,13 @@
+Title = In The Sign of Libra
+DB Key = F
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iim | vi7 | iim | viih |
+ bvii7 | vi7 | iim iim | iiih vi7 |
+ iim | vi7 | iim | viih |
+ bvii7 | vi7 | iim iim | im iv7 |
+ bviim | biii7 | bviM | im iv7 |
+ bviim | biii7 | bviM ivm | iiih vi7 |
+ iim | vi7 | iim | viih |
+ bvii7 | vi7 | iim iim | iiih vi7 |

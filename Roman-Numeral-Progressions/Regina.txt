@@ -1,0 +1,13 @@
+Title = Regina
+DB Key = C
+EstKeySig = B
+TimeSig = 4 4
+Bars = 32
+ iiim | iM | biii7 | ivM |
+ biiih | bvi7 | biim | bv7 |
+ iM | bvM | iM | bvM |
+ viim | bvm | viim | bvm |
+ vim | ivM | vim | ivM |
+ bvi7 | bvm i7 | ivM | bvm vii7 |
+ iiiM | ivm bvii7 | biiiM | vi7 |
+ bvm | vii7 | i7 | vii7 |

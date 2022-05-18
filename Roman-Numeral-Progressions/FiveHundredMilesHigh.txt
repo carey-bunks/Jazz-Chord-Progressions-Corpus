@@ -1,0 +1,10 @@
+Title = Five Hundred Miles High
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 18
+ bvm | bvm | vim | vim |
+ iM | iM | biih | bv7 |
+ viim | viim | vh | vh |
+ vm | vm | iim | iim |
+ bii7 | bii7 |

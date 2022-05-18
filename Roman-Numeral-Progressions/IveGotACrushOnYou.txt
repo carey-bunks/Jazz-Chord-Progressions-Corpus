@@ -1,0 +1,10 @@
+Title = I've Got A Crush On You
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 18
+ iM biiio | iim v7 | iM biiio | iim v7 |
+ vim | ii7 | vim ii7 | iim v7 |
+ iM biiio | iim v7 | iM biiio | iim v7 |
+ vim | ii7 biiio | iM vim | ii7 v7 |
+ iM | iM |

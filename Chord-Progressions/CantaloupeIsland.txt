@@ -1,0 +1,9 @@
+Title = Cantaloupe Island
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ Fm7 | Fm7 | Fm7 | Fm7 |
+ Db7 | Db7 | Db7 | Db7 |
+ Dm11 | Dm11 | Dm11 | Dm11 |
+ Fm7 | Fm7 | Fm7 | Fm7 |
+

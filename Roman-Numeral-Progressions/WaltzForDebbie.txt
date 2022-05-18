@@ -1,0 +1,25 @@
+Title = Waltz For Debbie
+DB Key = F
+EstKeySig = F
+TimeSig = 3 4
+Bars = 80
+ iM | vim | iim | v7 |
+ iii7 | vi7 | ii7 | v7 |
+ i7 | ivM | iih | v7 |
+ iiim | vim | iim | v7 |
+ iM | vim | iim | v7 |
+ iii7 | vi7 | ii7 | v7 |
+ iii7 | vim | bv7 | vii7 |
+ iiiM | bvm | iiiM | iiiM |
+ iim | v7 | iiim | vi7 |
+ iim | iii7 | vim | vm |
+ ivM | iii7 | vim | ii7 |
+ biiiM | bviM | iim | v7 |
+ iM | vim | iim | v7 |
+ iii7 | vi7 | ii7 | v7 i7 |
+ ivM | iih | v7 | iii7 |
+ vi7 | bvm | vii7 | iiim |
+ i7 | iv7 | iii7 | vim |
+ vim | ii7 | iio | iiim |
+ biiio | iim | v7 | iM |
+ vim | iim | v7 | v7 |

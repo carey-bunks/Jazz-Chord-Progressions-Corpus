@@ -1,0 +1,14 @@
+Title = All I Need Is The Girl
+DB Key = G
+TimeSig = 4 4
+Bars = 36
+ G+ G+ G+ G6 | G6 G+ G+ G6 | D7 | D7 |
+ GM7 GM7 GM7 G | G | E7b9 | E7b9 |
+ A7b9 A7b9 A7b9 A7 | A7 A7b9 A7b9 A7 | D9#5 D9#5 D9#5 D13 | D13 D9#5 D9#5 D7 |
+ G/B | G/B Go7 | Am7 | C/D D7 Am7 D7 |
+ G+ G+ G+ G6 | G6 G+ G+ G6 | D7 | D7 |
+ GM7 | GM7 | Dm9 | G9 |
+ Bm7b5 Bm7b5 Bm7b5 F+ | F+ C7#5 C7#5 E7 | A9 | A9 Go7 |
+ G+ G+ G+ G6 | G6 G+ G+ G6 | E7 | E7 |
+ A7#5 A7#5 A7#5 Am7 | Am7 D9 | G Go7 Go7 Go7 | Am11 D7 |
+

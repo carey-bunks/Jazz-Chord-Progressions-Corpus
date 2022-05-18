@@ -1,0 +1,27 @@
+Title = Birdland
+DB Key = G
+TimeSig = 4 4
+Bars = 91
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+ Gm F/G F/G F/G | F/Bb Eb/Bb | Dm7 | F/C Cm7 Cm7 Cm7 |
+ F/B G6 | Gm/C F/Eb F/Eb F/Eb | G | Gm/C F/C F/C F/C |
+ G | G | G | G |
+ G7 | G7sus4 | G7sus4 | G7sus4 |
+ G7 | G7sus4 | G7sus4 | G7sus4 |
+ G7 | G7sus4 | G7sus4 | G7sus4 |
+ G7 | G7sus4 | G7sus4 | G7sus4 |
+ G7 | G7sus4 | G7sus4 | G7sus4 |
+ G7 | C/E G7/D | G7 | G7 |
+ G7 | C/E G7/D | G7/D | G7/D |
+ G7/D | G7/D | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | G G/B Em Em | G/B CM7 C#m7b5 C#m7b5 |
+ Bm7 E7 | Am G/B C6 C/D | G G/B Em Em | G/B CM7 C#m7b5 C#m7b5 |
+ Bm7 E7 | Am G/B C6 C/D | G G/B Em Em | G/B CM7 C#m7b5 C#m7b5 |
+ Bm7 E7 | Am G/B C6 C/D | G G/B Em Em | G/B CM7 C#m7b5 C#m7b5 |
+ Bm7 E7 | Am G/B C6 C/D | G Bm Em Em | G/D C#m7 C7 C7 |
+ Bm7 E7 | Am G/B C/D G | G Bm Em Em | G/D C#m7 C7 C7 |
+ Bm7 E7 | Am G/B C6 C/D | G |

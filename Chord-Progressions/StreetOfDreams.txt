@@ -1,0 +1,13 @@
+Title = Street Of Dreams
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ F7 | F7 | Fm7 | Bb7 |
+ Eb6 | Ab7#11 | Gm7 | C7#5#9 |
+ F7 | F7 | Fm7 | Bb7 |
+ Eb6 | Eb6 | Bbm7 | Eb7 |
+ Ab6 | Ab6 | Abm | Db7 |
+ Eb6 | Eb6 | Db7 | C7 |
+ F7 | F7 | Db7#11 | Db7#11 |
+ Fm7 | Bb7 | Eb6 | Eb6 C7alt |
+

@@ -1,0 +1,14 @@
+Title = Are You Sincere?
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 34
+ iM iM iM iM | ivM | v7 v7 v7 v7 | v7 v7 vM vM |
+ iM | ivM | v7 v7 v7 v7 | v7 |
+ iM | i7 i7 i7 iM | ivM ivM | ivM iM |
+ ivM | iM | v7 | iM ivM |
+ iM vM | iM iM iM iM | ivM | v7 v7 v7 v7 |
+ v7 v7 vM vM | iM iM iM iM | ivM | v7 v7 v7 v7 |
+ v7 | iM | i7 i7 i7 i7 | ivM ivM |
+ ivM iM | ivM | iM | v7 |
+ iM ivM | iM |

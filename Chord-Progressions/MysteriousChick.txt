@@ -1,0 +1,11 @@
+Title = Mysterious Chick
+DB Key = Gb
+TimeSig = 4 4
+Bars = 24
+ Gb | B7 | Gb | Gb7 |
+ B7 | Bm7 | Bbm7 | Eb7 |
+ Ab7 | Db7 | Gb | Gb |
+ Gb | B7 | Gb | Gb7 |
+ B7 | Bm7 | Bbm7 | Eb7 |
+ Ab7 | Db7 | Gb | Gb |
+

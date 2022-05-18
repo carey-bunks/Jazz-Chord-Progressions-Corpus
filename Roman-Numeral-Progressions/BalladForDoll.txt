@@ -1,0 +1,9 @@
+Title = Ballad For Doll
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 14
+ im | iim | iii7 | biiim |
+ ivM | vii7 | iiiM | vi7 |
+ iiM | v7 | biiM iv7 | viiM iii7 |
+ viM ii7 | vM |

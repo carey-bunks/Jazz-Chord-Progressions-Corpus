@@ -1,0 +1,19 @@
+Title = The Face I Love
+DB Key = Eb
+EstKeySig = Db
+TimeSig = 3 4
+Bars = 54
+ iiM | v7 | iiM | v7 |
+ iim | v7 | iim | v7 |
+ iM | iv7 | iM | iM |
+ viim | iii7 | viim | iiim |
+ vim | bii7 | iM | vii7 |
+ iiim | bvm | vM | bvi7 vi7 vi7 |
+ iiM | v7 | iiM | v7 |
+ iim | v7 | iim | v7 |
+ iM | iv7 | iM | iM |
+ viim | iii7 | viim | iiim |
+ vim | bii7 | iM | iiim |
+ vim | ii7 | vM | i7 |
+ vM | i7 | bvm | vii7 |
+ bviiM | vi7 |

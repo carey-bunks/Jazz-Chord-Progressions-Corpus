@@ -1,0 +1,13 @@
+Title = Fancy Meeting You
+DB Key = Ab
+TimeSig = 4 4
+Bars = 32
+ Ab | Bbm7 Eb7 | Ab | Fbo7 Bbm6 |
+ AbM7 Ab6 | Bbm6 G7 | AbM7 Ab | Ebm6 Ebm6 Gbm6 Gbo7 |
+ Bbm7 | Dbm | AbM7 Ab6 | Ab |
+ Fm7 | AbM7 AbM7 Bbm Bbo7 | Fm7 Bb7add6 | E9 E9 Eb9 Eb7 |
+ Ab | Bbm7 Eb7 | Ab | Fo7 Bbm6 |
+ AbM7 Ab6 | Bbm6 G7 | Cm Ab | Cm F7 |
+ Bbm | Db Bb7b5 | Ab Ab Gb9 F9 | F9 |
+ Bbm7 | Bbm7 Bbm6 Db Eb7b9 | Ab | Fm7 Eb7 |
+

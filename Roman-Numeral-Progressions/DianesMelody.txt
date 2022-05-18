@@ -1,0 +1,11 @@
+Title = Diane's Melody
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 24
+ iih v7 | iM v7 | iiih vi7 | iih v7 |
+ iM bvim | biim bv7 | viiM | bvm vii7 |
+ iiim vi7 | iih v7 | iM | iiih vi7 |
+ iih v7 | vm i7 | biim bv7 | ivM |
+ ivm bvii7 | iM iim | iiim vi7 | iih v7 |
+ iM | iim biiM | iM | vi7 |

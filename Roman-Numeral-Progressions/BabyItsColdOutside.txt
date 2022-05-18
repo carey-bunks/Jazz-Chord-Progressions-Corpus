@@ -1,0 +1,13 @@
+Title = Baby, It's Cold Outside
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iM vim | iim v7 | iim v7 |
+ iM | iM vim | vm | i7 |
+ ivM ivM | ivM ivM | ivm ivm | ivm bvii7 |
+ iM | vim | ii7 | v7 NC NC NC |
+ iM | iM vim | iim v7 | iim v7 |
+ iM | iM vim | vm | i7 |
+ ivM ivM | ivM ivM | vim ii7 | iim v7 |
+ iM | iiih vi7 | ii7 v7 | iM v7 |

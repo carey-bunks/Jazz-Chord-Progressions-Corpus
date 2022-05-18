@@ -1,0 +1,13 @@
+Title = Angel
+DB Key = G
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iiim vi7 | iiim vi7 | iiim vi7 | iiim vi7 |
+ vim vim | iM vii7 | iiim vi7 | iiim vi7 |
+ iiim vi7 | iiim vi7 | iiim vi7 | iiim vi7 |
+ vim vim | iM vii7 | iiim vi7 | iiim vi7 |
+ iim v7 | iM iM | vim vim | ivh vii7 iiim iiim |
+ iim v7 | iM iM | vim vim | ivh vii7 |
+ iiim vi7 | iiim vi7 | iiim vi7 | iiim vi7 |
+ vim vim | iM vii7 | iiim vi7 | iiim vi7 |

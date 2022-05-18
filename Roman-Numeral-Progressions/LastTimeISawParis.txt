@@ -1,0 +1,13 @@
+Title = The Last Time I Saw Paris
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iM | v7 |
+ iim | v7 | iim v7 | iM v7 |
+ iM | iM | iM | v7 |
+ iim | v7 | iim v7 | iM v7 |
+ ii7 | vM | ii7 | vM |
+ iii7 | viM | iim | v7 |
+ iM | iM | iM | v7 |
+ iim v7 | iiih vi7 | iim v7 | iM |

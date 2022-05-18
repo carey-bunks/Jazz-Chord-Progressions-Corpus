@@ -1,0 +1,13 @@
+Title = Paul's Pal
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Gm7 C7 | F Dm7 | Gm7 C7 | F Dm7 |
+ Bm7 E7 | Am7b5 D7 | G7 C7 | F |
+ Gm7 C7 | F Dm7 | Gm7 C7 | F Dm7 |
+ Bm7 E7 | Am7b5 D7 | G7 C7 | F |
+ Gm7 C7 | F Dm7 | Gm7 C7 | F Dm7 |
+ Bm7 E7 | Am7b5 D7 | G7 C7 | F |
+ Gm7 C7 | F Dm7 | Gm7 C7 | F Dm7 |
+ Bm7 E7 | Am7b5 D7 | G7 C7 | F |
+

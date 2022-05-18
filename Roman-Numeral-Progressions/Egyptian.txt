@@ -1,0 +1,15 @@
+Title = The Egyptian
+DB Key = A
+EstKeySig = D
+TimeSig = 4 4
+Bars = 40
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |
+ ii7 | ii7 | ii7 | ii7 |
+ ii7 | ii7 | ii7 | ii7 |
+ ii7 | ii7 | ii7 | ii7 |
+ ii7 | ii7 | ii7 | ii7 |
+ v7 | v7 | v7 | v7 |
+ v7 | v7 | v7 | v7 |

@@ -1,0 +1,8 @@
+Title = Interplay
+DB Key = Ab
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 12
+ iiim | vim | iiim | iii7 |
+ vim | vim | iiim | v7 |
+ bvh | vii7 | iiim biih | iM ivM |

@@ -1,0 +1,13 @@
+Title = I Don't Know Enough About You
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ D7 | G7 | C6 | A7 |
+ D7 | G7 | C6 Ab7 | G7sus4 G7sus4 G7 A7 |
+ D7 | G7 | C6 | A7 |
+ D7 | G7 | C6 C6 D7 G7 | C6 |
+ E7 | E7 | A7 | A7 |
+ D7 | D7 | G7 | G7 G7 G7 A7 |
+ D7 | G7 | C6 | A7 |
+ D7 | G7 | C6 C6 D7 G7 | C6 C6 C6 A7 |
+

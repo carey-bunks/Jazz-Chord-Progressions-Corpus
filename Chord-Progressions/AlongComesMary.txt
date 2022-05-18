@@ -1,0 +1,20 @@
+Title = Along Comes Mary
+DB Key = C
+TimeSig = 4 4
+Bars = 63
+ Am | D7 | Am | D7 |
+ Am | D7 | Am | D7 |
+ Am | D7 | Am | D7 |
+ Am | D7 | Am | D7 |
+ E A | E7 A | E A | E7 A |
+ E A | D7 G | B E | B E |
+ B B E A | A | Dm Em | F7 |
+ Dm7 Am7 | Am D | Am7 D | Am |
+ D7 | Am | D7 | Am |
+ D7 | Am | D7 | Am |
+ D7 | Am | D7 | Am |
+ D7 | Am | D7 | E A |
+ E7 A | E A | E7 A | E A |
+ D7 G | B E | B E | B B E A |
+ A | Dm Em | F7 | Dm7 Am7 |
+ Am D | Am7 D | Am D |

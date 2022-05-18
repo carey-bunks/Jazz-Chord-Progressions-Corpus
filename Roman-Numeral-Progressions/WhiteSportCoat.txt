@@ -1,0 +1,13 @@
+Title = A White Sport Coat (and a Pink Carnation
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iim | v7 |
+ ivM | v7 | iM vim | iim v7 |
+ iM | iM | iim | v7 |
+ ivM | v7 | iM ivM | iM |
+ v7 | v7 | iM | iM |
+ ii7 | ii7 | v7 | v7 |
+ iM | iM | iim | v7 |
+ ivM | v7 | iM ivM | iM |

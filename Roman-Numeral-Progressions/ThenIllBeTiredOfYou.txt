@@ -1,0 +1,13 @@
+Title = Then I'll Be Tired Of You
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM vi7 | iim iim | iM vi7 | iim iim |
+ bvii7 vi7 | iim v7 | iiim vi7 | iim v7 |
+ iM vi7 | iim iim | iM vi7 | iim iim iim v7 |
+ bvii7 vi7 | iim v7 | iiim vi7 | bviim biii7 |
+ bviM ivm | bviim biii7 | bviM iv7 | bviim biii7 |
+ bviM ivm | bviim biii7 | im iv7 | iim v7 |
+ iM vi7 | iim iim | iM vi7 | iim iim |
+ bvii7 vi7 | iim v7 | iM | iim v7 |

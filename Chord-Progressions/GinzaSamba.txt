@@ -1,0 +1,21 @@
+Title = Ginza Samba
+DB Key = Ab
+TimeSig = 4 4
+Bars = 64
+ Ab6 | Ab6 | Db9#11 | Db9#11 |
+ Ab6 | Ab6 | Db9#11 | Db9#11 |
+ CM7 | Cm7 F9 | BbM7 | Bbm7 Eb9 |
+ Ab6 | Bbm7 Eb9sus4 | Ab6 | Eb7 |
+ Ab6 | Ab6 | Db9#11 | Db9#11 |
+ Ab6 | Ab6 | Db9#11 | Db9#11 |
+ CM7 | Cm7 F9 | BbM7 | Bbm7 Eb9 |
+ Ab6 | Bbm7 Eb9sus4 | Ab6 | Ab6 |
+ Dm7 | G7 | CM7 | C6 |
+ Cm7 | F7 | BbM7 | Bb6 |
+ Bm7 | E7 | AM7 | A6 |
+ Am7 | D7 | GM7 | Bbm7 Eb7 |
+ Ab6 | Ab6 | Db9#11 | Db9#11 |
+ Ab6 | Ab6 | Db9#11 | Db9#11 |
+ CM7 | Cm7 F9 | BbM7 | Bbm7 Eb9 |
+ Ab6 | Bbm7 Eb9sus4 | Ab6 | Bbm7 Eb7 |
+

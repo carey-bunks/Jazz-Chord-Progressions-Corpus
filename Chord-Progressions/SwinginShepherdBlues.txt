@@ -1,0 +1,8 @@
+Title = The Swingin' Shepherd Blues
+DB Key = Bb
+TimeSig = 4 4
+Bars = 12
+ Bb6 | Bb6 | Bb6 | Bb7 |
+ Eb7 | Eb7 | Bb7 Bb7 Cm7 C#o7 | Bb/D G7#9 |
+ Cm7 | F7 | Bb7 Bb7 Eb7 Gb7/E | F7 |
+

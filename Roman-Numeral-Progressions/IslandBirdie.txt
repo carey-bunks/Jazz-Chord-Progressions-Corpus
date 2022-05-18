@@ -1,0 +1,14 @@
+Title = Island Birdie
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 34
+ iM | iim v7 | iiim vi7 | iim v7 |
+ viih iii7 | vim ii7 | iim v7 | iM |
+ iM | iim v7 | iiim vi7 | iim v7 |
+ viih iii7 | vim ii7 | iim v7 | iM |
+ iv7 | iv7 | biiim i7 | biiim i7 |
+ iv7 | iv7 | iim v7 | biiim i7 |
+ iv7 | iv7 | biiim i7 | biiim i7 |
+ iv7 | iv7 | iim v7 | biiim i7 |
+ iv7 iv7 iv7 v7 | v7 |

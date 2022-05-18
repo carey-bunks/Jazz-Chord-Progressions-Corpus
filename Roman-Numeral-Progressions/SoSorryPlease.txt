@@ -1,0 +1,13 @@
+Title = So Sorry Please
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim v7 | iiim vi7 | iim bii7 |
+ vm i7 | ivm bvii7 | iiim vi7 iim v7 | bviiM viiM iM iM |
+ iM vim | iim v7 | iiim vi7 | iim bii7 |
+ vm i7 | ivm bvii7 | iiim vi7 iim v7 | bviiM viiM iM iM |
+ vm | i7 | ivM | ivM |
+ vim | ii7 | iiim biii7 | bviM bii7 |
+ iM vim | iim v7 | iiim vi7 | iim bii7 |
+ vm i7 | ivm bvii7 | iiim vi7 iim v7 | iM |

@@ -1,0 +1,13 @@
+Title = A Flower Is A Lovesome Thing
+DB Key = Db
+EstKeySig = E
+TimeSig = 4 4
+Bars = 32
+ v7 | v7 | v7 | v7 |
+ bv7 vii7 | iii7 vi7 | iim iim vii7 bviiM | viM |
+ v7 | v7 | v7 | v7 |
+ bv7 vii7 | iii7 vi7 | iim iim vii7 bviiM | viM |
+ viim iii7 | viM | im iv7 | bviiM |
+ bviiM viM | bviiM vm | bv7 vii7 | iiM iii7 |
+ v7 | v7 | v7 | v7 |
+ bv7 vii7 | iii7 vi7 | iim iim vii7 bviiM | viM |

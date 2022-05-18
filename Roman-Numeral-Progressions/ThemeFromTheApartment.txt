@@ -1,0 +1,13 @@
+Title = Theme From "The Apartment"
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iM | iim | vM |
+ iM biiio | iim | ivm | iii7 |
+ i7 | ivM | bvii7 | biiiM biiiM biiiM io |
+ vM | biiio | iM ii7 | v7 |
+ iM | iM | iim | vM |
+ iM biiio | iim | ivm | iii7 |
+ i7 | ivM | bvii7 | biiiM biiiM biiiM io |
+ vM | biiio | iim iim iim vM | iM |

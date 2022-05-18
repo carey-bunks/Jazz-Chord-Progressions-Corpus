@@ -1,0 +1,13 @@
+Title = Dansero
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Gm7 C7 | FM7 F6 | Gm7 C7 | FM7 F6 |
+ Gm7 C7 | Cm7 D7 | G7 C7#9 | F |
+ Gm7 C7 | FM7 F6 | Gm7 C7 | FM7 F6 |
+ Gm7 C7 | Cm7 D7 | G7 C7#9 | F |
+ A7 A13 | A7+ A7 | D9 D9#11 | D9#11 |
+ G7 G13 | G7+ G7 | C9 C9#11 | Gm7 C7 |
+ Gm7 C7 | FM7 F6 | Gm7 C7 | FM7 F6 |
+ Gm7 C7 | Cm7 D7 | G7 C7#9 | F |
+

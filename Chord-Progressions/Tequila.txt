@@ -1,0 +1,13 @@
+Title = Tequila
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ F Cm7 | F | F Cm7 | F |
+ F Cm7 | F | F Cm7 | F |
+ F Cm7 | F | F Cm7 | F |
+ F Cm7 | F | F Cm7 | F |
+ Abo7 | F6 | Abo7 | F6 |
+ Abo7 | F6 | G7 G7b5 | C7 |
+ F Cm7 | F | F Cm7 | F |
+ F Cm7 | F | F Cm7 | F |
+

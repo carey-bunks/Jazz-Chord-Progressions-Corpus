@@ -1,0 +1,13 @@
+Title = Guess Who I Saw Today
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 30
+ iim v7 | iM vim | iim v7 | iM |
+ iim v7 | iii7 vi7 | iim v7 | iM vim |
+ iim v7 | iM | iim v7 | iii7 vi7 |
+ iim v7 | iM biiM iM iM | ivm bvii7 | biiiM |
+ ivm bvii7 | biiiM | iiim vi7 | iiM |
+ iiim vi7 | iiM | iim v7 | iM vim |
+ iim iim v7 v7 | iiim vi7 | iim iim v7 iii7 | vim vim ii7 bvi7 |
+ iM vim iim v7 | iM vi7 |

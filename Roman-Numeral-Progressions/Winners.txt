@@ -1,0 +1,15 @@
+Title = Winners
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 40
+ iM iM iM iM | iiiM iiiM iiiM iM | vim vim vim vim | iiiM iiiM iiiM iM |
+ iM | i7 iM | iM | viih bvii7 |
+ iM | iii7 vh | bvh | viih iii7 |
+ vim | ii7 bvi7 | vM vM | bvh vii7 |
+ ivM ivM | bvh vii7 | iiim vi7 | iim v7 |
+ iM | i7 iM | iM | viih bvii7 |
+ iM | iii7 vh | bvh | viih iii7 |
+ vim iii7 | vim bvh | iv7 iii7 | biii7 ii7 |
+ v7 vo | ivM viih | iM iM | iM |
+ iM vim | iim v7 | iM | iM |

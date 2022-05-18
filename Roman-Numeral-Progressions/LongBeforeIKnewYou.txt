@@ -1,0 +1,13 @@
+Title = Long Before I Knew You
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ ivM ivM iM iM | iM | iiim iiim ivM v7 | v7 |
+ ivM vim | iim vim | viih | iii7 |
+ vim i7 | ivM ivM bviiM i7 | ivM | ivM bviiM bviiM ivM |
+ iiih | vi7 viM viM vi7 | iih | v7 |
+ ivM ivM iM iM | iM | iiim iiim ivM v7 | v7 |
+ ivM vim | iim vim | viih | iii7 |
+ vim i7 | ivM ivM bviiM i7 | ivM ivM iim iii7 | vim vim vim ii7 |
+ iM vi7 | iim v7 | iM ivM | iM |

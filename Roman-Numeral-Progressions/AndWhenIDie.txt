@@ -1,0 +1,13 @@
+Title = And When I Die
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 30
+ iM iim | iM ivM | iM iim | iM ivM |
+ iim iiim | ivM vim | bviiM ivM | iM |
+ iiim | vim | ivM | iim |
+ iim | iM iim | iM ivM | iM iim |
+ iM iim | iM ivM | iM | iiim |
+ vim | ivM | iM iim | iM ivM |
+ iM iim | iM ivM | iM iim | iM ivM |
+ iM | iM |

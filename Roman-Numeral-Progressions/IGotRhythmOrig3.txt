@@ -1,0 +1,14 @@
+Title = I Got Rhythm
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 34
+ iM iM | iim v7 | iM bvo | iim v7 |
+ iM iM | iim iim v7 ivm | iM v7 | iM iio iio v7 |
+ iM iM | iim v7 | iM bvo | iim v7 |
+ iM iM | iim iim v7 ivm | iM v7 | iM |
+ iii7 viim | vm iii7 | viM iiiM | iiim vi7 |
+ ii7 vim | ivm ii7 | ii7 | v7 v7 ii7 v7 |
+ iM iM | iim v7 | iM bvo | iim v7 |
+ iM iM | iim iim v7 ivm | iM vm | vi7 |
+ ii7 v7 | iM bviiM bviM biiiM |

@@ -1,0 +1,13 @@
+Title = Jeru
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | Eb | Eb | Db7 |
+ Eb C7 | Fm7 D7 | Eb | Fm7 Ebo7 |
+ Eb | Eb | Eb | Db7 |
+ Eb C7 | Fm7 D7 | Eb | Fm7 Ebo7 |
+ Bbm7 | Eb7 | Ab | Ab |
+ Abm7 | Db7 | Gb | Fm7 Bb7 |
+ Eb | Eb | Eb | Db7 |
+ Eb C7 | Fm7 D7 | Eb | Fm7 Ebo7 |
+

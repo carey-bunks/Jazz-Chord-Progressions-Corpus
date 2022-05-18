@@ -1,0 +1,15 @@
+Title = The Red One
+DB Key = D
+TimeSig = 4 4
+Bars = 40
+ Bm7 | Bm7/A GM7 | Em7 F#m7 | GM7 CM7 |
+ Bm7 Bm7/A | G E7 | G F#m7 | CM7 Bm7 |
+ Bm7 | Bm7/A GM7 | Em7 F#m7 | GM7 CM7 |
+ Bm7 Bm7/A | G E7 | G F#m7 | CM7 CM7 Bm7 E7 |
+ E7 | E7 | E7 | E7 |
+ E7 | E7 | CM7 | CM7 |
+ Bm7 | Bm7/A GM7 | Em7 F#m7 | GM7 CM7 |
+ Bm7 Bm7/A | G E7 | G F#m7 | CM7 CM7 Bm7 F#7sus4 |
+ F#7sus4 | F#7sus4 | F#7sus4 | F#7sus4 |
+ F#7sus4 | F#7sus4 | F#7sus4 | F#7sus4 |
+

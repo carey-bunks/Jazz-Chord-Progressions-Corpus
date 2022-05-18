@@ -1,0 +1,13 @@
+Title = Fun House
+DB Key = Ab
+EstKeySig = E
+TimeSig = 4 4
+Bars = 32
+ iiim | iiim | i7 | i7 |
+ vii7 | vii7 | iiim | iiim |
+ iiim | iiim | i7 | i7 |
+ vii7 | vii7 | iiim | iiim |
+ iM | biim v7 | iM | biim v7 |
+ i7 | ivM bvo | iM | vii7 |
+ iiim | iiim | i7 | i7 |
+ vii7 | vii7 | iiim | iiim |

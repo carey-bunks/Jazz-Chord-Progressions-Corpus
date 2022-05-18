@@ -1,0 +1,14 @@
+Title = Lazy Afternoon
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 35
+ vim | vi7 | vim | ii7 |
+ vim | ii7 | vim | ii7 |
+ iim | ii7 | iim | v7 |
+ iim | v7 | iim | v7 |
+ iim | v7 | iM iv7 | iiim vi7 |
+ iim | v7 | iM | viih |
+ iii7 | vim | vi7 | vim |
+ ii7 | vim | ii7 | vim |
+ ii7 | viM | viim iii7 |

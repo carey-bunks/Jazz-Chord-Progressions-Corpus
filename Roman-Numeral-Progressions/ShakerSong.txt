@@ -1,0 +1,19 @@
+Title = The Shaker Song
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 54
+ iM | ivM | iM | ivM |
+ iM | ivM | iM | ivM |
+ ivm | biiiM | biiim | biiM |
+ ivm | biiiM | iim | iim |
+ iM | ivM | iM | ivM |
+ iM | ivM | iM | ivM |
+ ivm | biiiM | biiim | biiM |
+ ivm | biiiM | iim | iim |
+ ivM | iii7 | vim | vm i7 |
+ ivM | iim | iM | vm i7 |
+ ivM | iii7 | vim bvim | vm i7 |
+ ivM | iim | iM | iim |
+ iM | iim | iM | iim |
+ iM | iim |

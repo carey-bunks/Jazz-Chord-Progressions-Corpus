@@ -1,0 +1,13 @@
+Title = The Very Thought Of You
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM | iM | vim | vim |
+ iM iim | biiio vim | ii7 | vim ii7 |
+ iim iim | viih iii7 | vim vim | bvm vii7 |
+ iiim vih | vim ii7 | iim | v7 |
+ iM | iM | vim | vim |
+ iM iim | biiio vim | ii7 | vim ii7 |
+ iim iim | viih iii7 | vim vim | bvo |
+ iiim vi7 | iim v7 | iM vim | iim v7 |

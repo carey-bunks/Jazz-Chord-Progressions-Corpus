@@ -1,0 +1,11 @@
+Title = Avalon Place
+DB Key = C
+TimeSig = 4 4
+Bars = 24
+ D7#9 | D7#9 | D7#9 | D7#9 |
+ D7#9 | D7#9 | D7#9 | D7#9 |
+ Gm7 | Gm7 | Gm7 | Gm7 |
+ Db69 | Eb69 | Gb69 | Gb69 |
+ Ebm7b5 | Ebm7b5 | Ebm7b5 | Ebm7b5 |
+ Ebm7b5 | Ebm7b5 | Ebm7b5 | Ebm7b5 |
+

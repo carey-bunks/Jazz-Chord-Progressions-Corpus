@@ -1,0 +1,14 @@
+Title = Comes Once In a Lifetime
+DB Key = Bb
+TimeSig = 4 4
+Bars = 38
+ Bb | Bb | Cm7 | Cm7 F7 |
+ Cm7 | Cm7 F7 | Bb | F7 |
+ Bb | Bb | Cm7 | Cm7 F7 |
+ Cm7 | Cm7 F7 | Bb | Bb7 Bb7 Bb7 Bb7+ |
+ Eb | Eb | D7 | G7 |
+ C7 | F7 | Bb Bo | Ab F7 |
+ Bb | Bb | Cm7 | Gb9 F7 |
+ Bb | F7 | Bb | F7 |
+ Bb | F F Fm G7 | Cm | Cm7 F7b9 |
+ Bb | Bb Bb Cm7 F7 |

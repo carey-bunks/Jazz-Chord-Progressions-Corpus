@@ -1,0 +1,13 @@
+Title = Steppin' Out With My Baby
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ vim vim | iim iii7 | vim vim | iim iii7 |
+ vim vim | iim iii7 | vim | iv7 iii7 vim vim |
+ vim vim | iim iii7 | vim vim | iim iii7 |
+ vim vim | iim iii7 | vim | iv7 iii7 vim vim |
+ viM | viM | viM viM | viM viM |
+ viM | viM | viim iii7 | viim iii7 |
+ vim vim | iim iii7 | vim vim | iim iii7 |
+ vim vim | iim iii7 | viM io | viim iii7 viM viM |

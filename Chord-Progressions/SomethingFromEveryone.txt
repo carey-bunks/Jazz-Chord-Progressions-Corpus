@@ -1,0 +1,13 @@
+Title = Something from Everyone
+DB Key = C
+TimeSig = 3 4
+Bars = 32
+ Eb7alt | G/Ab Ab69 | D7alt | F#/G GM7 |
+ C#7alt | F/F# F#m11 | Ebm7 | Ab7+ |
+ G7alt | G9/C C7#9 | F#7alt | F#9/B B7#9 |
+ F7alt | F9/B Bb7#9 | AM7 | Ab7alt |
+ Db69 | C9/B B13 | E69 | Ab13/G G13 |
+ C69 | G7/F# F#7alt | BM7 | Bb7alt |
+ A13#11 | G/Ab Ab69 | D7alt | G7#11 C9 |
+ F9sus | F7#9 | Dm7/F | E7 |
+

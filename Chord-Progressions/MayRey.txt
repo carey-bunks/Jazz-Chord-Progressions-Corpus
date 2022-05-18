@@ -1,0 +1,13 @@
+Title = May-Rey
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ F D7b9 | Gm7 C7 | F D7b9 | Gm7 C7 |
+ F D7b9 | Gm7 C7 | Am7 | D7 |
+ Bm7 E7 | Am7 D7 | Gm7 C7 | FM7 |
+ Em7 A7 | Dm7 | G7 | C7 |
+ F D7b9 | Gm7 C7 | F D7b9 | Gm7 C7 |
+ F D7b9 | Gm7 C7 | Am7 | D7 |
+ Bm7 E7 | Am7 D7 | Gm7 C7 | FM7 |
+ G7#11 | C7#11 | F | Gm7 C7 |
+

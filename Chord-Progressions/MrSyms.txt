@@ -1,0 +1,8 @@
+Title = Mr. Syms
+DB Key = Eb
+TimeSig = 4 4
+Bars = 12
+ Cm7 Cm7 CM7 C7#5 | BM7/C Bbm6/C | Cm7 Cm7 C DbM7/C | Gm/C DbMb5/C |
+ Fm7 | Fm7 | Cm7 Cm7 CM7 C7#5 | BM7/C Bbm6/C |
+ G7 DbM7b5/G | F7#9/G | G7#5b9 G7#5b9 G7 Cm7 | Cm7 BbM7 Cm7 Cm7 |
+

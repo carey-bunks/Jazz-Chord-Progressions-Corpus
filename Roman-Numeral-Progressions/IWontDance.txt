@@ -1,0 +1,20 @@
+Title = I Won't Dance
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 60
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM | vm i7 |
+ ivM | bvii7 | iM | iim v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM | i7 |
+ ivM | bvii7 | iM | vm i7 |
+ ivM | bvii7 | iM | bviim biii7 |
+ bviM | bviM | biiim | bvi7 |
+ biiM | biiM | bvim | bii7 |
+ viiM | vii7 | iM | iM |
+ viim iii7 | vim ii7 | iim | v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM | vm i7 |
+ ivM | bvii7 | iM | vm i7 |
+ ivM | iim v7 | iM | iim v7 |

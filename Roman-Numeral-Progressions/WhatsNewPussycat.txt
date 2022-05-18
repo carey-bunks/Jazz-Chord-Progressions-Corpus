@@ -1,0 +1,15 @@
+Title = What's New, Pussycat?
+DB Key = G
+EstKeySig = G
+TimeSig = 3 4
+Bars = 38
+ ivM | bviiM | iM | iM |
+ ivM | bviiM | iM | iM |
+ ivM | ivM | vM | v7 |
+ iM | iM | biiiM | biiiM |
+ biiiM | biiiM | biiM | biiM |
+ biiM | biiM | biiM | biiM |
+ biiM | biiM | iM | iM |
+ ivM | iiim | iim | v7 |
+ iiim | vim | iim | v7 |
+ iM | iM |

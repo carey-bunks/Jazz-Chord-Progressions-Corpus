@@ -1,0 +1,13 @@
+Title = Day Dream
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM bv7 | iv7 iii7 | vim vim | ivm v7 |
+ im | bvi7 | v7 v7 | bvi7 v7 |
+ iM bv7 | iv7 iii7 | vim vim | ivm v7 |
+ im | bvi7 v7 | iM | vm i7 |
+ ivM bvm | iiiM ivm | biiiM iiim | iiM |
+ iim v7 | iM vi7 | ii7 | bvi7 v7 |
+ iM bv7 | iv7 iii7 | vim vim | ivm v7 |
+ im | bvi7 v7 | iM | iim v7 |

@@ -1,0 +1,19 @@
+Title = Crisis
+DB Key = C
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 56
+ vi7 | vi7 | vii7 | vii7 |
+ bvii7 | bvii7 | vi7 | vi7 |
+ bvi7 | bvi7 | v7 | viih iii7 |
+ vim | viih iii7 | vim | vim |
+ vi7 | vi7 | vii7 | vii7 |
+ bvii7 | bvii7 | vi7 | vi7 |
+ bvi7 | bvi7 | v7 | viih iii7 |
+ vim | viih iii7 | vim | vim |
+ viim | iii7 | vim ii7 | vm i7 |
+ bvm | vii7 | biim bv7 | viim iii7 |
+ vi7 | vi7 | vii7 | vii7 |
+ bvii7 | bvii7 | vi7 | vi7 |
+ bvi7 | bvi7 | v7 | viih iii7 |
+ vim | viih iii7 | vim | vim |

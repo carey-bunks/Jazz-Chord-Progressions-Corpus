@@ -1,0 +1,13 @@
+Title = Love Makes the World Go Round
+DB Key = Eb
+TimeSig = 3 4
+Bars = 32
+ Eb | Eb | Ab Ab Eb | Eb/Bb |
+ Eb Eb Ab | Eb Eb EbM7 | Bb7 | Bb7 |
+ Bb7 | Bb7 | Fm7 Bb7 Bb7 | Bb7 |
+ Bb7 Ab Bb7 | Fm7 Fm7 Bb9 | Eb | Eb |
+ Eb | Eb | Ab Ab Eb | Eb/Bb |
+ Eb Eb Ab | Eb Eb EbM7 | Bb7 | Bb7 |
+ Bb7 | Bb7 | Fm7 Bb7 Bb7 | Bb7 |
+ Bb7 Bb7 Fm7 | Bb9 Bb9 Bb7 | Eb Ab Ab | Eb |
+

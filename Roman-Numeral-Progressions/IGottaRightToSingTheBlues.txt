@@ -1,0 +1,13 @@
+Title = I Gotta Right To Sing the Blues
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ vim ii7 | vim ii7 | iim v7 | v7 |
+ vm i7 | vm i7 | iiih | vi7 |
+ vim ii7 | vim ii7 | iim v7 | iim v7 |
+ iM iim | iio iM | iim bvo | v7 vi7 |
+ vim ii7 | vim ii7 | iim v7 | v7 |
+ vm i7 | vm i7 | iiih | vi7 |
+ vim ii7 | vim ii7 | bvii7 | bvii7 |
+ vim ii7 | iim iim iih v7 | iM | iiim vi7 |

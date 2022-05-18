@@ -1,0 +1,31 @@
+Title = With A Little Bit Of Luck
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 101
+ iM iM | ivM v7 | iM iM | iM iM ivM v7 |
+ iM iM | iM iM ivM v7 | iM iM | iM iM vM i7 |
+ ivM | vi7 | ivM ivM | ii7 ivM |
+ ivM | ivM ii7 | vM vM vM v7 | iM iii7 |
+ ivM io iM ivM | iM v7 | iM | iM |
+ v7 | v7 | iM | iM |
+ v7 | v7 ivM v7 | iM | iM |
+ iM iM | ivM v7 | iM iM | iM iM ivM v7 |
+ iM iM | iM iM ivM v7 | iM iM | iM iM vM i7 |
+ ivM | ivM | vi7 | ivM ivM |
+ ii7 ivM | ivM ii7 | vM vM vM v7 | iM iii7 |
+ ivM io iM ivM | iM v7 | iM | iM |
+ v7 | v7 | iM | iM |
+ v7 | v7 v7 ivM v7 | iM | iM |
+ ivM | ivM | ivM iM | iM vo |
+ vM | ii7 ii7 iM ii7 | vM | vM |
+ iM iM | ivM v7 | iM iM | iM iM ivM i7 |
+ iM iM | iM iM ivM v7 | iM iM | iM iM vM i7 |
+ ivM | ivM | vi7 | ivM ivM |
+ ii7 ii7 ii7 ivM | ivM | ivM ii7 | vM vM vM v7 |
+ iM iii7 | ivM io iM ivM | iM v7 | iM |
+ iM | v7 | v7 | iM |
+ iM | v7 | v7 v7 ivM v7 | iM |
+ iM | v7 | v7 | iM |
+ iM | iM | v7 | iM |
+ iM |

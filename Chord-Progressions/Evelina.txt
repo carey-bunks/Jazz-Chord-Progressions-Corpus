@@ -1,0 +1,13 @@
+Title = Evelina
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | Eb Eo7 | Fm7 Bb7 | C7 Bb7 |
+ Eb | Eb Eo7 | Bb7 | Bb7 |
+ Eb7 Ebo7 | Bbm9 Eb7b9 | Bbm9 Eb9 | Bbm9 Eb9+ |
+ Cm7 F9 | Cm9 F7b9 | Fm7 | Bb7+ |
+ Eb | Eb Eo7 | Fm7 Eb7 | Bbo7 Bb9 |
+ G7+ C7+ | Bb7+ Eb6 | Eb G7 | Db7#11 Db7#11 C7 C7+ |
+ Fm7 | Fm7 Eo7 | Eb Eb D7+ G9 | C7 |
+ Fm7 | Eb Eb F9 Fm7 | Eb | Fm7 B7 |
+

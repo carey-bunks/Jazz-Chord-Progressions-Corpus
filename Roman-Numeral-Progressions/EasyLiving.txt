@@ -1,0 +1,13 @@
+Title = Easy Living
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM vi7 | iim biiio | iM iM vm i7 | ivM bvii7 |
+ iM vim | iim v7 | iii7 iii7 vi7 vi7 | ii7 v7 |
+ iM vi7 | iim biiio | iM iM vm i7 | ivM bvii7 |
+ iM vim | iim v7 | iM iv7 | bviim biii7 |
+ bviM ivm | bviim bviim biii7 biii7 | im iv7 | bviim biii7 |
+ bviM bviM | ivm ivm | iih | v7 |
+ iM vi7 | iim biiio | iM iM vm i7 | ivM bvii7 |
+ iM vim | iim v7 | iM biiiM | bviM biiM |

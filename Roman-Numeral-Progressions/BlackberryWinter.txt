@@ -1,0 +1,13 @@
+Title = Blackberry Winter
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM iiim | vim vim iim v7 | iM iM iim v7 | iiim ivM |
+ iiim vim | iim v7 | iM vim | iim v7 |
+ iM iiim | vim vim iim v7 | iM iM iim v7 | iiim ivM |
+ iiim vim | iim v7 | iM v7 | iM |
+ vm iM | vim iim | vm i7 | ivM |
+ iiim biiiM | iiim ih | bvh vii7 | iiim vi7 iim v7 |
+ iM iiim | vim vim iim v7 | iM iM iim v7 | iiim ivM |
+ iiim vim | iim v7 | iM | iM |

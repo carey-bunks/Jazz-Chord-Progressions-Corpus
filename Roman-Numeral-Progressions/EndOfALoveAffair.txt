@@ -1,0 +1,15 @@
+Title = The End Of A Love Affair
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 40
+ iim v7 | iM | im iv7 | bviiM |
+ bviim biii7 | bviim biii7 | bviM v7 | iM vi7 |
+ iim v7 | iM | im iv7 | bviiM |
+ bviim biii7 | bviim biii7 | bviM v7 | iM iii7 |
+ vim | ii7 | vim | ii7 |
+ vM | iiim vi7 | vim ii7 | iim v7 |
+ iim v7 | iM | im iv7 | bviiM |
+ bviim biii7 | bviim biii7 | bviM v7 | vm i7 |
+ ivM | ivm | iiim | biiio |
+ iim vi7 | iim v7 | iM | vi7 |

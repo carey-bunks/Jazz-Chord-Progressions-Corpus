@@ -1,0 +1,13 @@
+Title = A Time For Us
+DB Key = Bb
+TimeSig = 3 4
+Bars = 32
+ Dm | Eb | Bb | Cm |
+ Gm | Dm | Eb | Cm |
+ Dm | Gm | Gm Gm Dm | Gm |
+ Bb | F | Cm | Gm |
+ Ab | Eb | Dm | Gm |
+ Dm | Eb | Bb | Cm |
+ Gm | Dm | Eb | Cm |
+ Dm | Gm | Gm Gm Dm | Gm |
+

@@ -1,0 +1,15 @@
+Title = Make Someone Happy
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 40
+ iM iM | iM | iM iM | iM |
+ vm ii7 | vm | vm | i7 |
+ ivM ivM | ivM | ivm | iih v7 |
+ iM | iiim vi7 | iim | v7 |
+ iM iM | iM | iM iM | iM |
+ vm ii7 | vm | vm | i7 |
+ ivM ivM | ivM | ivm | iih v7 |
+ iM | iM | iiim | vi7 |
+ iim | v7 | iiim | iiim vi7 |
+ iim | v7 | iM | iim v7 |

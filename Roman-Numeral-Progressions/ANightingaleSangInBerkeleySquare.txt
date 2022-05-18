@@ -1,0 +1,15 @@
+Title = Nightingale Sang In Berkeley Square
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 38
+ iM vim | iiim iiim vm i7 | ivM ivM viim iii7 | vim ivm |
+ iM iim | iM iM ivm bvii7 | iM vim | iim v7 |
+ iM | iim v7 | iM vim | iiim iiim vm i7 |
+ ivM ivM viim iii7 | vim ivm | iM iim | iM iM ivm bvii7 |
+ iM vim | iim v7 | iM | bvm vii7 |
+ iiiM biim | bvm vii7 | bvim vo | bvm vii7 |
+ iiiM biim | bvm vii7 | bvim biim | iim v7 |
+ iM vim | iiim iiim vm i7 | ivM ivM viim iii7 | vim ivm |
+ iM iim | iM iM ivm bvii7 | iM vim | iim v7 |
+ iM | iim v7 |

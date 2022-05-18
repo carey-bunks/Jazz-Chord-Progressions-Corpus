@@ -1,0 +1,8 @@
+Title = The Sorcerer
+DB Key = C
+TimeSig = 4 4
+Bars = 15
+ DbM7 | DM7 | Em69 | FM7b5/E |
+ DbM7 | DM7 DM7 DM7 A7#5#9 | A7#5#9 | D7#9 |
+ Abm7 | Gm7 Gm7 Gm7 EbM7b5 | Am7/D | Cm7 |
+ Cm7 | A7sus4 | G/Ab |

@@ -1,0 +1,12 @@
+Title = Always and Forever
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 28
+ vim vim iim iiim | ivM | v7 iii7 | vim bviM |
+ iM ivh | ivM biiiM | ii7 v7 | iM |
+ ivm iiiM | vim vim iim iiim | ivm bvii7 | biiiM bviiM |
+ biiM | im bviM | ivm vm | vih ii7 |
+ vM vM vM iii7 | vim vim iim iiim | ivM | v7 iii7 |
+ vim bviM | iM ivh | ivM biiiM | ii7 ivM |
+ iM | ivm | iM | ivm |

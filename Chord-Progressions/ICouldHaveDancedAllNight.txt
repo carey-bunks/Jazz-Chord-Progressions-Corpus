@@ -1,0 +1,21 @@
+Title = I Could Have Danced All Night
+DB Key = C
+TimeSig = 2 2
+Bars = 64
+ C | C | CM7 | CM7 |
+ CM7 | CM7 | C6 | C6 Em |
+ C | C F | CM7 | CM7 C6 |
+ Dm7 | Dm7 | G7 | G7 |
+ Dm | Dm | F+ | F+ |
+ Dm7 | Dm7 | Dm6 | Dm6 |
+ F | G7 | F | G7+ |
+ CM7 | C6 | CM7 | CM7 |
+ E7 | E7 | F#m7 | B7 |
+ E | EM7 | E6 | E |
+ G | G | Am | Co |
+ G9 | G9 | G9 F | CM7 Dm7 |
+ C | CM7 | CM7 | CM7 |
+ F6 | F6 | F6 | F6 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ Dm7 | G7 | C | C |
+

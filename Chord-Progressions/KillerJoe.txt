@@ -1,0 +1,13 @@
+Title = Killer Joe
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ C13 | Bb13 | C13 | Bb13 |
+ C13 | Bb13 | C13 | Bb13 |
+ C13 | Bb13 | C13 | Bb13 |
+ C13 | Bb13 | C13 | Bb13 |
+ Em7b5 | A7 | Ebm7 | Ab7 |
+ A7 | Ab7 | Em7 | A7 |
+ C13 | Bb13 | C13 | Bb13 |
+ C13 | Bb13 | C13 | Bb13 |
+

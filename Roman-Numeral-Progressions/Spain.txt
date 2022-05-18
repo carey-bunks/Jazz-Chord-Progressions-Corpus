@@ -1,0 +1,11 @@
+Title = Spain
+DB Key = D
+EstKeySig = D
+TimeSig = 4 4
+Bars = 24
+ ivM | ivM | ivM | ivM |
+ biii7 | biii7 | biii7 | biii7 |
+ iim | iim | v7 | v7 |
+ iM | iM | ivM | ivM |
+ bvii7 | bvii7 | biii7 | biii7 |
+ vi7 | vi7 | vi7 | vi7 |

@@ -1,0 +1,8 @@
+Title = Frankie and Johnny
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 12
+ iM v7 | iM v7 | iM v7 | iM i7 |
+ ivM i7 | ivM | ivM ivo | iM vi7 |
+ iim | v7 | iM | iim v7 |

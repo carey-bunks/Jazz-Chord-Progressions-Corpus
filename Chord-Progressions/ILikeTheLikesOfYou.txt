@@ -1,0 +1,13 @@
+Title = I Like the Likes of You
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 |
+ EbM7 Cm7 | Fm7 Bb7 | Eb6 | Fm7 Bb7 |
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 |
+ EbM7 Cm7 | Fm7 Bb7 | Eb6 | Bbm7 Eb7 |
+ AbM7 | AbM7 | Eb6 | Eb6 |
+ F7 | F7 | Fm7 Bb7 | Fm7 Bb7#5 |
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 |
+ EbM7 Cm7 | Fm7 Bb7 | Eb6 | Fm7 Bb7 |
+

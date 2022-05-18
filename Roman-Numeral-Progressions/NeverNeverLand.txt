@@ -1,0 +1,14 @@
+Title = Never Never Land
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 34
+ io iM v7 v7 | iM iM ivM ivm | iiim iM vim vim | bvm ivm |
+ iM vi7 | bviiM v7 | iM ii7 | v7 v7 v7 v7 |
+ io iM v7 v7 | iM iM ivM ivm | iiim iM vim vim | bvm ivm |
+ iM vi7 | bviiM v7 | iM iM iim v7 | iM iM ivm bvii7 |
+ biiiM biiiM | ivm ivm bvii7 bvii7 | biiiM im | biiM biiM biiM v7 |
+ iM | vM | ivM iM iim io | ii7 ii7 ii7 v7 |
+ io iM v7 v7 | iM iM ivM ivm | iiim iM vim vim | bvm ivm |
+ iM | vm vo | vim i7 i7 i7 | ivM ivM iim v7 |
+ iM | iM |

@@ -1,0 +1,20 @@
+Title = I Whistle A Happy Tune
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 57
+ iM | i7 | ivM | ivM |
+ v7 | v7 v7 v7 vM | iM | iM v7 |
+ iM | iM | iM | i7 |
+ ivM | ivM | v7 | v7 v7 v7 vM |
+ iM | iM v7 | iM | iim iim iim iM |
+ bviM | bviM | iM | iM |
+ vM | vm | ii7 | v7 |
+ v7 | i7 | ivM | ivM |
+ v7 | v7 v7 v7 vM | iM | v7 v7 ivM v7 |
+ iM | iM | ivM | ivM |
+ iM | iM | ivM | ivM |
+ iM | iM | ivM | ivM |
+ iM | iM | ii7 | ii7 |
+ iim | iim v7 | iM | iM |
+ iM |

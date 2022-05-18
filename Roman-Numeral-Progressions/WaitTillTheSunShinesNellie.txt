@@ -1,0 +1,13 @@
+Title = Wait Till the Sun Shines, Nellie
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iM iM iM iii7 | ivM | iM |
+ v7 | v7 | iM io | iM iM v7 i7 |
+ ivM | ivo | iM | vo vi7 |
+ ii7 | ii7 | v7 | v7 |
+ iM | iM iM iM iii7 | ivM | iM |
+ v7 | v7 vii7 | iiiM | iiiM |
+ viM | vi7 | ii7 | iio ii7 |
+ iM | v7 | iM v7 | iiim v7 |

@@ -1,0 +1,9 @@
+Title = Eleven Four
+DB Key = Eb
+TimeSig = 11 4
+Bars = 16
+ F7 F7 F7 Bb7 Bb7 Gm7 Gm7 Gm7 Cm7 Cm7 Cm7 | F7 F7 F7 Bb7 Bb7 Gm7 Gm7 Gm7 Cm7 Cm7 Cm7 | Am7b5 Am7b5 Am7b5 Abm7 Abm7 Gm7 Gm7 Gm7 Gbm7 Gbm7 Gbm7 | Fm7 Fm7 Fm7 Bb7 Bb7 Eb6 Eb6 Eb6 Eb6 Eb6 Eb6 |
+ F7 F7 F7 Bb7 Bb7 Gm7 Gm7 Gm7 Cm7 Cm7 Cm7 | F7 F7 F7 Bb7 Bb7 Gm7 Gm7 Gm7 Cm7 Cm7 Cm7 | Am7b5 Am7b5 Am7b5 Abm7 Abm7 Gm7 Gm7 Gm7 Gbm7 Gbm7 Gbm7 | Fm7 Fm7 Fm7 Bb7 Bb7 Eb6 Eb6 Eb6 Eb6 Eb6 Eb6 |
+ Dm7 Dm7 Dm7 G7 G7 CM7 CM7 CM7 Am7 Am7 Am7 | F#m7 F#m7 F#m7 B7 B7 E6 E6 E6 E6 E6 E6 | Am7 Am7 Am7 D7 D7 G6 G6 G6 Em7 Em7 Em7 | Am7 Am7 Am7 D7 D7 Gm7 Gm7 Gm7 C7 C7 C7 |
+ F7 F7 F7 Bb7 Bb7 Gm7 Gm7 Gm7 Cm7 Cm7 Cm7 | F7 F7 F7 Bb7 Bb7 Gm7 Gm7 Gm7 Cm7 Cm7 Cm7 | Am7b5 Am7b5 Am7b5 Abm7 Abm7 Gm7 Gm7 Gm7 Gbm7 Gbm7 Gbm7 | Fm7 Fm7 Fm7 Bb7 Bb7 Eb6 Eb6 Eb6 Eb6 Eb6 Eb6 |
+

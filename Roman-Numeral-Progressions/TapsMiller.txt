@@ -1,0 +1,13 @@
+Title = Taps Miller
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iM | iim v7 | iM io | v7 |
+ iM i7 | ivM bvii7 | iM | bvi7 v7 |
+ iM | iim v7 | iM io | v7 |
+ iM i7 | ivM bvii7 | iM | bvi7 v7 iM iM |
+ vm i7 | vm i7 | iv7 | iv7 |
+ biii7 | biii7 | ii7 | bii7 |
+ iM | iim v7 | iM io | v7 |
+ iM i7 | ivM bvii7 | iM | bvi7 v7 iM iM |

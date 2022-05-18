@@ -1,0 +1,13 @@
+Title = Save Your Love For Me
+DB Key = D
+TimeSig = 4 4
+Bars = 32
+ Em7 | Em7 | Gm7 | C7 |
+ Em7 | Em7/A | DM7 | F#m7b5 B7alt |
+ Em7 | Em7 | Gm7 | C7 |
+ Em7 | Em7/A | DM7 A7alt | DM7 |
+ Bb7 | Bb7 | DM7 Em7 | F#m7 F#m7 Em7 DM7 |
+ Bb7 | Bb7 | DM7 F7 | Em7 Em7 A7 B7alt |
+ Em7 | Em7 | Gm7 | C7 |
+ Em7 | Em7/A | DM7 | F#m7b5 B7alt |
+

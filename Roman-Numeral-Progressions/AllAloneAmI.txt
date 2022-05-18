@@ -1,0 +1,11 @@
+Title = All Alone Am I
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 24
+ ivM iim | vM iM | iim | iii7 |
+ ivM iim | vM iM | iim v7 | iM |
+ iM | iM | iM | v7 |
+ vim | vim | vim | iii7 |
+ ivM iim | vM iM | iim | iii7 |
+ ivM iim | vM iM | iim v7 | iM |

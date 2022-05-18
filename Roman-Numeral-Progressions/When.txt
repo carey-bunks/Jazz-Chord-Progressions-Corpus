@@ -1,0 +1,14 @@
+Title = When
+DB Key = C
+EstKeySig = G
+TimeSig = 4 4
+Bars = 36
+ iiih | vi7 | iih | v7 v7 |
+ iM | iv7 | iiim | vi7 vi7 vi7 biii7 |
+ iim viM | iim v7 | iM bvii7 | bviiM vi7 |
+ iim biih im bviim | bviim biii7 | bviM bviM ivm biiim | iim v7 |
+ iii7 | vi7 | ii7 | v7 |
+ iM | iv7 | iiim | vi7 vi7 vi7 biii7 |
+ iim viM | iim v7 | iM bvii7 | bviiM vi7 |
+ iim biih im im | bviih iii7 | vim vim | vim ivm |
+ iiih biii7 | ivm iih | iM | bvim bii7 |

@@ -1,0 +1,14 @@
+Title = Once in a Lifetime
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 33
+ iM | iM | i7 | i7 i7 i7 v7 |
+ iM | iM iM ivM ivM | i7 iM | i7 i7 |
+ ivM iiim | iim iim iM i7 | ivM iiih | vi7 vi7 vi7 vi7 |
+ iim iM | iim iiim | iim ii7 | v7 |
+ iM | iM | i7 | i7 i7 i7 v7 |
+ iM | iM iM ivM ivM | i7 iM | i7 i7 |
+ ivM iiim | iim iim iM i7 | ivM iiih | vi7 vi7 vi7 vi7 |
+ iim iM | iim iim iii7 iii7 | vim ii7 v7 v7 | iM |
+ iim v7 |

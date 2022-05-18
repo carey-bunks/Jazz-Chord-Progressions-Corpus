@@ -1,0 +1,19 @@
+Title = Learnin' the Blues
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 56
+ iim | v7 | iM | iiim vi7 |
+ iim | v7 | iM | i7 i7 |
+ ivM | ivm | iiim | vi7 |
+ iim | ii7 v7 | iM | iM biio |
+ iim | v7 | iM | iiim vi7 |
+ iim | v7 | iM | i7 i7 |
+ ivM | ivm | iiim | vi7 |
+ iim | ii7 v7 | iM | iM i7 |
+ ivM iv7 | ivM iv7 | iM | iM i7 |
+ ivM iv7 | ivM iv7 | v7 vo | v7 biio |
+ iim | v7 | iM | iiim vi7 |
+ iim | v7 | iM | i7 i7 |
+ ivM | ivm | iiim | vi7 |
+ iim | ii7 v7 | iM | iim v7 |

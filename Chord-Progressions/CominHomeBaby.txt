@@ -1,0 +1,8 @@
+Title = Comin' Home Baby
+DB Key = Bb
+TimeSig = 4 4
+Bars = 12
+ Gm | Gm | Gm | Gm |
+ Cm | Cm | Gm | Gm |
+ Bb7 | A7 Ab7 | Gm | Gm |
+

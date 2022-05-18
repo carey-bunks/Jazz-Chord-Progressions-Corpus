@@ -1,0 +1,13 @@
+Title = The Old Rugged Cross
+DB Key = C
+EstKeySig = C
+TimeSig = 3 4
+Bars = 32
+ iM iM io | iM | ivM ivM ivo | ivM |
+ v7 ivM iiim | iim v7 v7 | iM | iM |
+ iM iM io | iM | ivM ivM ivo | ii7 |
+ v7 | v7 | iM ivM bvi7 | iM |
+ iim | v7 | iM iM io | iM |
+ ivM ivM ivM | iim | iM | iM |
+ iM iM iii7 | vi7 | iim | iim iim ivm |
+ iM | v7 | iM ivM bvi7 | iM |

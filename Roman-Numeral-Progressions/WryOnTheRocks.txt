@@ -1,0 +1,28 @@
+Title = Wry On the Rocks
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 89
+ iM iM iM iM | iM iM io iM | iim iih | iim v7 |
+ iM i7 | iM | ii7 ii7 | ii7 |
+ iii7 iii7 | iii7 bvii7 | vi7 vi7 | vi7 |
+ iim | ivm ivm | iiim | biiio io |
+ iim | v7 | iim | v7 |
+ iii7 iii7 | vi7 vi7 | bvh | ivm |
+ iiim | biiio | ii7 ii7 | vM v7 |
+ iM iM iM iM | iM iM io iM | iim iih | iim v7 |
+ ii7 ii7 | v7 v7 | ii7 iiim | vi7 vi7 |
+ ii7 ii7 | v7 v7 | iM iM iim bvo | iiim iiim ivM bvi7 |
+ bii7 bii7 bv7 vii7 | iiim vi7 | ii7 ii7 | v7 v7 |
+ ii7 iiiM | vi7 vi7 | ii7 ii7 | v7 v7 |
+ iiim | vi7 | iim | v7 v7 |
+ iM i7 | iM | ii7 ii7 | ii7 |
+ iii7 iii7 | iii7 bvii7 | vi7 vi7 | vi7 |
+ iim | ivm ivm | iiim | biiio io |
+ iim | v7 | iim | v7 |
+ iii7 iii7 | vi7 vi7 | bvh | ivm |
+ iiim | biiio | ii7 ii7 | vM v7 |
+ iM iM iM iM | iM iM io iM | iim iih | iim v7 |
+ iM iM iM iM | iM iM io iM | iim iih | iim v7 |
+ iM iM iM iM | iM iM io iM | iim iih | iim v7 |
+ i7 |

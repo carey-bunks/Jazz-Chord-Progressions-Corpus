@@ -1,0 +1,13 @@
+Title = Wabash Blues
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Bb7 | Bb7 | Eb | Eb Go7 |
+ Bb7 | Bb7 | Eb | Eb Eb Eb Eb7 |
+ Ab | Ab | Eb | Eb |
+ Cb | Cb | Bb | Bb |
+ Bb7 | Bb7 | Eb | Eb Go7 |
+ Bb7 | Bb7 | Eb | Eb Eb Eb Eb7 |
+ Ab | Ab | Eb | Eb Eb Eb Go7 |
+ Bb7 | Bb7 | Eb | Eb |
+

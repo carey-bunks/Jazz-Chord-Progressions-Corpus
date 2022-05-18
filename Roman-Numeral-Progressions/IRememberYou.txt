@@ -1,0 +1,14 @@
+Title = I Remember You
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 36
+ iM | bvm vii7 | iM | vm i7 |
+ ivM | ivm bvii7 | iiim vi7 | iim v7 |
+ iM | bvm vii7 | iM | vm i7 |
+ ivM | ivm bvii7 | iM | vm i7 |
+ ivM | viim iii7 | viM | viim iii7 |
+ viM | vim ii7 | vM | iim v7 |
+ iM | bvm vii7 | iM | iiih vi7 |
+ ivM | ivm bvii7 | iM | ii7 |
+ iiim vi7 | iim v7 | iM | iim v7 |

@@ -1,0 +1,13 @@
+Title = Candy
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ ivM | ivm ivm ivm ivm | iiim | biiio biiio iiim biiim |
+ iim | v7 v7 iim v7 | iM vo v7 io | ivM ii7 i7 i7 |
+ ivM | ivm ivm ivm ivm | iiim | biiio biiio iiim biiim |
+ iim | v7 v7 v7 v7 | iM io bii7 ivM | iM ivM iM iM |
+ iiiM iiM iiM iiM | viim iiio iii7 iii7 | viM iiiM vi7 vi7 | vi7 vio vio vi7 vi7 vi7 vi7 vi7 |
+ ii7 | ii7 | v7 | iim v7 i7 i7 |
+ ivM | ivm | iM | io |
+ iim | v7 v7 v7 v7 | iM io iM ivm | io i7 i7 i7 |

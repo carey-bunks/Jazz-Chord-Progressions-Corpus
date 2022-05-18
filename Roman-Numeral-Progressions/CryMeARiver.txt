@@ -1,0 +1,13 @@
+Title = Cry Me A River
+DB Key = Bb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ vim vim | vim vim | iim v7 | iM iM viih iii7 |
+ iiih vi7 | ii7 | iim v7 | iM iM viih iii7 |
+ vim vim | vim vim | iim v7 | iM iii7 |
+ iiih vi7 | ii7 | iim v7 | iM iM bvh vii7 |
+ iiim | bvh vii7 | iiim | bvh vii7 |
+ iiim | bvh vii7 | iiiM | viim viim iii7 iii7 |
+ vim vim | vim vim | iim v7 | iM iM viih iii7 |
+ iiih vi7 | ii7 | iim v7 | iM iM viih iii7 |

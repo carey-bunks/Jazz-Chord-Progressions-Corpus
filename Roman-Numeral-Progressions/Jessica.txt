@@ -1,0 +1,7 @@
+Title = Jessica
+DB Key = C
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 8
+ iiim | vim | biiM | bvM |
+ viim | iM | iim | viih |

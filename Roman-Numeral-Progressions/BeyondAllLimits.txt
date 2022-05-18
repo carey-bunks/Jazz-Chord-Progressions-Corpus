@@ -1,0 +1,19 @@
+Title = Beyond All Limits
+DB Key = Eb
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 54
+ iiim vi7 | iiim vi7 | iim v7 | iM |
+ biim bv7 | iiim vi7 | iiM | iiM |
+ i7 | biiM | vim | v7 |
+ vim | vim | iiim vi7 | iiim vi7 |
+ iim v7 | iM | biim bv7 | iiim vi7 |
+ iiM | iiM | i7 | biiM |
+ vim | v7 | vim | vim |
+ iiM | iiM | im iv7 | bviiM |
+ biiim | biiim | viim iii7 | viM |
+ biim | bviim | vm | iiim |
+ iiim vi7 | iiim vi7 | iim v7 | iM |
+ biim bv7 | iiim vi7 | iiM | iiM |
+ i7 | biiM | vim | v7 |
+ vim | vim |

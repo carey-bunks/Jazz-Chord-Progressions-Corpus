@@ -1,0 +1,13 @@
+Title = Tenor Conclave
+DB Key = F
+TimeSig = 4 4
+Bars = 32
+ Bb Bb Bb Gm7 | Cm7 Cm7 Cm7 F7 | Bb Bb Bb G7 | Cm7 Cm7 Cm7 F7 |
+ Fm7 Fm7 Fm7 Bb7 | Ebm7 Ab7 | Dm Db6 | F#6 B6 |
+ Bb Bb Bb Gm7 | Cm7 Cm7 Cm7 F7 | Bb Bb Bb G7 | Cm7 Cm7 Cm7 F7 |
+ Fm7 Fm7 Fm7 Bb7 | Ebm7 Ab7 | Dm Dm Cm7 F7 | Bb6 |
+ Fm7 | Bb7 | EbM7 | EbM7 |
+ Gm7 | C7 | Cm7 | F7 |
+ Bb Bb Bb Gm7 | Cm7 Cm7 Cm7 F7 | Bb Bb Bb G7 | Cm7 Cm7 Cm7 F7 |
+ Fm7 Fm7 Fm7 Bb7 | Ebm7 Ab7 | Dm Dm Cm7 F7 | Bb6 |
+

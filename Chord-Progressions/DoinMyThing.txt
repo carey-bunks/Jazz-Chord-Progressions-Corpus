@@ -1,0 +1,13 @@
+Title = Doin' My Thing
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb7 G7 | C7 F7 | Bb7 G7 | C7 F7 |
+ Bb7 Bb7/D | Eb7 Eo7 | Bb7/F G7 | C7 F7 |
+ Bb7 G7 | C7 F7 | Bb7 G7 | C7 F7 |
+ Bb7 Bb7/D | Eb7 Eo7 | Bb7/F F9sus4 | Bb7 |
+ D7 | D7 | G7 | G7 |
+ C7 | C7 | F7 | F7 |
+ Bb7 G7 | C7 F7 | Bb7 G7 | C7 F7 |
+ Bb7 Bb7/D | Eb7 Eo7 | Bb7/F G7 | C7 F7 |
+

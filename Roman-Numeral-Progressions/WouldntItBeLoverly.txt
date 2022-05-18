@@ -1,0 +1,14 @@
+Title = Wouldn't It Be Loverly?
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 36
+ iM | ivM ivM iim v7 | iM | ii7 v7 |
+ iM iM iM v7 | v7 vm viM ivm | iM vo | iim iim ivM v7 |
+ iM | ivM ivM iim v7 | iM | ii7 v7 |
+ iM iM iM v7 | v7 vm viM ivm | iM iM iM v7 | iM |
+ vM iio | ii7 | vM vii7 | iiim iiim viiM v7 |
+ iM vii7 | iiim vii7 iiim vi7 | iiM iiM iiM iio | iim v7 |
+ iM | ivM ivM iim v7 | iM | ii7 v7 |
+ iM iM iM v7 | v7 vm vi7 ivm | iM vim | iim iim iim v7 |
+ iM | v7 | vio iM iM ivM | iim v7 |

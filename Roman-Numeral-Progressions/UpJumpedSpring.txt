@@ -1,0 +1,19 @@
+Title = Up Jumped Spring
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 3 4
+Bars = 56
+ iM | vi7 | iim | v7 |
+ vim | vm | bvh | vii7 |
+ iiim | ivm | iiim | ivm |
+ biih | bv7 | iih | v7 |
+ iM | vi7 | iim | v7 |
+ vim | vm | bvh | vii7 |
+ iiim | ivm | iiim | ivm |
+ iim | v7 | iM | viih viih iii7 |
+ vim | ii7 | vM | iii7 |
+ bviim | biii7 | iim | v7 |
+ iM | vi7 | iim | v7 |
+ vim | vm | bvh | vii7 |
+ iiim | ivm | iiim | ivm |
+ iim | v7 | biiM | biiM iM iM |

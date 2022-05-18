@@ -1,0 +1,18 @@
+Title = Never On Sunday
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 49
+ iim v7 | iim v7 | iM | NC |
+ iim v7 | iim v7 | iM | NC |
+ iim v7 | iim v7 | iM | NC |
+ iim v7 | iim v7 | iM | iM iM vio v7 |
+ iM | iM | v7 | v7 |
+ iim | iim v7 | iM | iM iM vio v7 |
+ iM | iM | v7 | v7 |
+ iim | iim v7 | iM | NC |
+ iim v7 | iim v7 | iM | NC |
+ iim v7 | iim v7 | iM | NC |
+ iim v7 | iim v7 | iM | NC |
+ iim v7 | iim v7 | iM | iM |
+ NC |

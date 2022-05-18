@@ -1,0 +1,13 @@
+Title = Summer Me, Winter Me
+DB Key = D
+TimeSig = 4 4
+Bars = 34
+ D | D | Am7 A7 | A7 |
+ D | D | Bm7 E7 | Em7 A7 |
+ F | F | Cm7 C7 | C7 |
+ F | F B7 | E | E Bb7 |
+ Eb | Em7b5 A7 | D | D |
+ Am7 A7 | A7 | D | D |
+ Am7 | D7b9 | GM7 | Em7 |
+ F#m7 | Bm7 | Em7 | A7 A7b9 |
+ D | Em7 A7 |

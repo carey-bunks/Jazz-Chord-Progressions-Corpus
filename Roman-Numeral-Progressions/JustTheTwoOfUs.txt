@@ -1,0 +1,11 @@
+Title = Just The Two Of Us
+DB Key = Db
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 24
+ iM vii7 | iiim iiim iim v7 | iM vii7 | iiim |
+ iM vii7 | iiim iiim iim v7 | iM vii7 | iiim |
+ iM vii7 | iiim biiim iim v7 | iM vii7 | iiim |
+ iM vii7 | iiim biiim iim v7 | iM vii7 | iiim |
+ iM iM bvm vii7 | bviiM bviiM iiim vi7 | bviM bviM iim v7 | iM iv7 |
+ iM iM bvm vii7 | bviiM bviiM iiim vi7 | bviM bviM iim v7 | iM iv7 |

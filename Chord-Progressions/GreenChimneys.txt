@@ -1,0 +1,11 @@
+Title = Green Chimneys
+DB Key = Gb
+TimeSig = 4 4
+Bars = 24
+ Abm | Abm | Abm | Abm |
+ Abm | Abm | Abm | Abm |
+ F#7 | F#7 B7 | F#7 | F#7 B7 |
+ F#7 | F#7 B7 | F#7 | F#7 B7 |
+ Abm | Abm | Abm | Abm |
+ Abm | Abm | Abm | Abm |
+

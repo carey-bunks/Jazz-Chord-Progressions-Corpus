@@ -1,0 +1,19 @@
+Title = You Don't Have to Say You Love Me
+DB Key = C
+TimeSig = 4 4
+Bars = 59
+ Fm | Bbm/F Bbm | Bbm7 | C Db |
+ Fm | Fm | Bbm | Eb7 |
+ Ab | Db | Bbm | Gm7b5 G7b9 |
+ C7 | Fm Fm7 | Bbm | Eb7 |
+ Ab | Db | Bbm | Gm7b5 |
+ C7 | F Dm | Gm C7 | F Dm |
+ Gm7 C7 | F Am | Dm | Gm7 |
+ C | Fm | Bbm | Eb7 |
+ Ab | Db | Bbm | Gm7b5 G7b9 |
+ C7 C7 | Fm | Bbm | Eb |
+ Ab | Db | Bbm | Bbm7 |
+ C | F | Dm C | F |
+ Gm C7/E | F | D | G |
+ Am/E D | Bm/G | Am/E D7 | G/D F6 |
+ G F6 | G/D F6 | G |

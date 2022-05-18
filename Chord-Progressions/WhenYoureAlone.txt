@@ -1,0 +1,20 @@
+Title = When You're Alone
+DB Key = E
+TimeSig = 3 4
+Bars = 60
+ E2 | E2 | E2 | E2 |
+ F#m/E | E2 | D2 | E2 |
+ E2 | E2 | E2 | E2 E2 E |
+ EM9 | F#m/E | C | Bm7 |
+ E2 | E2 | F#m/E | EM7 |
+ Bm7/E | EM7 | F#m7/B | C2 |
+ D | E2 | E2 | E2 E2 E |
+ EM7 | Am7 | EM9 | A6 |
+ E | A6 | E | Am |
+ E2 | Bm7 | EM7/B | Bm7 |
+ EM7/B | C | E2 | E2 |
+ E2 E2 E | EM7 | AM7 | EM9 |
+ A6 | E | A6 | EM9 |
+ Am | E | Bm7 | E2 |
+ Bm7 | E2 | C | E2 |
+

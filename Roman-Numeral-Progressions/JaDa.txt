@@ -1,0 +1,9 @@
+Title = Ja Da
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 16
+ iM | vi7 | ii7 v7 | iM iim |
+ iM | vi7 | ii7 | v7 |
+ iiim biiio | iim v7 | iiim biiio | iim v7 |
+ iM | vi7 | ii7 v7 | iM iim |

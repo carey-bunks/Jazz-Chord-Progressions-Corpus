@@ -1,0 +1,12 @@
+Title = If There Is Someone Lovelier Than You
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 28
+ iM | iim v7 | iM | iim v7 |
+ vim ii7 | v7 | vim ii7 | v7 |
+ iM | iim v7 | iM | i7 |
+ ivM v7 | iM vi7 | iim v7 | iM i7 |
+ viih iii7 | vim | vim ii7 | v7 |
+ iM | iim v7 | iiih | vi7 |
+ iim | iim v7 | iM | iM |

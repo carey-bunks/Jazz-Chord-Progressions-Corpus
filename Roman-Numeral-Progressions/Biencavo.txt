@@ -1,0 +1,7 @@
+Title = Biencavo
+DB Key = Bb
+EstKeySig = F
+TimeSig = 4 4
+Bars = 8
+ viih iii7 | vim | viih iii7 | vim |
+ viih iii7 | vim bvi7 vm bv7 | iv7 iv7 viih iii7 | vim |

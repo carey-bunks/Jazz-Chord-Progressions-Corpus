@@ -1,0 +1,13 @@
+Title = All This and Heaven Too
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iim iim iiim v7 | iM | iim iim iiim v7 | vm vi7 |
+ iim v7 | iiiM vi7 | iim v7 | iM iM v7 v7 |
+ iim iim iiim v7 | iM iM iM iM | iim iim iiim v7 | vm vi7 |
+ iim v7 | iiiM vi7 | iim v7 | iM |
+ vm | vm i7 | ivM | iii7 ivM |
+ vm | vm i7 | vi7 vm vo bviim | ii7 ii7 iim v7 |
+ iim iim iiim v7 | iM iM iM iM | iim iim iiim v7 | vm vi7 |
+ iim v7 | iiiM vi7 | iim v7 | iM io v7 v7 |

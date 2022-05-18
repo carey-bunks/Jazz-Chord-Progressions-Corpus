@@ -1,0 +1,16 @@
+Title = Lost in the Stars
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 42
+ iM biiio | iim v7 | iM vi7 | iim v7 |
+ iM ivM | iM | vim ii7 | iim v7 |
+ iM biiio | iim v7 | iM vi7 | iim v7 |
+ iM ivM | iM vi7 | ii7 v7 | iM |
+ ivm bvii7 | vm im | ivh bvii7 | biiiM im |
+ ivm bvii7 | biiiM im | ivh bvii7 | vi7 vi7 bvi7 v7 |
+ iM biiio | iim v7 | iM vi7 | iim v7 |
+ iM i7 | ivM bvii7 | iM i7 | ivM bvii7 |
+ v7 | iM | vim bvi7 | iM biiio |
+ v7 | iM | vim bvi7 | iM biiio |
+ v7 | iM iM iim v7 |

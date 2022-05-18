@@ -1,0 +1,14 @@
+Title = Jeepers Creepers
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 34
+ iiim v7 | iiim iM | v7 v7 v7 v7 | iM iM |
+ iiim v7 | iiim iM | v7 v7 v7 v7 | iM |
+ iiim v7 | iiim iM | v7 v7 v7 v7 | iM iM |
+ iiim v7 | iiim iM | v7 v7 v7 v7 | iM |
+ vm vim | ivM ivM | vm vm vim i7 | ivM ivM ivM ivM |
+ vim viim | vM iiim | vim vim viim ii7 | v7 v7 |
+ iiim v7 | iiim iM | v7 v7 v7 v7 | iM iM |
+ iiim v7 | vm vi7 | iim iim v7 v7 | iM vi7 |
+ iim iim v7 v7 | iM |

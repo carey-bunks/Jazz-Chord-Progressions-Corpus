@@ -1,0 +1,13 @@
+Title = Alabama Jubilee
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ vi7 | vi7 | vi7 | vi7 |
+ ii7 | ii7 | ii7 | ii7 |
+ v7 | v7 | v7 | v7 |
+ iM | iM | NC | NC i7 vii7 bvii7 |
+ vi7 | vi7 | vi7 | vi7 |
+ iim | iim viM iim vi7 | iim iim iim iim | iim iim ii7 ii7 |
+ iM | iii7 | ivM | iM iM io iM |
+ ii7 | v7 | iM biio | iim v7 |

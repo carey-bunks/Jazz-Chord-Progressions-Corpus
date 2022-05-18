@@ -1,0 +1,13 @@
+Title = Heart and Soul
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM vim | iim v7 | iM vim | iim v7 |
+ iiim vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iiim vim | iim v7 | iM iM iim v7 | iM iM vm i7 |
+ ivM iii7 | vi7 ii7 | v7 i7 | iv7 iii7 |
+ ivM iii7 | vi7 ii7 | v7 i7 | iv7 v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ iiim vim | iim v7 | iM vim | iim v7 |

@@ -1,0 +1,10 @@
+Title = Pinocchio
+DB Key = C
+EstKeySig = B
+TimeSig = 4 4
+Bars = 18
+ vi7 | vi7 bvi7 | v7 | v7 bvi7 |
+ v7 | v7 | bv7 | bv7 |
+ v7 | bv7 bvii7 | vi7 | vi7 |
+ ii7 | v7 | bv7 | v7 |
+ i7 | i7 |

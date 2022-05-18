@@ -1,0 +1,7 @@
+Title = Chrissie I
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 8
+ iM | iim v7 | iM | iiim vi7 |
+ iiM | iiim vi7 | iim v7 | v7 |

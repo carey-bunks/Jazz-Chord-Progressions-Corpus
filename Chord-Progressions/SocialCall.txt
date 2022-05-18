@@ -1,0 +1,13 @@
+Title = Social Call
+DB Key = Db
+TimeSig = 4 4
+Bars = 34
+ Fm7b5 Bb7b9 | Ebm7 | Ebm7 Ab7b9b13 | DbM7 |
+ Fm7 Em7 | Ebm7 | Eb7 D7 | DbM7 |
+ Fm7b5 Bb7b9 | Ebm7 | Ebm7 Ab7b9b13 | DbM7 |
+ Fm7 Em7 | Ebm7 | Eb7 D7 | DbM7 |
+ Abm7 | Db7 | GbM7 Abm7 | Bbm7 |
+ F#m7 | B7 | EM7 | Ebm7 Ab7#5b9 |
+ Fm7b5 Bb7b9 | Ebm7 | Ebm7 Ab7b9b13 | DbM7 |
+ Fm7 Em7 | Ebm7 | Eb7 D7 | DbM7 |
+ Ebm7 Ab7 | DbM7 |

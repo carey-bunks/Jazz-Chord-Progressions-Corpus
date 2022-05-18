@@ -1,0 +1,13 @@
+Title = I'm Beginning To See The Light
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM iv7 | iiim vim | iim iim iim v7 | biiim bvi7 |
+ i7 bvii7 | bvii7 vi7 | iim iim iim v7 | iM iM iim v7 |
+ iM iv7 | iiim vim | iim iim iim v7 | biiim bvi7 |
+ i7 bvii7 | bvii7 vi7 | iim iim iim v7 | iM |
+ bviim | iii7 | bviim | biii7 |
+ vim | ii7 | biiim bvi7 | iim v7 |
+ iM iv7 | iiim vim | iim iim iim v7 | biiim bvi7 |
+ i7 bvii7 | bvii7 vi7 | iim iim iim v7 | iM |

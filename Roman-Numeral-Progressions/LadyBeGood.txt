@@ -1,0 +1,13 @@
+Title = Lady Be Good
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM | iv7 | iM | io |
+ iim | v7 | iM | v7 |
+ iM | iv7 | iM | io |
+ iim | v7 | iM | i7 |
+ ivM | bvo | iM | iii7 |
+ vim | ii7 | iim | v7 |
+ iM | iv7 | iM | vi7 |
+ iim | v7 | iM | iM |

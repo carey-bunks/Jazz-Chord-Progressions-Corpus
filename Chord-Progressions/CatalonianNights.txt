@@ -1,0 +1,13 @@
+Title = Catalonian Nights
+DB Key = Db
+TimeSig = 4 4
+Bars = 32
+ Bbm7 | B7#11 | Bbm7 | Dbm7 |
+ Cm7b5 | F7alt | Bbm7 Db7 | Cm7b5 F7alt |
+ Bbm7 | B7#11 | Bbm7 | Dbm7 |
+ Cm7b5 | F7alt | Bbm7 | Bbm7 |
+ Cm7b5 | F7alt | Bbm7 | Bbm7 |
+ Ebm7 | Ab7 | DbM7 DbM7 DbM7 Gb7 | Cm7b5 F7alt |
+ Bbm7 | B7#11 | Bbm7 | Dbm7 Gb7 |
+ Cm7b5 | F7alt | Bbm7 Db7 | Cm7b5 F7alt |
+

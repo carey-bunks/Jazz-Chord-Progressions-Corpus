@@ -1,0 +1,18 @@
+Title = Your Song
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 50
+ iM | ivM | vM | iiim |
+ vim | vim | vim | ivM |
+ iM | vM | iii7 | vim |
+ iM | iim | ivM | vM |
+ v7 | iM | ivM | vM |
+ iiim | vim | vim | vim |
+ ivM | iM | vM | iii7 |
+ vim | iM | iim | ivM |
+ iM | ivM iM | vM | vim |
+ iim | ivM | vM | vim |
+ iim | ivM | vim | vim |
+ vim | iim | iM | ivM |
+ ivM | vM |

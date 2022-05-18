@@ -1,0 +1,13 @@
+Title = A Cottage For Sale
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ iM | iii7 | vi7 | iih |
+ iiim vi7 | iim ivm | ii7 v7 | iM iM iim v7 |
+ iM | iii7 | vi7 | iih |
+ iiim vi7 | iim ivm | ii7 v7 | iM |
+ iii7 | iii7 | vi7 | vi7 |
+ ii7 | ii7 | v7 v7 v7 biio | iim v7 |
+ iM | iii7 | vi7 | iih |
+ iiim vi7 | iim ivm | ii7 ii7 iim v7 | iM iM iim v7 |

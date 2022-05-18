@@ -1,0 +1,14 @@
+Title = Can't Help Falling in Love
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 36
+ iM iiim | vim vim | ivM iM | vM |
+ ivM iiiM | vim v7 | iM iiim | vim vim |
+ ivM iM | vM | ivM iiiM | vim v7 |
+ iM v7 | iM v7 | iM v7 | vi7 NC |
+ iM v7 | iM v7 | iM v7 | iM iM bvh vii7 |
+ iiim | vii7 | iiim | vii7 |
+ iiim | vii7 | iiim | iim v7 |
+ iM iiim | vim vim | ivM iM | vM |
+ ivM iiiM | vim v7 | iM v7 | iM |

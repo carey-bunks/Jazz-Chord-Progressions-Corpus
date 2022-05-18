@@ -1,0 +1,13 @@
+Title = I Know That You Know
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ D7 | D7 | G7 | G7 |
+ CM7 | B7 | Em7b5 | A7alt |
+ D7 | D7 | G7 | G7 |
+ CM7 | CM7 | Em7 | Am7 |
+ D7 | D7 | G7 | G7 |
+ CM7 | CM7 | F#m7b5 | FmM7 |
+ Em7 | A7 | D7 | G7 |
+ CM7 | Dm7 G7 | CM7 | Em7 A7 |
+

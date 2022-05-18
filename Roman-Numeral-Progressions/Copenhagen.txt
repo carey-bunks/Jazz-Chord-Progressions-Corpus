@@ -1,0 +1,15 @@
+Title = Copenhagen
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 40
+ ivM | ivm | iM | vi7 |
+ ii7 | v7 | iM | iM i7 |
+ ivM | ivm | iM | vi7 |
+ ii7 | v7 | iM | iM v7 |
+ iM | iim iiim | iM | bviM |
+ iM | v7 | iM | iM v7 |
+ iM | iim iiim | iM | bviM |
+ iM | v7 | iM | iM i7 |
+ ivM | ivm | iM | vi7 |
+ ii7 | v7 | iM | iM i7 |

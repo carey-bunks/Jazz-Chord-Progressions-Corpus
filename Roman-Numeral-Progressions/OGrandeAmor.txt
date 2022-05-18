@@ -1,0 +1,14 @@
+Title = O Grande Amor
+DB Key = C
+EstKeySig = F
+TimeSig = 4 4
+Bars = 33
+ iiim | iiim | iim | v7 |
+ bvh | vii7 | iiim | iii7 |
+ vim | ii7 | vM | iM |
+ ivM | ivM | bvh | vii7 |
+ iiim | iiim | iim | v7 |
+ bvh | vii7 | viih | iii7 |
+ vim | vio | iiim | iM |
+ ivM | ivM | bvh vii7 | iiim |
+ vii7 |

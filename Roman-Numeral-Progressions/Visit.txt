@@ -1,0 +1,13 @@
+Title = The Visit
+DB Key = G
+EstKeySig = C
+TimeSig = 6 8
+Bars = 32
+ v7 bvi7 | v7 bvi7 | v7 bvi7 | v7 |
+ v7 bvi7 | v7 bvi7 | v7 bvi7 | v7 |
+ i7 | vii7 | bvii7 | vi7 |
+ bvi7 | ii7 | v7 bvi7 | v7 |
+ v7 bvi7 | v7 bvi7 | v7 bvi7 | v7 |
+ v7 bvi7 | v7 bvi7 | v7 bvi7 | v7 |
+ i7 | vii7 | bvii7 | vi7 |
+ bvi7 | ii7 | v7 bvi7 | v7 |

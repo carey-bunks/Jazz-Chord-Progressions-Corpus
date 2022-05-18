@@ -1,0 +1,13 @@
+Title = Song for Sisyphus
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ vh | bii7 | iM | bvm bvm vii7 |
+ iiiM | iim v7 | iM | iM iv7 iv7 iii7 iii7 biii7 biii7 biii7 |
+ iiM | bii7 | iM | bvm bvm bvm vii7 |
+ iiiM | vm i7 | ivM | ivM iv7 iv7 iii7 iii7 biiiM biiiM biiiM |
+ ii7 | v7 | i7 | iv7 |
+ bviim viim | bviim biii7 | bviM | bviM vii7 vii7 bvii7 bvii7 vi7 vi7 vi7 |
+ vh | bii7 | ii7 | biii7 |
+ iii7 | iv7 | vm | i7 |

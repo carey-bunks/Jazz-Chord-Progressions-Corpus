@@ -1,0 +1,11 @@
+Title = Morgan
+DB Key = Ab
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ iim | biiim | iim | iim |
+ iim | biiim | iim | iim |
+ iim | biiim | iim | iim |
+ ii7 | ii7 | ii7 | ii7 |
+ ii7 | ii7 | ii7 | ii7 |
+ iim | biiim | iim | iim |

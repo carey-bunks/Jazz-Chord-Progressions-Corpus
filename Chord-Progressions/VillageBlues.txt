@@ -1,0 +1,8 @@
+Title = Village Blues
+DB Key = C
+TimeSig = 4 4
+Bars = 12
+ C7 | C7 | C7 | C7 |
+ F7/C | F7/C | C7 | C7 |
+ G7/C | F7/C | C7 | C7 |
+

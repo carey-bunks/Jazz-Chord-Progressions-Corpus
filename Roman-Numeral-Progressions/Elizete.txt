@@ -1,0 +1,13 @@
+Title = Elizete
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ vim | vim | ivM | iii7 |
+ biiiM | iim v7 | iM | vm i7 |
+ viih | iii7 | iiih | vi7 |
+ vih | ii7 | viih | iii7 |
+ vim | vim | ivM | iii7 |
+ biiiM | iim v7 | iM | vm i7 |
+ viih | iii7 | vim ii7 | ii7 |
+ biiM | v7 | iM | viih iii7 |

@@ -1,0 +1,14 @@
+Title = Aja's Theme
+DB Key = Eb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 34
+ ivM | iiim | ivM vii7 | iM |
+ im bviio | bviiM | vi7 vi7 | iiM |
+ v7 io | iM bv7 | ivM vii7 | iiiM |
+ bvii7 biiio | biiiM | vim ii7 | bvm vii7 |
+ iiim vii7 | iiim vii7 | iiim ivM | iiim iiim vi7 vi7 |
+ iim vi7 | iim vi7 | iim vi7 | ii7 ii7 |
+ v7 io | iM bv7 | ivM vii7 | iiiM |
+ iiih vi7 | iim ivm | iM ivM | biiiM biiM |
+ iM | vm i7 |

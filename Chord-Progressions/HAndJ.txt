@@ -1,0 +1,13 @@
+Title = H. and J.
+DB Key = Eb
+TimeSig = 4 4
+Bars = 32
+ Fm7 | Fm7 Bb7 | Eb Fm7 | Eb Gbm7 |
+ Fm7 | Fm7 Bb7 | Eb Fm7 | Gm7 Gbm7 |
+ Fm7 | Fm7 Bb7 | Eb Fm7 | Eb Gbm7 |
+ Fm7 | Fm7 Bb7 | Eb Fm7 | Eb |
+ Eb7 | Bbm7 Eb7 | Gm7 | Gm7 C7 |
+ Gbm7 | Gbm7 B7 | Fm7 | Fm7 Bb7 |
+ Fm7 | Fm7 Bb7 | Eb Fm7 | Eb Gbm7 |
+ Fm7 | Fm7 Bb7 | Eb | Eb |
+

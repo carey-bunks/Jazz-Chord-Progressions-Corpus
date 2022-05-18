@@ -1,0 +1,13 @@
+Title = You Stepped Out Of A Dream
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ CM7 C6 | CM7 C6 | DbM7 Db6 | DbM7 Db6 |
+ Bbm7 | Eb7 | AbM7 | Ab6 |
+ Gm7 | C7 | FM7 | FM7 |
+ Am7 | D7 | Ab9 | G13 |
+ CM7 C6 | CM7 C6 | DbM7 Db6 | DbM7 Db6 |
+ Bbm7 | Eb7 | Gb9b5 | F7sus4 F7b9 |
+ Dm7b5 | G7 | Em F7 | Em7 A7 |
+ Dm7 | G7 G7+ | CM7 C6 | C G7sus4 |
+

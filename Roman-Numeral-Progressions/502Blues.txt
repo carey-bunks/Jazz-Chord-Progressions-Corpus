@@ -1,0 +1,13 @@
+Title = 502 Blues
+DB Key = C
+EstKeySig = C
+TimeSig = 3 4
+Bars = 32
+ vim | biiM | viih | iii7 |
+ vim | biiM | viih | iii7 |
+ im | iv7 | bviiM vim | bvim bii7 |
+ ivh | vii7 | iiiM | iiiM iiiM iii7 |
+ vim | biiM | viih | iii7 |
+ vim | biiM | viih | iii7 |
+ im | iv7 | bviiM vim | bvim bii7 |
+ ivh | vii7 | iiim | iiim |

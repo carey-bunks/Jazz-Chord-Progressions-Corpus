@@ -1,0 +1,14 @@
+Title = Flamingo Road
+DB Key = G
+TimeSig = 4 4
+Bars = 38
+ Am7 | Am7/D | Em7 | Am7 |
+ Am7/D | E7sus | Am7 | Am7/D |
+ G Em9 | Am7 Am9/D | Bm7 | Em7 Em7/D |
+ C Am7 | D7 D7 D7 C6 C6 F#7 | Bm7 Em7 | FM7 B7 |
+ Em | G/D | CM7 | F# |
+ B Bsusb9 | D | Am7 | Am7 Am7/D |
+ G Em | Am7 Am9/D | Bm7 | Em7 Em7/D |
+ C Am7 | D7 D7 D7 C6 C6 F#7 | Bm D/A | G#m7b5 G7 |
+ Em | G/D | CM7 | F#9/A# F#9 |
+ Cadd9 | CM7 |

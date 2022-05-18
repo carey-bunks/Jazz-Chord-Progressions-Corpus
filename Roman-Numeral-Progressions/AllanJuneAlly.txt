@@ -1,0 +1,15 @@
+Title = Allan June Ally
+DB Key = E
+EstKeySig = C
+TimeSig = 3 4
+Bars = 37
+ iiiM | viM | ivh | ivM |
+ ih | iM | iM | iii7 |
+ iii7 | vim | ivM | ivh |
+ ivM | iiiM | viim | vih |
+ ii7 | vm | viM | vim vim ii7 |
+ viim iiim iiim | iM | ih | iiiM |
+ iiiM | viM | v7 | im |
+ iv7 | iiiM | iiiM | vim |
+ vii7 | iiim | ivm | ih |
+ bii7 |

@@ -1,0 +1,18 @@
+Title = Morning Dance
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 50
+ iM | iM | ivm | bvii7 |
+ iM | iM | ivm | v7 |
+ iM | iM | ivm | bvii7 |
+ vim | ii7 ii7 | v7 | v7 |
+ iM | iM | ivm | bvii7 |
+ iM | iM | ivm | v7 |
+ iM | iM | ivm | bvii7 |
+ vim | ii7 | v7 | v7 |
+ bviiM | vim | iim v7 | iM |
+ viih bvii7 | vim | ii7 ii7 | v7 v7 |
+ bviiM | vim | iim v7 | iM |
+ viih bvii7 | vim ii7 | v7 | v7 |
+ v7 | v7 |

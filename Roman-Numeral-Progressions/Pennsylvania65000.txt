@@ -1,0 +1,13 @@
+Title = Pennsylvania 6-5000
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 32
+ iM | iv7 | iM | iM vi7 |
+ iim | v7 | iM | iim v7 |
+ iM | iv7 | iM | iM vi7 |
+ iim | v7 | iM | iM |
+ iii7 | vim | iii7 | vim vi7 |
+ ii7 | vM iv7 iii7 iii7 | vi7 ii7 | v7 bvi7 v7 v7 |
+ iM | iv7 | iM | iM vi7 |
+ iim | v7 | iM | iim v7 |

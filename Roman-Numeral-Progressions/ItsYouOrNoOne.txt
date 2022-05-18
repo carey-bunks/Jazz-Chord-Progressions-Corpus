@@ -1,0 +1,13 @@
+Title = It's You Or No One
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iim | v7 | iM | vi7 |
+ iim | v7 | iM | iM |
+ ivm | bvii7 | biiiM | vih ii7 |
+ vM | vim ii7 | vM | iiim vi7 |
+ iim | v7 | iM | vi7 |
+ iim | v7 | iiih | vi7 |
+ ivM | ivm | iM | ivm |
+ iM vi7 | iim v7 | iM | iiim vi7 |

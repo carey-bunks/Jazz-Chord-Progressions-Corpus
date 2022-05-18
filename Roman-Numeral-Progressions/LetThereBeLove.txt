@@ -1,0 +1,14 @@
+Title = Let There Be Love
+DB Key = Bb
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 33
+ iM | iiim | vm | vi7 |
+ ivm | v7 v7 | iM | im biiio |
+ iim | v7 v7 | iM | iM biiio |
+ iim | v7 | iM | iM |
+ iM | iiim | vm | vi7 |
+ ivm | v7 v7 | iM | im biiio |
+ iM | iiim | vm | vi7 |
+ vi7 | iim | iim v7 | iM |
+ iim v7 |

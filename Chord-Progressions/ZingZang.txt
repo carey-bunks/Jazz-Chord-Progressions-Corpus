@@ -1,0 +1,13 @@
+Title = Zing Zang
+DB Key = Bb
+TimeSig = 4 4
+Bars = 34
+ Gb7+ | F13 F13 F13 Fm7 | Fm7 Bb7 | Ebm7 G7 |
+ Cm11 Cm11 Cm11 Gb13 | Gb13 B13#11 | Bb9 Ab7b5 | Gm7 |
+ Ab7b5 Gb7+ | G13 G13 F13 Fm7 | Fm7 Bb7 | Ebm7 G7+ |
+ Cm11 Gb13 Gb13 | Gb13 Gb13 B13#11 Bb9 | Bb9 Ab7b5 | Ab7b5 F7+ |
+ Bbm | B7 Bb7+ | Eb13 | Eo7 C7b9 |
+ FmM7 FmM7 Fm7 Bb7 | FmM7 FmM7 Fm7 Bb7 | Bb7 | Bb7 |
+ Gb7+ | F13 F13 F13 Fm7 | Fm7 Bb7 | Ebm7 G7 |
+ Cm11 Cm11 Cm11 Gb13 | Gb13 | Am11 Am11 Am11 Cm11 | Cm11 F7 |
+ F7 | Bb |

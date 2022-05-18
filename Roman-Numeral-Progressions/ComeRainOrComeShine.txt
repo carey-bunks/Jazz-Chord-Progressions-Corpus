@@ -1,0 +1,13 @@
+Title = Come Rain Or Come Shine
+DB Key = F
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ ivM | vi7 | iim | iim |
+ v7 | i7 | iv7 | im iv7 |
+ bviim | ivm | bviim | i7 i7 |
+ ivm | biiim | vih ii7 | v7 i7 |
+ ivM | iiim vi7 | iim | iim |
+ vii7 | vii7 | iiim | vi7 |
+ vim | ii7 | iim | v7 |
+ iim viih | iiih vi7 | iim ii7 | v7 i7 |

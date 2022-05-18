@@ -1,0 +1,13 @@
+Title = I Want to Be Happy
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iM io | iim | v7 |
+ iim | v7 | iM vi7 | iim v7 |
+ iM | iM io | iim | v7 |
+ iim | v7 | iM | iM |
+ vm | i7 | ivM | ivm bvii7 |
+ iiim | vi7 | ii7 | v7 |
+ iM | iM io | iim | v7 |
+ iim | v7 | iM | iM |

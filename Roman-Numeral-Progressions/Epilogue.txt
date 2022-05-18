@@ -1,0 +1,9 @@
+Title = Epilogue
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 16
+ iM iM | vim vim | ivM iM | vM iM viio viio |
+ vim vim | ivM iiim | vim | vim |
+ ivM | ivM | iM | vim |
+ iM | iiiM | vim | vim |

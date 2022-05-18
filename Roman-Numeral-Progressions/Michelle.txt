@@ -1,0 +1,12 @@
+Title = Michelle
+DB Key = Ab
+EstKeySig = Db
+TimeSig = 4 4
+Bars = 26
+ iiiM | vim | iiM | biio |
+ viiM bviio | viiM | iiim | iiim |
+ v7 | iM | vii7 | iiim |
+ iiim iiim | iiim iiim | iM | viiM |
+ iiiM | vim | iiM | biio |
+ viiM bviio | viiM | iiim iiim | iiim iiim |
+ iM | viiM |

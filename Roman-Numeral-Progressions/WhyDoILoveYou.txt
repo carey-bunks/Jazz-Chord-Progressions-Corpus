@@ -1,0 +1,13 @@
+Title = Why Do I Love You?
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ iM | vim | iim | v7 |
+ iiim | vi7 | iim | v7 |
+ iiim | vim | iim | viih iii7 |
+ vim | ii7 | iim | v7 |
+ iM | vim | iim | v7 |
+ iiim | vi7 | iim | v7 |
+ vm | i7 | ivM | bvii7 |
+ iM | ii7 vm | iM | iim v7 |

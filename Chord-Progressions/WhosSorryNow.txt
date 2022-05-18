@@ -1,0 +1,13 @@
+Title = Who's Sorry Now?
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb | Bb | D7 | D7 |
+ G+ G7 | G7 G7 D7 G7 | C7 | C7 |
+ F7 | F7 | Bb | Bo7 |
+ F | C7 | F7 Cm7 | F9 |
+ Bb | Bb | D7 | D7 |
+ G+ G+ G7 Go7 | G7 G+ G+ G7 | Cm7 | G7 |
+ Cm7 | Cm7b5 | BbM7 Bb6 | Dm7 G7 |
+ C7 | Cm7 Cm7 Cm7 F7b5 | Bb Bb Eb Ebm7 | Bb6 |
+

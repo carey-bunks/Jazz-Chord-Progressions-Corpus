@@ -1,0 +1,13 @@
+Title = I'll Never Be The Same
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Eb7 D7 | Eb7 D7 | G | G |
+ Eb7 D7 | Eb7 D7 | G | G |
+ Dm7 G7 | Dm7 G7 | Dm7 G7 | C |
+ Em7 A7 | Em7 A7 | Am7 | D7 |
+ Eb7 D7 | Eb7 D7 | G | G |
+ G7 | G7 | C | C |
+ C | Cm | Bm7b5 | E7 |
+ Eb7 D7 | Eb7 D7 | G | G |
+

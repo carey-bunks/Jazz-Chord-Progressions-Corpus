@@ -1,0 +1,13 @@
+Title = Venus
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | iim | iM | iim |
+ iiim vi7 | iim v7 | iM | iim v7 |
+ iM | iim | iM | iim |
+ iiim vi7 | iim v7 | iM | iM |
+ ivM | iim v7 | iM | vim ii7 |
+ vM | vim ii7 | iim | v7 |
+ iM | iim | iM | iim |
+ iiim vi7 | iim v7 | iM | v7 |

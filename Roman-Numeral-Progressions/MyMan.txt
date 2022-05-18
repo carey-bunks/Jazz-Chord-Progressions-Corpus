@@ -1,0 +1,14 @@
+Title = My Man
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 36
+ vim ivM | vim ivM | viih | viih |
+ iii7 | iii7 | vim | vim |
+ vim ivM | vim ivM | viih | viih |
+ iii7 | iii7 | vim | vim |
+ vim | vim vM | iv7 iii7 | v7 |
+ iM | iM | v7 | v7 |
+ v7 | iim v7 | iM | v7 |
+ iM | vm i7 | ivM | bvo |
+ iM vim | ii7 v7 | iM | iim v7 |

@@ -1,0 +1,17 @@
+Title = Your Song
+DB Key = Eb
+TimeSig = 4 4
+Bars = 50
+ Eb | AbM7 | Bb/D | Gm |
+ Cm | Cm7/Bb | Cm6/A | Ab6 |
+ Eb/Bb | Bb | G7/B | Cm |
+ Eb | Fm7 | Ab | Bb |
+ Bb7 | Eb | AbM7 | Bb/D |
+ Gm | Cm | Cm7/Bb | Cm6/A |
+ Ab6 | Eb/Bb | Bb | G7/B |
+ Cm | Eb | Fm7 | Ab |
+ Eb | Ab/Eb Eb | Bb/D | Cm |
+ Fm | Ab | Bb/D | Cm |
+ Fm | Ab | Cm | Cm/Bb |
+ Cm6/A | Fm6/Ab | Eb/G | Ab6 |
+ Ab6 | Bb |

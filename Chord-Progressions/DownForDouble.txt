@@ -1,0 +1,13 @@
+Title = Down For Double
+DB Key = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb7 G7 | C7 F7 | Bb7 G7 | C7 F7 |
+ Bb7 G7 | C7 F7 | Bb7 Gm7 | Cm7 F7 |
+ Bb7 G7 | C7 F7 | Bb7 G7 | C7 F7 |
+ Bb7 G7 | C7 F7 | Bb7 Cm7 | C#o7 Bb/D |
+ Bb7 | Bb7 | Eb6 | Eb6 |
+ C7 | C7 | F7 | F7 |
+ Bb7 G7 | C7 F7 | Bb7 G7 | C7 F7 |
+ Bb7 G7 | C7 F7 | Bb7 Eb | Bb |
+

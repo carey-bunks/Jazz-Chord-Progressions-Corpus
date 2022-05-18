@@ -1,0 +1,17 @@
+Title = And The Angels Sing
+DB Key = Eb
+TimeSig = 4 4
+Bars = 48
+ Eb6 | Fm7 Bb7 | EbM7 | Eb9 Eb9 Bo7 Cm7 |
+ Fm7 C7#5 | F9 Bb7 | Eb6 Cm7 | Fm7 Bb13b9 |
+ Eb6 | Fm7 Bb7 | EbM7 | Eb9 Eb9 Bo7 Cm7 |
+ Fm7 C7#5 | F9 Bb7 | Eb6 Bb9sus4 | Eb6 |
+ Bbm7 Eb7 | Bbm7 Eb7 | Ebo7 Eb7 | Bbm7 Eb7 |
+ Bbm7 Eb7 | Bbm7 Eb7 | Bbm7 | Eb7 |
+ Bbm7 Eb7 | Bbm7 Eb7 | Ebo7 Eb7 | Bbm7 Eb7 |
+ Ab6 Ab6 Fm7 C7#5 | F9 Bb7 | Eb6 Cm7 | Fm7 Bb13b9 |
+ Eb6 | Fm7 Bb7 | EbM7 | Eb9 Eb9 Bo7 Cm7 |
+ Fm7 C7#5 | F9 Bb7 | Eb6 Cm7 | Fm7 Bb13b9 |
+ Eb6 | Fm7 Bb7 | EbM7 | Eb9 Eb9 Bo7 Cm7 |
+ Fm7 | Fm7b5 Db9 | Eb6 | Eb6 |
+

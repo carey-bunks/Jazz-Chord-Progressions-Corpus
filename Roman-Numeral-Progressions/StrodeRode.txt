@@ -1,0 +1,15 @@
+Title = Strode Rode
+DB Key = Ab
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 40
+ vim | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ iv7 | iii7 | vim | vim |
+ vim | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ iv7 | iii7 | vim | vim |
+ iim | v7 | vim | viih iii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ vim | viih iii7 | vim | viih iii7 |
+ iv7 | iii7 | vim | vim |

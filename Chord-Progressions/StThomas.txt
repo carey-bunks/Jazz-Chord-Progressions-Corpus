@@ -1,0 +1,9 @@
+Title = St. Thomas
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ C | Em7b5 A7 | Dm7 G7 | C |
+ C | Em7b5 A7 | Dm7 G7 | C |
+ Em7b5 | A7alt | Dm7 | G7 |
+ C C7 | F F#o | C/G G7 | C |
+

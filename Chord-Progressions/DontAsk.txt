@@ -1,0 +1,13 @@
+Title = Don't Ask
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Cadd9 | CM#5add9 | C69 | C9 |
+ FM7 | Em7 A7b9 | Dm7 | Dm7 G9sus4 |
+ Cadd9 | CM#5add9 | C69 | C9 |
+ FM7 | Em7 A7b9 | Dm7 | Dm7 G9sus4 |
+ AM7 | AM7 | Dm7 | G9sus4 |
+ AM7 | AM7 | Dm7 | G9sus4 |
+ Cadd9 | CM#5add9 | C69 | CM#5add9 |
+ Cadd9 | CM#5add9 | C69 | CM#5add9 |
+

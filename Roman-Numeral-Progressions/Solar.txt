@@ -1,0 +1,8 @@
+Title = Solar
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 12
+ vim | vim | iiim | vi7 |
+ iiM | iiM | iim | v7 |
+ iM | im iv7 | bviiM | viih iii7 |

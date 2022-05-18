@@ -1,0 +1,13 @@
+Title = Painted Rhythm
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM bvi7 | iim bii7 | iM | iim bii7 |
+ iM bvi7 | iim bii7 | iM bii7 | iM |
+ iM bvi7 | iim bii7 | iM | iim bii7 |
+ iM bvi7 | iim bii7 | iM bii7 | iM |
+ iii7 | iii7 | iii7 | vi7 biii7 |
+ ii7 | ii7 | ii7 | v7 |
+ iM bvi7 | iim bii7 | iM | iim bii7 |
+ iM bvi7 | iim bii7 | iM bii7 | iM |

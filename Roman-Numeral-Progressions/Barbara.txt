@@ -1,0 +1,15 @@
+Title = Barbara
+DB Key = C
+EstKeySig = Db
+TimeSig = 3 4
+Bars = 38
+ vi7 | vi7 | v7 | v7 |
+ vi7 | vi7 | vim | vim |
+ vm | vm i7 | ivM | ivM |
+ iiim | vi7 | bvm vii7 | iiim vi7 |
+ vi7 | vi7 | v7 | v7 |
+ vi7 | vi7 | vim | vim |
+ vm | vm i7 | ivM | ivM |
+ iiim | iiim vi7 | bvm | vii7 |
+ iiim bvii7 | iiim vi7 | iiM iM | bviiM iM |
+ iiM iM | bviiM iM |

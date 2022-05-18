@@ -1,0 +1,13 @@
+Title = Vilia
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 32
+ iM iim | iiim ivm | iiim | vi7 |
+ iim | v7 | iM | iim v7 |
+ iM iM | vim iio | iiim iiim | vi7 |
+ iiM | iiim vi7 | iim | v7 |
+ iM iiim | iim iM | iiim | vi7 |
+ iim | v7 | iM io | iim v7 |
+ iM | iM iio | iiim | vi7 |
+ iim | v7 | iM | iM |

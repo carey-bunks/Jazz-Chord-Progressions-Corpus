@@ -1,0 +1,11 @@
+Title = You Make Me Feel Like Dancing
+DB Key = F
+EstKeySig = F
+TimeSig = 4 4
+Bars = 23
+ iM vim | iim v7 | iM vim | iim v7 |
+ iM vim | iim v7 | iM vim | iim v7 |
+ bviiM | iM biio | iiM viim | iiim vi7 |
+ iiM viim | iiim vi7 | iiM viim | iiim vi7 |
+ iim | iim | v7 | iim v7 |
+ iM bviiM | biiiM biiiM v7 v7 | iM |

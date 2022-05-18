@@ -1,0 +1,8 @@
+Title = Sy Clone
+DB Key = C
+TimeSig = 4 4
+Bars = 12
+ F7 | Bb7 | F7 G7b9 | C7alt F7alt |
+ Bb7 | Bb7 | F7 | D7alt |
+ Db7 Db7 Db7 C7alt | C7alt C7alt F7alt | F7alt G7b9 | C7alt |
+

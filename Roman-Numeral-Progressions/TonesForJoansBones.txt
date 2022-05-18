@@ -1,0 +1,16 @@
+Title = Tones For Joan's Bones
+DB Key = D
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 44
+ iiiM | iiiM | vim | vim |
+ iii7 | iii7 v7 | iM bviim | bviM v7 |
+ ih | ih | iv7 | iv7 |
+ bviim | bvii7 | vh | bvM |
+ ivM | bviM | vM | bviiM |
+ iiM | ivM | biiim | biiim vii7 |
+ iiiM | iiiM | vim | vim |
+ iii7 | iii7 v7 | iM | iM |
+ bvm | vii7 io | biim | bv7 |
+ bvm vm | vm i7 | ivM iiim | iim v7 |
+ bvm vm | viM vii7 | ivM | ivM |

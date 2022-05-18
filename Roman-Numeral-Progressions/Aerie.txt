@@ -1,0 +1,14 @@
+Title = The Aerie
+DB Key = C
+EstKeySig = F
+TimeSig = 3 4
+Bars = 34
+ bviM | vM | ivM | biiiM |
+ iiim | iM | iiim | iM |
+ bviM | vM | ivM | biiiM |
+ iiim | im | ivM | iM |
+ bvM | bvM | viM | bviM |
+ vM | biiim | biiio | biiio |
+ bvM | bvM | im | bviM |
+ iiim | ivM | iiim | iM |
+ iiim | iM |

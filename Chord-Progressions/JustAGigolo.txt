@@ -1,0 +1,9 @@
+Title = Just A Gigolo
+DB Key = G
+TimeSig = 4 4
+Bars = 16
+ GM7 | GM7 | G6/B Bbo7 | Am7 D7 |
+ Am7 | Am7 | D7 D7#5 | GM7 |
+ G7 | F7 | E7 | Am7 |
+ Am7 F7 | Em7 A7 | Am7 D7 | G6 G6 Am7 D7 |
+

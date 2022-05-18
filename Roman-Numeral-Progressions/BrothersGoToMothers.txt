@@ -1,0 +1,13 @@
+Title = The Brothers Go to Mother's
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iim v7 | iiim vim | iim v7 | iM iM |
+ viim iii7 | im ivm | iim | iim v7 |
+ iim v7 | iiim vim | iim v7 | iM iM |
+ viim iii7 | im ivm | iim v7 | iM |
+ bviim biii7 | bviM | bviim vi7 | bviM |
+ ivm vii7 | vm im | biiim bvi7 | iim v7 |
+ iim v7 | iiim vim | iim v7 | iM iM |
+ viim iii7 | im ivm | iim v7 | iM |

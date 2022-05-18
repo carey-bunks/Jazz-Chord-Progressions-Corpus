@@ -1,0 +1,8 @@
+Title = Gerkin For Perkin
+DB Key = F
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ v7 | i7 biio | v7 | v7 |
+ i7 | iv7 | bviiM | bviim biii7 |
+ bviM | ii7 | v7 bvii7 | vih ii7 |

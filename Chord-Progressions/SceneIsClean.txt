@@ -1,0 +1,13 @@
+Title = The Scene Is Clean
+DB Key = C
+TimeSig = 4 4
+Bars = 32
+ Cm7 F7+ | Bm7 Eb7+ | Abm7 Db7 | G7b9 C7 |
+ Bbm7 Eb7 | AbM7 F7b9 | Bbm7 Eb7 | Cm7 F7b9 |
+ Bbm7 | Dbm7 Gb7 | Gm7b5 | C7alt |
+ CM7 | Cm7 F7 | BbM7 | Dm7b5 G7alt |
+ Cm7 F7+ | Bbm7 Eb7+ | Abm7 Db7 | G7b9 C7 |
+ Bbm7 Eb7 | AbM7 F7b9 | Bbm7 Eb7 | Cm7 F7b9 |
+ Bbm7 | Dbm7 Gb7 | Cm7 | F7b9 |
+ Bbm7 A7 G7 Gb7 | F7 E7 Bbm7 Eb7 | AbM7 | Dm7 G7alt |
+

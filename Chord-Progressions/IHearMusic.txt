@@ -1,0 +1,13 @@
+Title = I Hear Music
+DB Key = F
+TimeSig = 4 4
+Bars = 34
+ Am7b5 D7#5 | G7 C7 | Am7b5 D7#5 | G7 C7 |
+ F7 Bb | F7 Bb | C7 F | C7 F |
+ Am7b5 D7#5 | G7 C7 | Am7b5 D7#5 | G7 C7 |
+ F7 Bb | F7 Bb | C7 F | C7 F |
+ Cm7 F7 | Cm7 F7 | BbM7 | BbM7 |
+ Bbm7 Eb7 | Bbm7 Eb7 | AbM7 | Gm7 C7 |
+ Am7b5 D7#5 | G7 C7 | Am7b5 D7#5 | G7 C7 |
+ F7 Bb | F7 Bb | C7 F | Gm7 C7 |
+ F | Gm7 C7 |

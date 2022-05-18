@@ -1,0 +1,14 @@
+Title = Can't Help Falling in Love
+DB Key = Eb
+TimeSig = 4 4
+Bars = 36
+ Eb Gm | Cm Cm/Bb | Ab Eb | Bb |
+ Ab G | Cm Bb7 | Eb Gm | Cm Cm/Bb |
+ Ab Eb | Bb | Ab G | Cm Bb7 |
+ Eb Bb7 | Eb Bb7 | Eb Bb7 | C7 NC |
+ Eb Bb7 | Eb Bb7 | Eb Bb7 | Eb Eb Am7b5 D7 |
+ Gm | D7b9 | Gm | D7b9 |
+ Gm | D7b9 | Gm | Fm7 Bb7 |
+ Eb Gm | Cm Cm/Bb | Ab Eb | Bb |
+ Ab G | Cm Bb7 | Eb Bb7 | Eb |
+

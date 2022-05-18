@@ -1,0 +1,8 @@
+Title = Goodbye Pork Pie Hat
+DB Key = C
+EstKeySig = E
+TimeSig = 4 4
+Bars = 12
+ vii7 v7 | iM iv7 | vi7 v7 | vi7 vii7 |
+ iiim v7 | biih bv7 | bvi7 bii7 | v7 iM |
+ iv7 iii7 | bv7 vi7 | vii7 v7 | iM iv7 |

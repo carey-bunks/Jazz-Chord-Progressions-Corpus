@@ -1,0 +1,9 @@
+Title = Surfin' Snoopy
+DB Key = C
+TimeSig = 4 4
+Bars = 16
+ CM7 | G7+ | CM7 | G7+ |
+ CM7 | G7+ | Em7b5 | A7b9 |
+ D7 | G7sus4 | Em7b5 | A7b9 |
+ D7 | G7sus4 | C69 | G7sus4 |
+

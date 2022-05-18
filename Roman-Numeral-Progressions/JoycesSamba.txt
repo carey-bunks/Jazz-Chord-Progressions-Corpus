@@ -1,0 +1,13 @@
+Title = Joyce's Samba
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM | ivo | vim | ii7 |
+ vm | i7 | ivM | ivM |
+ iim | v7 | iM | iM |
+ ivm | bvii7 | biiiM | iim v7 |
+ iM | ivo | vim | ii7 |
+ vm | i7 | ivM | ivM |
+ iim | v7 | iiih | vi7 |
+ ii7 | v7 | iM | iim v7 |

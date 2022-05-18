@@ -1,0 +1,13 @@
+Title = We'll Be Together Again
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iM bvi7 | iim v7 | iM vim | ii7 |
+ bviim biii7 | bviM biiM | iih iih biiim bvi7 | iih v7 |
+ iM bvi7 | iim v7 | iM vim | ii7 |
+ bviim biii7 | bviM biiM | iih v7 | iM |
+ iih v7 | im vih | iih v7 | im |
+ ivm v7 | biiim iv7 | vih ii7 | bvi7 v7 |
+ iM bvi7 | iim v7 | iM vim | ii7 |
+ bviim biii7 | bviM biiM | iih v7 | iM |

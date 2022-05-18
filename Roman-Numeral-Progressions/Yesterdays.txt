@@ -1,0 +1,13 @@
+Title = Yesterdays
+DB Key = F
+EstKeySig = C
+TimeSig = 4 4
+Bars = 32
+ iim viih | iiih vi7 | iim viih | iiih vi7 |
+ iim iim | iim | viih | iii7 |
+ vi7 | ii7 | v7 | i7 |
+ im iv7 | bviiM biiiM | iiim | vi7 |
+ iim viih | iiih vi7 | iim viih | iiih vi7 |
+ iim iim | iim | viih | iii7 |
+ vi7 | ii7 | v7 | i7 |
+ im iv7 | bviiM biiiM | iiim vi7 | iim |

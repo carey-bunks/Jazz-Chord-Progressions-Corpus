@@ -1,0 +1,17 @@
+Title = Brush Up on your Shakespeare
+DB Key = F
+EstKeySig = F
+TimeSig = 3 4
+Bars = 48
+ iM | viM viM vi7 | ii7 | ii7 |
+ v7 | v7 | iM | iM |
+ ivM | ivM | iM | iM |
+ ii7 | ii7 | v7 | v7 iim v7 |
+ iM io iM | viM vi7 vi7 | ii7 | ii7 |
+ v7 vo v7 | v7 | iM | iM |
+ ivM | ivM | iM | iM |
+ ii7 | ii7 | v7 | v7 iim v7 |
+ iM | vi7 | ii7 | ii7 |
+ v7 vo v7 | v7 | iM | vM ii7 v7 |
+ iM | viM viM vi7 | ii7 | ii7 |
+ iM | v7 | iM | v7 |

@@ -1,0 +1,11 @@
+Title = For Your Eyes OnlyBill Conti, Michael Leeson
+DB Key = G
+EstKeySig = G
+TimeSig = 4 4
+Bars = 23
+ iM | ivM iM | iM | iM |
+ ivM | ivM | ivM iiim | iiim vim |
+ vim | ivM | iim | iim |
+ ivM | iM vim | iim | iim |
+ ivM | iM vim | ivM iim | iM vim |
+ iim | iim | iM |

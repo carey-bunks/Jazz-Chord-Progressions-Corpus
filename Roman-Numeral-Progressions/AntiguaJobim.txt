@@ -1,0 +1,16 @@
+Title = Antigua
+DB Key = Eb
+EstKeySig = Eb
+TimeSig = 4 4
+Bars = 44
+ iM v7 | iM v7 | bviM ii7 | bviM ii7 |
+ iM v7 | iM | iiim | vi7 |
+ iim | viih iii7 | vim | ii7 |
+ iim | biiM | iM vm | iM vm |
+ iM bii7 | iM bii7 | ivm | ivm |
+ im | im | ivm | ivm |
+ ii7 | v7 | iM v7 | iM v7 |
+ bviM ii7 | bviM ii7 | iM v7 | iM |
+ iiim | vi7 | iim | ivm |
+ iiim | biiim biiim | iim | biiM bii7 |
+ iM v7 | iM v7 | iM v7 | iM v7 |

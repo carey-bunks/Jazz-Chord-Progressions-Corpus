@@ -1,0 +1,13 @@
+Title = Muskrat Ramble
+DB Key = Ab
+TimeSig = 4 4
+Bars = 32
+ Ab | Eb7 | Eb7 | Ab |
+ Ab | Cm7 | G7 | Cm7 Eb7 |
+ Ab | Eb7 | Eb7 | Ab |
+ F7 | Bbm7 | Bb7 | Ab |
+ Eb7 | Eb7 | Ab | Ab |
+ Eb7 | Eb7 | Ab | Ab |
+ Eb7 | Eb7 | Ab | Ab Ab G7 Gb7 |
+ F7 | Bbm7 | Bb7 Eb7 | Ab |
+

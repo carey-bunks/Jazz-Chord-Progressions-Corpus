@@ -1,0 +1,18 @@
+Title = The Midnight Sun
+DB Key = C
+EstKeySig = Ab
+TimeSig = 4 4
+Bars = 50
+ iiiM | iiiM | iiim | vi7 |
+ iiM | iiM | iim | v7 |
+ iM | iM | im | iv7 |
+ iiiM biim | bvm vii7 | iiiM | iiiM |
+ iiim | vi7 | iiM | iiM |
+ iim | v7 | iM | iM |
+ im | iv7 | iiiM biim | vim biii7 |
+ bviM | bvim bii7 | bvM | bvM |
+ bvM | bvm vii7 | bvim v7 | bvm iv7 |
+ iiiM | iiiM | iiim | vi7 |
+ iiM | iiM | iim | v7 |
+ iM | iM | im | iv7 |
+ iiiM biim | bvm vii7 |

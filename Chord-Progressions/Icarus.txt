@@ -1,0 +1,19 @@
+Title = Icarus
+DB Key = G
+TimeSig = 4 4
+Bars = 58
+ Gadd9 | Gadd9 | Dm7/G | Dm7/G |
+ Dm7/G | Dm7/G | Cm9/G | Cm9/G |
+ Cm9/G | Cm9/G | Gadd9 | Gadd9 |
+ Dm7/G | Dm7/G | Dm7/G | Dm7/G |
+ Gadd9 | Gadd9 | G7sus4 | G7 |
+ CM7#11 | CM7#11 | CM7#11 | CM7#11 |
+ FM9 | FM9 | FM9 | FM9 |
+ Dadd9 | Dadd9 | Dadd9 | Dadd9 |
+ Bm9/F# | Bm9/F# | Bm9/F# | Bm9/F# |
+ G7sus4 | G7sus4 | G7sus4 | G7sus4 |
+ Bm9/F# | Bm9/F# | Bm9/F# | Bm9/F# |
+ Dm7/G | Dm7/G | Dm7/G | Dm7/G |
+ Cadd9 | Cadd9 | Gm9/C | Gm7/Bb |
+ EbM7#11 | EbM7#11 | FM7/G | FM7/G |
+ FM7/G | FM7/G |

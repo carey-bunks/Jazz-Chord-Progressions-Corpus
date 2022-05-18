@@ -1,0 +1,9 @@
+Title = Deluge
+DB Key = C
+EstKeySig = B
+TimeSig = 4 4
+Bars = 16
+ iiim | ivM | iiim | ivM |
+ iiim | ivM | iiim | bvii7 |
+ vi7 | bvm i7 | iiim | bvii7 |
+ vi7 | bvm i7 | iiim | ivM |

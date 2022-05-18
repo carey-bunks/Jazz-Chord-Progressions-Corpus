@@ -1,0 +1,14 @@
+Title = Town Without Pity
+DB Key = C
+EstKeySig = C
+TimeSig = 4 4
+Bars = 34
+ vim | vim vim | iim | iim iim |
+ bviio vi7 | iim | iM iM v7 vii7 | iii7 iii7 |
+ vim | vim vim | iim | iim iim |
+ bviio vi7 | iim | iM iM v7 vii7 | iM i7 |
+ ivM | ivM | ivM ivM ivM biii7 | ii7 |
+ vM | vM | iim iim ivo ivo | iim iim |
+ vm vi7 | iim | iM viiM v7 v7 | iii7 |
+ ivM ivM v7 v7 | iiiM iiiM vim iii7 | vim vim bvi7 v7 | bv7 iv7 iii7 iii7 |
+ iim | vim |

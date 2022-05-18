@@ -1,0 +1,13 @@
+Title = Days and Nights Waiting
+DB Key = C
+EstKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ iim | v7 | iM | vii7 |
+ vm | biim | bvm vii7 | iiiM |
+ iim | v7 | iM | vii7 |
+ vm | biim | bvm vii7 | iiiM |
+ iim | v7 | ivm | bvii7 |
+ iim | v7 | iiim vi7 | biiim bvi7 |
+ iim | v7 | iM | vii7 |
+ vm | biim | bvm vii7 | iiiM |
