@@ -1,6 +1,4 @@
 # Jazz-Chord-Progressions-Corpus
-Collection of 2,612 jazz chord progressions derived from the Impro-Visor Imaginary Book
-
 This repository contains a collection of 2,612 jazz chord progressions derived from the Imaginary Book (part of Impro-Visor: https://www.cs.hmc.edu/~keller/jazz/improvisor/).  
 
 Each song in Chord-Progressions.zip is in ASCII format, and contains a title line, a key signature, a time signature, the number of bars, and the chords.  Vertical bars separate the bars, and the chord symbols should be familiar to anyone with some experience reading jazz lead sheets.  An example of the contents for the song "Have You Met Miss Jones?" is illustrated here:
