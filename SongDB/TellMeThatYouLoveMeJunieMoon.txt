@@ -1,0 +1,15 @@
+Title = Tell Me That You Love Me, Junie Moon
+ComposedBy = Philip Springer
+DBKeySig = D
+TimeSig = 4 4
+Bars = 38
+ D | A6 | Bm | D |
+ D6 | A7sus | A7 | Bbm Bb Bb Bb |
+ BbM7 | A7sus | A7 | D |
+ A6 | Bm | D | D6 |
+ A7sus | A7 | Bbm Bb Bb Bb | BbM7 |
+ EbM7 | EbM7 | Ab6 | Ab6 |
+ EbM7 | EbM7 | Asus4 | Asus4 |
+ D | A6 | Bm | D |
+ D6 | A7sus | A7 | Bbm Bb Bb Bb |
+ A7sus | D |

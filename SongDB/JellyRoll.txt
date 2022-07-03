@@ -1,0 +1,9 @@
+Title = Jelly Roll
+ComposedBy = Charles Mingus
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 14
+ Bbm7 Eb7 | Bbm7 Eb7 | Bbm7 | Eb7 |
+ Ab7 | Ab7 | Db7 | Db7 |
+ Ab7 Ab7 G7 Gb7 | F7 | Bb7 | Eb7 |
+ Ab7 | Ab7 |

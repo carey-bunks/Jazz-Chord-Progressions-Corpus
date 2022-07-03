@@ -1,0 +1,26 @@
+Title = Make Me Do Anything You Want
+ComposedBy = Unknown
+DBKeySig = D
+TimeSig = 4 4
+Bars = 80
+ D D | Em Em | D/F# D/F# | A/G A/G |
+ D D | Em Em | D/F# D/F# | Em/G Em/G |
+ D D | D D | D D | Em Em |
+ D/F# D/F# | Em/G Em/G | D D | D D |
+ D D | D G | G D | Bm7 D |
+ D D | D G | G D | Bm7 D |
+ D D | Em Em | D/F# D/F# | A/G A/G |
+ D D | Em Em | D/F# D/F# | A/G A/G |
+ D D | D G | G D | Bm7 D |
+ D D | D G | G D | Bm7 D |
+ D D | D G | G D | Bm7 D |
+ D D | Em Em | D/F# D/F# | A/G A/G |
+ D D | Em Em | D/F# D/F# | A/G A/G |
+ D D | Em Em | D/F# D/F# | A/G A/G |
+ D D | Em Em | D/F# D/F# | A/G A/G |
+ D D | D G | G D | Bm7 D |
+ D D | D G | G D | Bm7 D |
+ D D | D G | G D | Bm7 D |
+ D D | D G | G D | Bm7 D |
+ D D | D G | G D | Bm7 Bm7 D |
+

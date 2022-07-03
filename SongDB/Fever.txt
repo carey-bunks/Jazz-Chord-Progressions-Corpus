@@ -1,0 +1,10 @@
+Title = Fever
+ComposedBy = John Davenport and Eddie Cooley
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ Am | Am | Am | Am |
+ Am | Am | E7 | Am |
+ Am | Am | Am | Am |
+ Am | Am | E7 | Am |
+

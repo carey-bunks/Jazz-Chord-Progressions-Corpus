@@ -1,0 +1,19 @@
+Title = Alter Ego
+ComposedBy = James Williams
+DBKeySig = C
+TimeSig = 4 4
+Bars = 55
+ Am11 | Em11 | Am11 | Em11 |
+ Am11 | Em11 | Bm11 | Bm11 |
+ Am11 | Em11 | Am11 | Em11 |
+ Am11 | Em11 | Bm11 | Bm11 |
+ F#m11 | C#m11 | F#m11 | C#m11 |
+ F#m11 | C#m11 | G#9 | G#9 G#9 G#9 G#9 G#9 Gm11 Gm11 Gm11 |
+ F#m11 | C#m11 | F#m11 | C#m11 |
+ F#m11 | C#m11 | G#9 G#9 G#9 GM7#11 | GM7#11 GM7#11 GM7#11 Bbm11 |
+ Am11 Am11 Fm11 Em11 | Em11 Bbm11 | Am11 Am11 Fm11 Em11 | NC Bbm11 Bbm11 Bbm11 |
+ Am11 Am11 Fm11 Em11 | Em11 Em11 Cm11 Bm11 | Bm11 | Bm11 Bm11 Bm11 Bbm11 |
+ Am11 Am11 Fm11 Em11 | Em11 Bbm11 | Am11 Am11 Fm11 Em11 | NC Bbm11 Bbm11 Bbm11 |
+ Am11 Am11 Fm11 Em11 | Em11 Em11 Cm11 Bm11 | Bm11 | Bm11 Bm11 Bm11 Bbm11 |
+ Am11 Am11 Fm11 Em11 | Em11 Bbm11 | Am11 Am11 Fm11 Em11 | NC Bbm11 Bbm11 Bbm11 |
+ Am11 Am11 Fm11 Em11 | Em11 Em11 Cm11 Bm11 | Bm11 |

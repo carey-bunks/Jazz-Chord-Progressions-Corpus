@@ -1,0 +1,12 @@
+Title = Black Narcissus
+ComposedBy = Joe Henderson
+DBKeySig = C
+TimeSig = 3 4
+Bars = 24
+ Abm7 | Bbm7/Ab | Abm7 | Bbm7/Ab |
+ Abm7 | Bbm7/Ab | Abm7 | BM7#11 |
+ F#m7 | G#m7/F# | F#m7 | Abm7/Gb |
+ F#m7 | Abm7/Gb | F#m7 | AM7#11 |
+ EbM7#11 | FM7#11 | BbM7#11 | CM7#11 |
+ EbM7#11 | FM7#11 BbM7#11 | GM7#11 AbM7#11 | BbM7#11 CM7#11 CM7#11 |
+

@@ -1,0 +1,12 @@
+Title = Guantanamera
+ComposedBy = Jose Marti
+DBKeySig = F
+TimeSig = 4 4
+Bars = 24
+ F Bb | C7 | F Bb | C |
+ F Bb | C7 | F Bb | C |
+ F Bb | C | F Bb | C |
+ F Bb | C | F Bb | C |
+ F Bb | C | F Bb | C |
+ F Bb | C | F Bb | C |
+

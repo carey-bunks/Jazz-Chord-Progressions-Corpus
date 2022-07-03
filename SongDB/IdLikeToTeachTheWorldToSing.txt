@@ -1,0 +1,16 @@
+Title = I'd Like to Teach the World to Sing
+ComposedBy = B. Backer, B. Davis, R. Cook, and R. Greenaway
+DBKeySig = F
+TimeSig = 4 4
+Bars = 40
+ F | F | G7 | G7 |
+ C7 | C7 | Bb | C7 |
+ F | F | G7 | G7 |
+ C7 | C7 | Bb | F |
+ F | F | G7 | G7 |
+ C | C | Bb | F |
+ F | F | F | G7 |
+ G7 | C | C | Bb |
+ F | F | G7 | G7 |
+ C7 | C7 | Bb | F |
+

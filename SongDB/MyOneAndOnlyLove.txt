@@ -1,0 +1,14 @@
+Title = My One and Only Love
+ComposedBy = Guy Wood and Robert Mellin
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ CM7 Am7 | Dm7 Dm7 G7 E7/G# | Am7 FM7 | Em7 A7 |
+ Dm7 Dm7 G7 E7/G# | Am7 D7#11 | Dm7 G7 | Em7 A7 Dm7 G7 |
+ CM7 Am7 | Dm7 Dm7 G7 E7/G# | Am7 FM7 | Em7 A7 |
+ Dm7 Dm7 G7 E7/G# | Am7 D7#11 | Dm7 G7 | CM7 CM7 F#m7b5 B7b9 |
+ Em7 | F#m7b5 B7 | Em7 | F#m7b5 B7 |
+ Em Em/D# | Em7/D Em6 | Dm7 A7alt | Dm7 G7 |
+ CM7 Am7 | Dm7 Dm7 G7 E7/G# | Am7 FM7 | Em7 A7 |
+ Dm7 Dm7 G7 E7/G# | Am7 D7#11 | Dm7 G7 | CM7 CM7 Dm7/G |
+

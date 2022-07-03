@@ -1,0 +1,14 @@
+Title = You and the Night and the Music
+ComposedBy = Arthur Schwartz
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Cm69 | Dm7b5 G7alt | Gm7b5 C7b9 | Fm6 |
+ Dm7b5 | G7b9 | CM7 | Dm7b5 G7alt |
+ Cm69 | Dm7b5 G7alt | Gm7b5 C7b9 | Fm6 |
+ Dm7b5 | G7b9 | CM7 | C7 |
+ Ab7 | Am7b5 D7b9 | G7 | Dm7 G7 |
+ Ab7 | Am7b5 D7b9 | G7 Ab7 | G7 Db7#11 |
+ Cm69 | Dm7b5 G7alt | Gm7b5 C7b9 | Fm6 |
+ Dm7b5 G7b9 | Cm Am7b5 | Ab7 G7b9 | Cm69 G7alt |
+

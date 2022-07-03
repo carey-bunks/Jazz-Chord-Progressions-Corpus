@@ -1,0 +1,22 @@
+Title = It's A Good Day
+ComposedBy = Peggy Lee and Dave Barbour
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 64
+ Eb6 | Fm7 | Gm7 | Cm7 |
+ Fm7 | Bb7 | Eb6 | Eb6 Bb7#5 |
+ Eb6 | Fm7 | Gm7 | Cm7 |
+ Fm7 | Bb7 | Eb6 | Bb7#5 |
+ Eb6 | Fm7 | Gm7 | Cm7 |
+ Fm7 | Bb7 | Eb6 | Eb6 |
+ Eb6 Bb7#5 | Eb6 | Eb6 | Cm7 |
+ Fm7 | Bb7 | Eb6 | Eb6 |
+ Eb7 | Eb7 | AbM7 | AbM7 |
+ F7 | F7 | Bb7 | Bb7#5 |
+ Eb6 | Eo7 | Bb7/F | Eo7 |
+ Bb7 | Eo7 | Bb7 | Bb7 Bb7#5 |
+ Eb6 | Fm7 | Gm7 | Cm7 |
+ Fm7 | Bb7 | Eb6 | Eb6 Bb7#5 |
+ Eb6 | Fm7 | Gm7 | Cm7 |
+ Fm7 | Bb7 | Eb6 | Fm7 Bb7 |
+

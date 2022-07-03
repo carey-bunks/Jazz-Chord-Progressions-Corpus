@@ -1,0 +1,14 @@
+Title = Moondance
+ComposedBy = Van Morrison
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Am7 Bm7 | Am7 Bm7 | Am7 Bm7 | Am7 Bm7 |
+ Am7 Bm7 | Am7 Bm7 | Am7 Bm7 | Am7 Bm7 |
+ Am7 Bm7 | Am7 Bm7 | Am7 Bm7 | Am7 Bm7 |
+ Am7 Bm7 | Am7 Bm7 | Am7 Bm7 | Am7 Bm7 |
+ Dm7 | Am7 | Dm7 | Am7 |
+ Dm7 | Am7 | Dm7 | E7alt |
+ Am7 D7 | Am7 D7 | Am7 D7 | Am7 D7 |
+ Am7 D7 | Am7 D7 | Am7 D7 | Am7 E7alt |
+

@@ -1,0 +1,14 @@
+Title = Singin' In The Rain
+ComposedBy = Nacio Herb Brown
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ G | G | G | G |
+ G | G Fo7 | D7 | D7 |
+ D7 | D7 | D7 | D7 |
+ D7 | D7 | G | G |
+ G | G | G | G |
+ G | G Fo7 | D7 | D7 |
+ D7 | D7 | D7 | D7 |
+ D7 | D7 | G | G |
+

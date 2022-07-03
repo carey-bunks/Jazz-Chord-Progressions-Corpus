@@ -1,0 +1,10 @@
+Title = Freedom Jazz Dance
+ComposedBy = Eddie Harris
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Bb7 | Bb7 | Bb7 | Bb7 Bb7 Bb7 Bb7#9 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+

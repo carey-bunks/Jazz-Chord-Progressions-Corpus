@@ -1,0 +1,18 @@
+Title = Apple Honey
+ComposedBy = Woody Herman
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 48
+ Bb6 Gm7 | C7 F7 | Gm7 C#o7 | C7b9 F7 |
+ Bb6 Gm7 | C7 F7 | Bb6 Gm7 | Gb7#5 F7 Bb6 Bb6 |
+ Bb6 Gm7 | C7 F7 | Gm7 C#o7 | C7b9 F7 |
+ Bb6 G7 | Cm7 F7 | Bb6 Gm7 | Gb7#5 Bb6 |
+ D7 | Eb7 D7 | Gm7 | Gm7 |
+ C7 | Gm7 C7 | F7 | Cm7 B7b5 |
+ Bb6 Gm7 | C7 C7 Gb7 F7 | Bb6 Gm7 | C7 F7 |
+ Bb6 Gm7 | C7 F7 | Bb6 Gm7 | Gb7#5 F7 Bb6 Bb6 |
+ Dm7 | Dm7 | Gm7 | Gm7 |
+ C7 | Db7 C7 | Gm7 C7 | F7 F7#5 |
+ Bb6 Gm7 | C7 C7 Gb7 F7 | Gm7 C#o7 | Cm7 F7 |
+ Bb6 Bb7/Ab | Eb/G Eb/G Gb7 F7 | F7 F7 C7 F7 | Bb6 |
+

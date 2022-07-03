@@ -1,0 +1,14 @@
+Title = Give Me The Simple Life
+ComposedBy = Rube Bloom
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Fm7 Bb7 | Eb C7 | Dm7b5 G7 | Cm Eb7 |
+ Ab Abm | Eb Cm7 | F7 | Fm7 Bb7 |
+ Fm7 Bb7 | Eb C7 | Dm7b5 G7 | Cm Eb7 |
+ Ab Abm | Eb Cm7 | F7 Bb7 | Eb |
+ Fm7 Bb7 | Eb | Fm7 Bb7 | Eb |
+ Dm7b5 G7 | Cm | F7 | Fm7 Bb7 |
+ Fm7 Bb7 | Eb C7 | Dm7b5 G7 | Cm Eb7 |
+ Ab Abm | Eb | F7 Bb7 | Eb |
+

@@ -1,0 +1,18 @@
+Title = Visa
+ComposedBy = Charlie Parker
+DBKeySig = C
+TimeSig = 4 4
+Bars = 48
+ Dmb5 G9 | Dmb5 G9 | C | C7+ |
+ F7 | F7 | C | A7+ |
+ Dm7 | Dm7 Ebm7 | C/E Ebo7 | Dm7 G7b9 |
+ Dmb5 G9 | Dmb5 G9 | C | C7+ |
+ F7 | F7 | C | A7+ |
+ Dm7 | Dm7 Ebm7 | C/E Ebo7 | G7b9 |
+ C7 | F7 | Gm7 C7 | Gm7 C7 |
+ F7 | Cm7 F7 | C Dm7 | A7 |
+ Dm | G7 | Dm7 G9 | C G7 |
+ C7 | F7 | C7 Gm7 | C7 |
+ F7 | Eb6 F | CM7 | C A7b9 |
+ Dm7 | G7 | C | Dm G7 |
+

@@ -1,0 +1,16 @@
+Title = The Way We Were
+ComposedBy = Marvin Hamlisch
+DBKeySig = G
+TimeSig = 4 4
+Bars = 40
+ G Bm7 | C C/D | Em7 Em7/D | C C B7sus4 B7 |
+ Em7 Em7/D | C Am7/D | G | Am7 Am7/D |
+ G Bm7 | C C/D | Em7 Em7/D | C C B7sus4 B7 |
+ Em7 Em7/D | C Am7/D | G | Dm7 G7 |
+ C C C Bm7 | Am7 | Bm7 | Bm7/E E7 |
+ Am Am/G# | Am7/G Am7/G Am7/D D7 | G | Am7 D7 |
+ G Bm7 | C C/D | Em7 Em7/D | C C B7sus4 B7 |
+ Em7 Em7/D | C C B7sus4 B7 | Em7 Em7/D | C |
+ Bm7 | C | Bm7 | C |
+ Bm7 E7 | Am7 Am7/D | G | Am7 Am7/D |
+

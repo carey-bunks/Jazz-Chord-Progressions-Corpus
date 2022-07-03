@@ -1,0 +1,14 @@
+Title = Chelsea Bridge
+ComposedBy = Billy Strayhorn
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Eb7#11 | Db7#11 | Eb7#11 Db7#11 | Bb7 |
+ Ebm7 | Ab7 | Db | Db7 C7 B7 Bb7 |
+ Eb7#11 | Db7#11 | Eb7#11 Db7#11 | Bb7 |
+ Ebm7 | Ab7 | Db | Db |
+ F#m7 B7 | E Go | F#m7 F7 | E7 |
+ A D7 | G | Gm | Db7 C7 B7 Bb7 |
+ Eb7#11 | Db7#11 | Eb7#11 Db7#11 | Bb7 |
+ Ebm7 | Ab7 | Db | Db |
+

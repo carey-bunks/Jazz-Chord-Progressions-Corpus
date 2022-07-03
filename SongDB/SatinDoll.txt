@@ -1,0 +1,14 @@
+Title = Satin Doll
+ComposedBy = Billy Strayhorn and Duke Ellington
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Dm7 G7 | Dm7 G7 | Em7 A7 | Em7 A7 |
+ D7 | Db7 | C | A7 |
+ Dm7 G7 | Dm7 G7 | Em7 A7 | Em7 A7 |
+ D7 | Db7 | C | C |
+ Gm7 | C7 | F | F |
+ Am7 | D7 | G7 | A7 |
+ Dm7 G7 | Dm7 G7 | Em7 A7 | Em7 A7 |
+ D7 | Db7 | C | C |
+

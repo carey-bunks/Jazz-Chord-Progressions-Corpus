@@ -1,0 +1,8 @@
+Title = We Wish You A Merry Christmas
+ComposedBy = Arthur Warrell
+DBKeySig = G
+TimeSig = 3 4
+Bars = 8
+ G | C | A7 | D7 |
+ G | C C Am | D7 | G |
+

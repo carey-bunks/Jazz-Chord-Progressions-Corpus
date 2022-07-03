@@ -1,0 +1,14 @@
+Title = Calcutta Blues
+ComposedBy = Dave Brubeck
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Cm | Cm | Fm | Cm |
+ Fm | G7 | Cm | Cm |
+ Dm | G | Cm | Cm |
+ Cm | Cm | Fm G7 | Cm |
+ Fm | G7 | Cm | Cm |
+ Do7 | G | Cm | Cm |
+ Cm | Cm | Cm | Cm |
+ Cm | Cm | Cm | Cm |
+

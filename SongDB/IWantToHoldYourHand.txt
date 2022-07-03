@@ -1,0 +1,18 @@
+Title = I Want To Hold Your Hand
+ComposedBy = John Lennon and Paul McCartney
+DBKeySig = C
+TimeSig = 4 4
+Bars = 48
+ C | G7 | Am | E |
+ C | G7 | Am | E |
+ F G7 | C Am | F G7 | C |
+ C | G7 | Am | E |
+ C | G7 | Am | E |
+ F G7 | C Am | F G7 | C |
+ Gm7 | C7 | F | Dm |
+ Gm7 | C7 | F | G7 G7 G7 F |
+ G7 G7 G7 F | G7 | G7 | C |
+ G7 | Am | E | C |
+ G7 | Am | E | F G7 |
+ C Am | F G7 | C | C |
+

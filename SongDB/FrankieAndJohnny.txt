@@ -1,0 +1,9 @@
+Title = Frankie and Johnny
+ComposedBy = Sammy Cahn and Johnny Green
+DBKeySig = C
+TimeSig = 4 4
+Bars = 12
+ C6 G7+ | C6 G7+ | C6 G7+ | C C7 |
+ F6 C7+ | F | F F#o7 | C/G A7 |
+ Dm7 | G7 | C6 | Dm7 G7 |
+

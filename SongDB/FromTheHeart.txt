@@ -1,0 +1,16 @@
+Title = From the Heart
+ComposedBy = Gary Aprile
+DBKeySig = G
+TimeSig = 4 4
+Bars = 42
+ GM7 | Em7 | Am7 | D7 |
+ GM7 | Em7 | Am7 | Cm7 F7 |
+ BbM7 | Db7sus | GbM7 | B7#11 |
+ BbM7 | Db7sus | Cm7 | F7 D7/F# |
+ GM7 | Em7 | Am7 | D7 |
+ GM7 | Em7 | Dm7 | G7 |
+ C#m7b5 | Cm6 | Bm7 | E7+ |
+ Am7 | D7 | Bm7b5 | E7b9 |
+ Am7 | D7 | F#7b9 | F#7b9 |
+ GM7 | GM7 | F#7b9 | F#7b9 |
+ GM7 | Am7 Ab7 |

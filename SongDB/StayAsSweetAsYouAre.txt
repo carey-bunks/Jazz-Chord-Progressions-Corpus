@@ -1,0 +1,14 @@
+Title = Stay As Sweet As You Are
+ComposedBy = Harry Revel and Mack Gordon
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C G7b9 | C G7b9 | C A7 | Dm7 G7 |
+ CM7 Ebo7 | Dm7 G7 | CM7 | E7 |
+ FM7 | G7 | Am7 | Am7 |
+ D7 | D7 | G7sus4 | G7 |
+ C G7b9 | C G7b9 | C A7 | Dm7 G7 |
+ CM7 Ebo7 | Dm7 G7 | CM7 | E7 |
+ FM7 | Em7 | Am7 | D7 |
+ FM7 | Bb9 | C/E Ebo7 G7/D G7 | C6 C6 Dm7 G7 |
+

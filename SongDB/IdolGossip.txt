@@ -1,0 +1,14 @@
+Title = Idol Gossip
+ComposedBy = Gerry Mulligan
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Dm7 | Dm7 | Bb7 | Bb7 |
+ Em7b5 | A7 | Dm7 | A7 |
+ Dm7 | Dm7 | Bb7 | Bb7 |
+ Em7b5 | A7 | Dm7 | Cm7 F7 |
+ BbM7 Bo7 | Cm7 F7 | BbM7 Bo7 | Cm7 F7 |
+ BbM7 Bo7 | Cm7 F7 | BbM7 Gm7 | Em7b5 A7 |
+ Dm7 | Dm7 | Bb7 | Bb7 |
+ Em7b5 | A7 | Dm7 | A7 |
+

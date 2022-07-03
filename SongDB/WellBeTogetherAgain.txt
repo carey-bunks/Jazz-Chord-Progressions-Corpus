@@ -1,0 +1,14 @@
+Title = We'll Be Together Again
+ComposedBy = Carl Fischer and Frankie Lane
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ CM7 Ab7 | Dm7 G7 | CM7/E Am7 | D7#11 |
+ Bbm7 Eb7 | AbM7 DbM7 | Dm7b5 Dm7b5 Ebm7 Ab7 | Dm7b5 G7 |
+ CM7 Ab7 | Dm7 G7 | CM7/E Am7 | D7#11 |
+ Bbm7 Eb7 | AbM7 DbM7 | Dm7b5 G7 | CM7 |
+ Dm7b5 G7 | Cm Am7b5 | Dm7b5 G7 | Cm |
+ Fm6/Ab G7+ | Ebm6/Gb F7 | Am7b5 D7#9 | Ab7b5 G7 |
+ CM7 Ab7 | Dm7 G7 | CM7/E Am7 | D7#11 |
+ Bbm7 Eb7 | AbM7 DbM7 | Dm7b5 G7 | CM7 |
+

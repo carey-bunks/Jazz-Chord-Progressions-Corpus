@@ -1,0 +1,14 @@
+Title = Oye Como Va
+ComposedBy = Tito Puente
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ Am7 | D9 | Am7 | D9 |
+ Am7 | D9 | Am7 | D9 |
+ Am7 | D9 | Am7 | D9 |
+ Am7 | D9 | Am7 | D9 |
+ Am7 | D9 | Am7 | D9 |
+ Am7 | D9 | Am7 | D9 |
+ Am7 AmM7 | D9sus4 D9 | Am7 AmM7 | D9sus4 D9 |
+ Am7 AmM7 | D9sus4 D9 | Am7 AmM7 | Am7 Am6 |
+

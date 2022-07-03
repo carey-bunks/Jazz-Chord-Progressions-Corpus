@@ -1,0 +1,9 @@
+Title = Azure-Te
+ComposedBy = Bill Davis
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 12
+ AbM7 Bbm7 | Cm7 Bbm7 | AbM7 Bbm7 | Cm7 Ab9sus4 |
+ DbM7 Ebm7 | Fm7 Eb7 | AbM7 Bbm7 | Cm7 F7#5#9 |
+ D7#5 Db7#5 C7#5 B7#5 | Bb7#5 A7#5 Eb7b9 Ab69 | Ab69 F7 | Bbm7 Eb7 |
+

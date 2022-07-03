@@ -1,0 +1,14 @@
+Title = When I Take My Sugar To Tea
+ComposedBy = Pierre Norman, Sammy Fain, and Irving Kahal
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F Cdim | C7 | F Cdim | C7 |
+ D7 | Gm Gm Gm Bbm | F C7 | F |
+ F Cdim | C7 | F Cdim | C7 |
+ D7 | Gm Gm Gm Bbm | F C7 | F |
+ Bb | Bb | Eb | Eb |
+ F | F D7 | G7 | C7 |
+ F Cdim | C7 | F Cdim | C7 |
+ D7 | Gm Gm Gm Bbm | F C7 | F |
+

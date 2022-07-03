@@ -1,0 +1,20 @@
+Title = Afro Blue
+ComposedBy = Mongo Santamaria
+DBKeySig = Bb
+TimeSig = 6 8
+Bars = 56
+ Fm7 | Bbm7 | Db7 C7#9 | Fm7 |
+ Fm7 | Bbm7 | Db7 C7#9 | Fm7 |
+ Eb7 | Eb7 | Db7 Eb7 | Fm7 |
+ Eb7 | Eb7 | Db7 C7#9 | Fm7 |
+ Fm7 | Bbm7 | Db7 C7#9 | Fm7 |
+ Fm7 | Bbm7 | Db7 C7#9 | Fm7 |
+ Eb7 | Eb7 | Db7 Eb7 | Fm7 |
+ Eb7 | Eb7 | Db7 C7#9 | Fm7 |
+ Fm7 | Bbm7 | Db7 C7#9 | Fm7 |
+ Fm7 | Bbm7 | Db7 C7#9 | Fm7 |
+ Fm7 | Bbm7 | Db7 C7#9 | Fm7 |
+ Fm7 | Bbm7 | Db7 C7#9 | Fm7 |
+ Eb7 | Eb7 | Db7 Eb7 | Fm7 |
+ Eb7 | Eb7 | Db7 C7#9 | Fm7 |
+

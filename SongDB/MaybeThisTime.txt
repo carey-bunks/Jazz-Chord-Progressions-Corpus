@@ -1,0 +1,14 @@
+Title = Maybe This Time
+ComposedBy = John Kander
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C | C+ | C6 | C9 |
+ F | F+ | Dm | F#o7 |
+ G7 | A+ | D9 | G7 |
+ C9 | F Fm | C Bb6 A9 A9 | D7 G9 |
+ C | C+ | C6 | C9 |
+ F | F+ | Dm | F#o7 |
+ G7 | Am | D13 | C |
+ C+ | Dm9 | C | G7+ |
+

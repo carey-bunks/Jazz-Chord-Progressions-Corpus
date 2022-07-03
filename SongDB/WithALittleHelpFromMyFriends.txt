@@ -1,0 +1,16 @@
+Title = With A Little Help From My Friends
+ComposedBy = John Lennon and Paul McCartney
+DBKeySig = C
+TimeSig = 4 4
+Bars = 42
+ F | Ab/Eb | Fm6 | C G7 |
+ C G/B | Dm | Dm G7 | C |
+ C G/B | Dm | Dm G7 | C |
+ Bb Bb F F | C C C C | Bb Bb F F | C C C C |
+ F F F F | C C C C | G7 | C G/B |
+ Dm | Dm G7 | C | C G/B |
+ Dm | Dm G7 | C | Bb Bb F F |
+ C C C C | Bb Bb F F | C C C C | F F F F |
+ C C C C | Am | D7 | C Bb |
+ F | Am | D7 | C Bb |
+ F | F |

@@ -1,0 +1,15 @@
+Title = Nightingale Sang In Berkeley Square
+ComposedBy = Manning Sherwin
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 38
+ EbM7 Cm7 | Gm7 Gm7 Bbm7 Eb7 | AbM7 AbM7 Dm7 G7 | Cm7 Abm6 |
+ EbM7/Bb Fm7 | EbM7/G EbM7/G Abm7 Db9 | EbM7 Cm7 | Fm7 Bb7 |
+ EbM7 | Fm7 Bb7 | EbM7 Cm7 | Gm7 Gm7 Bbm7 Eb7 |
+ AbM7 AbM7 Dm7 G7 | Cm7 Abm6 | EbM7/Bb Fm7 | EbM7/G EbM7/G Abm7 Db9 |
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 | Am7 D7 |
+ GM7 Em7 | Am7 D7 | Bm7 Bbo7 | Am7 D7 |
+ GM7 Em7 | Am7 D7 | Bm7 Em7 | Fm7 Bb7 |
+ EbM7 Cm7 | Gm7 Gm7 Bbm7 Eb7 | AbM7 AbM7 Dm7 G7 | Cm7 Abm6 |
+ EbM7/Bb Fm7 | EbM7/G EbM7/G Abm7 Db9 | EbM7 Cm7 | Fm7 Bb7 |
+ EbM7 | Fm7 Bb7 |

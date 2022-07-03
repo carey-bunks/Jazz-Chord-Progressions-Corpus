@@ -1,0 +1,10 @@
+Title = Alice's Restaurant
+ComposedBy = Arlo Guthrie
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ C | A7 | D7 G7 | C |
+ C | A7 | D7 | G7 |
+ C | C7 | F | F#o7 |
+ C | A7 | D7 G7 | C |
+

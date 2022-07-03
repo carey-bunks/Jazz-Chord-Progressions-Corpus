@@ -1,0 +1,14 @@
+Title = Who Knows?
+ComposedBy = Thelonious Monk
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Gm7 | Gm7 F#7 | F | Am7 Abm7 |
+ Gm7 | Gm7 F#7 | F D7 | G7 C7 |
+ Gm7 | Gm7 F#7 | F | Am7 Abm7 |
+ Gm7 | Gm7 F#7 | F | F E7b9 |
+ Am6 | F7b5 E7b9 | Am Ab+ | Am7 D7 |
+ Db7 C7 | B7 Bb7 | A7 Ab7 | G7 F#7 |
+ Gm7 | Gm7 F#7 | F | Am7 Abm7 |
+ Gm7 | Gm7 F#7 | Gm7 | F |
+

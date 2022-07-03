@@ -1,0 +1,14 @@
+Title = Tuxedo Junction
+ComposedBy = Erskine Hawkins, Bill Johnson, and Julian Dash
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb Bb7/D | Eb7 F7 | Bb Bb7/D | Eb7 F7 |
+ Bb Bb7/D | Eb7 Eo7 | Bb/F F7 | Bb |
+ Bb Bb7/D | Eb7 F7 | Bb Bb7/D | Eb7 F7 |
+ Bb Bb7/D | Eb7 Eo7 | Bb/F F7 | Bb Bb7 |
+ Eb7 | Eb7 | Bb7 | Bb7 |
+ Eb7 | Eb7 | Bb Gm7 | C7 F7 |
+ Bb Bb7/D | Eb7 F7 | Bb Bb7/D | Eb7 F7 |
+ Bb Bb7/D | Eb7 Eo7 | Bb F7 | Bb |
+

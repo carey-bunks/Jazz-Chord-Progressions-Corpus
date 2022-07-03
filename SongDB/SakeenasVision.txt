@@ -1,0 +1,16 @@
+Title = Sakeena's Vision
+ComposedBy = Wayne Shorter
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 40
+ Bbm7 Eb7b9 | Am7 D7b9 | Gm | Ebm7 Ab7 |
+ Dm7 | DbM7 | Fm7 | EM7 |
+ Gm6 | Gm6 | Bbm7 Eb7b9 | Am7 D7b9 |
+ Gm | Ebm7 Ab7 | Dm7 | DbM7 |
+ Fm7 | EM7 | Gm6 | Gm6 |
+ Bb6 | Am7 D7#9 | Gm6 | Fm7 E7b9 |
+ Ab6 | Dm7 G7 | C6 | B6 |
+ Bbm7 Eb7b9 | Am7 D7b9 | Gm | Ebm7 Ab7 |
+ Dm7 | DbM7 | Fm7 | EM7 |
+ Gm6 | Gm6 | Gm6 | Gm6 |
+

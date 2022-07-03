@@ -1,0 +1,20 @@
+Title = High Hopes
+ComposedBy = Bob Fraser
+DBKeySig = F
+TimeSig = 4 4
+Bars = 58
+ Dm | F7 | BbM7 | A7+ |
+ Dm | Ab7 | Gm | A7b9 |
+ DM7 | F#7b9 | Bm7 | D7 |
+ Abm7b5 | Db7#9 | GbM7 | F7+ |
+ Bbm | Gb/Bb | Ab/C | DbM7 |
+ Dm7b5 | G7b9 | CM7 | F#7 |
+ Bm | G/B | A/C# | DM7 |
+ FM7 | FM7 | Em | A7+ |
+ Dm | F7 | BbM7 | A7+ |
+ Dm | Ab7 | Gm | A7b9 |
+ DM7 | F#7b9 | Bm7 | D7 |
+ Abm7b5 | Db7#9 | GbM7 | F7+ |
+ BbM7 | C/Bb | F/A | Ab7 |
+ DbM7 | C7+ | Fm | Fm |
+ A7+ | A7+ |

@@ -1,0 +1,10 @@
+Title = Worried Man Blues
+ComposedBy = Traditional
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ A | A A7 | D | D A |
+ A | A | E7 | E7 A |
+ A | A A7 | D | D A |
+ A | A | E7 | E7 A |
+

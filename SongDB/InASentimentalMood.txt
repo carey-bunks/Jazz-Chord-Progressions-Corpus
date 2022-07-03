@@ -1,0 +1,14 @@
+Title = In A Sentimental Mood
+ComposedBy = Duke Ellington
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Dm DmM7 | Dm7 Dm6 | Gm GmM7 | Gm7 Gm6 |
+ Dm | D7 | Gm7 C7 | F A7alt |
+ Dm DmM7 | Dm7 Dm6 | Gm GmM7 | Gm7 Gm6 |
+ Dm | D7 | Gm7 C7 | FM7 FM7 Ebm7 Ab7 |
+ DbM7 | Ebm7 Ab7 | Db Bb7 | Eb7 Ab7 |
+ DbM7 | Ebm7 Ab7 | Gm7/C | C7 |
+ Dm DmM7 | Dm7 Dm6 | Gm GmM7 | Gm7 Gm6 |
+ Dm | D7 | Gm7 C7 | FM7 A7alt |
+

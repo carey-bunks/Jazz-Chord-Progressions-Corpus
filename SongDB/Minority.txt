@@ -1,0 +1,10 @@
+Title = Minority
+ComposedBy = Gigi Gryce
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 16
+ FmM9 | Dm7b5 | Gm9b5 | C13b9 |
+ FmM9 | Dm7b5 | Cm9b5 | F13b9 |
+ Bbm7 | Eb7 | Abm7 | Db7 |
+ Gbm7 | B7 | Gm7 | C7alt |
+

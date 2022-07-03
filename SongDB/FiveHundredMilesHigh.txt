@@ -1,0 +1,10 @@
+Title = Five Hundred Miles High
+ComposedBy = Chick Corea
+DBKeySig = C
+TimeSig = 4 4
+Bars = 18
+ Em7 | Em7 | Gm7 | Gm7 |
+ BbM7#11 | BbM7#11 | Bm7b5 | E7alt |
+ Am7 | Am7 | F#m7b5 | F#m7b5 |
+ Fm7 | Fm7 | Cm7 | Cm7 |
+ B7#5 | B7#5 |

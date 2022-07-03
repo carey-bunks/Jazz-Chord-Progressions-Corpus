@@ -1,0 +1,12 @@
+Title = Blues Minor
+ComposedBy = John Coltrane
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 24
+ Fm | Fm | Fm | Fm |
+ Fm | Fm | Fm | Fm |
+ Bbm | Bbm | Bbm | Bbm |
+ Bbm | Bbm | Bbm | Bbm |
+ Fm | Fm | Fm | Fm |
+ Fm | Fm | Fm | Fm |
+

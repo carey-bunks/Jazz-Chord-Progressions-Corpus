@@ -1,0 +1,18 @@
+Title = Red Beans
+ComposedBy = Coleman Hawkins
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 48
+ Cm | Dm7b5 G7b9 | Cm | D7b9 G7 |
+ Cm | Cm | Cm Eb9 | Ab9 G7b9 |
+ Cm | Dm7b5 G7b9 | Cm | G7b9 |
+ Cm | G7b9 | Cm | Fm7 Bb7 |
+ Eb | Eb | C7b9 | C7b9 |
+ Fm | Fm | D7 | G7b9 |
+ Cm | Dm7b5 G7b9 | Cm | G7b9 |
+ Cm | Dm7b5 | Cm | D7 G7b9 |
+ Cm | Dm7b5 G7b9 | Cm | D7b9 G7 |
+ Cm | Cm | Cm Eb9 | Ab9 G7b9 |
+ Cm | Dm7b5 G7b9 | Cm | G7b9 |
+ Cm | G7b9 | Cm | Cm |
+

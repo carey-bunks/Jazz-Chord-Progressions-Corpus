@@ -1,0 +1,13 @@
+Title = This Needs Work
+ComposedBy = Vernon Duke
+DBKeySig = C
+TimeSig = 4 4
+Bars = 28
+ Eb Cm7 | Fm7 Bb7 | Eb Cm7 | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb Cm7 | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb | Eb7 |
+ Ab Ao | Eb | F7 | Bb7+ |
+ Eb Cm7 | Fm7 Bb7 | Eb Cm7 | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb | Eb |
+

@@ -1,0 +1,14 @@
+Title = The Night We Called It A Day
+ComposedBy = Tom Adair and Matt Dennis
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ Cm6/D D7b9 | GM9 G6 | D9 D7b9 | GM7 |
+ Em7 A7b9 | Bm7 Bb7 | Am7 Ab7 | GM7 G6 |
+ Cm6/D D7b9 | GM9 G6 | B7+ B7 | Em |
+ Em7 A7b9 | Bm7 Bb7 | Am7 Ab7 | GM7 GM7 Fm7 G7 |
+ CM7 Dm7/C | B/C CM7 | B7+ B7b9 | EmM7 Em6 |
+ Am7 B7+ | Em Em B7+ Em7 | Em7b5 A7b9 | Bb Bb Bb D7 |
+ Cm/D Cm/D F#m6 Co | GM7 G6 | B7+ B7 | Em |
+ Em Em7 | A9 A7b9 | Bm7 Bbm7 Am7 Ab9 | GM7 G6 |
+

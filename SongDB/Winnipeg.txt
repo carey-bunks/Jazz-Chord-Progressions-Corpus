@@ -1,0 +1,21 @@
+Title = Winnipeg
+ComposedBy = Unknown
+DBKeySig = C
+TimeSig = 4 4
+Bars = 60
+ Eb Ab | Eb Ab | Eb Ab | Eb Ab |
+ Eb Eb7/G | Ab Eb | Ab Eb/G | Fm7 Bb7 |
+ Eb Eb7/G | Ab Eb | Gm Ab | Gm Ab |
+ Gm Ab | Eb Ab | Eb Ab | Eb Eb7/G |
+ Ab Eb | Ab Eb/G | Fm7 Bb7 | Eb Eb7/G |
+ Ab Eb | Gm Ab | Gm Ab | Gm Ab |
+ Eb Ab | Eb Ab | Eb/G Fm7 | Eb |
+ Fm7 Fm7 Ab Cm | Db Dbmaj7 | Eb/G Fm7 | Eb |
+ Fm7 Fm7 Ab Cm | Db Dbmaj7 | Bb7 Bb9 Bb7 Bb7 | Eb Eb7/G |
+ Ab Eb | Ab Eb/G | Fm7 Bb7 | Eb Eb7/G |
+ Ab Eb | Gm Ab | Gm Ab | Gm Ab |
+ Eb Ab | Eb Ab | Eb Ab | Gm Ab |
+ Gm Ab | Gm Ab | Eb Ab | Gm Ab |
+ Gm Ab | Gm Ab | Eb Ab | Gm Ab |
+ Gm Ab | Gm Ab | Eb Ab | G |
+

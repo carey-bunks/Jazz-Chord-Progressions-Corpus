@@ -1,0 +1,9 @@
+Title = Around the Blues
+ComposedBy = Michel Petrucciani
+DBKeySig = C
+TimeSig = 4 4
+Bars = 12
+ C7 | Bb7 | Ab7 | Gb7 |
+ F7 | F7 | C7 | A7 |
+ Ebm7 Ab7 | Dm7 G7 | C7 | Dm7 G7 |
+

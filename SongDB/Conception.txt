@@ -1,0 +1,17 @@
+Title = Conception
+ComposedBy = George Shearing
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 44
+ Ebm7b5 | Ab7#5b9 | DbM7 Bm7 | AM7 AM7 Ab6 Abm7 |
+ Abm7 Db7 | Gb7 F7 | Bb7 A7 | Ab7 G7 |
+ F#m7 B7 | EM7 AM7 | Ebm Ab7 | DbM7 |
+ Ebm7b5 | Ab7#5b9 | DbM7 Bm7 | AM7 AM7 Ab6 Abm7 |
+ Abm7 Db7 | Gb7 F7 | Bb7 A7 | Ab7 G7 |
+ F#m7 B7 | EM7 AM7 | Ebm Ab7 | Db6 |
+ F#m7 | B7#9 | EM7 F#m7 | Abm7 Db7 |
+ Gm7 C7 | F#m7 B7 | Em7 | A7 |
+ Ebm7b5 | Ab7#5b9 | DbM7 Bm7 | AM7 AM7 Ab6 Abm7 |
+ Abm7 Db7 | Gb7 F7 | Bb7 A7 | Ab7 G7 |
+ F#m7 B7 | EM7 AM7 | Ebm Ab7 | Db6 |
+

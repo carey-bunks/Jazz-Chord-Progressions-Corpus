@@ -1,0 +1,7 @@
+Title = Unsquare Dance
+ComposedBy = Dave Brubeck
+DBKeySig = C
+TimeSig = 7 4
+Bars = 6
+ Am6 Am6 G G Am Am Am | Am6 Am6 G G Am Am Am | Dm Dm C C Dm Dm Dm | Am6 Am6 G G Am Am Am |
+ Em Em Dm Dm Em Em Em | Am6 Am6 G G Am Am Am |

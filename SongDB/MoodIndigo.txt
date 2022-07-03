@@ -1,0 +1,14 @@
+Title = Mood Indigo
+ComposedBy = Duke Ellington
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Ab Ab Abo Ab | Bb7 | Eb7 Eb7+ | Ab Eb7 |
+ Ab Ab Abo Ab | Bb7 | Bm7 E7 | Bbm7 Eb7 |
+ Ab7 | Ebm7 Ab7 | Db | Dbm |
+ Ab Ab Abo Ab | Bb7 | Eb7 Eb7+ | Ab |
+ Ab | Bb7 | Bbm7 Eb7 | Ab Eb7 |
+ Ab | Bb7 | Bb7 | Bbm7 Eb7 |
+ Ab7 | Ebm7 Ab7 | Db | Dbm |
+ Ab | Bb7 | Bbm7 Eb7 | Ab |
+

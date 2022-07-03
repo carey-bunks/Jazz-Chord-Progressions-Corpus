@@ -1,0 +1,10 @@
+Title = Maryilyn
+ComposedBy = Phil Urso
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ G7 | Cm7 F7 | Bb | Bb Ab7 |
+ G7 | C7 | F7 | Fm7 |
+ Bb7 | Eb | Ebm7 Ab7 | Bb Ab7 |
+ G7 | Cm7 F7 | Bb | Bb Bb Bb Ab7 |
+

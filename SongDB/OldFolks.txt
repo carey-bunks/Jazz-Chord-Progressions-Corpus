@@ -1,0 +1,14 @@
+Title = Old Folks
+ComposedBy = Eric Blau, Mort Shuman, Jacques Brel
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Dm7b5 G7 | Cm B7 Bbm7 Eb7 | AbM7 Db7 | Gm7b5 C7+ |
+ Fm7 Bb7 | Db7#11 C7+ | F7 F7 Cm7 F7 | Fm7 Fm7 Ebm7 Ab7 |
+ Dm7b5 G7 | Cm B7 Bbm7 Eb7 | AbM7 Db7 | Gm7b5 C7+ |
+ Fm7 Bb7 | Db7#11 C7+ | F7 F7 Fm7 Bb7 | Eb |
+ Bbm7 | Eb7 | AbM7 | Abm7 Db7 |
+ EbM7 G7+ | Cm7 | F7 | Fm7 Fm7 Ebm7 Ab7 |
+ Dm7b5 G7 | Cm B7 Bbm7 Eb7 | AbM7 Db7 | Gm7b5 C7+ |
+ Fm7 Bb7 | Db7#11 C7+ | Fm7 Bb7 | Eb Eb Ebm7 Ab7 |
+

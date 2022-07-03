@@ -1,0 +1,14 @@
+Title = The Letter
+ComposedBy = Wayne Carlson Thompson
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Am | F | Am7 | D7 |
+ Am | F7 | E7 | Am |
+ Am | F | Am7 | D7 |
+ Am | F7 | E7 | Am |
+ C G | F C | G | G |
+ C G | F C | G | E7 |
+ Am | F | Am7 | D7 |
+ Am | F7 | E7 | Am |
+

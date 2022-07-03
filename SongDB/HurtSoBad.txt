@@ -1,0 +1,20 @@
+Title = Hurt So Bad
+ComposedBy = Teddy Randazzo, Bobby Hart, and Bobby Wilding
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 56
+ Fm7 | Gm7 | Fm7 | EbM7 |
+ Bbm7 | Cm7 F7 | GM7 | GM7 |
+ AbM7 | Gm7 | AbM7 | Gm7 |
+ AbM7 | Gm7 | Cm | Cm |
+ Fm7 | Gm7 | Fm7 | EbM7 |
+ Bbm7 | Cm7 F7 | GM7 | GM7 |
+ AbM7 | Gm7 | AbM7 | Gm7 |
+ AbM7 | Gm7 | Cm | Cm |
+ AbM7 | Gm7 | AbM7 | Gm7 |
+ Cm Gm7 | AbM7 Bb7 | Ab6 Gm7 | Fm7 Bb7 |
+ AbM7 | Gm7 | AbM7 | Gm7 |
+ AbM7 | Gm7 | Cm | Fm7 Bb7 |
+ AbM7 | Gm7 | AbM7 | Gm7 |
+ AbM7 | Gm7 | Cm | Cm |
+

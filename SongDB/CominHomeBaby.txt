@@ -1,0 +1,9 @@
+Title = Comin' Home Baby
+ComposedBy = Earl Hagan
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ Gm | Gm | Gm | Gm |
+ Cm | Cm | Gm | Gm |
+ Bb7 | A7 Ab7 | Gm | Gm |
+

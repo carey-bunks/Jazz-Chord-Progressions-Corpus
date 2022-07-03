@@ -1,0 +1,14 @@
+Title = Idaho
+ComposedBy = Jesse Stone
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ F | F+ | F6 | D7b9 |
+ Gm7 | C7 | FM7 | Gm7 C7 |
+ F | F+ | F6 | D7b9 |
+ Gm7 | C7 | FM7 | FM7 |
+ Bbm7 | Eb7 | AbM7 | AbM7 |
+ Am7 | D7 | Gm7 | C7 |
+ F | F+ | F6 | D7b9 |
+ Gm7 | C7 | F | Gm7 C7 |
+

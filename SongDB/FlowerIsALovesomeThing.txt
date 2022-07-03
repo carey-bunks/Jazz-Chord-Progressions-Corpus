@@ -1,0 +1,14 @@
+Title = A Flower Is A Lovesome Thing
+ComposedBy = Billy Strayhorn
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ B7#11 | B7#11 | B7#11 | B7#11 |
+ Bb7 Eb7 | Ab7 Db7 | Gbm7 Gbm7 Eb7 DM7 | DbM7 |
+ B7#11 | B7#11 | B7#11 | B7#11 |
+ Bb7 Eb7 | Ab7 Db7 | Gbm7 Gbm7 Eb7 DM7 | DbM7 |
+ Ebm7 Ab7 | DbM7 | Em7 A7alt | DM7 |
+ DM7 DbM7 | DM7 Bm7 | Bb7+ Eb7 | GbM7 Ab7b9 |
+ B7#11 | B7#11 | B7#11 | B7#11 |
+ Bb7 Eb7 | Ab7 Db7 | Gbm7 Gbm7 Eb7 DM7 | DbM7 |
+

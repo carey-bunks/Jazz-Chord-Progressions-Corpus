@@ -1,0 +1,14 @@
+Title = Love Is The Sweetest Thing
+ComposedBy = Ray Noble
+DBKeySig = D
+TimeSig = 4 4
+Bars = 32
+ D6 Bm7 | Em7 A7 | D6 Bm7 | Em7 A7 |
+ Am7 D7 | GM7 Em7 | Bm7 E7 | Em7 A7 |
+ D6 Bm7 | Em7 A7 | D6 Bm7 | Em7 A7 |
+ Am7 D7 | GM7 Em7 | Bm7 E7 | A7 D6 |
+ Bm7 | F#m7 B7 | Em7 A7 | DM7 |
+ C#m7b5 F#7 | Bm7 | E7 | Em7 A7 |
+ D6 Bm7 | Em7 A7 | D6 Bm7 | Em7 A7 |
+ Am7 D7 | GM7 Em7 | Bm7 Bm7 E7 A7 | D6 |
+

@@ -1,0 +1,10 @@
+Title = Blue Bossa
+ComposedBy = Kenny Dorham
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 16
+ Cm69 | Cm69 | Fm9 | Fm9 |
+ Dm7b5 | G7#5#9 | Cm69 | Cm69 |
+ Ebm9 | Ab13 | DbM9 | DbM9 |
+ Dm7b5 | G7#5#9 | Cm69 | Dm7b5 G7#5#9 |
+

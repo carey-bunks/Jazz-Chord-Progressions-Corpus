@@ -1,0 +1,13 @@
+Title = Yellow Submarine
+ComposedBy = John Lennon and Paul McCartney
+DBKeySig = C
+TimeSig = 4 4
+Bars = 28
+ C C C Bb | F F F Dm7 | Gm Gm Gm Bb | C C C F |
+ C C C Bb | F F F Dm7 | Gm Gm Gm Bb | C C C F |
+ C C C Bb | F F F Dm7 | Gm Gm Gm Bb | C C C F |
+ C C C Bb | F F F Dm7 | Gm Gm Gm Bb | C C C F |
+ C C C Bb | F F F Dm7 | Gm Gm Gm Bb | C |
+ F | C | C | F |
+ F | C | C | F |
+

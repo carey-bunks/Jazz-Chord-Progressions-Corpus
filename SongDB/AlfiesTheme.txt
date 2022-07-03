@@ -1,0 +1,14 @@
+Title = Alfie's Theme
+ComposedBy = Sonny Rollins
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ Bbm Bbm/Ab | Gm7b5 Gb7 | Bbm/F Gm7b5 | Cm7b5 F7#9 |
+ Bbm Bbm/Ab | Gm7b5 Gb7 | Bbm/F Gm7b5 | Cm7b5 F7#9 Bbm Bbm |
+ Bbm Bbm/Ab | Gm7b5 Gb7 | Bbm/F Gm7b5 | Cm7b5 F7#9 |
+ Bbm Bbm/Ab | Gm7b5 Gb7 | Bbm/F Gm7b5 | Cm7b5 F7#9 Bbm Bbm |
+ Bbm Ab7 | Gb7 F7#5b9 | Bbm Ab7 | Gb7 F7#5b9 |
+ Bbm Ab7 | Gb7 F7#5b9 | Bbm Ab7 | Gb7 F7#5b9 |
+ Bbm Bbm/Ab | Gm7b5 Gb7 | Bbm/F Gm7b5 | Cm7b5 F7#9 |
+ Bbm Bbm/Ab | Gm7b5 Gb7 | Bbm/F Gm7b5 | Cm7b5 F7#9 Bbm Bbm |
+

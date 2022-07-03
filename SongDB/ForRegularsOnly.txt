@@ -1,0 +1,16 @@
+Title = For Regulars Only
+ComposedBy = Dexter Gordon
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 40
+ Ebm7 Ab7 | DbM7#11 Bb7 | Ebm7 Ab7 | DbM7#11 Bb7 |
+ Ebm7 Ab7 | Fm7 Bb7 | Ebm7 Ab7 | DbM7#11 Bb7 |
+ Ebm7 Ab7 | DbM7#11 Bb7 | Ebm7 Ab7 | DbM7#11 Bb7 |
+ Ebm7 Ab7 | Fm7 Bb7 | Ebm7 Ab7 | DbM7#11 |
+ Gm7 | C7 | F#m7 | B7 |
+ Fm7 | Bb7 | Em7 A7 | Ebm7 Ab7 |
+ Ebm7 Ab7 | DbM7#11 Bb7 | Ebm7 Ab7 | DbM7#11 Bb7 |
+ Ebm7 Ab7 | Fm7 Bb7 | Ebm7 Ab7 | DbM7 |
+ Ebm7 Ebm7 Em7 Fm7 | Fm7 Fm7 F#m7 Fm7 | Fm7 Fm7 Em7 Ebm7 | Ebm7 Ebm7 D7#11 Ebm7 |
+ Ebm7 Ebm7 Em7 Fm7 | Fm7 Fm7 F#m7 Fm7 | Fm7 Fm7 Em7 Ebm7 | Ebm7 D7#11 |
+

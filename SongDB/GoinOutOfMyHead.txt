@@ -1,0 +1,17 @@
+Title = Goin' Out Of My Head
+ComposedBy = Teddy Randazzo and Bobby Weinstein
+DBKeySig = C
+TimeSig = 4 4
+Bars = 44
+ Cm7 | CM7 | Cm7 | CM7 CM7 CM7 C7b5 |
+ FM7 | F6 | Fm7 | Bb9 |
+ Eb | Gm | Eb Gm | Ab Bb9 |
+ CM7 | CM7 | Cm7 | CM7 |
+ Cm7 | CM7 CM7 CM7 C7b5 | FM7 | F6 |
+ Fm7 | Bb9 | Eb | Gm |
+ Eb Gm | Ab Bb9 | CM7 | G7 |
+ CM7 | F | CM7 | Dm7 |
+ CM7 CM7 NC F F F CM7 CM7 | NC F F F CM7 CM7 F F | CM7 CM7 CM7 F F F CM7 CM7 | C |
+ D | Fm6 | C | Ebo7 |
+ G7 | F#o7 | G7sus4 | G7 |
+

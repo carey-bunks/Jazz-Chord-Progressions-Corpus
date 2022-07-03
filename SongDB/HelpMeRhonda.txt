@@ -1,0 +1,14 @@
+Title = Help Me Rhonda
+ComposedBy = Brian Wilson and Mike Love
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C | G7 | C | C |
+ C | G7 | C | C |
+ Am | Am | F | D7 |
+ C | F G7 | C | C |
+ G7 | G7 | C | C |
+ G7 | G7 | C | C |
+ F | F | Am | C |
+ Dm7 | G7 | C | C |
+

@@ -1,0 +1,19 @@
+Title = Whipped Cream
+ComposedBy = Allen Toussaint
+DBKeySig = C
+TimeSig = 4 4
+Bars = 54
+ G7 | G7 | C7 | C7 |
+ Eb | F7 | Gm | Bb Bb Cdim F7 |
+ G7 | G7 | C7 | C7 |
+ Eb | F7 | Bb | Bb |
+ Bb | Bb | Bb | Bb |
+ Bb | Bb | Bb | Eb |
+ Bb F | Bb | F7 | F7 |
+ Bb Bdim | F7 | Bb | Eb |
+ D7 | Gm Edim | Bb | F7 |
+ Bb | Bb | G7 | G7 |
+ C7 | C7 | Eb | F7 |
+ Gm | Bb Bb Cdim F7 | G7 | G7 |
+ C7 | C7 | Eb | F7 |
+ Bb | Bb |

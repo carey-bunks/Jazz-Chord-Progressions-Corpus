@@ -1,0 +1,14 @@
+Title = I Can't Give You Anything But Love
+ComposedBy = Jimmy McHugh and Dorothy Fields
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb6 Ab7 | Gm7 Gbo7 | Fm7 | Bb7 |
+ Eb6 Ab7 | Gm7 Gbo7 | Fm7 | Bb7 |
+ Eb7 | Bbm7 Eb7 | Ab | Ab Ab G7 Gb7 |
+ F7 | Cm7 F7 | Bb7 | Fm7 Bb7 |
+ Eb6 Ab7 | Gm7 Gbo7 | Fm7 | Bb7 |
+ Eb6 | Bbm7 Eb7 | AbM7 | AbM7 |
+ AbM7 | Ao7 | Eb6/Bb | C7b9 |
+ Fm7 | Bb7 | EbM7 | Fm7 Bb7 |
+

@@ -1,0 +1,14 @@
+Title = Bop Shop
+ComposedBy = Paul Ferguson
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ Dm7b5 | G7#5#9 | Cm69 | Cm69 |
+ Am7b5 | D7#5#9 | GM7 | GM7 |
+ Dm7b5 | G7#5#9 | Cm69 | Cm69 |
+ Am7b5 | D7#5#9 | GM7 | GM7 |
+ Gm7 | C7#5#9 | FM7#11 | FM7#11 |
+ Eb7 | Eb7 | D7#11 | D7#11 |
+ Dm7b5 | G7#5#9 | Cm69 | Cm69 |
+ Am7b5 | D7#5#9 | GM7 | GM7 |
+

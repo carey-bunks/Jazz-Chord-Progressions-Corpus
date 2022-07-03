@@ -1,0 +1,20 @@
+Title = East To Wes
+ComposedBy = Emily Remler
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 56
+ EbM7 | Am7b5 D7b9 | EbM7 | Am7b5 D7b9 |
+ EbM7 | Am7b5 D7b9 | EbM7 | Am7b5 D7b9 |
+ EbM7 | Am7b5 D7b9 | EbM7 | Am7b5 D7b9 |
+ EbM7 | Am7b5 D7b9 | EbM7 | Am7b5 D7b9 |
+ Gm7 | Am7b5 D7b9 | Gm7 | G7 |
+ Cm7 | F7 | BbM7 | EbM7 |
+ Am7b5 | D7b9 | Gm7 Bb7 | Am7b5 D7b9 |
+ Gm7 | Am7b5 D7b9 | Gm7 | G7 |
+ Cm7 | F7 | BbM7 | EbM7 |
+ Am7b5 | D7b9 | Gm7 | Fm7 Bb7 |
+ EbM7 | Am7b5 D7b9 | EbM7 | Am7b5 D7b9 |
+ EbM7 | Am7b5 D7b9 | EbM7 | Am7b5 D7b9 |
+ EbM7 | Am7b5 D7b9 | EbM7 | Am7b5 D7b9 |
+ EbM7 | Am7b5 D7b9 | EbM7 | Am7b5 D7b9 |
+

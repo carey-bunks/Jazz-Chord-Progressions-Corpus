@@ -1,0 +1,13 @@
+Title = As Long As There's Music
+ComposedBy = Jule Styne
+DBKeySig = G
+TimeSig = 4 4
+Bars = 28
+ Gsus4 | G | A7 | Ao |
+ Em A7 | DM7 D6 | C#m7 | F#7 |
+ BM7 | B6 Bm6 E7 E7 | Am7 Am7 Am7 Cm6 | D7 |
+ Gsus4 | Gsus4 G G G | A7 | Ao |
+ Em A7 | DM7 D6 | C#m7 | F#7 |
+ Bm | D7 | G Dm6 | E7 E7b9 |
+ Am7 | Am7 Am7 Am7 D7 | G Em | Am7 D7 |
+

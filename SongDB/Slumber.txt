@@ -1,0 +1,16 @@
+Title = Slumber
+ComposedBy = David Liebman
+DBKeySig = C
+TimeSig = 4 4
+Bars = 40
+ Cm7 | Db7 | Cm7 | Db7 |
+ Cm7 | Db7 | Cm7 | Cm7 |
+ Abm7 | Abm7 | Gbm7 | Gbm7 |
+ EbmM7 | EbmM7 | BM7 | BM7 |
+ Fm7/Bb | Fm7/Bb | Gbm7/B | Gbm7/B |
+ Am7/D | Am7/D | Abm7/Db | Abm7/Db |
+ Cm7 | Db7 | Cm7 | Db7 |
+ Cm7 | Db7 | Cm7 | Cm7 |
+ Abm7 | Abm7 | Gbm7 | Gbm7 |
+ EbmM7 | EbmM7 | BM7 | BM7 |
+

@@ -1,0 +1,14 @@
+Title = She Rote
+ComposedBy = Charlie Parker
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 | BbM7 | Ebm7 | Ab7 |
+ BbM7 | BbM7 | Dm7b5 | G7 |
+ Cm7 | Ebm7 Ab7 | BbM7 | Dm7 G7 |
+ C7 | C7 | Cm7 | F7 |
+ BbM7 | BbM7 | Ebm7 | Ab7 |
+ BbM7 | BbM7 | G7 | G7 |
+ Cm7 | F7 | BbM7 | G7b9 |
+ Cm7 | F7 | BbM7 G7 | Cm7 F7 |
+

@@ -1,0 +1,14 @@
+Title = When Your Lover Has Gone
+ComposedBy = E.A. Swan
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ AbM7 | AbM7 | Db7#11 | Db7#11 |
+ Bb7 | Bb7 | Gb7#11 | Gb7#11 |
+ AbM7 C7alt | Fm7 | Bb7 | Bo7 |
+ Cm7 F7 | Bbm7 Eb7 | Ab7 F7 | Bbm7 Eb7 |
+ AbM7 | AbM7 | Db7#11 | Db7#11 |
+ Bb7 | Bb7 | Gb7#11 | Gb7#11 |
+ AbM7 C7alt | Fm7 | Fm7 Dbm7 | Cm7 F7alt |
+ Bbm7 | Eb7alt | AbM7 | Bbm7 Eb7 |
+

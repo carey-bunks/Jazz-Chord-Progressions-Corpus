@@ -1,0 +1,9 @@
+Title = Now See How You Are
+ComposedBy = Oscar Pettiford and Woody Harris
+DBKeySig = G
+TimeSig = 4 4
+Bars = 12
+ G7 | C7 | G7 | G7 |
+ C7 | C7 C#o7 | G7 | Bm7b5 E7 |
+ Am7 | D7 | G7 | Am7 D7 |
+

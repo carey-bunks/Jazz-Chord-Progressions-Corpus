@@ -1,0 +1,7 @@
+Title = 8-Bar Blues
+ComposedBy = Traditional
+DBKeySig = C
+TimeSig = 4 4
+Bars = 8
+ C | C7 | F | Fm |  
+ C Am | Dm G7 | C | G7sus4 |

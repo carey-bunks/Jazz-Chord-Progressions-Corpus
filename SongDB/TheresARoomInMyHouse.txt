@@ -1,0 +1,14 @@
+Title = There's A Room in My House
+ComposedBy = J. Kander, J. Goldman, and B. Goldman
+DBKeySig = F
+TimeSig = 4 4
+Bars = 34
+ F | Gm7 Gm7 Gm7 C9 | F | Gm7 C7 |
+ F | BbM7 Am7 | Gm7 Am | BbM7 Am |
+ G | Am7 Am7 Am7 D9 | G | Am7 D7 |
+ G | CM7 Bm7 | Am7 Bm | CM7 Bm |
+ E/B F#m7/B | F/B B7 | E/B F#m7/B | F/B B7 |
+ E | AM7 E/G# E/G# E/G# | F#m7 G#7 C#m C9 | F |
+ Gm7 Gm7 Gm7 C9 | F | Gm7 C9 | F F7 |
+ BbM7 Am7 | Gm7 Am | BbM7 C9sus | F Gm7 |
+ Am Gm7 | F69 |

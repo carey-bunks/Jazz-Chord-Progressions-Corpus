@@ -1,0 +1,14 @@
+Title = Black Orpheus
+ComposedBy = Luiz Bonfa
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Am7 | Bm7b5 E7alt | Am7 | Bm7b5 E7alt |
+ Am7 | Dm7 G7 | C | C#o7 |
+ Dm7 | G7 | CM7 | FM7 |
+ Bm7b5 | E7alt | Am7 | Bm7b5 E7alt |
+ Am7 | Bm7b5 E7 | Am7 | Bm7b5 E7 |
+ Em7b5 | A7alt | Dm7 | Dm7 |
+ Dm7 Dm7/C | Bm7b5 E7 | Am7 Am7/G | F |
+ Bm7b5 | E7alt | Am7 | Bm7b5 E7alt |
+

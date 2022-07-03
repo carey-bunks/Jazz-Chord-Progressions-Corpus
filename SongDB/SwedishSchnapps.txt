@@ -1,0 +1,14 @@
+Title = Swedish Schnapps
+ComposedBy = Charlie Shavers
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb | Cm7 F7b9 | Bb | Cm7 F7b9 |
+ Bb7 | Eb Ab7 | Bb | Cm7 F7 |
+ Bb | Cm7 F7b9 | Bb | Cm7 F7b9 |
+ Bb7 | Eb Ab7 | Bb | Bb |
+ D7 | D7 | G7 | G7 |
+ C7 | C7 | F7 | F7 |
+ Bb | Cm7 F7b9 | Bb | Cm7 F7b9 |
+ Bb7 | Eb Ab7 | Bb | Bb |
+

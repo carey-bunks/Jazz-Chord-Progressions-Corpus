@@ -1,0 +1,11 @@
+Title = I've Grown Accustomed To Her Face
+ComposedBy = Frederick Loewe
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 20
+ Eb EbM7 | Eb6 | Fm7 Bb7 | EbM7 Eb6 |
+ Ab6 Ebo7 | Eb | Ab Go7 | Fm7 Bb9 |
+ Eb EbM7 | Eb6 | Fm7 Bb7 | EbM7 Eb6 |
+ Ab6 D7 | Eb C7+ | Fm7 Bb7 | G+ C7+ |
+ F9 Abm | Eb Gm7 | Fm7 Bb9 | Eb Bb7sus4 |
+

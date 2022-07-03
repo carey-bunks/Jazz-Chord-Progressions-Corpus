@@ -1,0 +1,14 @@
+Title = Two Timer
+ComposedBy = Thelonious Monk
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ C9sus4 C9sus4 C9sus4 C7 C7 C7 C7 C7 | C7 | Db9sus4 Db9sus4 Db9sus4 Db7 Db7 Db7 Db7 Db7 | Db7 |
+ Db9sus4 Db7 Abm7 Db7 | C9sus4 C7 Gm7 C7 | FM7 | FM7 |
+ C9sus4 C9sus4 C9sus4 C7 C7 C7 C7 C7 | C7 | Db9sus4 Db9sus4 Db9sus4 Db7 Db7 Db7 Db7 Db7 | Db7 |
+ Db9sus4 Db7 Abm7 Db7 | C9sus4 C7 Gm7 C7 | F | F |
+ E7#9 | E7#9 | D7#9 | D7#9 |
+ E7#9 F#7#9 | E7#9 | D7#9 | D7#9 D7#9 Am7 D7 |
+ C9sus4 C9sus4 C9sus4 C7 C7 C7 C7 C7 | C7 | Db9sus4 Db9sus4 Db9sus4 Db7 Db7 Db7 Db7 Db7 | Db7 |
+ Db9sus4 Db7 Abm7 Db7 | C9sus4 C7 Gm7 C7 | FM7 | FM7 |
+

@@ -1,0 +1,18 @@
+Title = Bess, You is My Woman Now
+ComposedBy = George Gershwin
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 48
+ Bb69 | Cm7 F7#9 | Bb69 | EbM7 Ebm7 |
+ Dm Gm7 | Em7b5 Eb7 | Dm7 Ab7 | DbM7 F7 |
+ Bb69 | Cm7 F7#9 | Bb69 | Em7b5 A7b9 |
+ DM7 Bm7 | E7b9 A7 | DM7 | G#m7 C#7 |
+ F#M7 | B7 B7 D7 C#7 | F#69 | F#69 A7 |
+ D69 | Em7 A7#9 | D69 | GM7 Gm7 |
+ F#m7 Bm7 | G#m7b5 G7#11 | F#m7 C7 | FM7 A7 |
+ D69 | Em7 A7#9 | D69 | G#m7 C#7 |
+ Gb/Db Db7 | Gb/Db Db7 | Ebm7 Ebm7/Db | Cm7b5 B7#11 |
+ Gb/Db | Db7 | Gb/Db | Db7 Db7#9 |
+ Gb69 Gb7 | BM7 Abm7 | Gb69 Bb7 | BM7 Abm7 |
+ Gb/Db Ebm/Db | Db7#9 Db9 | GbM7 | GbM7 |
+

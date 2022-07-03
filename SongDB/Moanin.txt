@@ -1,0 +1,22 @@
+Title = Moanin'
+ComposedBy = Bobby Timmons
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 64
+ NC NC NC NC Bb/F Bb/F Bb/F F | NC | NC NC NC NC Bb/F Bb/F Bb/F F | NC |
+ NC NC NC NC Bb/F Bb/F Bb/F F | NC | NC NC NC NC Bb/F Bb/F Bb/F F | NC |
+ NC NC NC NC Bb/F Bb/F Bb/F F | NC | NC NC NC NC Bb/F Bb/F Bb/F F | NC |
+ NC NC NC NC Bb/F Bb/F Bb/F F | NC | NC NC NC NC Bb/F Bb/F Bb/F F | F Cm7b5 F7b9 |
+ Bbm7 Ab9 | G7b9 C7#9 | Gm7 | Gm7 F B9 |
+ Bbm7 Ab9 | G7b9 | Gm7 | C7 |
+ C7 C7 C7 C7 Bb/F Bb/F Bb/F F | NC | NC NC NC NC Bb/F Bb/F Bb/F F | NC |
+ NC NC NC NC Bb/F Bb/F Bb/F F | NC | NC NC NC NC Bb/F Bb/F Bb/F F | NC |
+ Fm7 Ab9 | G7b9 C7#9 | Fm7 Ab9 | G7b9 C7#9 |
+ Fm7 Ab9 | G7b9 C7#9 | Fm7 Ab9 | G7b9 C7#9 |
+ Fm7 Ab9 | G7b9 C7#9 | Fm7 Ab9 | G7b9 C7#9 |
+ Fm7 Ab9 | G7b9 C7#9 | Fm7 Ab9 | G7b9 B7 |
+ Bbm7 Ab9 | G7b9 C7#9 | Fm7 | Fm7 |
+ Bbm7 Ab9 | Gm7b5 | C7#9 Db7 | C7#9 |
+ Fm7 Ab9 | G7b9 C7#9 | Fm7 Ab9 | G7b9 C7#9 |
+ Fm7 Ab9 | G7b9 C7#9 | Fm7 Ab9 | G7b9 |
+

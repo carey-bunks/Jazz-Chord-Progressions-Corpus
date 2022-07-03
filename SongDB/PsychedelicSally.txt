@@ -1,0 +1,14 @@
+Title = Psychedelic Sally
+ComposedBy = Horace Silver
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C7#9 | F13 | C7#9 | F13 |
+ C7#9 | F13 | C7#9 | F13 |
+ C7#9 | F13 | C7#9 | F13 |
+ C7#9 | F13 | C7#9 | F13 |
+ Ab7 | Ab7 | Ab7 | Ab7 |
+ Ab7 | Ab7 | Ab7 | Ab7 |
+ C7#9 | F13 | C7#9 | F13 |
+ C7#9 | F13 | C7#9 | F13 |
+

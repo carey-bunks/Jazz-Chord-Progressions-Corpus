@@ -1,0 +1,17 @@
+Title = Alright, Okay, You Win
+ComposedBy = Mayme Watts and Sid Wyche
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 44
+ Eb7 | Eb7 | Eb7 | Eb7 |
+ Ab7 | Ab7 | Eb7 | Eb7 C7 |
+ Fm7 | Bb7 | Eb7 Ab7 | Eb7 Bb7 |
+ Eb7 | Eb7 | Eb7 | Eb7 |
+ Ab7 | Ab7 | Eb7 | Eb7 C7 |
+ Fm7 | Bb7 | Eb7 Ab7 | Eb7 Bb7 |
+ Eb7 | Eb7 | Eb7 | Eb7 |
+ Ab7 | Ab7 | Eb7 NC NC NC | Bb7 |
+ Eb7 | Eb7 | Eb7 | Eb7 |
+ Ab7 | Ab7 | Eb7 | Eb7 C7 |
+ Fm7 | Bb7 | Eb7 Ab7 | Eb7 Bb7 |
+

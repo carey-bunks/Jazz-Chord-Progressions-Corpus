@@ -1,0 +1,16 @@
+Title = New York New York
+ComposedBy = John Kander
+DBKeySig = C
+TimeSig = 4 4
+Bars = 40
+ FM7 | FM7 | Gm7 | Gm7 C7 Gm7/C C7 |
+ FM7 | FM7 | Gm7 | Gm7/G |
+ FM7 | FM7 | Gm7 | Gm7 C7 Gm7/C C7 |
+ FM7 | FM7 | FM7 | F7 |
+ BbM7 | Bbm6 | F6 | F6 |
+ Am7 | D7 | Gm7 | C7 |
+ FM7 | FM7 | Gm7 | Gm7 C7 Gm7/C C7 |
+ FM7 | FM7 | Cm7 | F7 |
+ BbM7 BbM7 BbM7 Bbm7 | Bbm7 | FM7 FM7 FM7 D7+ | D7+ D7 C7/E D7/F# |
+ Gm7 Am7 | BbM7 Gm7/C | FM7 | Gm7/C |
+

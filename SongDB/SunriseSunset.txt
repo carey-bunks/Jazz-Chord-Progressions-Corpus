@@ -1,0 +1,22 @@
+Title = Sunrise, Sunset
+ComposedBy = Jerry Bock
+DBKeySig = Bb
+TimeSig = 3 4
+Bars = 64
+ Gm7 | D7 | Gm7 | D7 |
+ Gm7 | D7 | Gm7 | G7 |
+ Cm7 | G7 | Cm7 | Cm7 |
+ AM7 | A7 | D7+ | D7+ |
+ Gm7 | D7 | Gm7 | D7 |
+ Gm7 | D7 | Gm7 | G7 |
+ Cm7 | G7 | Cm7 | A7 |
+ DM7 | D7 | D7+ | D7 |
+ Gm7 Gm7 Cm6 | Cm6 Gm7 D7 | Gm7 Gm7 Cm6 | Cm6 Gm7 D7 |
+ Gm7 Gm7 Cm6 | Cm6 Gm7 Cm6 | Gm7 | G7 |
+ Cm7 | F7 | BbM7 | EbM7 |
+ Am7 | D7 | Gm7 | Gm7 |
+ Gm7 Gm7 Cm6 | Cm6 Gm7 D7 | Gm7 Gm7 Cm6 | Cm6 Gm7 D7 |
+ Gm7 Gm7 Cm6 | Cm6 Gm7 Cm6 | Gm7 | G7 |
+ Cm6 | D7b9 | Gm7 | C7 |
+ Am7b5 | D7b9 | Gm7 | Gm7 |
+

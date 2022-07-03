@@ -1,0 +1,14 @@
+Title = How Deep is the Ocean?
+ComposedBy = Irving Berlin
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Cm | G+/B | Cm7/Bb | Am7b5 |
+ Gm | D7/A D7 | Gm | Bb9/F Bb9 |
+ Eb | Eb7 | Ab9 | Ab9 |
+ F7b9 | F7b9 | Bb7#5 Bb7 | Bb7 G7/B |
+ Cm | G+/B | Cm7/Bb | Am7b5 |
+ Gm | D7/A D7 | Gm | Bb9/F Bb9 |
+ Eb Eb7 | C7b9 | Fm | Fm7b5 |
+ Eb/Bb | F9 | Bb7 | Eb |
+

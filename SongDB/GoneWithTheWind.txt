@@ -1,0 +1,14 @@
+Title = Gone With The Wind
+ComposedBy = Allie Wrubel
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Fm7 Bb7 | EbM7 Eo7 | Fm7 Bb7 | EbM7 |
+ Am7 D7 | GM7 Bbo7 | Am7 D7 | GM7 |
+ Gm7 | F#o7 | Fm7 | Bb7 |
+ EbM7 Db7 | C7b9 | Fm7 | Bb7 |
+ Fm7 Bb7 | EbM7 Eo7 | Fm7 Bb7 | EbM7 |
+ Am7 D7 | GM7 | Am7 D7 | GM7 |
+ Fm7 | Cm7 | Fm7 Bb7 | Gm7b5 C7 |
+ Fm7 | Bb7 | EbM7 | C7alt |
+

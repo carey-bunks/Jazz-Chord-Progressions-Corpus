@@ -1,0 +1,18 @@
+Title = Night and Day
+ComposedBy = Cole Porter
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 48
+ BM7 | Bb7 | EbM7 | EbM7 |
+ BM7 | Bb7 | EbM7 | EbM7 |
+ Am7b5 | Abm7 | Gm7 | Gbo7 |
+ Fm7 | Bb7 | EbM7 | EbM7 |
+ BM7 | Bb7 | EbM7 | EbM7 |
+ BM7 | Bb7 | EbM7 | EbM7 |
+ Am7b5 | Abm7 | Gm7 | Gbo7 |
+ Fm7 | Bb7 | EbM7 | EbM7 |
+ GbM7 | GbM7 | EbM7 | EbM7 |
+ GbM7 | GbM7 | EbM7 | EbM7 |
+ Am7b5 | Abm7 | Gm7 | Gbo7 |
+ Fm7 | Bb7 | EbM7 | EbM7 |
+

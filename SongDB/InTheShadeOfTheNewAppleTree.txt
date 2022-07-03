@@ -1,0 +1,18 @@
+Title = In the Shade of the New Apple Tree
+ComposedBy = Harold Arlen
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 48
+ Eb | Ab6 Bb7 | Eb Abm6 | Eb Ab |
+ Eb | C7 Ab6 | Bb7 Ab | Bb7 Bb7 Bb7 Bb+ |
+ Eb7 Ao7 | Ab Eb Eb Eb | Ab Bb7 | Eb Eb Eb+ G7b5 |
+ Eb6 | Ab6 Bb7 | Eb Fm | Eb Bb7 |
+ Eb | Ab6 Bb7 | Eb Abm6 | Eb Ab |
+ Eb | C7 Ab6 | Bb7 Ab | Bb7 Bb7 Bb7 Bb+ |
+ Eb7 Ao7 | Ab Eb Eb Eb | Ab Bb7 | Eb Eb Eb+ G7b5 |
+ Eb6 | Ab6 Bb7 | Eb Fm | Eb Eb Eb Eb7 |
+ Ab AbM7 | Ab F#o7 | Gm Ab | Gm Bo7 |
+ Cm Eb6 | F7 Ab | Ab6 Eb Ab Cm6 | F7b5 Bb7 |
+ Eb | Ab Fm6 Bb6 Eb6 | Ab6 | Ab6 F#o7 |
+ Eb Ab | Eb Bb7 | Eb Ab6 | Eb Ab |
+

@@ -1,0 +1,14 @@
+Title = Muezzin'
+ComposedBy = Pepper Adams
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ Fm69 | Fm69 | Abm7 | Db7 |
+ Am7 | D7 | GM7 | Gm7b5 C7b9 |
+ Fm69 | Fm69 | Abm7 | Db7 |
+ Am7 | D7 | GM7 | NC |
+ Dm7 | G7 | CM7 | Cm7 F7 |
+ BbM7 | Am7 D7b9 | Gm7b5 | C7b9 |
+ Fm69 | Fm69 | Abm7 | Db7 |
+ Am7 | D7 | GM7 | GM7 |
+

@@ -1,0 +1,12 @@
+Title = The Stopper
+ComposedBy = Sonny Rollins
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ C | Am | F | G7 |
+ Am | G7 | F | G7 |
+ C | Am | F | G7 |
+ Am | G7 | F | G7 |
+ C | C | Em | Em |
+ Am | G7 | F | G7 |
+

@@ -1,0 +1,14 @@
+Title = Little Girl
+ComposedBy = M. Hyde, F. Henry
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Eb6 | Eb6 | Ab7 | Ab7 |
+ BbM7 | BbM7 | Dm7 | G7 |
+ Cm7 | Cm7 | F7 | F7 |
+ Dm7 | C#o7 | Cm7 | F7 Bb7 |
+ Eb6 | Eb6 | Ab7 | Ab7 |
+ BbM7 | BbM7 | Dm7 | G7 |
+ Cm7 | D7 | Gm7 | G7 |
+ C7 | F7 | Bb6 | Fm7 Bb7 |
+

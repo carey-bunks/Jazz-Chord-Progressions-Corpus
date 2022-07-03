@@ -1,0 +1,13 @@
+Title = Blues For Sarka
+ComposedBy = George Mraz
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 29
+ BbM7 | Gbo7 Bb7/F | EbM7 EbM7/D Cm7 BM7 | BbM7 |
+ Am7b5 | D7 | Gm7 | C#o7 |
+ CmM7 Cm7 | C#o7 | Dm7 EbM7 | Ebm7/F Ab7sus4 |
+ BbM7 | Gbo7 Bb7/F | EbM7 EbM7/D Cm7 BM7 | BbM7 |
+ Am7b5 | D7 | Gm7 | C#o7 |
+ CmM7 Cm7 | C#o7 | Dm7 EbM7 | Ebm7/F Ab7sus4 |
+ Dm7 EbM7 | Ebm7/F Ab7sus4 | Dm7 EbM7 | Ebm7/F Ab7sus4 |
+ Bb |

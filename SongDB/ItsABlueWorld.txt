@@ -1,0 +1,14 @@
+Title = It's A Blue World
+ComposedBy = Bob Wright and Chet Forrest
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Gm9 | Gm9 C7#5 | FM9 | FM9 |
+ Cm9 | Cm9 F7#5 | BbM9 | BbM9 |
+ BbM9 | Bbm9 C7b9 | FM7 | F7 |
+ Bbm7 | Db7 | C7 Bbm6 | C7 |
+ Gm9 | Gm9 C7#5 | FM9 | FM9 |
+ Cm9 | Cm9 F7#5 | BbM9 | BbM9 |
+ BbM9 | Bbm9 C7b9 | FM7 Gm7 | Am7b5 D7 |
+ G7 | Gm7 C7 | F6 | Am7b5 D7 |
+

@@ -1,0 +1,13 @@
+Title = Freedom Sound
+ComposedBy = Joe Sample
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 28
+ AbM9 | AbM9 | Gm7 | Gm7 |
+ Fm6 | Fm6 | Cm11 | Cm11 |
+ Cm | Cm | Ab7 | Ebm7 D7 |
+ DbM7 | C7b9#11 B9b5 | Bb7 | Bm7b5 E7 |
+ AM7 | Bbm7 | AbM9 | AbM9 |
+ Gm7 | Gm7 | Fm6 | Fm6 |
+ Cm11 | Cm11 | Cm | Cm |
+

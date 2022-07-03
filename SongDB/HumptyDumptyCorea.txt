@@ -1,0 +1,10 @@
+Title = Humpty Dumpty
+ComposedBy = Chick Corea
+DBKeySig = C
+TimeSig = 4 4
+Bars = 18
+ EbM7 | DM7 | GbM7 | FM7 |
+ A7#5 | BbM7 | Bbm7 | Bbm7 |
+ Bbm7 | NC | Dm7 | Bm7 |
+ Abm7 | Abm7 | Fm7 | Abm7 |
+ Abm7 GbM7 | Bbm7 |

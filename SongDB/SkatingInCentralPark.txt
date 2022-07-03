@@ -1,0 +1,22 @@
+Title = Skating In Central Park
+ComposedBy = John Lewis
+DBKeySig = C
+TimeSig = 4 4
+Bars = 64
+ CM7/G | G7b9 | CM7/G | CM7/G |
+ FM7/G | G7#5 | CM7/G | C7b5/Gb |
+ FM7 | B7 | Em7 | A7 |
+ Dm7 | G7 | F/A F/A Bbm6 | Bbm6 G7/B G7/B |
+ CM7/G | G7b9 | CM7/G | CM7/G |
+ FM7/G | G7#5 | CM7/G | C7b5/Gb |
+ FM7 | B7 | Em7 | A7 |
+ Dm7 | G7 | CM7 | C7b5/Gb |
+ Fm | Fm/E | Fm/Eb | Dm7b5 |
+ EbM7 | Bb6/D | Cm7 | Bbm6 |
+ Cm6 | Cm6/Bb | Am7b5 | D7b9 |
+ Fm7 | Fm7/Eb | Dm7b5 | G7#5 |
+ CM7/G G7b9 | CM7/G | CM7/G | FM7/G |
+ G7#5 | CM7/G | C7b5/Gb | FM7 |
+ B7 | Em7 | A7 | Dm7 |
+ G7 | CM7 | G7b9 | G7b9 |
+

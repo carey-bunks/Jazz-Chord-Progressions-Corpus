@@ -1,0 +1,14 @@
+Title = S.O.S.
+ComposedBy = Wes Montgomery
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Cm | Bbm7 Eb7 | AbM7 | Dm7b5 G7 |
+ Cm | Ab7 G7 | CM7 | CM7 |
+ Cm7 | Bbm7 Eb7 | AbM7 | Dm7b5 G7 |
+ Cm | Ab7 Db7 | Cm | Cm |
+ Gm9 | C7 | Fm9 | Bb7 |
+ Bb7 | A7 | Ab7 | G7 |
+ Cm | Bbm7 Eb7 | AbM7 | Dm7b5 G7 |
+ Cm | Ab7 G7 | CM7 | CM7 |
+

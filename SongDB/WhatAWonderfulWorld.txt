@@ -1,0 +1,19 @@
+Title = What a Wonderful World
+ComposedBy = George Weiss and Bob Thiele
+DBKeySig = F
+TimeSig = 4 4
+Bars = 52
+ F Am | Bb Am | Gm7 F | A7 Dm |
+ Db | Gm7 C7 | F | Bb C7 |
+ F Am | Bb Am | Gm7 F | A7 Dm |
+ Db | Gm7 C7 | F Bb | F |
+ C7 | F | C7 | F |
+ Dm C | Dm C | Dm F#dim | Gm7 C7 |
+ F Am | Bb Am | Gm7 F | A7 Dm |
+ Db | Gm7 C7 | F Bb | F |
+ C7 | F | C7 | F |
+ Dm C | Dm C | Dm F#dim | Gm7 C7 |
+ F Am | Bb Am | Gm7 F | A7 Dm |
+ Db | Gm7 | F Cm | D7 |
+ Gm7 | Gm7 C7 C7 C7 | F Bb | F |
+

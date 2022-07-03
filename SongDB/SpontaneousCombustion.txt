@@ -1,0 +1,9 @@
+Title = Spontaneous Combustion
+ComposedBy = Cannonball Adderley
+DBKeySig = C
+TimeSig = 4 4
+Bars = 12
+ Bb | Bb | Bb | Bb7 |
+ Eb7 | Eb7 | Bb | Bb |
+ Cm7 | F7 | Bb | Bb |
+

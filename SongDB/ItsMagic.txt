@@ -1,0 +1,14 @@
+Title = It's Magic
+ComposedBy = Jule Styne
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 EbM7 | Bb/D Dbo7 | Cm7 | F7 F7 Dm7 Dbm7 |
+ Cm7 | F9sus4 F9 | BbM9 | F9sus4 F13 |
+ BbM7 Eb9 | Dm7 Dbo7 | Cm7 | F9sus4 F7 |
+ Gm7 C7 | Gm7 C7 | F9sus4 | F9sus4 F7b9 |
+ BbM7 EbM7 | Bb/D Dbo7 | Cm7 | F7 F7 Dm7 Dbm7 |
+ Cm7 | F9sus4 F9 | Dm7b5 | G7b9 |
+ Cm7 | Ebm7 Ab9 | Dm7 Gm7 | C7 Ebm6 |
+ Dm7 Gm7 | Cm7 Cm7 F9sus4 F7b9 | Bb6 Gm7 | Cm7 F7b9 |
+

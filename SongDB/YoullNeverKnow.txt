@@ -1,0 +1,14 @@
+Title = You'll Never Know
+ComposedBy = Harry Warren
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F | F Db7 | Gm | Gm |
+ Gm | Gm7 C7 | F | F |
+ F | F | Gm | Gm |
+ Gm Gm Gm7 C7 | Gm Gm Gm7 C7 | F F F Db7 | Gm Gm G7 C7 |
+ F | F Db7 | Gm | Gm |
+ Gm | Gm7 C7 | D7 D7 Am7 Do7 | D7 D7 Do7 D7 |
+ Gm | Bbm | F A7 | Gm D7 |
+ Gm | G7 C7 | F Fo7 | C+ Cm7 |
+

@@ -1,0 +1,12 @@
+Title = Morning Has Broken
+ComposedBy = Cat Stevens
+DBKeySig = C
+TimeSig = 3 4
+Bars = 24
+ C | C | Dm | G |
+ F | C | C | Em |
+ Am | Dmadd4 Dmadd4 D7 | G | G |
+ C | F | F | C |
+ Am | D7 | G | C |
+ F | G | C | F |
+

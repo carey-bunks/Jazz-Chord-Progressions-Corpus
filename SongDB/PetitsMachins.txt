@@ -1,0 +1,8 @@
+Title = Petit Machins
+ComposedBy = Miles Davis and Gil Evans
+DBKeySig = C
+TimeSig = 4 4
+Bars = 8
+ FM7 | E7#9/F | Bbm7/F | E7#9/F |
+ D7#9/F | E7#9/F | Fm7 | C7#9/E |
+

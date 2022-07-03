@@ -1,0 +1,10 @@
+Title = Sunny
+ComposedBy = Bobby Hebb
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ Am | Gm7 C7 | F7 | Bm7b5 E7alt |
+ Am | Gm7 C7 | F7 | Bm7b5 E7alt |
+ Am | Am/G# | Am/G | Am/F# |
+ Fm | Bm7b5 E7alt | Am | E7alt |
+

@@ -1,0 +1,12 @@
+Title = Adam's Apple
+ComposedBy = Wayne Shorter
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ Ab7 | Ab7 | Ab7 | Ab7 |
+ Ab7 | Ab7 | Ab7 | Ab7 |
+ Gb7 | Gb7 | Gb7 | Gb7 |
+ Ab7 | Ab7 | Ab7 | Ab7 |
+ Abm7 | Db7 | Bbm7 | Eb7alt |
+ Ab7 | Ab7 | Ab7 | Ab7 |
+

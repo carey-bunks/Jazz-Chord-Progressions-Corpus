@@ -1,0 +1,15 @@
+Title = Is You Is Or Is You Ain't My Baby
+ComposedBy = Billy Austin and Louis Jordan
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 36
+ Fm7 C7/G | Fm7/Ab C7/G | Fm7 | Fm7 B7 |
+ Bb7 | Eb7 | AbM7 | Db7 C7 |
+ Fm7 C7/G | Fm7/Ab C7/G | Fm7 | Fm7 B7 |
+ Bb7 | Eb7 | AbM7 | Ebm7 Ab7#11 |
+ DbM7 | Dbm6 | AbM7 | Ebm7 Ab7+ |
+ DbM7 | Gb7 | Gb7+ F7 | Bbm7 C7 |
+ Fm7 C7/G | Fm7/Ab C7/G | Fm7 | Fm7 B7 |
+ Bb7 | Eb7 | Ab7 Gb7 | F7 |
+ Bb7 | Bbm7 Eb7 | AbM7 | Db7 C7 |
+

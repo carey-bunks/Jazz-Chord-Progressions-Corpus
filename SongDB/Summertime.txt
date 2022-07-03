@@ -1,0 +1,10 @@
+Title = Summertime
+ComposedBy = George Gershwin
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ Dm | A7 | Dm | Dm D7alt |
+ Gm | Gm | Em7b5 | A7alt |
+ Dm | A7 | Dm | Gm7 C7 |
+ F | Em7b5 A7alt | Dm | Em7b5 A7alt |
+

@@ -1,0 +1,14 @@
+Title = Don't Misunderstand
+ComposedBy = Gordon Parks
+DBKeySig = F
+TimeSig = 4 4
+Bars = 35
+ FM7 | E7 | EbM7 | D7b9 |
+ Gm7 | Gm7/C C7b9 | FM7 | C7b9 |
+ FM7 | E7 | EbM7 | D7b9 |
+ Gm7 | Gm7/C C7b9 | FM7 | FM7 D7b9 Gm7 |
+ A7alt | Dm7 | Dm7 | Bm7b5 Dm7/G |
+ FM7 Ab7#11 | Gm7 | C7 | FM7 |
+ E7 | EbM7 | D7b9 | Gm7 |
+ Gm7/C C7b9 | Am7b5 | Am7b5 D7alt | Gm7 |
+ C7 | FM7 | Gm7 C7 |

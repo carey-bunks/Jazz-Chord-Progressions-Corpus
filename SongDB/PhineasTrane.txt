@@ -1,0 +1,14 @@
+Title = The Phineas Trane
+ComposedBy = Harold Mabern
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ B13b5 | B13b5 | B13b5 | B13b5 |
+ D7b9b13 | D7b9b13 | Gb7#9 | Gb13 |
+ B13b5 | B13b5 | B13b5 | B13b5 |
+ D7b9b13 | D7b9b13 | Gb7#9 | Gb13 |
+ Bb13b5 | Bb13b5 | F7#9 | F7#9 |
+ E7#9 | Bb13b5 | Abm7 Db7 | Gm7 C7b9 |
+ B13b5 | B13b5 | B13b5 | B13b5 |
+ D7b9b13 | D7b9b13 | Gb7#9 | Gb13 |
+

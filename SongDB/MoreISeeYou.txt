@@ -1,0 +1,14 @@
+Title = The More I See You
+ComposedBy = Harry Warren
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 Fm7 | Gm7 C7b9 | Fm7 Gm7 | AbM7 Fm7/Bb |
+ EbM7 Fm7 | Gm7 C7b9 | Fm7 | Bb7 |
+ Gb7 Bb7/D | Dbm7 Gb7 | BM7 | Abm7 Bb7+ |
+ Em7 | F7 | Fm7 | Bb7 Fm7/Bb |
+ EbM7 Fm7 | Gm7 C7b9 | Fm7 Gm7 | AbM7 Fm7/Bb |
+ EbM7 Fm7 | Gm7 Bb7+ | Bbm7 | Eb7 |
+ AbM7 | Abm7 Db7 | EbM7 Fm7 | Gm7 Ab7 |
+ G7+ C7b9 | Fm7 Fm7/Bb | EbM7 | Fm7/Bb |
+

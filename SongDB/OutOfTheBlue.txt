@@ -1,0 +1,10 @@
+Title = Out of the Blue
+ComposedBy = Miles Davis
+DBKeySig = F
+TimeSig = 4 4
+Bars = 16
+ F | C7 | FM7 | Gm7 |
+ FM7 | Gm7 | Gm7 | Dm F7 |
+ Bb | Gm | Bb7 | Eb Am7b5 |
+ Bb Em7b5 | Cm7 F7 | Bb7 | Bb7 |
+

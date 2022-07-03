@@ -1,0 +1,22 @@
+Title = A Picture of You
+ComposedBy = Johnny Beveridge and Peter Oakman
+DBKeySig = G
+TimeSig = 4 4
+Bars = 64
+ G | G | F | D7 |
+ G | G | F | D7 |
+ C | C | D7 | D7 D13 |
+ G | C | G | D7 |
+ G | G | F | D7 |
+ G | G | F | D7 |
+ C | C | D7 | D7 D13 |
+ G | C | G | G |
+ Bm | Am | Bm | Am |
+ Bm | Am | D13 | D13 |
+ G | G | Em | Em |
+ C | C | D7 | D7 |
+ G | G | F | D7 |
+ G | G | F | D7 |
+ C | C | D7 | D7 D7 D7 D13 |
+ G | C | G C | G |
+

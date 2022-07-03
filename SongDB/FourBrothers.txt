@@ -1,0 +1,14 @@
+Title = Four Brothers
+ComposedBy = Jimmy Guiffre
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Bb7 | Bbm7 Eb7#5 | Ab | F7 |
+ Bbm7 | Cm7 F7 | Bbm7 Eb7#5 | Ab |
+ Bb7 | Bbm7 Eb7#5 | Ab | F7 |
+ Bbm7 | Cm7 F7 | Bbm7 Eb7 | Ab |
+ Dbm7 Gb7 | BM7 | Em7 A7 | DM7 |
+ Dm7 G7 | CM7 A7 | Dm7 G7 | Cm7 F7 |
+ Bb7 | Bbm7 Eb7#5 | Ab | F7 |
+ Bbm7 | Cm7 F7 | Bbm7 Eb7 | Ab |
+

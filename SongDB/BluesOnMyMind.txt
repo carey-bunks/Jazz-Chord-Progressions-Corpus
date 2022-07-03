@@ -1,0 +1,14 @@
+Title = Blues on My Mind
+ComposedBy = Benny Golson
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C#13 C13 | F9 F#m7b5 | G13 Abo7 | Am7 |
+ F#m7b5 | F9 | Em7b5 | A7b9 |
+ Dm7 | G7 | C7 F9 | F#m7b5 G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+

@@ -1,0 +1,11 @@
+Title = A Taste of Honey
+ComposedBy = Bobby Scott
+DBKeySig = F
+TimeSig = 4 4
+Bars = 22
+ Dm | DmM7 | Dm7 | G6 |
+ Dm | DmM7 | Dm7 | G6 |
+ Dm | Dm | Bb | Am7 |
+ Dm Dm Dm Gm6 | Dm | Dm7 | G7 |
+ Dm7 | G7 | Bb | Am7 |
+ Dm Gm6 | Dm Gm6 Dm Dm |

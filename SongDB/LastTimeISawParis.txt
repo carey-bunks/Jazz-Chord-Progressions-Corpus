@@ -1,0 +1,14 @@
+Title = The Last Time I Saw Paris
+ComposedBy = Jerome Kern
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Ab6 | Ab6 | Ab6 | Eb7 |
+ Bbm7 | Eb7 | Bbm7 Eb7 | Ab6 Eb7 |
+ Ab6 | Ab6 | Ab6 | Eb7 |
+ Bbm7 | Eb7 | Bbm7 Eb7 | Ab6 Eb7 |
+ Bb7 | EbM7 | Bb7 | EbM7 |
+ C7 | FM7 | Bbm7 | Eb7 |
+ Ab6 | Ab6 | Ab6 | Eb7 |
+ Bbm7 Eb7 | Cm7b5 F7 | Bbm7 Eb7 | Ab6 |
+

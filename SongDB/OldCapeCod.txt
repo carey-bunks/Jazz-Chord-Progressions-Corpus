@@ -1,0 +1,14 @@
+Title = Old Cape Cod
+ComposedBy = Claire Rothrock, Milt Yakus, Allen Jeffrey
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | Bbm7 Eb7 | AbM7 | Db7 |
+ EbM7 C7 | F7 | Fm7 | Bb7 |
+ EbM7 | Bbm7 Eb7 | AbM7 | Db7 |
+ EbM7 C7 | F7 Bb7 | EbM7 | EbM7 C7b9 |
+ Fm7 Bb7 | EbM7 C7b9 | Fm7 Bb7 | EbM7 Eb7 |
+ AbM7 Ao7 | EbM7 Db7 C7b9 C7b9 | Fm7 F7 | Bb7 Bb7+ |
+ EbM7 | Bbm7 Eb7 | AbM7 | Db7 |
+ EbM7 C7 | F7 Bb7 | EbM7 | Fm7 Bb7 |
+

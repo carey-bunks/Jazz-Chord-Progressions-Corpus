@@ -1,0 +1,16 @@
+Title = Come Back To Me
+ComposedBy = Burton Lane
+DBKeySig = F
+TimeSig = 4 4
+Bars = 42
+ Gm7 | Gm7 C7 | Gm7 | Gm7 C7 |
+ FM7 F6 | FM7 F6 | FM7 | FM7 |
+ Gm7 | Gm7 C7 | Gm7 | Gm7 C7 |
+ FM7 F6 | FM7 F6 | FM7 | FM7 |
+ Am F | D E7 | Am Am6 | Dm6 E7 |
+ Amadd9 Am | D13 D9+ | Gm7 | Gm7 |
+ Gm7 | Gm7 C7 | Cm6 | D7 |
+ G7 | Gbm11 Gm7 | F Dm6 | Dm6 |
+ F Ab | Ab Ab Ab C7b5 | F | F |
+ Bb13 | Bb13 | F | F |
+ F | F |

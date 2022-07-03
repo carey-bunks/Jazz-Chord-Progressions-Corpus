@@ -1,0 +1,14 @@
+Title = September Song
+ComposedBy = Kurt Weil and Maxwell Anderson
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Cm6 | Fm7 | C | C |
+ D7 | Dm7b5 G7 | C | C |
+ Cm6 | Fm7 | C | C |
+ D7 | Dm7b5 G7 | C | C |
+ Fm | Fm | F#o | F#o |
+ Fm | Fm | F#o | F#o |
+ Cm6 | Fm7 | C | C |
+ D7 | Dm7b5 G7 | C | C |
+

@@ -1,0 +1,14 @@
+Title = When It's Springtime in the Rockies
+ComposedBy = Robert Sauer
+DBKeySig = Bb
+TimeSig = 3 4
+Bars = 32
+ Bb | F7 | Bb | Bb |
+ Bb | Bb/D Bb/D Dbo7 | F7/C | F7/C |
+ F | F | F | C7 |
+ F | F | Bb | Bb |
+ Bb | F7 | Bb | Bb |
+ Bb | Bb/D Bb/D Dbo7 | F7/C | F7/C |
+ F | F | F | C7 |
+ F | C7 C7 F7 | Bb | Bb |
+

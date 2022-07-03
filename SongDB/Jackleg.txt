@@ -1,0 +1,10 @@
+Title = Jack Leg
+ComposedBy = Jack Wilson
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ Gm | Gm D7+ | Gm | Gm D7+ |
+ Gm | Gm | D7 | D7 |
+ G | G | C7 | C7 |
+ Gm | Am7b5 D7+ | Gm | Gm D7 |
+

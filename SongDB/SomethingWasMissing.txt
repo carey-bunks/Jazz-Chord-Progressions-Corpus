@@ -1,0 +1,22 @@
+Title = Something Was Missing
+ComposedBy = Charles Strouse
+DBKeySig = F
+TimeSig = 3 4
+Bars = 64
+ F F C+ | F F C+ | F F C | F F Dm |
+ G7 G7 Dm | G7 G7 Dm | G7 | G13 G13 G7 |
+ Gm7 | C7 | F | F |
+ Db | Db | Ab | C C7+ C7 |
+ F F C+ | F F C+ | F F C | F F Dm |
+ G7 G7 Dm | G7 G7 Dm | G7 | G13 G13 G7 |
+ Gm7 | C7 | F | F |
+ Db | Db | Ab | C C+ C |
+ Am | Am/G | FM7 | G13 G7b5 G7 |
+ CM9 | G | C C+ C6 | CM7 CM7 Em |
+ Am | Am/G | Fm7 Fm7 Bb13 | Eb |
+ Ebm7 Ebm7 Ab13 | Db | Gm7 | C7 |
+ F F C+ | F F C+ | F F Am/C | F |
+ G7 G7 Dm | Em Em Dm | Em Em Dm | G13 G13 G7 |
+ Gm7/C | C/Bb | F | Bbsus4 Bbsus4 Bb |
+ F/C | Gm7/C Gm7/C C+ | F F C+ | F |
+

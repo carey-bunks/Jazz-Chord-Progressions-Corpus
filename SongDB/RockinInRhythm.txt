@@ -1,0 +1,12 @@
+Title = Rockin' In Rhythm
+ComposedBy = Duke Ellington and Harry Carney
+DBKeySig = C
+TimeSig = 4 4
+Bars = 26
+ C C/E | F F#o7 | C/G A7 | D7 G7 |
+ C C/E | F F#o7 | C/G A7 | D7 G7 C C |
+ C C/E | F F#o7 | C/G A7 | D7 G7 |
+ C C/E | F F#o7 | C/G A7 | D7 G7 C C |
+ C C/E | F F#o7 | C/G A7 | D7 G7 |
+ C C/E | F F#o7 | C/G | C/G C |
+ C | C |

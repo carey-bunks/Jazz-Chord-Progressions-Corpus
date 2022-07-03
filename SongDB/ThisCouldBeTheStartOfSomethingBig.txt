@@ -1,0 +1,22 @@
+Title = This Could Be  The Start Of Something Big
+ComposedBy = Steve Allen
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 64
+ EbM7 | Cm | Fm7 | Bb7 C7#5 |
+ Fm7 | Bb7 | Cm7 B7 | Bbm7 A7b5 |
+ AbM7 | Ao7 | Gm7/Bb | C7b9 |
+ Fm7 | Bb7 | Gm7 Gb7 | Fm7 Bb7 |
+ EbM7 | Cm | Fm7 | Bb7 C7#5 |
+ Fm7 | Bb7 | Cm7 B7 | Bbm7 A7b5 |
+ AbM7 | Ao7 | Gm7/Bb | C7b9 |
+ Fm7 | Bb7 | Eb6 | Eb6 |
+ Bbm7 | Eb7 | Bbm7 | Eb7 |
+ Bbm7 | Eb7 | Bbm7 | Eb7 |
+ AbM7 | Bm7 Eb7 | AbM7 | AbM7 |
+ AbM7 | F7 | Bb7sus4 | Bb7 |
+ EbM7 | Cm | Fm7 | Bb7 C7#5 |
+ Fm7 | Bb7 | Cm7 B7 | Bbm7 A7b5 |
+ AbM7 | Ao7 | Gm7/Bb | C7b9 |
+ Fm7 | Bb7 | Eb6 | Fm7 Bb7 |
+

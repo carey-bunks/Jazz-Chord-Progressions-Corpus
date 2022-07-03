@@ -1,0 +1,12 @@
+Title = Bottle Of Wine
+ComposedBy = Tom Paxton
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ C | C | C | G C |
+ C | C | C | G C |
+ C G | F C | C G | C |
+ C G | F C | C G | C |
+ C | C | C | G C |
+ C | C | C | G C |
+

@@ -1,0 +1,15 @@
+Title = When The Sun Comes Out
+ComposedBy = Harold Arlen
+DBKeySig = G
+TimeSig = 4 4
+Bars = 38
+ C7 Bb7 | Am7 D7#5 | C7 C#o7 | D7sus4 D7 |
+ Dm7 G7b9 | CM7 F7 | Bm7 E7b9 | Am7 D7#5 |
+ C7 Bb7 | Am7 D7#5 | C7 C#o7 | D7sus4 D7 |
+ Dm7 G7b9 | CM7 F7 | Bm7 E7b9 | Am7 D7#5 |
+ GM7 C7#11 | Bm7 Em7 | Dm7 | Bm7b5 E7 |
+ Am7 | D7 D7 Bm7 E7b9 | Am7 D7 | Am7 D7#5 |
+ C7 Bb7 | Am7 D7#5 | C7 C#o7 | D7sus4 D7 |
+ Dm7 G7b9 | CM7 F7 | Bm7 E7b9 | Am7 D7#5 |
+ GM7 B7b9 | Em7 F7 | B7#5 E9 | A7 A7 Am7 D7b9 |
+ G6 | G6 |

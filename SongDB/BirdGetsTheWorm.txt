@@ -1,0 +1,20 @@
+Title = Bird Gets the Worm
+ComposedBy = Charlie Parker
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 56
+ AbM7 | AbM7 | Gm7 | C7alt |
+ Fm7 | Fm7 | Bb7 | Bo7 |
+ AbM7 | AbM7 | Bbm7 | Eb7 |
+ AbM7 Ab7 | Db Do7 | AbM7 | Eb7 |
+ AbM7 | AbM7 | Gm7 | C7alt |
+ Fm7 | Fm7 | Bb7 | Bo7 |
+ AbM7 | AbM7 | Bbm7 | Eb7 |
+ AbM7 Ab7 | Db Do7 | AbM7 | Gm7b5 C7alt |
+ Fm7 | Fm7 | Bbm7 | Fm7 |
+ Bb7 | Bb7 | Bbm7 | Eb7 |
+ AbM7 | AbM7 | Gm7 | C7alt |
+ Fm7 | Fm7 | F7alt | F7alt |
+ Bbm7 | Bbm7 | Bbm7 | Eb7 |
+ AbM7 Ab7 | DbM7 Do7 | AbM7 F7alt | Bbm7 Eb7 |
+

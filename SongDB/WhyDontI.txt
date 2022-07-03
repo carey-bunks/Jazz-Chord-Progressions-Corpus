@@ -1,0 +1,13 @@
+Title = Why Don't I?
+ComposedBy = Sonny Rollins
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 28
+ Fm7 Abm7 | Gm7 Gbm7 | Fm7 Bb7b9 | Gm7b5 C7 |
+ Fm7 Bb7 | Gm7 C7 | Fm7 Bb7b9 | EbM7 C7alt |
+ Fm7 Abm7 | Gm7 Gbm7 | Fm7 Bb7b9 | Gm7b5 C7 |
+ Fm7 Bb7 | Gm7 C7 | Fm7 Bb7b9 | EbM7 |
+ Am7 | D7 | GM7 | Bm7 E7 |
+ Fm7 Abm7 | Gm7 Gbm7 | F7 Bb7b9 | Gm7b5 C7 |
+ Fm7 Bb7 | Gm7 C7 | Fm7 Bb7b9 | EbM7 C7alt |
+

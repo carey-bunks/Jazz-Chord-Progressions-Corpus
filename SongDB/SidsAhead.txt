@@ -1,0 +1,9 @@
+Title = Sid's Ahead
+ComposedBy = Miles Davis
+DBKeySig = F
+TimeSig = 4 4
+Bars = 12
+ F7 | C7 | D7 | C7 |
+ Bb7 | Bb7 | D7 | C7 |
+ C7 | D7 | D7 | F7 |
+

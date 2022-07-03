@@ -1,0 +1,12 @@
+Title = Michelle
+ComposedBy = John Lennon and Paul McCartney
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 26
+ F | Bbm7 | Eb6 | Do7 |
+ C Bo7 | C | Fm7 | Fm7 |
+ Ab7 | Db | C7 | Fm7 |
+ Fm Fm/E | Fm7/Eb Fm/D | DbM7 | C |
+ F | Bbm7 | Eb6 | Do7 |
+ C Bo7 | C | Fm Fm/E | Fm7/Eb Fm/D |
+ DbM7 | C |

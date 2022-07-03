@@ -1,0 +1,22 @@
+Title = On The Street Where You Live
+ComposedBy = Frederick Loewe
+DBKeySig = C
+TimeSig = 4 4
+Bars = 64
+ Bb6 | Cm7 F7 | BbM7 Bb6 | Bb6 Bb6 Bb6 F7 |
+ BbM7 | Bbo C9 | F7 Cm7 | F7 F7 Cm Fo7 |
+ Cm7 | Cm7 Ebm | Dm7 Bb6 Bb6 Dm7 | Dm7 Bb Bb Bb |
+ C7 | F9 F9 Eb F7+ | Bb6 | Bb6 Bb6 Cm7 F7b9 |
+ Bb6 | Cm7 F7 | BbM7 Bb6 | Bb6 Bb6 Bb6 F7 |
+ BbM7 | Bbo C9 | F7 Cm7 | F7 F7 Cm Fo7 |
+ Cm7 | Cm7 Ebm | Dm7 Bb6 Bb6 Dm7 | Dm7 Bb Bb Bb |
+ C7 | F9 F9 Eb F7+ | Bb6 | Bb6 |
+ D7 | Am Co7 | Eb6 | Eb6 |
+ Ebm6 | Ebm6 Bbo | Bb BbM7 | Bb7 Bb6 |
+ Bbo Bb | Gm6 | Em7 | A7 |
+ D A | Am Am Bb C7 | Cm6 Dm | F9 F9 Cm7 F7 |
+ Bb6 | Cm7 F7 | BbM7 Bb6 | Bb6 Bb6 Bb6 F7 |
+ BbM7 | Bbo C9 | F7 Cm7 | F7 F7 Cm Fo7 |
+ Cm7 | Cm7 Cm7 Ebm6 D+ | Dm7 Bb6 Bb6 Bb6 | Bb6 |
+ C9 | F9 F9 Eb F7 | Bb Cm7 | BbM7 |
+

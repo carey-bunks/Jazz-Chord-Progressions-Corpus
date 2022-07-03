@@ -1,0 +1,16 @@
+Title = Mr. Kenyatta
+ComposedBy = Lee Morgan
+DBKeySig = F
+TimeSig = 4 4
+Bars = 40
+ Gm6 | Ab7#11 | Gm6 | Ab7#11 |
+ Gm6 | Ab7#11 | Gm6 | Ab7#11 |
+ Gm11 | Am7 | Gm11 | Am7 |
+ Gm11 | Am7 | Gm11 | D7#9 |
+ Gm11 | Am7 | Gm11 | Am7 |
+ Gm11 | Am7 | Gm7 | Gm7 |
+ Bbm69 | Bbm69 | Bbm69 | Bbm69 |
+ Bbm69 | Bbm69 | Bbm69 | Bbm69 |
+ Gm11 | Am7 | Gm11 | Am7 |
+ Gm11 | Am7 | Gm7 | Gm7 |
+

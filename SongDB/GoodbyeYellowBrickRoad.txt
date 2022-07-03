@@ -1,0 +1,17 @@
+Title = Goodbye Yellow Brick Road
+ComposedBy = Elton John and Bernie Taupin
+DBKeySig = F
+TimeSig = 4 4
+Bars = 46
+ Gm | C | F | Bb |
+ Eb | C7 | F | F |
+ Gm7 Bb | C7 | F | Bb |
+ Eb | C7 | F | F |
+ Db | Eb7 | Ab | Db |
+ Bbm | C7 | F | A7 |
+ Bb | F | D7 | Gm |
+ C7 | F | Dm | A |
+ Bb | Db | Db Eb | F Am |
+ Dm | Bb C7 | Db | Eb |
+ Ab | Db | Bbm | C7 |
+ F | F |

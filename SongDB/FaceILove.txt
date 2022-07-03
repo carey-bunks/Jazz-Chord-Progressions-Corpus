@@ -1,0 +1,19 @@
+Title = The Face I Love
+ComposedBy = Ray Gilbert, Marcos Valle, Paulo Valle, G. Pingarilno
+DBKeySig = Eb
+TimeSig = 3 4
+Bars = 54
+ EbM7 | Ab7 | EbM7 | Ab7 |
+ Ebm7 | Ab7 | Ebm7 | Ab7 |
+ DbM7 | Gb7 | DbM7 | DbM7 |
+ C#m7 | F#7 | Cm7 | Fm7 |
+ Bbm7 | D7b5#9 | DbM7 | C7#5 |
+ Fm7 | Gm7 | AbM7 | A7 Bb7 Bb7 |
+ EbM7 | Ab7 | EbM7 | Ab7 |
+ Ebm7 | Ab7 | Ebm7 | Ab7 |
+ DbM7 | Gb7 | DbM7 | DbM7 |
+ C#m7 | F#7 | Cm7 | Fm7 |
+ Bbm7 | D7b5#9 | DbM7 | Fm7 |
+ Bbm7 | Eb7sus4 | AbM7 | Db7 |
+ AbM7 | Db7 | Gm7 | C7 |
+ BM7 | Bb7sus4 |

@@ -1,0 +1,16 @@
+Title = The Windmills Of Your Mind
+ComposedBy = Michel Legrand
+DBKeySig = G
+TimeSig = 4 4
+Bars = 40
+ Em | CM7/E | Am6/E | Ao/E |
+ Em7 | Bm7/E E7b9 | AmM7 Am7 | Am7/D D7b9 |
+ GM7 | CM7 | F#m7b5 | F#m7b5/B B7b9 |
+ A#o7 | B7sus4 B7 | Em | Em7 |
+ Am7 | Am7/D D9 | GM7 | Dm7/G G7b9 |
+ CM7 | C#m7b5/F# F#7b9 | Bm Bm7 | Bm7/E E7b9 |
+ Amadd9 Amadd9 AmM7 Am7 | Am7/D D7b9 | GM7 | CM7 |
+ F#m7b5 Em/G Am6 C/Bb | Em/B C/B B7sus4 B7 | Em | CM7/E |
+ F#m7b5/E | F#m7b5/B B7b9 | A#o7 | Em/B C/B |
+ B7sus4 B7 | Em | F#m7b5/B | Em |
+

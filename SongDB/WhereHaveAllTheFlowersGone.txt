@@ -1,0 +1,10 @@
+Title = Where Have All the Flowers Gone?
+ComposedBy = Pete Seeger
+DBKeySig = C
+TimeSig = 4 4
+Bars = 18
+ C | Am | Dm | G |
+ C | Am | Dm | G7 |
+ C | Am | Dm | G7 |
+ F Dm | C | Dm | G7 |
+ C | C |

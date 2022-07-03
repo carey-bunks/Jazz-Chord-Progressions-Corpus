@@ -1,0 +1,38 @@
+Title = The Eternal Triangle
+ComposedBy = Sonny Stitt
+DBKeySig = C
+TimeSig = 4 4
+Bars = 128
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 |
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 Bb Bb |
+ Bm7 | E7 | Bbm7 | Eb7 |
+ Am7 D7 | Abm7 Db7 | Gm7 C7 | Gbm7 B7 |
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 Bb Bb |
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 |
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 Bb Bb |
+ Bm7 | E7 | Bbm7 | Eb7 |
+ Am7 D7 | Abm7 Db7 | Gm7 C7 | Gbm7 B7 |
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 Bb Bb |
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 |
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 Bb Bb |
+ Bm7 | E7 | Bbm7 | Eb7 |
+ Am7 D7 | Abm7 Db7 | Gm7 C7 | Gbm7 B7 |
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 Bb Bb |
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 |
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 Bb Bb |
+ Bm7 | E7 | Bbm7 | Eb7 |
+ Am7 D7 | Abm7 Db7 | Gm7 C7 | Gbm7 B7 |
+ BbM7 Gm7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | Eb7 | Dm7 G7 | Cm7 F7 Bb Bb |
+

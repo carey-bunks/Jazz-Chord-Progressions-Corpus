@@ -1,0 +1,14 @@
+Title = Broadway
+ComposedBy = Bill Byard, Teddy McRae, Henri Moore
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb6 | Eb6 | Ab7 | Ab7 |
+ Fm7 | Bb7 | Eb6 | Fm7 Bb7 |
+ Eb6 | Eb6 | Ab7 | Ab7 |
+ Fm7 | Bb7 | Eb6 | Eb6 |
+ Bbm7 | Eb7 | AbM7 | AbM7 |
+ Abm7 | Db7 | GbM7 | Fm7 Bb7 |
+ Eb6 | Eb6 | Ab7 | Ab7 |
+ Fm7 | Bb7 | Eb6 | Eb6 |
+

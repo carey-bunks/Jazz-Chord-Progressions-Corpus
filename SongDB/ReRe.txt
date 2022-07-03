@@ -1,0 +1,14 @@
+Title = Re-Re
+ComposedBy = Bob Mintzer
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ AbM7 | F7+ | Bb7#11 | Bb7#11 |
+ Bbm7 | Eb7 | AbM7 | Ebm7 Ab7 |
+ DbM7 | Dbm7 Gb7 | AbM7 | F7b9 |
+ Bb7#11 | Bb7#11 | Bbm7 | Eb7 |
+ AbM7 | F7+ | Bb7#11 | Bb7#11 |
+ Gm7b5 | C7+ | Fm7 | C7+ |
+ Fm7 | C7+ | Fm7 | Abo7 |
+ Cm7 F7+ | Bbm7 Eb7 | AbM7 | Eb7 |
+

@@ -1,0 +1,13 @@
+Title = Sack of Woe
+ComposedBy = Cannonball Adderley
+DBKeySig = C
+TimeSig = 4 4
+Bars = 28
+ F5 | F5 | F5 | F5 |
+ Bb5 | Bb5 | F5 | F5 |
+ C5 | Bb5 | F5 | F5 |
+ F6 | F6 | F6 | F7 |
+ Bb7 | Bb7 | F7 | F7 |
+ Gm7 | C7 | F6 NC NC NC | NC |
+ F5 | F5 | F5 | F5 |
+

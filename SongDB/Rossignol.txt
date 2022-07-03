@@ -1,0 +1,27 @@
+Title = Rossignol
+ComposedBy = Tino Rossi
+DBKeySig = C
+TimeSig = 4 4
+Bars = 85
+ C | C | C | C |
+ C | C | C | C |
+ C | C | G | G |
+ G | G | C | C |
+ C | C | G | G |
+ Am | D | G | G |
+ C | F | C | F |
+ C | G | C | G |
+ C | F | C | F |
+ C | G | C | F |
+ F | C | C | F |
+ G | C | C | C |
+ C | G | G | G |
+ G | C | C | C |
+ C | G | G | Am |
+ D | G | G | C |
+ F | C | F | C |
+ G | C | G | C |
+ F | C | F | C |
+ G | C | F | F |
+ C | C | F | G |
+ C |

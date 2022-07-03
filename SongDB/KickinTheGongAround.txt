@@ -1,0 +1,18 @@
+Title = Kickin' The Gong Around
+ComposedBy = Harold Arlen
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 48
+ Fm7 C7 | Fm7 C7 | Fm7 C7 | Fm7 C7 |
+ Fm7 C7 | Fm7 C7 | Fm7 C7 | Fm7 D7 |
+ Gm7 D7 | Gm7 D7 | Gm7 D7 | Gm7 C7 |
+ Fm7 C7 | Fm7 C7 | Fm7 C7 | Fm7 C7 |
+ F6 | F6 | Bbm7 F6 | Bbm7 F6 |
+ Db9 C9 | Db9 C9 | F6 | C7 |
+ F6 | F6 | Bbm7 F6 | Bbm7 F7 |
+ Db9 C9 | Db9 C9 | F6 | F6 E7 |
+ A6 | A6 | E7 | E7 |
+ C6 | G7 | C7 | C7 |
+ F6 | F6 | Bbm7 F6 | Bbm7 F6 |
+ Db9 C9 | Db9 C9 | F6 | F6 |
+

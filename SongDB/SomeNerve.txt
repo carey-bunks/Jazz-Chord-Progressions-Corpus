@@ -1,0 +1,10 @@
+Title = Some Nerve
+ComposedBy = John Scofield
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ F | F | C | C |
+ G7 | G7 | C | C |
+ F7 | F7 | C | C |
+ G7 | G7 G7 G7 D7 D7 G7 G7 G7 | C | C |
+

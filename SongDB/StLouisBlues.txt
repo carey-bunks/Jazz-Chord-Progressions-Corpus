@@ -1,0 +1,19 @@
+Title = St. Louis Blues
+ComposedBy = W.C. Handy
+DBKeySig = G
+TimeSig = 4 4
+Bars = 52
+ G | C7 | G | G7 |
+ C7 | C7 | G | G |
+ D7 | C7 | G | D7 |
+ G | C7 | G | G7 |
+ C7 | C7 | G | G |
+ D7 | C7 | G | D7 |
+ Gm | Gm | D7b9 | D7b9 |
+ Am7b5 | D7b9 | Gm | Gm D7 |
+ Gm | Gm | D7b9 | D7b9 |
+ Am7b5 | D7b9 | Gm7 A7 | D7 |
+ G | C7 | G | G7 |
+ C7 | C7 | G | G |
+ D7 | C7 | G | G |
+

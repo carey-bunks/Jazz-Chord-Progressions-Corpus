@@ -1,0 +1,22 @@
+Title = Ridin' High
+ComposedBy = Cole Porter
+DBKeySig = C
+TimeSig = 4 4
+Bars = 64
+ CM7 CM7 CM7 C7 C7 C7 C7 C7 | C7 | Go7 Go7 Go7 G7 G7 G7 G7 G7 | G7 |
+ CM7 CM7 CM7 C7 C7 C7 C7 C7 | C7 | Go7 Go7 Go7 G7 G7 G7 G7 G7 | G7 |
+ Bm7b5 | E7 | Am7 | Dm7 G7 |
+ CM7 | A7 | Dm7 G7 | CM7 |
+ CM7 CM7 CM7 C7 C7 C7 C7 C7 | C7 | Go7 Go7 Go7 G7 G7 G7 G7 G7 | G7 |
+ CM7 CM7 CM7 C7 C7 C7 C7 C7 | C7 | Go7 Go7 Go7 G7 G7 G7 G7 G7 | G7 |
+ Bm7b5 | E7 | Am7 | Dm7 G7 |
+ CM7 | A7 | Dm7 G7 | C6 C6 Fm7 Bb7 |
+ EbM7 | Cm7 | Fm7 | Bb7 |
+ EbM7 | Cm7 | Fm7 | Bb7 |
+ Gm7b5 | C7 | Fm7 | Fm7 |
+ B7 | B7 | G7 | G7 |
+ CM7 CM7 CM7 C7 C7 C7 C7 C7 | C7 | Go7 Go7 Go7 G7 G7 G7 G7 G7 | G7 |
+ CM7 CM7 CM7 C7 C7 C7 C7 C7 | C7 | Go7 Go7 Go7 G7 G7 G7 G7 G7 | G7 |
+ Bm7b5 | E7 | Am7 | Dm7 G7 |
+ CM7 | A7 | Ab7 G7 | C6 C6 Dm7 G7 |
+

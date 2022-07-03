@@ -1,0 +1,14 @@
+Title = The Chipmunk Song
+ComposedBy = Ross Bagdasarian
+DBKeySig = C
+TimeSig = 3 4
+Bars = 32
+ C | C | G7 | G7 |
+ G7 | G7 | C | C |
+ Dm | G7 | Dm | G7 |
+ Dm | G7 | C | C |
+ C | C | C | C |
+ C | C7 | F | F |
+ F | Fm | C | D9 |
+ Dm7 | G7 | C | C |
+

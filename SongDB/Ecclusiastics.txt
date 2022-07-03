@@ -1,0 +1,8 @@
+Title = Ecclusiastics
+ComposedBy = Charles Mingus
+DBKeySig = F
+TimeSig = 4 4
+Bars = 10
+ F7 Gm7 | Am7 Bb7 | B7 E7 | Am7 D7#5 |
+ Bb7 Db7 | E7 GM9 | C7 F7 | Bb7 Eb7 |
+ Ab7 Db7 | Gm7b5 C7#5#9 |

@@ -1,0 +1,13 @@
+Title = Alla En El Rancho Grande
+ComposedBy = SilvanoR. Ramos
+DBKeySig = F
+TimeSig = 2 4
+Bars = 28
+ F | F | F | C7 |
+ C7 | C7 | C7 | C7 |
+ F | F | F | F |
+ F | F | C7 | C7 |
+ C7 | C7 | F | F |
+ F | F | C7 | C7 |
+ C7 | C7 | F | F |
+

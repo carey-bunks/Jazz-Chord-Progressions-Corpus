@@ -1,0 +1,12 @@
+Title = All Alone Am I
+ComposedBy = M. Hadjidakis
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ F Dm | G C | Dm | E7 |
+ F Dm | G C | Dm G7 | C |
+ C | C | C | G7 |
+ Am | Am | Am | E7 |
+ F Dm | G C | Dm | E7 |
+ F Dm | G C | Dm G7 | C |
+

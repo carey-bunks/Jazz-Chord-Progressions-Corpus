@@ -1,0 +1,14 @@
+Title = Diane
+ComposedBy = Erno Rapee and Lew Pollack
+DBKeySig = Eb
+TimeSig = 3 4
+Bars = 32
+ Fm7 | Bb7 | Eb6 Fm7 | Gm7 Cm7 |
+ Fm7 | Bb7 | Eb6 Ab7 | Gm7 C7b9 |
+ Fm7 Fm7/Eb | Dm7b5 G7b9 | Cm7 Cm7/Bb | Am7b5 D7b9 |
+ GM7 E7b9 | Am7 D7 | G7 C7b9 | Fm7 C7b9 |
+ Fm7 | Bb7 | Eb6 Fm7 | Gm7 Cm7 |
+ Fm7 | Bb7 | Eb6 Ab7 | Gm7 C7b9 |
+ Fm7 Fm7/Eb | Dm7b5 G7b9 | Cm7 | F7 F#o7 |
+ Gm7 C7b9 | Fm7 Bb7 | Eb6 | Gm7 C7b9 |
+

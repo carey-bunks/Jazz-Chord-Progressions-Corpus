@@ -1,0 +1,14 @@
+Title = You'd Be So Nice to Come Home To
+ComposedBy = Cole Porter
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Am | Bm7b5 E7alt | Am | Am |
+ Gm7 | C7 | F | F |
+ Bm7b5 | E7 | Am | Gm7 |
+ F#m7b5 | B7 | Bm7b5 | E7alt |
+ Am | Bm7b5 E7 | Am | Am |
+ Gm7 | C7 | F | F |
+ Dm7 G7 | C | Bm7b5 E7alt | Am |
+ Em7 Ab7 | Ab7 G7 | C | Bm7b5 E7alt |
+

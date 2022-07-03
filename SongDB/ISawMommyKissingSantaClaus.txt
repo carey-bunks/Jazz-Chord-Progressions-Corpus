@@ -1,0 +1,14 @@
+Title = I Saw Mommy Kissing Santa Claus
+ComposedBy = Tommie Connor
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C C C G7 | C Am | Em | Am |
+ C | C | G7 | G7 |
+ G7 G7 G7 Go7 | G7 G7 G7 G7#5 | C Co7 | C |
+ D7 | D7 | G7 Fm | G7 G7 G7 G7#5 |
+ C C C G7 | C Am | Em | Am |
+ C CM7 | C7 | F A7 | Dm |
+ F | B7 | C A7 | Dm7 G7 |
+ C F | Fm G7 | C Ebo7 | Dm7 G7 |
+

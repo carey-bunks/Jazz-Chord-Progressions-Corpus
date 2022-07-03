@@ -1,0 +1,14 @@
+Title = Winter Wonderland
+ComposedBy = Dick Smith and Felix Bernard
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F | F | C7 | C7 |
+ C7 Gm7 | Co7 C7 | G9 C7b9 | F F F C7 |
+ F | F | C7 | C7 |
+ C7 Gm7 | Co7 C7 | G9 C7b9 | F |
+ A E7 | A | A E7 | A |
+ C G7 | C | D7 G7 | C7 |
+ F | F | C7 | C7 |
+ C7 Gm7 | Co7 C7 | G9 C7b9 | F |
+

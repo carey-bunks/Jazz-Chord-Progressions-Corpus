@@ -1,0 +1,10 @@
+Title = Listen Here
+ComposedBy = Eddie Harris
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ Bb7 | Eb7 | Bb7 | Eb7 |
+ Bb7 | Eb7 | Bb7 | Eb7 |
+ Bb7 | Eb7 | Bb7 | Eb7 |
+ Bb7 | Eb7 | Bb7 | Eb7 |
+

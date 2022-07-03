@@ -1,0 +1,18 @@
+Title = Never On Sunday
+ComposedBy = Manos Hadjidakis
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 49
+ Fm Bb7 | Fm Bb7 | Eb | NC |
+ Fm Bb7 | Fm Bb7 | Eb | NC |
+ Fm Bb7 | Fm Bb7 | Eb | NC |
+ Fm Bb7 | Fm Bb7 | Eb | Eb Eb Co7 Bb7 |
+ Eb6 | Eb6 | Bb7 | Bb7 |
+ Fm7 | Fm7 Bb7 | Eb6 | Eb Eb Co7 Bb7 |
+ Eb6 | Eb6 | Bb7 | Bb7 |
+ Fm7 | Fm7 Bb7 | Eb6 | NC |
+ Fm Bb7 | Fm Bb7 | Eb | NC |
+ Fm Bb7 | Fm Bb7 | Eb | NC |
+ Fm Bb7 | Fm Bb7 | Eb | NC |
+ Fm Bb7 | Fm Bb7 | Eb | Eb |
+ NC |

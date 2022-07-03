@@ -1,0 +1,14 @@
+Title = Fragile
+ComposedBy = Sting
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Fm7 | Fm7 | Bbm7 | Bbm7 |
+ C7b9 | C7b9 | Fm7 | Fm7 |
+ Fm7 | Fm7 | Bbm7 | Bbm7 |
+ C7b9 | C7b9 | Fm7 | Fm7 |
+ DbM7 | DbM7 | C7b13 | C7b13 |
+ Fm7 C7b9 | Fm7 | Fm7 C7b9 | Fm7 |
+ DbM7 | DbM7 | C7b13 | C7b13 |
+ Fm7 C7b9 | Fm7 | Fm7 C7b9 | Fm7 |
+

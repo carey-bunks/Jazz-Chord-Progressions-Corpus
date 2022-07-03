@@ -1,0 +1,14 @@
+Title = Spanish Eyese
+ComposedBy = Bert Kaempfert
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C | C | C | C |
+ C | C | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | C | C |
+ C | C | C | C |
+ C | C7 | F | F |
+ Fm | Fm | C | C |
+ G7 | G7 | C | C |
+

@@ -1,0 +1,9 @@
+Title = Les
+ComposedBy = Eric Dolphy
+DBKeySig = F
+TimeSig = 4 4
+Bars = 14
+ F7 | Bb7 | F7 | F#m7 B7 |
+ Bb7 | Bo7 | C7#5 | Dm7 Gb7 |
+ Gm7 | Abm7 Db7 | A7 F#7 | Ab7#11 |
+ F | F |

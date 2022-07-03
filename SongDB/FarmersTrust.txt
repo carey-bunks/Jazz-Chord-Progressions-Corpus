@@ -1,0 +1,12 @@
+Title = Farmer's Trust
+ComposedBy = Pat Metheny
+DBKeySig = C
+TimeSig = 3 4
+Bars = 24
+ G | Bm7 Bm7 G/B | C#m7 F#7b9 F#7b9 | F#7b9/B Bm7 Bm7 |
+ Am7 D7sus4 D7 | F/G G F/G | Cadd9 | Gsus4 G G7 |
+ Csus4 C C | Em7 Em7 C/E | Ab Bb Bb | Db/Eb Eb Db/Eb |
+ Abadd9 | G7#5#9 | Gb69 | Gm7b5/Db C7b9 |
+ Fm9 | Cm9 | Gm11 | AbM7 Ab7 Ab7 |
+ Csus4 C C | AbM7 Bb/Ab Bb/Ab | Csus4 | C C D |
+

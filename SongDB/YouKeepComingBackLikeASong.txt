@@ -1,0 +1,14 @@
+Title = You Keep Coming Back Like A Song
+ComposedBy = Irving Berlin
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+ EbM7 Eo7 | Fm7 Bb7 | EbM7 | Bbm7 Eb7 |
+ AbM7 Ao7 | Gm7 Cm7 | Fm7 Bb7 | EbM7 |
+ Cm7 | F7 | Bb7 | Fm7 Bb7 |
+ EbM7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+ EbM7 Eo7 | Fm7 Bb7 | G7 | G7 |
+ AbM7 Ao7 | Ao7 | Bbm7 Eb7 | AbM7 AbM7 AbM7 Db7 |
+ Gm7 Cm7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+

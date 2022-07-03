@@ -1,0 +1,12 @@
+Title = You'd Better Go Now
+ComposedBy = Robert Graham and Bickley Reichner
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ EbM7 Bb7#5 | EbM7 Eo7 | Fm7 Bb7 | Fm7 Bb7 |
+ EbM7 Bb7#5 | EbM7 Eo7 | Fm7 Bb7 | Fm7 Bb7 |
+ EbM7 C7b9 | Fm7 Bb7 | EbM7 Fm7 Gm7 AbM7 | Fm7 Bb7 |
+ EbM7 C7b9 | Fm7 Bb7 | EbM7 Fm7 | Fm7 Bb7 |
+ EbM7 Bb7#5 | EbM7 Eo7 | Fm7 Bb7 | Fm7 Bb7 |
+ EbM7 C7b9 | Fm7 Bb7 | Eb6 | Fm7 Bb7 |
+

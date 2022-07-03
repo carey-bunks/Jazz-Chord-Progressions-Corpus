@@ -1,0 +1,20 @@
+Title = If Ever I Would Leave You
+ComposedBy = Frederick Loewe
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 56
+ F9 | F9 | BbM9 Bb | Bb Bb Bb Fo7 |
+ F7 F7 F7 Go7 | F7 Bbo7 Bbo7 F7b9 | BbM9 Bb6 | Bb6 Dm Bb7 Bb7 |
+ Eb | Eb Cm F7 F7 | BbM9 Bb6 | Bb6 |
+ Cm7 G7 | Cm Cm7 Cm7 Dm7 | Cm7 | F7 |
+ F9 | F9 | BbM9 Bb | Bb Bb Bb Fo7 |
+ F7 F7 F7 Go7 | F7 Bbo7 Bbo7 F7b9 | BbM9 Bb6 | Bb6 Dm Bb7 Bb7 |
+ Eb | Eb Cm F7 F7 | BbM9 Bb6 | Bb6 |
+ Cm7 G7 | Cm Cm7 Cm7 F7b9 | Bb | Bb |
+ D D+ | D6 D6 G A7 | D DM7 | D6 |
+ F# B | F# F# Em7 A7 | D | F7 |
+ F9 | F9 | BbM9 | BbM9 BbM9 BbM9 Fo7 |
+ Cm7 F F Go7 | F7 EbM7 EbM7 Cm6 | D7sus4 D7 | Gm7 Dm Bb7 Bb7 |
+ Eb EbM7 | Cm7 Ebm | Bb | C9 |
+ F9 | Cm7 F7b9 | Bb6 | Bb6 |
+

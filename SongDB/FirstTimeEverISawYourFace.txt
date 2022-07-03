@@ -1,0 +1,10 @@
+Title = The First Time Ever I Saw Your Face
+ComposedBy = Ewan MacColl
+DBKeySig = C
+TimeSig = 4 4
+Bars = 19
+ Am7 | D7 | GM7 | GM7 |
+ Em7 | Bm7 | CM7 | CM7 |
+ D7 | GM7 | GM7 | FM7 |
+ FM7 | GM7 | GM7 | FM7 |
+ FM7 | GM7 | GM7 |

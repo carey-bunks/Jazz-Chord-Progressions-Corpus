@@ -1,0 +1,12 @@
+Title = The Kicker
+ComposedBy = Joe Henderson
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 24
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Ebm7 | Ab7 | DbM7 | GbM7 |
+ C7#9 | F7#9 | Bbm7 | F7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Ebm7 | Ab7 | DbM7 | GbM7 |
+ C7#9 | F7#9 | Bbm7 | F7 |
+

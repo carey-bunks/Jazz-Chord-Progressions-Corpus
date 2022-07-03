@@ -1,0 +1,10 @@
+Title = Spooky
+ComposedBy = Harry Middlebrooks and Mike Sharpe
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 16
+ Cm7 | F6 | Cm7 | F6 |
+ Cm7 | F6 | Cm7 | F6 |
+ Cm7 | Cm7 | F7 | F#o7 |
+ Cm7 | F7 | Cm7 | G7alt |
+

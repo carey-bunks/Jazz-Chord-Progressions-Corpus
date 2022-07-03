@@ -1,0 +1,11 @@
+Title = Love Is Like A Heatwave
+ComposedBy = Edward Holland, Lamont Dozier, Brian Holland
+DBKeySig = C
+TimeSig = 4 4
+Bars = 20
+ Dm7 | Em7 | Am | Am |
+ Dm7 | Em7 | Am | Am |
+ Dm7 | Em7 | F6 | G7 |
+ C F C F | C F C F | C F C F | C F C F |
+ C F C F | C F C F | C F C F | C |
+

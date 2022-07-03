@@ -1,0 +1,14 @@
+Title = Big Bertha
+ComposedBy = Duke Pearson
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ Bbm6 | Cm7b5 F7 | Bbm6 | Cm7b5 F7 |
+ Bbm6 | Cm7b5 F7 | Bbm6 | Cm7b5 B7 |
+ Bbm6 | Cm7b5 F7 | Bbm6 | Cm7b5 F7 |
+ Bbm6 | Cm7b5 F7 | Bbm6 | Bbm6 Bbm6 A13 Ab13 |
+ Ab13 | Ab13 | Ab13 | Ab13 Ab13 G13 Gb13 |
+ Gb13 | Gb13 | F13 | F13 |
+ Bbm6 | Cm7b5 F7 | Bbm6 | Cm7b5 F7 |
+ Bbm6 | Cm7b5 F7 | Bbm6 | Cm7b5 B7 |
+

@@ -1,0 +1,11 @@
+Title = Step Lightly
+ComposedBy = Clifford Brown
+DBKeySig = G
+TimeSig = 4 4
+Bars = 20
+ Em7 G7 | C7 B7 | Em7 G7 | C7 B7 |
+ Em7 C#m7b5 | Cm7 | Bm7 | Bb13 |
+ Am7 D7 | G B7 | Em7 G7 | C7 B7 |
+ Em7 G7 | C7 B7 | Em7 C#m7b5 | Cm7 |
+ Bm7 | Bb13 | Am7 D7 | G G7 |
+

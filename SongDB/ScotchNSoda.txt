@@ -1,0 +1,15 @@
+Title = Scotch and Soda
+ComposedBy = Dave Guard
+DBKeySig = C
+TimeSig = 4 4
+Bars = 36
+ Cm7 | Ab7 | Bb | Dm7 G7 |
+ C7 | Cm7 F7 | Dm7 Dbm7 | Cm7 F7 |
+ Cm7 | Ab7 | Bb | Dm7 G7 |
+ C7 | Cm7 F7 | Bb | Fm7 Bb7 |
+ Eb | Eb | Bb Bb Cm7 F7 | Bb |
+ C7 | C7 | F7 | Cm7 F7 |
+ Cm7 | Ab7 | Bb | Dm7 G7 |
+ C7 | Cm7 F7 | Dm7 | G7alt |
+ Cm7 | F7 Eb7 | Bb | Dm7b5 G7alt |
+

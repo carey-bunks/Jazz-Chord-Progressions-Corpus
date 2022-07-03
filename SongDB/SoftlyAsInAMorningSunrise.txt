@@ -1,0 +1,14 @@
+Title = Softly As In A Morning Sunrise
+ComposedBy = Sigmund Romberg
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Cm | Dm7b5 G7 | Cm | Dm7b5 G7 |
+ Cm | Dm7b5 G7 | Cm | G7 |
+ Cm | Dm7b5 G7 | Cm | Dm7b5 G7 |
+ Cm | Dm7b5 G7 | Cm | Fm7 Bb7 |
+ Eb | Eb | C7alt | C7alt |
+ Fm | F#o7 | Dm7b5 | G7+ |
+ Cm | Dm7b5 G7 | Cm | Dm7b5 G7 |
+ Cm | Dm7b5 G7 | Cm | Dm7b5 G7 |
+

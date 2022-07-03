@@ -1,0 +1,14 @@
+Title = What Kind of Fool Am I
+ComposedBy = Leslie Bricusse, Anthony Newley
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | Cm7 | Fm7 | Bb7 |
+ EbM7 | C7 | Fm7 | Bb7 |
+ EbM7 | Cm7 | F7 | F7/Eb |
+ Dm7 Gm7 | Cm7 F7 | Fm7 | Bb7 |
+ EbM7 | Cm7 | Fm7 | Bb7 |
+ EbM7 | EbM7 | Bbm7 | Eb7 |
+ AbM7 | Db7 | Cm7 | F7 |
+ Fm7 | Bb7sus | Eb69 | Fm7 Bb7b9 |
+

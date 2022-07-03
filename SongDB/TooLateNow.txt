@@ -1,0 +1,14 @@
+Title = Too Late Now
+ComposedBy = Alan Jay Lerner and Burton Lane
+DBKeySig = C
+TimeSig = 4 4
+Bars = 34
+ C Am7 | Dm7 | C Am7 | Dm7 G7 |
+ C Am7 | F#m7b5 D7 | C C C Ebo7 | Dm7 G7 |
+ C Am7 | Dm7 | C Am7 | Dm7 G7 |
+ C Am7 | F#m7b5 D7 | C C C G9 | C |
+ Bm7 E7 | Am | Bm E7 | Am |
+ Am7 D7 | Gm | Am Am Am D7 | G7 |
+ C Am7 | Dm7 | C Am7 | Dm7 G7 |
+ C Am7 | F#m7b5 D7 | C C C#m7b5 C#o7 | Dm7 Dm7 Dm7 G9 |
+ C Am7 | FM7 C |

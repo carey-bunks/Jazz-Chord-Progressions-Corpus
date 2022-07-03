@@ -1,0 +1,14 @@
+Title = I'll String Along With You
+ComposedBy = Harry Warren
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Eb | Eb | Eb | G7 C7 |
+ Fm7 | Bb7 | Bb7 | Eb Bb7 |
+ Eb | Eb | Eb | G7 C7 |
+ Fm7 | Bb7 | Bb7 | Eb Eb7 |
+ Ab Ao | Eb Gbo | Bb7 Eo | Fm7 Bb7 |
+ Eb Eb7 | Ab Abm | Eb F7 | Bb7+ |
+ Eb | Eb | Eb | G7 C7 |
+ Fm7 | Bb7 | Bb7 | Eb |
+

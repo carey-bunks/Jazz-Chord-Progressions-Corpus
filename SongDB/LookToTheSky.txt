@@ -1,0 +1,14 @@
+Title = Look To The Sky
+ComposedBy = Antonio Carlos Jobim
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | EbM7 | Ebm7 | Ab7 |
+ EbM7 | EbM7 | Gm7 | C7b9 |
+ Fm7 | Fm7 | Abm7 | Db7 |
+ Gm7 | Gbo7 | Fm7 | Bb7#5 |
+ EbM7 | EbM7 | Ebm7 | Ab7 |
+ EbM7 | EbM7 | Gm7 | C7b9 |
+ Fm7 | Fm7 | Abm7 | Db7 |
+ GbM7 | EM7#11 | EbM7 | EbM7 |
+

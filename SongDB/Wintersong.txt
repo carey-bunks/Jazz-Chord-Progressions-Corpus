@@ -1,0 +1,14 @@
+Title = Wintersong
+ComposedBy = Sarah McLachlan
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | F7 E7 |
+ EbM7 A7 | AbM7 AbM7 Gm7 C7 | F7 | Bb7 |
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | F7 E7 |
+ EbM7 A7 | AbM7 AbM7 Gm7 C7 | F7 Bb7 | EbM7 EbM7 Am7b5 D7 |
+ Gm7 | Am7b5 D7b9 | Gm7 | C7 F7 |
+ BbM7 Gm7 | Cm7 F7 | BbM7 Eo7 | Fm7 Bb7 |
+ EbM7 Cm7 | Fm7 Bb7 | Gm7 C7 | F7 Bb7 |
+ EbM7 A7 | AbM7 AbM7 Gm7 C7 | F7 Bb7 | EbM7 EbM7 Fm7 Bb7 |
+

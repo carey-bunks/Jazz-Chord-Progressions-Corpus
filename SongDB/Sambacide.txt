@@ -1,0 +1,19 @@
+Title = Sambacide
+ComposedBy = Bill Dobbins
+DBKeySig = C
+TimeSig = 4 4
+Bars = 52
+ D7#9 | D7#9 | G7#9 | G7#9 |
+ C7#9 | C7#9 | BM7 | E69 |
+ AM7 | D69 | DbM7#11 | GbM7#11 |
+ DbM7#11 | GbM7#11 | Cm9 Bbm9 | Cm9 Bbm9 |
+ Bbm9 Abm9 | Bbm9 Abm9 | AM7#11 | GM7#11 |
+ AM7#11 | GM7#11 | AM7#11 | GM7#11 |
+ GM7#11 GM7#11 Eb7#9 | Eb7#9 | D7#9 | D7#9 |
+ G7#9 | G7#9 | C7#9 | C7#9 |
+ BM7 | E69 | AM7 | D69 |
+ DbM7#11 | GbM7#11 | DbM7#11 | GbM7#11 |
+ Cm9 Bbm9 | Cm9 Bbm9 | Bbm9 Abm9 | Bbm9 Abm9 |
+ AM7#11 | GM7#11 | AM7#11 | GM7#11 |
+ AM7#11 | GM7#11 | GM7#11 GM7#11 Eb7#9 | Eb7#9 |
+

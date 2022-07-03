@@ -1,0 +1,14 @@
+Title = It's Only A Paper Moon
+ComposedBy = Harold Arlen
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F F#o7 | Gm7 C7 | Gm7 C7 | F |
+ F F7 | Bb Bo7 | C7 | F C7 |
+ F F#o7 | Gm7 C7 | Gm7 C7 | F |
+ F F7 | Bb Bo7 | C7 | F |
+ Bb Bo7 | F D7 | Gm7 C7 | F |
+ Bb Bo7 | F | Am7 D7 | Gm7 C7 |
+ F F#o7 | Gm7 C7 | Gm7 C7 | F |
+ F F7 | Bb Bo7 | C7 | F |
+

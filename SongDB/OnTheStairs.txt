@@ -1,0 +1,12 @@
+Title = On the Stairs
+ComposedBy = Pat Martino
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 24
+ Gm7 | Gm7 | Gm7 | Gm7 |
+ Gm7 | Gm7 | Gm7 | Gm7 |
+ Cm7 | Cm7 | Cm7 | Cm7 |
+ Gm7 | Gm7 | Gm7 | Gm7 |
+ D7#9 | D7#9 | D7#9 | D7#9 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+

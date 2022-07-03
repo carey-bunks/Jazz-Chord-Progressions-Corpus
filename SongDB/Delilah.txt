@@ -1,0 +1,14 @@
+Title = Delilah
+ComposedBy = Clifford Brown
+DBKeySig = A
+TimeSig = 4 4
+Bars = 32
+ F#m | F#m | F#m | F#m |
+ Bm | D7 D7 D7 C#7 | Gm F#m | F#m |
+ F#m | F#m | F#m | F#m |
+ Bm | D7 D7 D7 C#7 | Gm F#m | F#m |
+ Bm | Bm | C#7 | C#7 |
+ D7 | D7 | C#m7b5 | C#m7b5 |
+ F#m | F#m | F#m | F#m |
+ Bm | D7 D7 D7 C#7 | Gm F#m | F#m |
+

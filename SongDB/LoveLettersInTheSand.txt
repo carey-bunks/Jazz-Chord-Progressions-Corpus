@@ -1,0 +1,14 @@
+Title = Love Letters In The Sand
+ComposedBy = J. Fred Coots
+DBKeySig = D
+TimeSig = 4 4
+Bars = 32
+ D | D D D Bb | Em | E7 |
+ A7 | Em Gm | D | D Do7 |
+ D | D D D Bb | Em | E7 |
+ A7 | E7 A7 | D | D |
+ F#7 | F#7 | Bm | Bm |
+ E7 | E7 | G G G A7 | A7 Do7 |
+ D | D D D Bb | Em | E7 |
+ A7 | E7 A7 | D G | D |
+

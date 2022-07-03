@@ -1,0 +1,14 @@
+Title = Buster Rides Again
+ComposedBy = Bud Powell
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Eb7 | Bb7 | Eb7 | Bb7 |
+ Eb7 | Bb7 | Gb7 | F7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Eb7 | Bb7 | Eb7 | Bb7 |
+ Eb7 | Bb7 | Gb7 F7 | Bb7 |
+

@@ -1,0 +1,14 @@
+Title = The Jitterbug Waltz
+ComposedBy = Thomas "Fats" Waller
+DBKeySig = Db
+TimeSig = 3 4
+Bars = 32
+ DbM7 | DbM7 | DbM7 | DbM7 |
+ Gb7 | Gb7 | Gb7 | Gb7 |
+ DbM7 | DbM7 | DbM7 | DbM7 |
+ Fm7 | Fm7 | Bb7 | Bb7 |
+ Bbm7 | Bbm7 | Eb7 | Eb7 |
+ F#m7 | F#m7 | B7#11 | B7#11 |
+ Bb7 | Bb7 | Ebm7 | Ab7 |
+ DbM7 | DbM7 | Ebm7 | Ab7 |
+

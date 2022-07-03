@@ -1,0 +1,12 @@
+Title = Ain't Too Proud to Beg
+ComposedBy = Eddie Holland and Norman Whitfield
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ C | C F | C | C F |
+ C | C F | C | C |
+ C F | C F | C F | C F |
+ C FM | C F | C F | C F |
+ C F | C F | C F | C F |
+ C FM | C F | C F | C F |
+

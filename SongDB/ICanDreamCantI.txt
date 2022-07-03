@@ -1,0 +1,14 @@
+Title = I Can Dream, Can't I
+ComposedBy = Sammy Fain
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | EbM7 | Abm6 | Fm7 Bb7 |
+ EbM7 | EbM7 | Gm7b5 | C7b9 |
+ Fm7 | Dm7b5 G7b9 | Cm7 | Cm7 |
+ Cm7 F7 | F7 | Abm6 | Fm7 Bb7 |
+ EbM7 | EbM7 | Abm6 | Fm7 Bb7 |
+ EbM7 | EbM7 | Gm7b5 | C7b9 |
+ Fm7 | F#o7 | EbM7 | Gm7b5 C7b9 |
+ Fm7 | Abm7 | Fm7 Bb7 | EbM7 Bb7 |
+

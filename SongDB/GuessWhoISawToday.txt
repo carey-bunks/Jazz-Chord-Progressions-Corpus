@@ -1,0 +1,13 @@
+Title = Guess Who I Saw Today
+ComposedBy = Murray Grand
+DBKeySig = F
+TimeSig = 4 4
+Bars = 30
+ Gm7 C7b9 | FM7 Dm7 | Gm7 C7 | FM7 |
+ Gm7 C7 | A7 D7 | Gm7 C7b9 | FM7 Dm7 |
+ Gm7 C7b9 | FM7 | Gm7 C7 | A7 D7 |
+ Gm7 C7b9 | F6 Gb F6 F6 | Bbm7 Eb7 | AbM7 |
+ Bbm7 Eb7 | AbM7 | Am7 D7 | GM7 |
+ Am7 D7 | GM7 | Gm7 C7b9 | FM7 Dm7 |
+ Gm7 Gm7 C7 C7/Bb | Am7 D7 | Gm7 Gm7 C7 A7 | Dm7 Dm7 G7 Db7 |
+ F6/C Dm7 Gm7 C7b9 | FM7 D7b9 |

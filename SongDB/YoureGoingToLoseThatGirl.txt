@@ -1,0 +1,22 @@
+Title = You're Going to Lose that Girl
+ComposedBy = John Lennon and Paul McCartney
+DBKeySig = C
+TimeSig = 4 4
+Bars = 64
+ E | C#m | F#m | B7 |
+ E | G#m | F#m | B7 |
+ E | G#m | F#m | B7 |
+ E | C#m | F#m | B7 |
+ E | G#m | F#m | B7 |
+ E | G#m | F#m | B7 |
+ E | C#m | F#m | B7 |
+ F#m | D | G | C |
+ G | G | G | C |
+ F | E | G#m | F#m |
+ B7 | E | G#m | F#m |
+ B7 | E | C#m | F#m |
+ B7 | E | G#m | F#m |
+ B7 | E | G#m | F#m |
+ B7 | E | C#m | F#m |
+ B7 | F#m | D | E |
+

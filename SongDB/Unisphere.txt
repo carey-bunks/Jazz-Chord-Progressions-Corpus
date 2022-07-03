@@ -1,0 +1,14 @@
+Title = Unisphere
+ComposedBy = Dave Brubeck
+DBKeySig = C
+TimeSig = 10 4
+Bars = 32
+ EbM9 EbM9 EbM9 EbM9 EbM9 Am7 Am7 Abo7 Abo7 Bb7b9 | EbM9 EbM9 EbM9 EbM9 EbM9 A13 A13 A13 A7#5 D7b9 | Gm Gm Gm Gm Gm Am7b5 Am7b5 D7b9 C#o7 Ebo7 | Gm Gm Gm Gm Gm Bbm11 Bbm11 Bbm11 Eb7 Eb7 |
+ Ab Gm | Fm7 D7 | Gm7b5 C7b9 | Fm7b5 Bb7b9 |
+ EbM9 EbM9 EbM9 EbM9 EbM9 Am7 Am7 Abo7 Abo7 Bb7b9 | EbM9 EbM9 EbM9 EbM9 EbM9 A13 A13 A13 A7#5 D7b9 | Gm Gm Gm Gm Gm Am7b5 Am7b5 D7b9 D7b9 D7b9 | Gm Gm Gm Gm Gm Bbm11 Bbm11 Bbm11 Eb7 Eb7 |
+ Ab Ab Ab Ab Ab Gm Gm Gm Gm Gm | Fm7 Fm7 Fm7 Fm7 Fm7 Db7 Db7 Db7 Db7 Db7 | EbM9 EbM9 EbM9 EbM9 EbM9 F13#11 F13#11 F13#11 F13#11 F13#11 | Fm7 Fm7 Fm7 Fm7 Fb Eb6 Eb6 Eb6 Bb7b9 Bb7b9 |
+ EbM9 EbM9 EbM9 EbM9 EbM9 Am7 Am7 Abo7 Abo7 Bb7b9 | EbM9 EbM9 EbM9 EbM9 EbM9 A13 A13 A13 A7#5 D7b9 | Gm Gm Gm Gm Gm Am7b5 Am7b5 D7b9 C#o7 Ebo7 | Gm Gm Gm Gm Gm Bbm11 Bbm11 Bbm11 Eb7 Eb7 |
+ Ab Gm | Fm7 D7 | Gm7b5 C7b9 | Fm7b5 Bb7b9 |
+ EbM9 EbM9 EbM9 EbM9 EbM9 Am7 Am7 Abo7 Abo7 Bb7b9 | EbM9 EbM9 EbM9 EbM9 EbM9 A13 A13 A13 A7#5 D7b9 | Gm Gm Gm Gm Gm Am7b5 Am7b5 D7b9 D7b9 D7b9 | Gm Gm Gm Gm Gm Bbm11 Bbm11 Bbm11 Eb7 Eb7 |
+ Ab Ab Ab Ab Ab Gm Gm Gm Gm Gm | Fm7 Fm7 Fm7 Fm7 Fm7 Db7 Db7 Db7 Db7 Db7 | EbM9 EbM9 EbM9 EbM9 EbM9 F13#11 F13#11 F13#11 F13#11 F13#11 | Fm7 Fm7 Fm7 Fm7 Fb Eb6 Eb6 Eb6 Eb6 Eb6 |
+

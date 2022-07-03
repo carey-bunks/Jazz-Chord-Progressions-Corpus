@@ -1,0 +1,22 @@
+Title = Will You Still Love Me Tomorrow?
+ComposedBy = Gerry Goffin and Carole King
+DBKeySig = C
+TimeSig = 4 4
+Bars = 64
+ CM7 | CM7 | FM7 | Dm7/G |
+ CM7 | CM7 | Dm7/G | G7 |
+ Bm7/E | E7 | Am7 | Am7 Am7 Am7 G7 |
+ FM7 | G7 | FM7/C | CM7 |
+ CM7 | CM7 | FM7 | Dm7/G |
+ CM7 | CM7 | Dm7/G | G7 |
+ Bm7/E | E7 | Am7 | Am7 Am7 Am7 G7 |
+ FM7 | G7 | FM7/C | CM7 |
+ FM7 | FM7 | Em7 | Em7 |
+ FM7 | Dm7/G | CM7 | CM7 |
+ FM7 | FM7 | Em7 | Em7 |
+ Am7 | D7 | Dm7/G | G7 |
+ CM7 | Dm7/G | FM7 | Dm7/G |
+ CM7 | Dm7/G | Dm7/G | G7 |
+ Bm7/E | E7 | Am7 | Am7 Am7 Am7 G7 |
+ FM7 | G7 | Dm7/G | CM7 |
+

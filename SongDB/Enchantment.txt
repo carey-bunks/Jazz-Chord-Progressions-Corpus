@@ -1,0 +1,14 @@
+Title = Enchantment
+ComposedBy = Horace Silver
+DBKeySig = E
+TimeSig = 4 4
+Bars = 32
+ C#m9 | F#9 | A9 | C#m9 |
+ A9 | C#m9 | D9#11 | C#69 |
+ C#m9 | F#9 | A9 | C#m9 |
+ A9 | C#m9 | D9#11 | C#69 |
+ G#m9 | G9#11 | F#M9 | F#M9 |
+ F#m9 | F9 | EM9 | D#m7b5 D9#11 |
+ C#m9 | F#9 | A9 | C#m9 |
+ A9 | C#m9 | D9#11 | C#69 |
+

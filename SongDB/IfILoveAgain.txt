@@ -1,0 +1,15 @@
+Title = If I Love Again
+ComposedBy = BenOakland
+DBKeySig = F
+TimeSig = 4 4
+Bars = 36
+ F | C7sus4 C7 | F | C7sus4 C7 |
+ F7 Cm7 D7b9 D7b9 | Gm7 | C7b9 | F |
+ Dm | Gm | Dm | Am7b5 G7 |
+ Cm | F9 F9 G7#5b9 G9#5 | C Bb/C | C7 C7+ |
+ F | C7sus4 C7 | F | C7sus4 C7 |
+ F7 Cm7 D7b9 D7b9 | Gm7 | C7b9 | F |
+ Dm | Dm7 | Dm6 | Bbm6 |
+ F | C7sus4 C7 | Am7b5 | D7 |
+ Bbm | Go7 Gb6 | F | F |
+

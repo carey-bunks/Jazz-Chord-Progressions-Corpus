@@ -1,0 +1,14 @@
+Title = Three Coins in the Fountain
+ComposedBy = Jule Styne
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | Fm7 Bb7 Bb7 Bb7 | Fm7 | Eb |
+ Eb EbM7 Cm7 Cm7 | F7 Cm7 | Abm6 Abm6 Abm6 Bb7 | Eb Fm7 |
+ Eb | Fm7 Bb7 Bb7 Bb7 | Fm7 | Eb |
+ Eb EbM7 Cm7 Cm7 | F7 Cm7 | Abm6 Abm6 Abm6 Bb7 | Eb EbM7 Fm7 Eb |
+ Ab | Eb | Abm | Fm7 Bb7b5 |
+ Eb | Fm7 Bb7 Bb7 Bb7 | Fm7 | Eb |
+ Eb EbM7 Cm7 Cm7 | F7 F7 Cm7 F7 | Abm6 Abm6 Abm6 Bb7 | Eb Eb Eb Eb9 |
+ Ab | Fm7 | Eb | Fm7 Bb7 |
+

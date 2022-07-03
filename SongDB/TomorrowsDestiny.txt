@@ -1,0 +1,22 @@
+Title = Tomorrow's Destiny
+ComposedBy = Woody Shaw
+DBKeySig = C
+TimeSig = 4 4
+Bars = 64
+ Fm7 | Fm7 | DbM7#11 | DbM7#11 |
+ Fm7 | Fm7 | DbM7#11 | DbM7#11 |
+ F7#5b9 | F7#5b9 | DbM7#11 | DbM7#11 Eb7 |
+ EbM7#11 | EbM7#11 | Fm7 Bbm7/Eb | Bbm7/Eb |
+ F7#5b9 | F7#5b9 | DbM7#11 | DbM7#11 Eb7 |
+ EbM7#11 | EbM7#11 | Fm7 Bbm7/Eb | Bbm7/Eb |
+ F7 G7 | BM7 | Eb7 F7 | AM7 |
+ Db7 Eb7 | GM7 | B7 Db7 | FM7 |
+ Fm7 | Fm7 | Fm7 | Fm7 |
+ Fm7 | Fm7 | Fm7 | C7alt |
+ F7#5b9 | F7#5b9 | DbM7#11 | DbM7#11 Eb7 |
+ EbM7#11 | EbM7#11 | Fm7 Bbm7/Eb | Bbm7/Eb |
+ F7#5b9 | F7#5b9 | DbM7#11 | DbM7#11 Eb7 |
+ EbM7#11 | EbM7#11 | Fm7 Bbm7/Eb | Bbm7/Eb |
+ Fm7 | Fm7 | Fm7 | Fm7 |
+ Fm7 | Fm7 | Fm7 | Fm7 |
+

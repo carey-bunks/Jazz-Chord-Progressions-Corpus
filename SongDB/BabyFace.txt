@@ -1,0 +1,14 @@
+Title = Baby Face
+ComposedBy = Benny Davis and Harry Akst
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C | C | C | C C C Go7 |
+ G7 | G7 | G7 | G7 G7 G7 Co7 |
+ G7 | G7 | C C Gm6 A7 | A7 |
+ D7 | D7 | G7 | G7 |
+ C | C | C | C |
+ E7 | Bm7 E7 | Am | C7 |
+ F | Co7 | C | A7 A7 A7 G#7 |
+ D7 D+ | G7 | C Co7 | Dm7 G7 |
+

@@ -1,0 +1,16 @@
+Title = Montmartre
+ComposedBy = Dexter Gordon
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 40
+ Bbm7 | Cm7b5 F7alt | Bbm7 | B7#11 |
+ Bbm7 | Cm7b5 | Cm7b5 | F7alt |
+ Bbm7 | Cm7b5 F7alt | Bbm7 | B7#11 |
+ Bbm7 | Cm7b5 | Cm7b5 F7alt | Bbm7 |
+ Fm7 | Bb7 | Em7 Em7 Em7 A7 | Ebm7 Ebm7 Ebm7 Ab7 |
+ Fm7 | Bb7 | Cm7b5 | F7alt |
+ Bbm7 | Cm7b5 F7alt | Bbm7 | B7#11 |
+ Bbm7 | Cm7b5 | Cm7b5 F7alt | Bbm7 |
+ G7 | F7 | Eb7 | Db7 |
+ Cm7b5 | B7#11 | Bbm7 | Bbm7 |
+

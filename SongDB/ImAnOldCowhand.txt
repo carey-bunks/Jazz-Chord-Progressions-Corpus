@@ -1,0 +1,10 @@
+Title = I'm An Old Cowhand
+ComposedBy = Johnny Mercer
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 18
+ Fm7 | Bb7 | EbM7 Ab7 | Gm7 C7 |
+ Fm7 | Bb7 | EbM7 | Dm7 G7alt |
+ Cm7 | Gm7 | Cm7 | Gm7 |
+ Cm7 | Gm7 C7b9 | Fm7 Bb7 | EbM7 C7alt |
+ Fm7 Bb7 | EbM7 |

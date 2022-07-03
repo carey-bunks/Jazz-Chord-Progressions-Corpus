@@ -1,0 +1,9 @@
+Title = Walkin
+ComposedBy = Richard Carpenter
+DBKeySig = C
+TimeSig = 4 4
+Bars = 13
+ F9#11 | Bb9#11 | F9sus4 | F9 |
+ Bb9#11 | Bb9 | F9#11 | F9 D7#9 |
+ A9#11 Ab9#11 Ab9#11 Db7#9/Ab | C7#9/G C7#9/G G9#11 Gb9#11 | C7#5#9 | F13 |
+ NC |

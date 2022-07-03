@@ -1,0 +1,10 @@
+Title = Ran Kan Kan
+ComposedBy = Tito Puente
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ D Am7 | D Am7 | D Am7 | D Am7 |
+ D Am7 | D Am7 | D Am7 | D Am7 |
+ D Am7 | D Am7 | D Am7 | D Am7 |
+ D Am7 | D Am7 | D | D |
+

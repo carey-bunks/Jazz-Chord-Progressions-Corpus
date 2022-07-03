@@ -1,0 +1,16 @@
+Title = All the Cats Join In
+ComposedBy = Eddie Sauter
+DBKeySig = F
+TimeSig = 4 4
+Bars = 40
+ F Bb | F F Bb Bbm | F C7 | F C7 |
+ F F Bb C7 | F F Cm D7 | G7+ | C7 A7 |
+ Dm Em7b5 | Dm Gm6 | Dm Gm7 | Dm A7+ |
+ Dm Bb7 | Bm7b5 A7 | Dm G | Dm G |
+ Dm Em7b5 | Dm Gm6 | Dm Gm7 | Dm A7+ |
+ Dm Bb7 | Bm7b5 A7 | Dm G | Dm G |
+ E7 | A7 | D7 | Gm |
+ Dm A7 | Dm7 Dm6 | Bb7b5 | A7 |
+ Dm Em7b5 | Dm Gm6 | Dm Gm7 | Dm A7 |
+ Dm Bb7 | Bm7b5 A7 | Dm G | Dm |
+

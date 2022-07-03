@@ -1,0 +1,14 @@
+Title = The Breeze and I
+ComposedBy = Ernesto Lechona and Al Stillman
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 34
+ Eb6 | Eb6 | Eb6 | Eb6 |
+ Dbm | Dbm | Eb6 | Eb6 Eb6 Eb6 Bb7 |
+ Eb6 | Eb6 | Eb6 | Eb6 |
+ Dbm | Dbm | Eb6 | Eb6 |
+ Fm7 | Fm7/Bb | EbM7 | Cm7 |
+ Fm7 | Bb7 | EbM7 | C7b9 |
+ Fm7 | Fm7/Bb | EbM7 | C7 |
+ Fm7 | Bb7 | Eb6 | Eb6 Bb7 |
+ Eb6 | Eb6 Bb7 |

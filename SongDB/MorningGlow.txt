@@ -1,0 +1,17 @@
+Title = Morning Glow
+ComposedBy = Stephen Schwartz
+DBKeySig = C
+TimeSig = 4 4
+Bars = 44
+ C G/C | G/C F/C | C G/C | G/C F/C |
+ G Dm7 | Dm7 Am | F D7/F# | G |
+ C/E F | Gm | C G/C | G/C F/C |
+ C G/C | G/C F/C | C G/C | G/C F/C |
+ G Dm7 | Dm7 Am | F D7/F# | G |
+ C/E F | Gm | C G/C | G/C F/C |
+ Am Dm | G | Am Dm | G |
+ Am F | Dm Bb | Gsus4 G | Gm |
+ C G/C | G/C F/C | C G/C | G/C F/C |
+ G Dm7 | Dm7 Am | F D7/F# | G |
+ C/E F | Gm | C G/C | C |
+

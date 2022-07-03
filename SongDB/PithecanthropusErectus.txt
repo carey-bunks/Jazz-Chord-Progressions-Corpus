@@ -1,0 +1,11 @@
+Title = Pithecanthropus Erectus
+ComposedBy = Charles Mingus
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 22
+ Fm | DbM7 | Gm7b5 | C7b9 |
+ Db/F | Db/D | Eb7b9 | Ab7#11 NC NC NC |
+ Gm7b5 | C7#9 | Fm7 | DbM7 |
+ Abm7 | Db7 | GbM7 | Gm7b5 C7 |
+ Fm7 | Bb7 | Fm7 | Bb7 |
+ Gm7b5 | C7#9 |

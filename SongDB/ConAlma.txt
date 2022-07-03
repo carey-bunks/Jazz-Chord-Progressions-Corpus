@@ -1,0 +1,14 @@
+Title = Con Alma
+ComposedBy = Dizzy Gillespie
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ EM7 Ab7/Eb | Dbm7 B7 | Bb7 E7 | EbM7 EbM7 Ebm7 Ab7 |
+ DbM7 F7/C | Bbm7 Ab7 | G7 Db7 | CM7 CM7 F#m7 B7 |
+ EM7 Ab7/Eb | Dbm7 B7 | Bb7 E7 | EbM7 EbM7 Ebm7 Ab7 |
+ DbM7 F7/C | Bbm7 Ab7 | G7 Db7 | CM7 |
+ Cm7b5 | F7b9 | F#m7b5 | B7b9 |
+ EM7 | EM7 | Fm7 | Bb7 Bb7 F#m7 B7 |
+ EM7 Ab7/Eb | Dbm7 B7 | Bb7 E7 | EbM7 EbM7 Ebm7 Ab7 |
+ DbM7 F7/C | Bbm7 Ab7 | G7 Db7 | CM7 CM7 F#m7 B7 |
+

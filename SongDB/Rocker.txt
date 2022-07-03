@@ -1,0 +1,16 @@
+Title = Rocker
+ComposedBy = Gerry Mulligan
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 40
+ Dm7 Dm7 Dm7 Db7 Db7 Db7 Cm7 Cm7 | Cm7 F7 | Bb Bb Bb Fo Fo Fo Cm7 Cm7 | Cm7 F7 |
+ Dm7 Dm7 Dm7 Ebm Ebm Ebm Bo7 Bo7 | Bo7 Ebm | Dm7 Dm7 Dm7 Db7 Db7 Db7 Cm7 Cm7 | Cm7 F7 |
+ Bb Bb Bb Fo Fo Fo Cm7 Cm7 | Cm7 F7 | Dm7 Dm7 Dm7 Ebm Ebm Ebm Bo7 Bo7 | Bo7 Ebm |
+ Dm7 Dm7 Dm7 Db7 Db7 Db7 Cm7 Cm7 | Cm7 B7 B7 B7 | Em7 | Em7 A7 |
+ D | D | Em7 | Em7 A7 |
+ D | D | Dm7 | Dm7 G7 |
+ C | A7 | Em7 | Em7 A7 |
+ F#m7 Gm7 | Do7 Gm7 | F#m7 F#m7 F#m7 F7 F7 F7 Em7 Em7 | Em7 Eb7 |
+ Dm7 Dm7 Dm7 Db7 Db7 Db7 Cm7 Cm7 | Cm7 F7 | Bb Bb Bb Fo Fo Fo Cm7 Cm7 | Cm7 F7 |
+ Dm7 Dm7 Dm7 Ebm Ebm Ebm Bo7 Bo7 | Bo7 Ebm | Dm7 Dm7 Dm7 Db7 Db7 Db7 Cm7 Cm7 | Cm7 B7 B7 B7 |
+

@@ -1,0 +1,14 @@
+Title = Subconscious Lee
+ComposedBy = Lee Konitz
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C7 | C7 | Fm7 | Fm7 |
+ G7 | G7 | CM7 | CM7 |
+ C7 | C7 | Fm | Fm |
+ G7 | G7 | CM7 | CM7 |
+ F7 | F7 | BbM7 | BbM7 |
+ Ab7 | Ab7 | G7 | G7 |
+ C7 | C7 | Fm7 | Fm7 |
+ G7 | G7 | CM7 | CM7 |
+

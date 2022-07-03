@@ -1,0 +1,17 @@
+Title = Goodbye
+ComposedBy = Gordon Jenkins
+DBKeySig = C
+TimeSig = 4 4
+Bars = 44
+ A7 Ab7 | A7 Ab7 | G7+ Ab7 | G7+ Db7 |
+ Cm7 Cm7/Bb | Am7b5 Ab9 | Cm7/G Ab7/Gb | G7/F Cm7/Eb |
+ Dm7 B7 | Ab7 G7+ | CM7 Fm | CM7 Bb7 |
+ A7 Ab7 | A7 Ab7 | G7+ Ab7 | G7+ Db7 |
+ Cm7 Cm7/Bb | Am7b5 Ab9 | Cm7/G Ab7/Gb | G7/F Cm7/Eb |
+ Dm7 B7 | Ab7 G7+ | CM7 Fm | CM7 Eb7 |
+ Dm9b5 | Dm7 G7b9 | CM7 Bb7 | Ab7b5 Gb7b5 |
+ Fm7b5 B7+ | Bb7sus4 Bb7 | EbM7 AbM7 | DbM7 Bm7 |
+ A7 Ab7 | A7 Ab7 | G7+ Ab7 | G7+ Db7 |
+ Cm7 Cm7/Bb | Am7b5 Ab9 | Cm7/G Ab7/Gb | G7/F Cm7/Eb |
+ Dm7 B7 | Ab7 G7+ | CM7 | CM7 |
+

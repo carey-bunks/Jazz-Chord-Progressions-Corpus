@@ -1,0 +1,14 @@
+Title = Can't Get Out Of This Mood
+ComposedBy = Frank Loesser and Jimmy McHugh
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C | Ab7 | Dm7 | G7 |
+ C | Ab7 | Dm7 | G7 |
+ C | Am7 D7 | Em7b5 | A7 |
+ D7 | D7 G7 | C Dm7 | Ebo G7 |
+ C | Ab7 | Dm7 | G7 |
+ C | Ab7 | Dm7 | G7 |
+ C | Am7 D7 | Em7b5 | A7 |
+ Ab7 | Dm7 | Ab7b5 G7 | C |
+

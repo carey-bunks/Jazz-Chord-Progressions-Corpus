@@ -1,0 +1,10 @@
+Title = The Core
+ComposedBy = Freddie Hubbard
+DBKeySig = Gb
+TimeSig = 4 4
+Bars = 16
+ Ebm7 | Ebm7 | Ebm7 | Ebm7 |
+ Ebm7 | Ebm7 | Ebm7 | Ebm7 |
+ Ebm7 | Ebm7 | Ebm7 | Ebm7 |
+ GbM7 | Fm7 | EM7#11 | EM7#11 |
+

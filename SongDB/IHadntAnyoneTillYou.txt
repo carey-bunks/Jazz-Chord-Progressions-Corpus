@@ -1,0 +1,14 @@
+Title = I Hadn't Anyone Till You
+ComposedBy = Ray Noble
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Gm7 | C7 | F6 | F6 |
+ Am7 | D7 | G7 | G7 |
+ Bb Bbm | C7 A7 | Dm | Dm |
+ A Ab | Bm7 E7b9 | A7 Ao7 | G7 C7 |
+ Gm7 | C7 | F6 | F6 |
+ Am7 | D7 | G7 | G7 |
+ Bb6 | Db7 | F | Ao7 |
+ Gm7 | Gm7 C7 | F Db7 | F6 |
+

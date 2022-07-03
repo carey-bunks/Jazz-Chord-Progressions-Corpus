@@ -1,0 +1,14 @@
+Title = Shiny Stockings
+ComposedBy = Frank Foster
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Gm7 | C7 | Gm7 | C7 |
+ FM7 | Bb7 | Am7 | Abo7 |
+ Gm7 | C7 | Am7 | D7 |
+ Bm7 | E7 | A6 | D7 |
+ Gm7 | C7 | Gm7 | C7 |
+ FM7 | Bb7 | Am7 | Abo7 |
+ Gm7 | C7 | Am7 | D7 |
+ Gm7 | C7 | FM7 | Am7 D7b9 |
+

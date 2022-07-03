@@ -1,0 +1,15 @@
+Title = Letter To Evan
+ComposedBy = Bill Evans
+DBKeySig = C
+TimeSig = 4 4
+Bars = 36
+ CM7 Dm7 Em7 FM7 | FM7 | Bm7b5 Bm7b5 Bm7b5 E7susb9 | E7susb9 |
+ Am7 Am7 Am7 D9#11 | D9#11 D9#11 D9sus D9 | G7sus G7sus G7sus G7b5 | G9sus G7#5 |
+ C9sus C9sus C9sus C9 | C9 Db9 C9 C9#5 | FM7 FM7 FM7 Bb9 | Bb9 |
+ C6/G | Ebo7/G | Dm7/G | Ebo7/G Ebo7/G Dm7/G G7b9 |
+ CM7#5 Bbadd9/D Cadd9/E FM7#5 | FM7#5 | Bm7b5 Bm7b5 Bm7b5 E7susb9 | E7susb9 |
+ Am7 Am7 Am7 D9#11 | D9#11 D9#11 D9sus D9 | G7sus G7sus G7sus G7b5 | G9sus G9#5 |
+ C9sus C9sus C9sus C9 | C9 Db9#11 C9 C9#5 | FM7 FM7 FM7 Bb9 | Bb9 |
+ C6/G | Ebo7/G | Dm7/G | F#m7b5 FmM7 |
+ Em7 Eb9 | Dm7 G9 | C69 | C69 |
+

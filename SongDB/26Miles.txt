@@ -1,0 +1,14 @@
+Title = 26 Miles Santa Catalina
+ComposedBy = Gleen Larson and Bruce Belland
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ G Em | Am D7 | G Em | Am D7 |
+ G Em | Am D7 | G Em | Am D7 |
+ G Em | Am D7 | G Em | Am D7 |
+ G Em | Am D7 | G C | G |
+ C6 D9 | G Em7 | Am D9 | G G7 |
+ C6 D9 | G Em7 | A7 | D7 |
+ G Em | Am D7 | G Em | Am D7 |
+ G Em | Am D7 | G Em | Am D7 G6 G6 |
+

@@ -1,0 +1,8 @@
+Title = Hymn To Freedom
+ComposedBy = Oscar Peterson
+DBKeySig = C
+TimeSig = 4 4
+Bars = 8
+ Bb D7 | Gm Bb7 | Eb Eo7 | Bb/F Bb7 |
+ Eb Eo7 | Bb/F Bb/F D7 Gm | C7 | F7 |
+

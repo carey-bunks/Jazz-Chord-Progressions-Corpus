@@ -1,0 +1,15 @@
+Title = Small World
+ComposedBy = Jule Styne
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 38
+ Eb6 | Ab Eb Fm Eb | Ab Eb G7 Cm | Abm Bb7 |
+ Eb6 | Ab EbM7 Ab Eb | Bb Bbo | Ab Bb9 Bb9 Bb9 |
+ Eb6 | Ab Eb Fm Eb | Ab Eb G7 Cm | Abm Bb7 |
+ Eb6 | Ab EbM7 Ab Eb | Gm7 | C13 C13 Bb C9 |
+ Fm7 Fm7 Bb9 Bb7b9 | Eb Eb EbM7 Gbm6 | Fm7 Bb7+ | EbM7 |
+ Ebm7 Ab7 | Db Db Fm7 Em7 | Ebm7 Ebm7 C7+ F9 | Bb7+ |
+ Eb6 | Ab Eb Fm Eb | Ab Eb G7 Cm | Abm Bb7 |
+ Eb6 | Ab Ab Ab Eb | Bb Bb Bb Bbo | Ab Bb9 Bb9 Bb9 |
+ Gm7 | C7+ | F9 | Bb9 |
+ Eb Eb Eb Ebo | Fm7 Bb7+ |

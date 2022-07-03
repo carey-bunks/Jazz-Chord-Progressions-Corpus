@@ -1,0 +1,22 @@
+Title = Charade
+ComposedBy = Henry Mancini
+DBKeySig = C
+TimeSig = 3 4
+Bars = 64
+ Am | Am | Am | Am |
+ Am | Am | E7 | E7 |
+ Bm7b5 | E7 | Bm7b5 | E7 |
+ Bm7b5 | E7+ E7+ E7 | Am | Am |
+ Am | F/A | Am6 | F/A |
+ Am | Am | Bm7b5 | E7 |
+ Bm7b5 | E7 | Bm7b5 | E7 |
+ Bm7b5 | E7+ E7+ E7 | Am | Am |
+ Dm7 | G7 | C | Am |
+ Dm | G7 | C | C#o |
+ Dm7 | G7 | C | Am |
+ D9 | D9 | Bm7b5 | E7 |
+ Am | Am | Am | Am |
+ Am | Am | E7 | E7 |
+ Bm7b5 | E7 | Bm7b5 | E7 |
+ Bm7b5 | E7+ E7+ E7 | Am | Am |
+

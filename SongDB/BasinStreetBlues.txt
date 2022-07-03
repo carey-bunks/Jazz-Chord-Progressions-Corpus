@@ -1,0 +1,18 @@
+Title = Basin Street Blues
+ComposedBy = Spencer Williams
+DBKeySig = C
+TimeSig = 4 4
+Bars = 48
+ C Dm7 Ebo Em7 | C Dm7 Ebo Em7 | C C#o Dm7 G7 | C C#o Dm7 G7 |
+ C C7 | F Fm | C Ab7 | G7 G7 C G7 |
+ C Dm7 Ebo Em7 | C Dm7 Ebo Em7 | C C#o Dm7 G7 | C C#o Dm7 G7 |
+ C C7 | F Fm | C Ab7 | G7 C |
+ C | E7 | A7 | A7 |
+ D7 | G7 | C Ebo | Dm7 G7 |
+ C | E7 | A7 | A7+ A7 |
+ D7 | G7 | C | Dm7 G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+ G7 | G7 | G7 | G7 |
+

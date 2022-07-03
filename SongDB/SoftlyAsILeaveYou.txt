@@ -1,0 +1,12 @@
+Title = Softly, As I Leave You
+ComposedBy = A. De Vita
+DBKeySig = C
+TimeSig = 4 4
+Bars = 26
+ CM7 Am7 | Dm7 G7 | CM7 Am7 | Dm7 G7 |
+ CM7 | FM7 | CM7 Am7 | Dm7 G7 |
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 |
+ EbM7 | AbM7 | Gm7 Bb7 | Fm7 Bb7 |
+ CM7 Am7 | Dm7 G7 | CM7 | Dm7 Dm7 G7 G#o7 |
+ Am7 Am7/G | FM7 | AbM7 | Fm7 Bb7 |
+ CM7 A7alt | Dm7 G7 |

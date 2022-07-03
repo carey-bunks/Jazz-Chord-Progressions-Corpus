@@ -1,0 +1,20 @@
+Title = Saudade
+ComposedBy = Walter Booker
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 56
+ Cm7 | Cm7 | F7b9 | F7b9 |
+ BbM7 | BbM7 | EbM7 | EbM7 |
+ Am7b5 | Am7b5 | D7alt | D7alt |
+ Gm7 | Gm7 | GbM7 | GbM7 |
+ Fm7 | Bb7 | Fm7 | Bb7 |
+ Fm7 | Bb7 | Fm7 | Bb7 |
+ EbM7 | EbM7 | D7alt | D7alt |
+ DbM7 | DbM7 | C7alt | C7alt |
+ F7 | F7 | B7 | B7 |
+ BbM7 | BbM7 | EbM7 | EbM7 |
+ Am7b5 | Am7b5 | D7alt | D7alt |
+ Gm7 | Gm7 | GbM7 | GbM7 |
+ Fm7 | Bb7 | Fm7 | Bb7 |
+ Fm7 | Bb7 | Fm7 | Bb7 |
+

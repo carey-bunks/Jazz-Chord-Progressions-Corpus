@@ -1,0 +1,14 @@
+Title = Lean Baby
+ComposedBy = Billy May
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Fsus4 F F F | Bbaddb9 Bb Bo7 Bo7 | Fsus4 F Dm7 Dm7 | G7#5b9 C9 |
+ Fsus4 F F F | Bbaddb9 Bb Bo7 Bo7 | F Dm7 Gm7 C7 | F |
+ Fsus4 F F F | Bbaddb9 Bb Bo7 Bo7 | Fsus4 F Dm7 Dm7 | G7#5b9 C9 |
+ Fsus4 F F F | Bbaddb9 Bb Bo7 Bo7 | F Dm7 Gm7 C7 | F F F Bo7 |
+ Cm7 F7 | Bb Bo7 | Cm7 F7 | Bb Bo7 |
+ Dm7 G7 | C | C | Gm7 C7 |
+ Fsus4 F F F | Bbaddb9 Bb Bo7 Bo7 | Fsus4 F Dm7 Dm7 | G7#5b9 C9 |
+ Fsus4 F F F | Bbaddb9 Bb Bo7 Bo7 | F Dm7 Gm7 C7 | F Db9 Gm7 C7 |
+

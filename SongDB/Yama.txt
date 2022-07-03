@@ -1,0 +1,9 @@
+Title = Yama
+ComposedBy = Lee Morgan
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 13
+ Fm9 EbM7 | Db7 Bb7 | B7 F#m7 | Db7 C7 |
+ Fm7 EM7#5 | Db7 F#m7 | Fm7 EbM7 | Db7 C7 |
+ Fm7 Bb7 | Eb7 Ab7 | Db7 C7+ | Fm7 Bb7 |
+ Fm7 Bb7 |

@@ -1,0 +1,12 @@
+Title = Plaintive Prelude
+ComposedBy = Mercer Ellington and Jack Han
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ Eb6 | Bb7 | Eb6 | Db7 |
+ Eb6 | D7 | G6 | Bb9 Bb7+ |
+ AbM7 Ab6 | Db7 | Eb6 | F7b9 Eb9 |
+ AbM7 Ab6 | Db7 | Gm7 F7 | Bb7+ |
+ Eb6 | Bb7 | Eb6 | Db7 |
+ Eb6 | E9 Bo | Eb6 Bb7 | Bb7 Eb |
+

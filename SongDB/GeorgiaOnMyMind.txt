@@ -1,0 +1,14 @@
+Title = Georgia On My Mind
+ComposedBy = Hoagy Carmichael
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ FM7 | Em7b5 A7+ | Dm7 Dm7/C | Bm7b5 Bbm7 |
+ FM7 D7 | Gm7 C7 | FM7 F#o7 | Gm7 C7+ |
+ FM7 | Em7b5 A7+ | Dm7 Dm7/C | Bm7b5 Bbm7 |
+ FM7 D7 | Gm7 C7 | FM7 | Em7b5 A7 |
+ Dm Gm | Dm Bb7 | Dm Gm | FM7 G7 |
+ Dm7 Dm7/C | Bm7b5 E7 | Am7 D7 | Gm7 C7 |
+ FM7 | Em7b5 A7+ | Dm7 Dm7/C | Bm7b5 Bbm7 |
+ FM7 D7 | Gm7 C7 | FM7 | Gm7 C7 |
+

@@ -1,0 +1,9 @@
+Title = Cousin Mary
+ComposedBy = John Coltrane
+DBKeySig = C
+TimeSig = 4 4
+Bars = 12
+ NC C7#9 Eb7#9 Eb7#9 | Ab7 | NC C7#9 Eb7#9 Eb7#9 | Ab7 |
+ NC Ab7 D7 D7 | Db7 | NC C7#9 Eb7#9 Eb7#9 | Ab7 Ab7 Ab7 D7#11 |
+ NC D7#11 NC Db7 | NC D7#11 NC Db7 | NC C7#9 Eb7#9 Eb7#9 | Ab7 |
+

@@ -1,0 +1,11 @@
+Title = You Are Always On My Mind
+ComposedBy = Wayne Carson, Johnny Christopher, and Mark James
+DBKeySig = C
+TimeSig = 4 4
+Bars = 21
+ Gmaj7 Em7 | D7sus D7 | Gmaj7 Em7 | D7sus D7 |
+ G | D | Em | C |
+ G | D | Em | A7/C# |
+ C | G | C G/B | Am7 Am7/G |
+ D | G | C D | G |
+ G |

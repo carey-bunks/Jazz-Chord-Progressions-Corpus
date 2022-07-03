@@ -1,0 +1,12 @@
+Title = All Blues
+ComposedBy = Miles Davis
+DBKeySig = G
+TimeSig = 3 4
+Bars = 24
+ G G C/G | G7 G7 C/G | G G C/G | G7 G7 C/G |
+ G G C/G | G7 G7 C/G | G G C/G | G7 G7 C/G |
+ C7 C7 C/G | C9 C9 C/G | C7 C7 C/G | C9 C9 C/G |
+ G G C/G | G7 G7 C/G | G G C/G | G7 G7 C/G |
+ D7#9 | D7#9 | Eb7#9 | D7#9 |
+ G G C/G | G7 G7 C/G | G G C/G | G7 G7 C/G |
+

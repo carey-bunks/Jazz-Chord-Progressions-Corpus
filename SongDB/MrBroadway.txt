@@ -1,0 +1,12 @@
+Title = Theme from Mr. Broadway
+ComposedBy = Dave Brubeck
+DBKeySig = Eb
+TimeSig = 3 4
+Bars = 24
+ Eb7 | Ab7 | Eb7 | Bb7 |
+ Eb7 | Ab7 | Eb7 | Eb7 |
+ Ab7 | Ebm7 | Ab7 | Ab7 |
+ Eb7 | Fm7 | Gb6 | C7 |
+ F7 | F7 | E7 | E7 |
+ Eb7 | Cm7 | F7 | Bb7 |
+

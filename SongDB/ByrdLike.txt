@@ -1,0 +1,12 @@
+Title = Byrd Like
+ComposedBy = Freddie Hubbard
+DBKeySig = F
+TimeSig = 4 4
+Bars = 24
+ Am7b5 D7#9 | Am7b5 D7#9 | Am7b5 D7#9 | Am7b5 D7#9 |
+ Gm7b5 C7#9 | Gm7b5 C7#9 | Gm7b5 C7#9 | Gm7b5 Gm7b5 C7#9 F |
+ NC | NC | NC | NC |
+ F7 | Bb7 | F7 | F7 A7 |
+ Bb7 | Bb7 | Am7 D7 | Abm7 Db7 |
+ Gm7 Db9 | C7 | F7 D7 | Gm7 C7 |
+

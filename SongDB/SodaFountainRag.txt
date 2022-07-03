@@ -1,0 +1,14 @@
+Title = Soda Fountain Rag
+ComposedBy = Duke Ellington
+DBKeySig = F
+TimeSig = 4 4
+Bars = 34
+ Dm | A7 | Dm | A7 |
+ Dm | Em7b5 | Dm A7 | Dm A7 |
+ Dm | A7 | Dm | A7 |
+ Dm | Em7b5 | Dm A7 | Dm |
+ F Db7 | G7 C7 | F | F Abo |
+ C7 Gbo | C7 | F Bb | F Abo |
+ C7 Gbo | C7 | Dm | A7 |
+ Dm | A7 | Dm | Em7b5 |
+ Dm A7 | Dm |

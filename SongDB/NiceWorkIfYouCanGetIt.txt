@@ -1,0 +1,14 @@
+Title = Nice Work If You Can Get It
+ComposedBy = George Gershwin
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ B7 E7 | A7 D7 | G C7 | A7 A#o7 |
+ Bm7 Em7 | A7 | Am7 D7 | G |
+ B7 E7 | A7 D7 | G C7 | A7 A#o7 |
+ Bm7 Em7 | A7 | Am7 D7 | G B7 |
+ Em | C7 | Em | A7 |
+ Dm | A7 | Am7 | D7+ |
+ B7 E7 | A7 D7 | G C7 | A7 A#o7 |
+ Bm7 Em7 | A7 | Am7 D7 | G |
+

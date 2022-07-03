@@ -1,0 +1,15 @@
+Title = Two Different Worlds
+ComposedBy = Al Frisch
+DBKeySig = C
+TimeSig = 4 4
+Bars = 36
+ C | G | F | F |
+ C | Am6 D7 Fm Fo7 | Em7 Am7 | Dm7 G7 |
+ C | G | F | F |
+ C | Am6 D7 Fm Fo7 | Em7 | A7sus4 A7 |
+ F | F F E7+ E7 | Am AmM7 | Am7 Am6 |
+ E | Fm7 B7 | EM7 E6 | G9 G7#5b9 |
+ C | G | F | F |
+ C CM7 | Am6 Fm | Em7 | A7sus4 A7 |
+ Dm7 | Dm7 Dm7 G9 G7b9 | C Am7 | Dm7 Dm7 G9 G7#5b9 |
+

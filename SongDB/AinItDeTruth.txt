@@ -1,0 +1,21 @@
+Title = Ain' It De Truth?
+ComposedBy = Harold Arlen
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 62
+ Eb | Eb | F9 F9 F9 Bb7 | Eb |
+ Eb | Eb | Fm7 | Bb7 Bb7+ |
+ Eb Fm7 | F#o7 Eb7 | Ab | Ab Abm6 |
+ Eb | F9 F7b5 Bb7 Bb7 | Eb | Eb |
+ Eb | Eb | F9 F9 F9 Bb7 | Eb |
+ Eb | Eb | Fm7 | Bb7 Bb7+ |
+ Eb Fm7 | F#o7 Eb7 | Ab | Ab Abm6 |
+ Eb | F9 F7b5 Bb7 Bb7 | Eb | Eb7 |
+ Ab | Ab | Eb | Eb |
+ Do7 | Do7 | Fm7 | Eo7 |
+ Fm7 | Bb9 NC | Eb | Eb |
+ F9 F9 F9 Bb7 | Eb | Eb | Eb |
+ Fm7 | Bb7 Bb7+ | Eb Fm7 | F#o7 Eb7 |
+ Ab | Ab Abm6 | Eb | Ab Ab6 |
+ Eb9 | Ab Abm6 | Cm7 | F9 Bb7 |
+ Eb | F9 Bb7 |

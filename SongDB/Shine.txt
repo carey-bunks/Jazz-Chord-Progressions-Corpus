@@ -1,0 +1,14 @@
+Title = Shine
+ComposedBy = Ford Dabney, Cecil Mack, Lew Brown
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | EbM7 | Fm7 | Bb7 |
+ EbM7 | EbM7 | Fm7 | Bb7 |
+ G7 | G7 | Cm7 | Cm7 |
+ F7 | F7 | Bb7 | Bb7 |
+ EbM7 | EbM7 | Fm7 | Bb7 |
+ G7 | G7 | Cm7 | Cm7 |
+ AbM7 | AbM7 Db7 | Eb6 | C7 |
+ Fm7 | Bb7 | Eb6 | Fm7 Bb7 |
+

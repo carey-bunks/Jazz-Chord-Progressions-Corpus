@@ -1,0 +1,14 @@
+Title = Yeah, Yeah
+ComposedBy = Unknown
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C | Am | C | Am |
+ C | D13 G9 | C F7 | C G7 |
+ C | Am | C | Am |
+ C | D13 G9 | C F7 | C C7 |
+ F | Bb9 | C | Gm7b5 C7 |
+ F | Bb9 | D7 | G7 |
+ C | Am | C | Am |
+ C | D13 G9 | C F7 | C C G7 |
+

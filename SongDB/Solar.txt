@@ -1,0 +1,9 @@
+Title = Solar
+ComposedBy = Miles Davis
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 12
+ Cm69 | Cm69 | Gm7 | C7 |
+ FM9 | FM9 | Fm7 | Bb7 |
+ EbM9 | Ebm7 Ab7 | DbM9 | Dm7b5 G7alt |
+

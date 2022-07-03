@@ -1,0 +1,16 @@
+Title = It Might As Well Be Spring
+ComposedBy = Richard Rodgers
+DBKeySig = C
+TimeSig = 4 4
+Bars = 40
+ GM7/D Am7/D | GM7/D Am7/D | GM7/D Am7/D | Dm7 G7 |
+ CM7 Co7 | GM7 | Am7 D7 | B7 E7 A7 D7 |
+ GM7/D Am7/D | GM7/D Am7/D | GM7/D Am7/D | Dm7 G7 |
+ CM7 Co7 | GM7 | Am7 D7 | GM7 G7b9 |
+ CM7 Am7 | Dm7 | Dm7 Dm7 Go7 G7 | CM7 |
+ CM7 Am7 | F#m7b5 B7b9 | Em7 A7 | Am7 D7 |
+ GM7/D Am7/D | GM7/D Am7/D | GM7/D Am7/D | Dm7 G7 |
+ CM7 Co7 | GM7 | Am7 D7 | B7+ B7 E7b9 E7b9 |
+ A7 | D9 | G7 | A7 Bbo7 |
+ GM7/B Em7 | Am7 D7 | GM7 | Am7/D |
+

@@ -1,0 +1,14 @@
+Title = Don't Shoot The Messenger
+ComposedBy = John Scofield
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Fm7 | D7#9 | Db69 | GbM7b5 |
+ Fm7 | D7#9 | Db69 | GbM7b5 |
+ EM7b5 | EM7b5 | Fm7 | D7#9 |
+ Db69 | GbM7b5 | Fm7 | D7#9 |
+ Db69 | GbM7b5 | EM7b5 | EM7b5 |
+ Cm7 Am7b5 | D7#9 G7#5b9 | Cm7 | Cm7 Gb13 |
+ Fm7 | D7#9 | Db69 | GbM7b5 |
+ Fm7 | GbM7b5 | Fm7 | GbM7b5 |
+

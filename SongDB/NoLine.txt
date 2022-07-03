@@ -1,0 +1,12 @@
+Title = No Line
+ComposedBy = Miles Davis
+DBKeySig = F
+TimeSig = 4 4
+Bars = 24
+ F Bb | Fo7 F | F Bb | F7 |
+ Bb Eb | Bbo7 Bb | Bb | F7 |
+ Bb | A7 | A7 | Dm7 C7 |
+ F Bb | Fo7 F | F Bb | F7 |
+ Bb Eb | Bbo7 Bb | Bb | F7 |
+ Bb | A7 | A7 | Dm7 |
+

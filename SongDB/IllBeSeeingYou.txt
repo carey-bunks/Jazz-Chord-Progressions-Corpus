@@ -1,0 +1,14 @@
+Title = I'll Be Seeing You
+ComposedBy = Sammy Fain
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | G7+ | Ab C7 | Fm C7 |
+ Fm C7 | Fm7 Bb7 | EbM7 | Dm7b5 G7 |
+ Cm | Cm | Fm7 | Fm7 |
+ Bb7sus4 | Bb7+ | Gm7 C7 | Bb7+ |
+ Eb | G7+ | Ab C7 | Fm C7 |
+ Fm C7 | Fm7 Bb7 | Gm7b5 | C7 |
+ Fm7 | Dm7b5 G7 | Cm7 | F7 |
+ Fm7 | Abm6 Bb7 | Eb6 | Fm7 Bb7+ |
+

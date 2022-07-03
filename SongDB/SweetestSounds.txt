@@ -1,0 +1,16 @@
+Title = The Sweetest Sounds
+ComposedBy = Richard Rodgers
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 40
+ Cm7 | Cm7 | Fm7 | Fm7 |
+ D7b9 | G7b9 | Cm7 | Cm7 |
+ Cm7 | Cm7 | Fm7 | Fm7 |
+ Fm7 | Bb7 | EbM7 | Dm7b5 G7alt |
+ Cm7 | Cm7 | Fm7 | Fm7/Eb |
+ D7b9 | G7b9 | Gm7/C | C7alt |
+ Fm7 | F#o7 | Gm7 | C7alt |
+ Fm7 | Bb7 | EbM7 | Bbm7 Eb7 |
+ AbM7 Gm7 | Fm7 | Fm7/Bb | Fm7/Bb Bb7 |
+ EbM7 | EbM7 | Dm7b5 | G7alt |
+

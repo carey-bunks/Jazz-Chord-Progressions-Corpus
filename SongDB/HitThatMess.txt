@@ -1,0 +1,9 @@
+Title = Hit That Mess
+ComposedBy = Harry D. Squires and Bulee Gaillard
+DBKeySig = F
+TimeSig = 4 4
+Bars = 12
+ F7 | F7 | F7 | F7 |
+ Bb7 | Bb7 | F6 | F6 |
+ Gm7 | C7 | F6 Bb7 | F6 C7 |
+

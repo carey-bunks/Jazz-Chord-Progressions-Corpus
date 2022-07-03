@@ -1,0 +1,10 @@
+Title = AC-DC Current
+ComposedBy = Benny Goodman
+DBKeySig = G
+TimeSig = 4 4
+Bars = 16
+ C9 | C9 | G6 | G6 |
+ D7 | D7 | G6 | G6 |
+ C9 | C9 | G6 | G6 |
+ D7 | D7 | D7 Am7/D | G6 |
+

@@ -1,0 +1,14 @@
+Title = I Wonder Who's Kissing Her Now
+ComposedBy = Joseph E. Howard
+DBKeySig = G
+TimeSig = 3 4
+Bars = 32
+ G | D7 | G | G |
+ G | B7 | C | E7/B |
+ Am | E7 | A7 | A7 |
+ A7 | A7 | D7 | D7 |
+ G | D7 | G | G |
+ G | B7 | C | E7/B |
+ Am | C C A/C# | G/D | E7 |
+ Am | D7 | G | D7 |
+

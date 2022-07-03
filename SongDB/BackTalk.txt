@@ -1,0 +1,14 @@
+Title = Back Talk
+ComposedBy = Shorty Rogers and Red Norvo
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Dm | Dm | Dm | D7 |
+ G7 | C7 | F | F A7 |
+ Dm | Dm | Dm | D7 |
+ G7 | C7 | F | F |
+ A7 | A7 | D7 | D7 |
+ G7 | G7 | C7 | A7 |
+ Dm | Dm | Dm | D7 |
+ G7 | C7 | F | F A7 |
+

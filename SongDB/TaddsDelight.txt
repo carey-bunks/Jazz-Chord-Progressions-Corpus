@@ -1,0 +1,14 @@
+Title = Tadd's Delight
+ComposedBy = Tadd Dameron
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Bb7 | Bbm7 Eb7 | AbM7 | Cm7b5 F7+ |
+ Bb7 | Bbm7 Eb7 | AbM7 | Ebm7 Ab7 |
+ DbM7 | Gb7#11 | Cm7 | F7b9 |
+ Bb7#11 | Bb7#11 | Bbm7 | Eb7#9 |
+ Bb7 | Bbm7 Eb7 | AbM7 | Cm7b5 F7+ |
+ Bb7 | Bbm7 Eb7 | AbM7 | Ebm7 Ab7 |
+ DbM7 | Gb7#11 | Cm7 | F7b9 |
+ Bb7 | Bbm7 Eb7 | AbM7 | AbM7 |
+

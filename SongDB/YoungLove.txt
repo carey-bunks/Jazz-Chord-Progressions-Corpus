@@ -1,0 +1,12 @@
+Title = Young Love
+ComposedBy = Carole Joyner and Ric Cartey
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ C | E7 | F | G7 |
+ C Am7 | F G7 | C | E7 |
+ F | G7 | C Am7 | F G7 |
+ C | G7 | F | G7 |
+ C Am7 | F G7 | C | G7 |
+ F | G7 | C Am7 | F G7 |
+

@@ -1,0 +1,14 @@
+Title = Theme From "The Apartment"
+ComposedBy = Charles Williams
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F | F6 | Gm | C |
+ F/A Abo7 | Gm7 | Bbm | A7 |
+ F7 | Bb | Eb7 | Ab Ab Ab F#o7 |
+ C/G | Abo7 | F/C G7 | C7 |
+ F | F6 | Gm | C |
+ F/A Abo7 | Gm7 | Bbm | A7 |
+ F7 | Bb | Eb7 | Ab Ab Ab F#o7 |
+ C/G | Abo7 | Gm7 Gm7 Gm7 C | F |
+

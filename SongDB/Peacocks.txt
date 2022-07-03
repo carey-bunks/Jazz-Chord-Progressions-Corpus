@@ -1,0 +1,14 @@
+Title = The Peacocks
+ComposedBy = Jimmy Rowles
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 34
+ Bbm BbmM7 | Bbm7 Bbm6 | Bbm Bbm BbmM7 F#m7 | Fm7 Bb13 |
+ Ebm | Ebm | C7#9 F7#9 | Bbm F7alt |
+ Bbm BbmM7 | Bbm7 Bbm6 | Bbm Bbm BbmM7 F#m7 | Fm7 Bb13 |
+ Ebm | Ebm | C7#9 F7#9 | Bbm |
+ Cm7b5 F7 | Bbm | Cm7b5 F7 | Bbm BbmM7 |
+ Ebm7b5 Ab7 | DbmM7 | Eb7b5 | C7#9 F7alt |
+ Bbm BbmM7 | Bbm7 Bbm6 | Bbm Bbm BbmM7 F#m7 | Fm7 Bb13 |
+ Ebm | Ebm | C7#9 F7#9 | Bbm |
+ C7#9 F7#9 | BbmM7 |

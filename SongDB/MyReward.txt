@@ -1,0 +1,14 @@
+Title = My Reward
+ComposedBy = Duke Ellington
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ Db DbM7 | Cm7b5 Cm7b5 Cm7b5 F7 | Bbm7 Bb6 | Abm7 |
+ GbM7 B9 | Db C7 F7 Bbm7 | Eb9 | Ebm7 |
+ Db DbM7 | Cm7b5 Cm7b5 Cm7b5 F7 | Bbm7 Bb6 | Abm7 |
+ GbM7 B9 | Db C7 F7 Bbm7 | Eb9 Eb9 Ebm7 Ebo7 | Db Db Dbm7 Gb7b5 |
+ B Abm | Ebm Db9 | Gbm Gbm Gbm Gb7 | F#m7 B7 |
+ E Bbm7b5 | Ab D7b5 | Bbm7 Eb7 | Ab7 |
+ Db DbM7 | Cm7b5 Cm7b5 Cm7b5 F7 | Bbm7 Bb6 | Abm7 |
+ GbM7 B9 | Db C7 F7 Bbm7 | Eb9 Eb9 Ebm7 Ebo7 | Db |
+

@@ -1,0 +1,14 @@
+Title = Gertrude's Bounce
+ComposedBy = Clifford Brown
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | EbM7 Ab7 | DbM7 | Cm7 F7 |
+ BbM7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | EbM7 Ab7 | DbM7 | Cm7 F7 BbM7 BbM7 |
+ GbM7 | GbM7 | BM7 | BM7 |
+ GM7 | GM7 | CM7 | Cm7 F7 |
+ BbM7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Bb7 | EbM7 Ab7 | DbM7 | Cm7 F7 BbM7 BbM7 |
+

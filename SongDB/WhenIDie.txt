@@ -1,0 +1,15 @@
+Title = When I Die
+ComposedBy = Laura Nyro
+DBKeySig = C
+TimeSig = 4 4
+Bars = 38
+ Eb Gm7 | Fm7 Fm7 | Fm7/A# | Fm7/A# Cm7 |
+ F9 Ab/Bb | Eb | Eb Gm7 | Fm7 Fm7 |
+ Fm7/A# | Fm7/A# Cm7 | F9 Ab/Bb | Eb |
+ Eb Gm7 | Fm7 Fm7 | Fm7/A# | Fm7/A# Cm7 |
+ F9 Ab/Bb | Eb | G6 | F6/G |
+ G6 | F6/G | G6 | F6/G |
+ G6 | F6/G | F6/G | C Em/B Am C/G |
+ D9/F# | Fm Fm6 | Fm7/A# | Eb Gm7 |
+ Fm7 Fm7 | Fm7/A# | Fm7/A# Cm7 | F9 Ab/Bb |
+ Eb | Eb |

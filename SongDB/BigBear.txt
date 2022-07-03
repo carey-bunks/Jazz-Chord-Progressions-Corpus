@@ -1,0 +1,14 @@
+Title = Big Bear
+ComposedBy = Cal Tjader
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Fm7 | Bb7 | Gm7 | C7 |
+ Fm7 | Bb7 | Bbm7 | Eb7 |
+ Cm7 | F7 F7+ | Bbm7 | Gm7b5 Gb7 |
+ Fm7 | Bb7 | Gm7b5 | C7b9 |
+ Fm7 | Bb7 | Gm | C7 |
+ Fm7 | Bb7 | Bbm7 | Eb7 |
+ Cm7 | F7 F7+ | Bbm7 | Gm7b5 Gb7 |
+ Cm7 Fm7 | EM7 EM7 Bbm7 Eb7 | AbM7 | AbM7 |
+

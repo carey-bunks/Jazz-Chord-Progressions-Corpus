@@ -1,0 +1,10 @@
+Title = Deluge
+ComposedBy = Wayne Shorter
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ Ebm7 | EM7#11 | Ebm7 | EM7#11 |
+ Ebm7 | EM7#11 | Ebm7 | A7#11 |
+ Ab7#11 | F#m7 B7 | Ebm7 | A7#11 |
+ Ab7#11 | F#m7 B7 | Ebm7 | EM7#11 |
+

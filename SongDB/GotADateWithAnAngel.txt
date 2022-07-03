@@ -1,0 +1,14 @@
+Title = Got A Date With An Angel
+ComposedBy = Jack Waller and Joseph Tunbridge
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F | Am7b5 D7 D7 D7 | Gm | Bbm |
+ F F F F7 | G7 | C7 C7 C7 C7+ | F F F C7 |
+ F | Am7b5 D7 D7 D7 | Gm | Bbm |
+ F F F F7 | G7 | C7 C7 C7 C7+ | F F F F+ |
+ Bb Bb7 | A A A A7 | D7 D7 C D7 | G G G G7 |
+ C7 C7 Bb C7 | F A7 A7 D7 | G7 Em Em G7 | Gm C7 |
+ F | Am7b5 D7 D7 D7 | Gm | Bbm |
+ F F F F7 | G7 | C7 C7 C7 C7+ | F F Gm7 C7 |
+

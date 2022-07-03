@@ -1,0 +1,14 @@
+Title = A Sunday Kind Of Love
+ComposedBy = Barbara Belle, Louis Prima, Anita Leonard, Stan Rhodes
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ F6 F6 Am7 Abm7 | Gm7 C7b9 | Am7 D7b9 | Gm7 Bbm6 |
+ Am7 D7 | Gm7 C7 | F6 F6 Am7 Abm7 | Gm7 Gm7 Db9 C9 |
+ F6 F6 Am7 Abm7 | Gm7 C7b9 | Am7 D7b9 | Gm7 Bbm6 |
+ Am7 D7 | Gm7 C7 | F6 Gm7 | G#o7 F/A |
+ Cm7 F7 | Cm7 F7 | Bb6 Bb6 Cm7 F7b9 | Bb6 |
+ G7 Dm7 | G7 D7 G7b9 G7b9 | C7 F#o7 | Gm7 Gm7 Db9 C9 |
+ F6 F6 Am7 Abm7 | Gm7 C7b9 | Am7 D7b9 | Gm7 Bbm6 |
+ Am7 D7 | Gm7 C7 | F6 D7b9 | Gm7 Gm7 Db9 C9 |
+

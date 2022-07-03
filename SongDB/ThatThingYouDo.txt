@@ -1,0 +1,27 @@
+Title = That Thing You Do!
+ComposedBy = Adam Schlesinger
+DBKeySig = E
+TimeSig = 4 4
+Bars = 84
+ E | A B | E | A B |
+ C#m | F# | F#m | Am B |
+ E | A B | E | A B |
+ C#m | F# | D | B |
+ C#m | F# | E E7 | A Am |
+ E | Am | E | B7 |
+ E | A B | E | A B |
+ C#m | F# | F#m | Am B |
+ E | A B | E | A B |
+ C#m | F# | D | B |
+ C#m | F# | E E7 | A Am |
+ E | Am | E | E |
+ A | A | C#m | C#m |
+ F# B7 | C7 | B7 | B7 |
+ E | A B | E | A B |
+ C#m | F# | F#m | Am B |
+ E | A B | E | A B |
+ C#m | F# | D | B |
+ C#m | F# | E E7 | A Am |
+ E | Am | E | Am |
+ E | B7 | A Am | E |
+

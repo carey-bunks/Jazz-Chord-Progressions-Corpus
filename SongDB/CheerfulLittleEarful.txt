@@ -1,0 +1,14 @@
+Title = Cheerful Little Earful
+ComposedBy = Harry Warren
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Fm7 Bb7 | Eb6 Eo7 | Fm7 Bb7 | Eb6 Eb7 |
+ C7 | Fm7 | Fm7 Bb7 | Eb6 Eo7 |
+ Fm7 Bb7 | Eb6 Eo7 | Fm7 Bb7 | Eb6 Eb7 |
+ C7 | Fm7 | Fm7 Bb7 | Eb6 Ab |
+ Bbm7 Eb7 | AbM7 Ab6 | Bbm7 Eb7 | AbM7 Ab6 |
+ Cm7 F7 | BbM7 Bb6 | Cm7 F7+ | Bb7 Bbo7 Bb7 Eo7 |
+ Fm7 Bb7 | Eb6 Eo7 | Fm7 Bb7 | Eb6 Eb7 |
+ C7 | Fm7 | Fm7 Bb7 | Eb6 C7+ |
+

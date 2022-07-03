@@ -1,0 +1,14 @@
+Title = Dexter Rides Again
+ComposedBy = Dexter Gordon
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ FM7 | Gb7 | FM7 | Gb7 |
+ FM7 | Gb7 | FM7 | C7#9 |
+ FM7 | Gb7 | FM7 | Gb7 |
+ FM7 | Gb7 | FM7 | F6 |
+ F7 | F7 F7#5 | BbM7 Cm7 | Dm7 BbM7 |
+ Eb7 | Eb7 | Db7 | C7 |
+ FM7 | Gb7 | FM7 | Gb7 |
+ FM7 | Gb7 | FM7 | F6 |
+

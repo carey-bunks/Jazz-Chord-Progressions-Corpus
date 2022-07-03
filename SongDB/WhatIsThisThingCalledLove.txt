@@ -1,0 +1,14 @@
+Title = What Is This Thing Called Love?
+ComposedBy = Cole Porter
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Gm7b5 | C7b9 | Fm | Fm |
+ Dm7b5 | G7alt | CM69 | CM69 |
+ Gm7b5 | C7b9 | Fm | Fm |
+ Dm7b5 | G7alt | CM69 | CM69 |
+ Cm7 | F7 | BbM7 | BbM7 |
+ Ab7 | Ab7 | G7 | G7 |
+ Gm7b5 | C7b9 | Fm | Fm |
+ Dm7b5 | G7 | CM69 | CM69 |
+

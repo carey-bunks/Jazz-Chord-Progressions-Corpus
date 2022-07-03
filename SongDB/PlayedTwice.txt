@@ -1,0 +1,13 @@
+Title = Played Twice
+ComposedBy = Thelonious Monk
+DBKeySig = C
+TimeSig = 4 4
+Bars = 28
+ CM9 | Db7 | Db7 | A13 |
+ CM9 | Db7 | C7sus4 | C7sus4 |
+ F11 | F11 | F11 | F11 |
+ CM9 | Db7 | Db7 | A13 |
+ CM9 | Db7 | C7sus4 | C7sus4 |
+ F11 | F11 | F11 | F11 |
+ CM9 | Db7 | Db13 C13sus4 | A13 DM7 DM7 DM7 |
+

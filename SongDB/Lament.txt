@@ -1,0 +1,14 @@
+Title = Lament
+ComposedBy = J.J. Johnson
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Fm7 | Ebm7 Ab7 | DbM7 | Gm7b5 C7b9 |
+ FM7 | Dm7 | Em7b5 | A7b9 |
+ Dm DmM7 | Dm7 Dm6 | Gm7 | Em7 A7b9 |
+ Dm7 | Ebm7 Ab7 | DbM7 | Gm7b5 C7alt |
+ Fm7 | Ebm7 Ab7 | DbM7 | Gm7b5 C7b9 |
+ FM7 | Dm7 | Em7b5 | A7b9 |
+ Dm DmM7 | Dm7 Dm6 | Bm7b5 | Bbm7 |
+ Am7 Dm7 | Gm7 Gm7 Db7 C7 | FM7 Ab7 | DbM7 C7b9 |
+

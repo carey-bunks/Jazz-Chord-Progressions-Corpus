@@ -1,0 +1,14 @@
+Title = I Loves You Porgy
+ComposedBy = George Gershwin
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ FM7 Dm7 | BbM7 | Gm7 C7 | FM7 |
+ Am7 D7b9 | Gm7 D7alt | Gm7 Gm7/C | FM7 |
+ FM7 Dm7 | BbM7 | Gm7 C7 | FM7 |
+ Am7 D7b9 | Gm7 D7alt | Gm7 Gm7/C | FM7 FM7 Bm7b5 E7b9 |
+ Am7 F#m7b5 | Bm7b5 E7b9 | Am7 F#m7b5 | Dm7 G7alt |
+ Cm7 Am7b5 | Ab7 G7+ | Bb7#11 A7+ | Ab7#11 G7+ G7+ Gm7/C |
+ FM7 Dm7 | BbM7 | Gm7 C7 | FM7 |
+ Am7 D7b9 | Gm7 D7alt | Gm7 Gm7/C | FM7 |
+

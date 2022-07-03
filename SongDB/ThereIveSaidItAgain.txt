@@ -1,0 +1,14 @@
+Title = There, I've Said It Again
+ComposedBy = Redd Evans and Dave Mann
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb Bb Bb F+ | Bb9 Bb9 Bb9 Bb+ | Eb | C#o7 |
+ Bb F7 | Dm7b5 G+ | C9 | Cm7 Cm7 Cm7 F7+ |
+ Bb Bb Bb F+ | Bb9 Bb9 Bb9 Bb+ | Eb | C#o7 |
+ Bb F7 | Dm7b5 G+ | C9 C9 Cm7 F13 | Bb |
+ Fm7 Bb7 | Fm7 Bb7 | Eb Bb7+ | Eb |
+ Gm7 C7 | Gm7 C7 | Cm7 | F7+ |
+ Bb Bb Bb F+ | Bb9 Bb9 Bb9 Bb+ | Eb | C#o7 |
+ Bb F7 | Dm7b5 G7+ | C9 C9 Cm7 F13 | Bb |
+

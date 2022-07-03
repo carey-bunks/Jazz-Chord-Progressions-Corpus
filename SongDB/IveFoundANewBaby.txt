@@ -1,0 +1,14 @@
+Title = I've Found A New Baby
+ComposedBy = Jack Palmer and Spencer Williams
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Dm7 | Em7b5 A7alt | Dm7 | D7 |
+ G7 | C7 | FM7 | Em7b5 A7alt |
+ Dm7 | Em7b5 A7alt | Dm7 | D7 |
+ G7 | C7 | FM7 | FM7 |
+ A7 | A7 | Dm7 | Dm7 |
+ G7 | G7 | C7 | A7 |
+ Dm7 | Em7b5 A7alt | Dm7 | D7 |
+ G7 | C7 | FM7 | Em7b5 A7alt |
+

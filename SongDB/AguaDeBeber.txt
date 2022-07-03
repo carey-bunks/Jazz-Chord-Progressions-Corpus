@@ -1,0 +1,16 @@
+Title = Agua de Beber
+ComposedBy = Antonio Carlos Jobim
+DBKeySig = F
+TimeSig = 4 4
+Bars = 40
+ Dm9 | E7#9 A7#5 | Dm9 | E7#9 A7#5 |
+ Dm9 | BbM9 | Dm9 | Am7b5 |
+ Dm9 | E7#9 A7#5 | Dm9 | E7#9 A7#5 |
+ Dm9 | BbM9 | Dm9 | Dm9 |
+ E7b9 | A7#5b9 | Dm9 | Dm9 |
+ Gm9 | C13 | FM9 | F69 |
+ E13 Eb13 | Dm6 Dbo7 | F9/C F7#9/C | E7#9/B |
+ E7b9 | A9sus4 | Dm9 | D7#5b9 |
+ G13 | Gm9 | Dm9 | Dm9 |
+ G13 | Gm9 | Dm9 | NC Am9b5 Am9b5 Am9b5 |
+

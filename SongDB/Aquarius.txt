@@ -1,0 +1,18 @@
+Title = Aquarius
+ComposedBy = Galt McDermot
+DBKeySig = C
+TimeSig = 4 4
+Bars = 50
+ Dm7 | G7 | Am | Am |
+ Dm | G7 | Am | Am |
+ Dm7 | G7 | Am | Am |
+ F | G7 | C | C |
+ Bb | Bb | Bb | Bb |
+ Dm | Dm | G7 | G7 |
+ G7 | G7 | Dm | Dm |
+ Dm | Dm | C7 | F |
+ C7 | F | C7 | F |
+ C7 | F | F A7/E | Dm |
+ Dm Gm | Am | Gm | Gm |
+ Gm | Gm | Dm | Dm |
+ Dm | Dm |

@@ -1,0 +1,16 @@
+Title = Land's End
+ComposedBy = Harold Land
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 40
+ Bb | Ab | Bb | Ab |
+ Bb | Ab | Bb | Ab |
+ Gm Em7b5 | Am7b5 D7+ | Em7b5 Eb | Am7b5 D7 |
+ Gm Em7b5 | Am7b5 D7 | Em7b5 Eb | D7 Ab7 |
+ Gm Em7b5 | Am7b5 D7+ | Em7b5 Eb | Am7b5 D7 |
+ Gm Em7b5 | Am7b5 D7 | Em7b5 Eb | D7 |
+ Cm7 | F7 | Bb Bb Bb Am Am Am G7 G7 | G7 |
+ Cm7 | F7 | Eb7 | Ab7 |
+ Gm Em7b5 | Am7b5 D7+ | Em7b5 Eb | Am7b5 D7 |
+ Gm Em7b5 | Am7b5 D7 | Em7b5 Eb | D7 Gm |
+

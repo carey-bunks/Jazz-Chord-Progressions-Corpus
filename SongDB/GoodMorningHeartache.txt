@@ -1,0 +1,14 @@
+Title = Good Morning, Heartache
+ComposedBy = Dan Fisher, Irene Higginbotham, Ervin Drake
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Cm Ab/C | Cm6 Cm7 | FM7 BbM7 | Am7b5 Eb7 D7 D7 |
+ Gm7 Gm7 BbmM7 Eb9 | Am7 Am7 Abm7 Db9 | Gm7 C7#5#9 | FM7 |
+ Cm Ab/C | Cm6 Cm7 | FM7 BbM7 | Am7b5 Eb7 D7 D7 |
+ Gm7 Gm7 BbmM7 Eb9 | Am7 Am7 Abm7 Db9 | Gm7 Gm7 C7#5#9 C7#5 | F6 |
+ Em7add11 A7#5#9 | Dm6 | Em7add11 A7#5#9 | DM7 |
+ Dm7add11 G7#5#9 | CM7 | C#m7add11 F#7 | Cm7add11 F7 |
+ Cm Ab/C | Cm6 Cm7 | FM7 BbM7 | Am7b5 Eb7 D7 D7 |
+ Gm7 Gm7 BbmM7 Eb9 | Am7 Am7 Abm7 Db9 | Gm7 C13 | FM6 |
+

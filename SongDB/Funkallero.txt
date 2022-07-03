@@ -1,0 +1,10 @@
+Title = Funkallero
+ComposedBy = Bill Evans
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 16
+ D9 | G7+ | Cm69 | Cm69 |
+ D9 | G7+ | Cm69 | Cm69 |
+ Bbm11 Bbm11 Bbm11 Bbm9b5 Bbm9b5 Bbm9b5 Bbm9 Bbm9 | Eb7 | AbM7 AbM7 AbM7 Db7 Db7 Db7 Db7 Cm7 | Fm7 |
+ D9 | G7+ | Cm69 | Cm69 |
+

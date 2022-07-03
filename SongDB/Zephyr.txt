@@ -1,0 +1,9 @@
+Title = Zephyr
+ComposedBy = John McNeil
+DBKeySig = C
+TimeSig = 4 4
+Bars = 14
+ Am | Fm | GbM7 | GbM7 |
+ Em/A | Em/A | Gm7b5 | Abm |
+ BbM7#5 | Cm | DM7 | DM7 |
+ Gm/C Dm | Dm |

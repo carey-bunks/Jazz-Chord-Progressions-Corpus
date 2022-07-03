@@ -1,0 +1,10 @@
+Title = Whiskey in the Jar
+ComposedBy = Traditional
+DBKeySig = C
+TimeSig = 4 4
+Bars = 17
+ G | Em | C | G Em |
+ G | Em | C | G |
+ D7 | G | C | G D7 G G |
+ C D7 | D7 | G | C |
+ G D7 G G |

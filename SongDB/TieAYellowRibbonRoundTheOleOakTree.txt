@@ -1,0 +1,17 @@
+Title = Tie a Yellow Ribbon 'Round the Old Oak Tree
+ComposedBy = Irwin Levin and L. Russell Brown
+DBKeySig = F
+TimeSig = 4 4
+Bars = 44
+ F | F | Am | Am |
+ Cm | D7 | Gm | Gm |
+ Gm | Bbm | Dm | Dm |
+ G7 | G7 | Bbm6 | C7 |
+ Bbm6 | Bbm6 | C7 | C7 |
+ F | F | Am | Am |
+ Cm | Cm | D7 | Gm |
+ Gm | Bbm | F A7 | Dm |
+ F/C | F+/C# | Dm | D7 |
+ Gm | Bbm | Gm7 | C7 |
+ F | Dm | Gm | C7 |
+

@@ -1,0 +1,15 @@
+Title = Make It Easy On Yourself
+ComposedBy = Burt Bacharach
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 36
+ Eb Cm | Eb | Cm | C |
+ Eb | Eb+ Cm | Eb9 Eb9 Bbm7 Eb9 | Cm Fm7 |
+ Db Eb9 | Cm Fm7 | Db Eb | Db |
+ Bbm7 Cm | Ab | Bb6 Bb7 | Eb Cm |
+ Eb | Cm | C | Eb |
+ Eb+ Cm | Eb9 Eb9 Bbm7 Eb9 | Cm Fm7 | Db Eb9 |
+ Cm Fm7 | Db Eb9 | Bbm7 Cm | Ab |
+ Ab6 Ab6 Bbm7 Eb9 | Cm Fm7 | Db Eb9 | Cm Fm7 |
+ Db Eb | Db | Bbm7 Cm | Ab |
+

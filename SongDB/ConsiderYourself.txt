@@ -1,0 +1,22 @@
+Title = Consider Yourself
+ComposedBy = Lionel Bart
+DBKeySig = Bb
+TimeSig = 6 8
+Bars = 64
+ Bb | Bb | Bb | Bb |
+ Bb | Bb | Cm7 | F |
+ Bb | Bb | Gm | Gm G#o7 |
+ F | F#o7 | Gm7 C7 | F |
+ Bb | Bb | Bb | Bb |
+ Bb | Bb | Cm7 | F |
+ Bb | Bb | Gm | Gm G#o7 |
+ F | F#o7 | Gm7 C7 | F |
+ Fm | Fm | Bb7 | Bb7 |
+ Eb | Eb | Eb | Eb |
+ Gm | Gm | C7 | C7 |
+ F F#o7 | Gm7 G#o7 | F7 | F7 |
+ Bb | Bb | Bb | Bb |
+ Cm | Cm | Cm | Cm |
+ Bb | Bb | Bb Fm6 | G7 |
+ Cm7 | F7 | Bb | Bb |
+

@@ -1,0 +1,14 @@
+Title = You're Driving Me Crazy!
+ComposedBy = Walter Donaldson
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ FM7 | Am7 D7 | Gm7 | C7 |
+ Gm7 | C7 | F6 | Gm7 C7 |
+ FM7 | Am7 D7 | Gm7 | C7 |
+ Gm7 | C7 | F6 | Bm7b5 E7 |
+ AM7 AM7 AM7 F#m7 | Bm7 E7 | AM7 AM7 AM7 F#m7 | Bm7 E7 |
+ AM7 AM7 AM7 F#m7 | Bm7 E7 | A7 D7 | Gm7 C7 |
+ FM7 | Am7 D7 | Gm7 | C7 |
+ Gm7 | C7 | F6 | Gm7 C7 |
+

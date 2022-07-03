@@ -1,0 +1,9 @@
+Title = Mary Lou
+ComposedBy = Horace Silver
+DBKeySig = Eb
+TimeSig = 6 4
+Bars = 15
+ Cm7 Db7#11 | Cm7 Db7#11 | Cm7 Db7#11 | Cm7 Db7#11 |
+ Cm7 Db7#11 | Cm7 Db7#11 | Cm7 Db7#11 | Cm7 Gb7#11 |
+ F7 Bb7 | Eb7 Ab7 | D7alt G7#5 | Cm7 Db7#11 |
+ Cm7 Db7#11 | Cm7 Db7#11 | Cm7 Db7#11 |

@@ -1,0 +1,14 @@
+Title = Gallop's Gallop
+ComposedBy = Thelonious Monk
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ D7sus4 D7 | Bbm7 Eb7 | AbM7 Bbm7 Bb7b5 Bb7b5 | Bbm7 Eb7b9 |
+ Bbm7b5 Eb7b5 | AbM7 Bbm7b5 | Bm7 E7 | Bbm7 Eb7 |
+ D7sus4 D7 | Bbm7 Eb7 | AbM7 Bbm7 Bb7b5 Bb7b5 | Bbm7 Eb7b9 |
+ Bbm7b5 Eb7b5 | AbM7 Bbm7b5 | Bm7 E7 | Bbm7 Eb7 |
+ Ebm7/Ab | Ab7 | C#M7 Ebm7 | Eo7 C#/F |
+ Bbm7b5 | Bbm7 | Eb7 Eb7/A | Eb7/A |
+ D7sus4 D7 | Bbm7 Eb7 | AbM7 Bbm7 Bb7b5 Bb7b5 | Bbm7 Eb7b9 |
+ Bbm7b5 Eb7b5 | AbM7 F7b9 | Bbm7 Eb7 | AbM7 |
+

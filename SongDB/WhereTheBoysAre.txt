@@ -1,0 +1,14 @@
+Title = Where The Boys Are
+ComposedBy = Howard Greenfield and Neil Sedaka
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F Dm | Am | Gm7 C7 | F |
+ Gm7 C7 | F Dm | Bm7 E7 | A C7 |
+ F Dm | Am | Gm7 C7 | F |
+ Gm7 C7 | F Dm | Gm7 C7 | F |
+ Gm7 C7 | F | C7 | F |
+ Gm7 C7 | F Dm | G7 | C7 |
+ F Dm | Am | Gm7 C7 | Am7b5 D7 |
+ Gm | Am7 | Gm C7 | F |
+

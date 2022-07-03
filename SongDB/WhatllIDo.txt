@@ -1,0 +1,14 @@
+Title = What'll I Do?
+ComposedBy = Irving Berlin
+DBKeySig = C
+TimeSig = 3 4
+Bars = 32
+ CM7 | Fm7 Fm7 Bb7 | CM7 | Fm7 Fm7 Bb7 |
+ Em7 Em7 A7 | Dm7 Dm7 G7 | C6 | Dm7 Dm7 G7 |
+ CM7 | Fm7 Fm7 Bb7 | CM7 | Fm7 Fm7 Bb7 |
+ Em7 Em7 A7 | Dm7 Dm7 G7 | C6 | Gm7 Gm7 C7 |
+ FM7 | Gm7 Gm7 C7 | FM7 | Bb7 |
+ Em7 | A7 | D7 | Dm7 Dm7 G7 |
+ CM7 | Fm7 Fm7 Bb7 | CM7 | Fm7 Fm7 Bb7 |
+ Em7 Em7 A7 | Dm7 Dm7 G7 | C6 | Dm7 Dm7 G7 |
+

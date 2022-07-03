@@ -1,0 +1,14 @@
+Title = Cottontail
+ComposedBy = Duke Ellington
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Ab Fm7 | Bbm7 Eb7 | Ab Fm7 | Bbm7 Eb7 |
+ Ab7b5 | Db Do | Ab Fm7 | Bbm7 Eb7 |
+ Ab Fm7 | Bbm7 Eb7 | Ab Fm7 | Bbm7 Eb7 |
+ Ab7b5 | Db Do | Ab Fm7 | Eb7 Ab |
+ C7 | C7 | F7 | F7 |
+ Bb7 | Bb7 | Eb7 | Eb7 |
+ Ab Fm7 | Bbm7 Eb7 | Ab Fm7 | Bbm7 Eb7 |
+ Ab7b5 | Db Do | Ab Fm7 | Eb7 Ab |
+

@@ -1,0 +1,34 @@
+Title = Brainville
+ComposedBy = Sun Ra
+DBKeySig = F
+TimeSig = 4 4
+Bars = 114
+ BbmMaj7 | AbmMaj7 | BbmMaj7 | AbmMaj7 |
+ Bb | Bb | Bb | Bb |
+ Bb | Bb | Bb | Bb |
+ Bb | Bb | BbmMaj7 | AbmMaj7 |
+ BbmMaj7 | AbmMaj7 | F#9 | Bmaj7 |
+ Emaj7 | A7#9 | BbmMaj7 | AbmMaj7 |
+ BbmMaj7 | AbmMaj7 | F#9 | Bmaj7 |
+ Emaj7 | A7#9 | F | F |
+ F | F | F | F |
+ F | F | F | F |
+ F | F | F | F |
+ F | F | BbmMaj7 | AbmMaj7 |
+ BbmMaj7 | AbmMaj7 | F#9 | Bmaj7 |
+ Emaj7 | A7#9 | Fmaj7 | Fmaj7 |
+ Fmaj7 | Fmaj7 | Fmaj7 | Fmaj7 |
+ Fmaj7 | Fmaj7 | Fmaj7 | Fmaj7 |
+ Fmaj7 | Fmaj7 | Fmaj7 | Fmaj7 |
+ Fmaj7 | Fmaj7 | Gm7 | Gm7 |
+ Gm7 | Gm7 | BbmMaj7 | AbmMaj7 |
+ BbmMaj7 | AbmMaj7 | F#9 | Bmaj7 |
+ Emaj7 | A7#9 | BbmMaj7 | AbmMaj7 |
+ BbmMaj7 | AbmMaj7 | F#9 | Bmaj7 |
+ Emaj7 | Gm7 C7 | Fmaj7 Dm7 | Gm7 C7 |
+ Fmaj7 Dm7 | Gm7 C7 | Fmaj7 Dm7 | Gm7 C7 |
+ Fmaj7 Dm7 | Gm7 C7 | BbmMaj7 | AbmMaj7 |
+ BbmMaj7 | AbmMaj7 | F#9 | Bmaj7 |
+ Emaj7 | A7#9 | Gm7 | Gm7 |
+ Gm7 | Gm7 | Gm7 | Gm7 |
+ Emaj7 | Gm7 C7 |

@@ -1,0 +1,10 @@
+Title = When My Sugar Walks Down the Street
+ComposedBy = Gene Austin, Jimmy MHugh, and Irving Mills
+DBKeySig = G
+TimeSig = 4 4
+Bars = 16
+ G G Dm6 E7 | A7 | D7 | G C6 G G |
+ G G G Go7 | D7 | D7 D7+ | G |
+ G G Dm6 E7 | A7 | D7 | G C6 G G7 |
+ E7 | Am E7 Am Am | G E7 A9 D7 | G G#o7 D7 D7 |
+

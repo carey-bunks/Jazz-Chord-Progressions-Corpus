@@ -1,0 +1,10 @@
+Title = Gee Baby, Ain't I Good To You
+ComposedBy = Don Redman and Andy Razaf
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ C7 Ab7 | G7 C7 | F7b9 F7b9 Bb7+ Bb7 | Eb6 G7 |
+ C7 Ab7 | G7 C7 | F7 F7 Bb7+ Bb7 | Eb6 Eb7 |
+ Ab7 Ao7 | Eb6/Bb Eb7 | Ab7 Ao7 | Dm7 G7 |
+ C7 Ab7 | G7 C7 | F7b9 F7b9 Bb7+ Bb7 | Eb6 Eb6 Ab7 G7 |
+

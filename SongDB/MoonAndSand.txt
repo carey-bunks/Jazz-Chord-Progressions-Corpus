@@ -1,0 +1,14 @@
+Title = Moon and Sand
+ComposedBy = Alec Wilder and Morty Palitz
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Dm7 | BbM7 | AbM7 | Fm7/Bb |
+ EbM7 A7#11 | AbM7 | Am7b5 | D7alt |
+ Gm7 | C7b9 | FM7 | FM7 |
+ Bm7b5 | E7alt | Em7b5 | A7alt |
+ Dm7 | G7b9 | Cm7 | F7b9 |
+ BbM7 | Eb7 | Em7b5 | A7alt |
+ A7alt | BbM7 | AbM7 | Fm7/Bb |
+ EbM7 A7#11 | AbM7 | Am7b5 | D7alt |
+

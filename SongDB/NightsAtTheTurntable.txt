@@ -1,0 +1,15 @@
+Title = Nights at the Turntable
+ComposedBy = Gerry Mulligan
+DBKeySig = C
+TimeSig = 4 4
+Bars = 36
+ C | Am7 D7 | G | Em7 A7 |
+ Dm7 G7 | Em7 A7 | F#m7 B7 | G7 |
+ C | Am7 D7 | G | Em7 A7 |
+ Dm7 G7 | Em7 A7 | F#m7 B7 | G7 |
+ C | Gm7 C7 | F | F |
+ Cm7 | Fm7 Bb7 | Eb | Dm7 G7 |
+ C | Am7 D7 | G | Em7 A7 |
+ Dm7 G7 | Em7 A7 | F#m7 B7 | G7 C7 |
+ F Ab | G7 | C | Dm7 Co7 C C |
+

@@ -1,0 +1,9 @@
+Title = Dance of the Infidels
+ComposedBy = Bud Powell
+DBKeySig = C
+TimeSig = 4 4
+Bars = 12
+ FM7 | Bbm7 Eb7 | Am7 Gm7 | F#m7 B7 |
+ Bb7 | Bbm7 Eb7 | Am7 | Abm7 Db7 |
+ Gm7 | Dbm7 Gb7 | FM7 | FM7 |
+

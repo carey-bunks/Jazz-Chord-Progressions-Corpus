@@ -1,0 +1,12 @@
+Title = Straight Life
+ComposedBy = Freddie Hubbard
+DBKeySig = F
+TimeSig = 4 4
+Bars = 24
+ F7 | Eb7 | F7 | Eb7 |
+ F7 | Eb7 | F7 | Eb7 |
+ F7 | Eb7 | F7 | Eb7 |
+ F7 | Eb7 | F7 | Eb7 |
+ F7 | Eb7 | F7 | Eb7 |
+ F7 | Eb7 | F7 | Eb7 |
+

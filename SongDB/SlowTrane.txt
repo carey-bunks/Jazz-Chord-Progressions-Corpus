@@ -1,0 +1,9 @@
+Title = Slowtrane
+ComposedBy = John Coltrane
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ Bb7 | Eb7b9 | Bb7 | Bb7 |
+ Eb7b9 | Eb7b9 | Bb7 | Bb7 |
+ Cm7 | F7 | Bb7 Bb7/D Eb7b9 Do7 | Bb7/F B13#11 Bb7 Bb7 |
+

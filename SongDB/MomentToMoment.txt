@@ -1,0 +1,15 @@
+Title = Moment To Moment
+ComposedBy = Henry Mancini
+DBKeySig = C
+TimeSig = 4 4
+Bars = 36
+ Am7 | FM7/A | Am6 | Dm7 |
+ Am7 Am7/G | F#m7b5 F7 | Bm7/E | E7b9 |
+ Am7 | FM7/A | Am6 | Dm7 |
+ CM7 | G7 | Em7b5 | A7b9 |
+ Dm7 | Bm7b5 E7b9 | Am7 | Am7/G |
+ F#m7b5 | F7 | Bm7/E | E7b9 |
+ Am7 | FM7/A | Am6 | Dm7 |
+ CM7 | G7 | Em7b5 | A7b9 |
+ Dm7 | G7 | CM7 | Bm7b5 E7b9 |
+

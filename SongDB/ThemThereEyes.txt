@@ -1,0 +1,14 @@
+Title = Them There Eyes
+ComposedBy = Doris Tauber, Maceo Pinkard, and William Tracey
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Ab6 | Ab6 | Ab6 Eb7 | Ab6 |
+ Ab6 | Ab6 F7 | Bb7 | Bb7 |
+ Bbm7 | Eb7 | C7 | Fm7 |
+ Bb7 | Bb7 | Bbm7 | Eb7 |
+ Ab6 | Ab6 | Ab6 Eb7 | Ab6 |
+ Ab6 | Ab6 | Db | Db |
+ Db | Do7 | Ab6/Eb | Bb7 Eb7 |
+ Ab | F7 | Bb7 Eb7 | Ab6 Eb7 |
+

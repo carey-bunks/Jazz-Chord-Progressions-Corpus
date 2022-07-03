@@ -1,0 +1,10 @@
+Title = If I Could Be With You
+ComposedBy = Henry Creamer and Jimmy Johnson
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ G7 Dm7 | G7 | C E7 | A7 A7 A7#5b9 A9 |
+ D9 D9b5 | G7 | C C Gm A9 | D7 G7 |
+ G7 Dm7 | G7 | C E7 | A7 A7 A7#5b9 A9 |
+ F B7/F# | C/G E7/G# A7 A7 | D9 G7 | C Fm C C |
+

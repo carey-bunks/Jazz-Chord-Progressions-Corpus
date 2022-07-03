@@ -1,0 +1,14 @@
+Title = True Love
+ComposedBy = Cole Porter
+DBKeySig = G
+TimeSig = 3 4
+Bars = 32
+ G | G | Go7 | G |
+ D7 | D7 | C | G |
+ G | G | Go7 | G |
+ D7 | D7 | D7 | G |
+ Cm | Cm F7 F7 | Bb | G7 |
+ Cm | F7 | Bb7 | D7 |
+ G | G | Go7 | G |
+ D7 | D7 | G | G G D7 |
+

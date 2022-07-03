@@ -1,0 +1,10 @@
+Title = Sweet Georgia Bright
+ComposedBy = Charles Lloyd
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ C7 | C7 | Bb7 | Bb7 |
+ C7 | C7 | Bb7 | Bb7 |
+ Eb7 | Eb7 | Eb7 | Eb7 |
+ D7 | Db7 | C7 | C7 |
+

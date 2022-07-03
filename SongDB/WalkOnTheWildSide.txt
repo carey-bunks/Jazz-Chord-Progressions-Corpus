@@ -1,0 +1,15 @@
+Title = Walk On the Wild Side
+ComposedBy = Elmer Bernstein and Mack David
+DBKeySig = C
+TimeSig = 12 8
+Bars = 36
+ C F7 | C | C F7 | C |
+ G7 F7 | C | G7 F7 | C |
+ C F7 | C | C F7 | C |
+ G7 F7 | C | G7 F7 | C C7 |
+ F7 | C | F7 | C C7 |
+ F7 | C | F7 | C |
+ G7 F7 | C | G7 F7 | C |
+ C F7 | C | C F7 | C |
+ G7 F7 | C | G7 F7 | C |
+

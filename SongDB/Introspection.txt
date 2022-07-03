@@ -1,0 +1,15 @@
+Title = Introspection
+ComposedBy = Thelonious Monk
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 36
+ Cm7 Db7b5 | C7b5 B13 | Bbm7 Eb7b9 | Eb7b9 AbM7 |
+ Bb7b9 B7b5 | B7/G B7b5 A7b9b13 A7b9b13 | DM7 | DM7 Bm7 |
+ Cm7 Db7b5 | C7b5 B13 | Bbm7 Eb7b9 | Eb7b9 AbM7 |
+ Bb7b9 B7b5 | B7/G B7b5 A7b9b13 A7b9b13 | DM7 | DM7 |
+ C#M7 | DM7 | C#M7 | DM7 |
+ EbM7 | DM7 | DM7 C#M7 | DM7 B7b5 |
+ Cm7 Db7b5 | C7b5 B13 | Bbm7 Eb7b9 | Eb7b9 AbM7 |
+ Bb7b9 B7b5 | B7/G B7b5 A7b9b13 A7b9b13 | DM7 | DM7 |
+ DbM7 | DM9 | DbM9 | DbM7 |
+

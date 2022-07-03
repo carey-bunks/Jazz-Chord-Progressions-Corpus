@@ -1,0 +1,14 @@
+Title = Smoke Gets In Your Eyes
+ComposedBy = Jerome Kern
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb Gbo | Fm7 Bb7 | Eb G7+ | Ab Ao |
+ Eb Cm7 | Fm7 Bb7 | Eb C7 | Fm7 Bb7 |
+ Eb Gbo | Fm7 Bb7 | Eb G7+ | Ab Ao |
+ Eb Cm7 | Fm7 Bb7 | Eb | Dbm7 Gb7 |
+ Cb | Abm7 | Dbm7 Co | Dbm7 Gb7 |
+ Cb | Abm7 Bb7 | Eb C7 | Fm7 Bb7 |
+ Eb Gbo | Fm7 Bb7 | Eb G7+ | Ab Ao |
+ Eb Cm7 | Fm7 Bb7 | Eb | Eb |
+

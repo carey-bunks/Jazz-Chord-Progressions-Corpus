@@ -1,0 +1,14 @@
+Title = When I Grow Too Old To Dream
+ComposedBy = Sigmund Romberg
+DBKeySig = F
+TimeSig = 3 4
+Bars = 32
+ F | F | F | F |
+ Gm7 | C7 | F | F7 |
+ Bb | Bb Bb C7 | F | Dm |
+ F/C | C7 | F | F |
+ Am | Gm | F | F |
+ F | A7 | Dm | F7 |
+ Bb | Bb Bb C7 | F | Dm Dm Db7 |
+ F/C | C7 | F | F |
+

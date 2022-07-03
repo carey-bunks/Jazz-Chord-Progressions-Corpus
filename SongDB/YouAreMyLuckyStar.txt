@@ -1,0 +1,14 @@
+Title = You Are My Lucky Star
+ComposedBy = Nacio Herb Brown
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F | F | C7 | C7 |
+ C7 | C7 | F | F |
+ F | F | G7 | G7 |
+ C7 | C7 | F Bb | B7 C7 |
+ F | F | C7 | C7 |
+ C7 | C7 | F | F |
+ F7 | F9 F7b9 | Bb6 | Bbm6 |
+ F | F | C7 | F |
+

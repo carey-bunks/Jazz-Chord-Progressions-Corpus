@@ -1,0 +1,12 @@
+Title = Night Train
+ComposedBy = Jimmy Forrest
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 24
+ Bb7 | Bb7 | Bb7 | Bb13 |
+ Eb7 | Eb7 | Bb | Bb13 |
+ F7+ | Eb7 | Bb | Bb6 |
+ Bb | Bb | Bb6 | Bb13 |
+ Eb7 | Eb7 | Bb6 | Bb6 |
+ Eb7 | Eb7 | Bb6 | Bb6 |
+

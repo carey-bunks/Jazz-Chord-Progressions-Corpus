@@ -1,0 +1,14 @@
+Title = Alice Blue Gown
+ComposedBy = H. Tierney
+DBKeySig = C
+TimeSig = 3 4
+Bars = 32
+ C | C | A7 | A7 |
+ D7 | D7 | D7 | D7 |
+ G7 | G7 G7 G+ | C | A7 |
+ D7 | D7 | G7 | G7 |
+ C | C | A7 | A7 |
+ Dm | G7 | E7 | E7 |
+ F | F F Fm | C | A7 |
+ Dm | G7 | C | G7 |
+

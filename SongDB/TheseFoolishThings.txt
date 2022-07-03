@@ -1,0 +1,14 @@
+Title = These Foolish Things
+ComposedBy = Jach Strachey
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Eb Cm7 | Fm7 Bb7 | Eb Cm7 | F7 Bb7 |
+ Bbm7 Eb7 | Ab C7+ | F7 | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb Cm7 | F7 Bb7 |
+ Bbm7 Eb7 | Ab C7+ | F7 Bb7 | Eb Eb Am7b5 D7b9 |
+ Gm | Am7b5 D7b9 | Gm7 | C7 |
+ Bb Gm7 | Cm7 F7 | Gm7 C7b9 | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb Cm7 | F7 Bb7 |
+ Bbm7 Eb7 | Ab C7+ | F7 Bb7 | Eb Bb7+ |
+

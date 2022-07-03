@@ -1,0 +1,14 @@
+Title = Well You Needn't
+ComposedBy = Thelonious Monk
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ F | Gb | F | Gb |
+ F | Gb | F | F |
+ F | Gb | F | Gb |
+ F | Gb | F | F |
+ Db | Db | D | D |
+ Eb E | Eb D | Db C | B C |
+ F | Gb | F | Gb |
+ F | Gb | F | F |
+

@@ -1,0 +1,14 @@
+Title = Boplicity
+ComposedBy = Miles Davis
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Gm7 FM7 | Gm7 C7 | FM7 | Cm7 F7+ |
+ BbM7 | Gm7/C | Gm7 C7sus4 | FM7#11 |
+ Gm7 FM7 | Gm7 C7 | FM7 | Cm7 F7+ |
+ BbM7 | Gm7/C | Gm7 C7sus4 | FM7#11 |
+ Cm7 F7#5 | Cm7 B7 | BbM7 | BbM7 |
+ Bbm7 Eb7#5 | Bbm7 A7 | AbM7 Abm7 | Gm7 C7 |
+ Gm7 FM7 | Gm7 C7 | FM7 | Cm7 F7 |
+ BbM7 | Gm7/C | Gm7 C7sus4 | FM7#11 |
+

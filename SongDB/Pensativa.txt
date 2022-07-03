@@ -1,0 +1,22 @@
+Title = Pensativa
+ComposedBy = Clare Fischer
+DBKeySig = Gb
+TimeSig = 4 4
+Bars = 64
+ Gb69 | Db7b9/Gb | Gb69 | Db7b9/Gb |
+ Gb69 | Eb7b9 | DM7 | Ab7#5 |
+ GM7#11 | G/F# | Em7 | Em7/D |
+ Abm7b5/Db Db7#9 | Db7#9 G7 | Gb69 | F7 |
+ Gb69 | Db7b9/Gb | Gb69 | Db7b9/Gb |
+ Gb69 | Eb7b9 | DM7 | Ab7#5 |
+ GM7#11 | G/F# | Em7 | Em7/D |
+ Abm7b5/Db Db7#9 | Db7#9 G7 | Gb69 | Dbm7 |
+ CM7 E7 | Am7 | FM7 | E7 |
+ Dm7 | G7 | C69 | Bm7b5 Bb7 |
+ A69 | F#m7 | Bm7b5 E7b9 | E7b9 |
+ AM7 | Ab7#5 | Dm7 | G7 |
+ Gb69 | Db7b9/Gb | Gb69 | Db7b9/Gb |
+ Gb69 | Eb7b9 | DM7 | Ab7#5 |
+ GM7#11 | G/F# | Em7 | Em7/D |
+ Abm7b5/Db Db7#9 | Db7#9 G7 | Gb69 | Db7b9/Gb |
+

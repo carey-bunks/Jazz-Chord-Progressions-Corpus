@@ -1,0 +1,14 @@
+Title = When It's Sleepy Time Down South
+ComposedBy = Clarence Muse, Leon Rene and Otis Rene
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Ab | Abm | Eb | F7 |
+ Fm7 | Bb G7 | Ab Abm | Eb Eb7 |
+ Ab | Abm | Eb | F7 |
+ Fm7 | Bb G7 | Ab Abm | Eb Eb Am7 D7 |
+ G Bm7 | Em7 G#dim | Am7 D7 | G D+ |
+ G Bm7 | Em7 G#dim | Am7 D7 | G Bb7 |
+ Ab | Abm | Eb | F7 |
+ Fm7 | Bb G7 | Ab Abm | Eb Eb Eb7 |
+

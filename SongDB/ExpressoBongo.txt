@@ -1,0 +1,16 @@
+Title = Expresso Bongo
+ComposedBy = Tom Harrell
+DBKeySig = C
+TimeSig = 4 4
+Bars = 40
+ Em7 A9sus4 A9sus4 Gm7 | Gm7 C7b9 | FM7 Dm7 Dm7 C7#9 | C7#9 B7#9 |
+ GM7 Em Em Cm9 | Cm9 F13 | BbM9 Cm9 Cm9 Dm9 | EbM9 |
+ Ebm7b5 Ebm7b5 Ebm7b5 Ab13 | Ab13 Ab13 G7#5 Cm9 | Cm9 Cm9 Cm9 Dm7b5 | Dm7b5 Gb7#5 |
+ Bm9 E9sus4 E9sus4 Abm9 | Abm9 Db7b9 | Gbm9 C7#9b13 | B7#9b13 |
+ Em7 A9sus4 A9sus4 Gm7 | Gm7 C7b9 | FM7 Dm7 Dm7 C7#9 | C7#9 B7#9 |
+ GM9 Em9 Em9 Cm9 | Cm9 F13 | Gb7#9b13 C9#11 C9#11 B7#9 | B7#9 F13 |
+ Em9 A9 | Dbm7b5 Gb7#5 | Bm9 Am9 Am9 Gm9 | Gm9 C9 |
+ FM9 Dm9 Dm9 Bm9 | Bm9 E13b9 | AM9 AM9 Em9 Am9 | Am9 Dm9 |
+ NC Bm9 | Bm9 Bm9 Bm6 Bbm9 | Bbm9 Am9 | Am9 Am9 Am6 Cm9 |
+ NC Bm9 | Bm9 Bm9 Bm6 Bbm9 | Bbm9 Am9 | Am9 Am9 Am6 Cm9 |
+

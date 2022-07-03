@@ -1,0 +1,14 @@
+Title = 'Tain't What You Do (It's The Way Thatcha Do It
+ComposedBy = Sy Oliver and James Young
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Ab Ab7/Gb | Db/F Eb7 | Db Ab/C | Bbm7 Eb7 |
+ Ab Ab7/C | Db Eb7 | Ab Eb7 | Ab Eb7 |
+ Ab Ab7/Gb | Db/F Eb7 | Db Ab/C | Bbm7 Eb7 |
+ Ab Ab7/C | Db Eb7 | Ab Eb7 | Ab Ab7 |
+ Db6 | Eb7 | Ab | Ab7 |
+ Db6 | Eb7 | Ab | Eb7 |
+ Ab Ab7/Gb | Db/F Eb7 | Db Ab/C | Bbm7 Eb7 |
+ Ab Ab7/C | Db Eb7 | Ab Eb7 | Ab Eb7 |
+

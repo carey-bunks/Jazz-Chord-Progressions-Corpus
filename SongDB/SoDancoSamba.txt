@@ -1,0 +1,14 @@
+Title = So Danco Samba
+ComposedBy = Antonio Carlos Jobim
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C69 | C69 | D7 | D7 |
+ Dm7 | G7 | C69 | G7 |
+ C69 | C69 | D7 | D7 |
+ Dm7 | G7 | C69 | C69 |
+ Gm7 | C7 | FM7 | FM7 |
+ D7 | D7 | Dm7 | G7 |
+ C69 | C69 | D7 | D7 |
+ Dm7 | G7 | C69 | C69 |
+

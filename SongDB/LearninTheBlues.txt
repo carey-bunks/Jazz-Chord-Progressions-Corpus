@@ -1,0 +1,20 @@
+Title = Learnin' the Blues
+ComposedBy = Dolores Silvers
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 56
+ Cm7 | F7 | BbM7 | Dm7 G7#5 |
+ Cm7 | F7 | BbM7 | Bb7 Bb7#5 |
+ EbM7 | Ebm7 | Dm7 | G7 |
+ Cm7 | C7b9 F7 | Bb6 | Bb6 Bo7 |
+ Cm7 | F7 | BbM7 | Dm7 G7#5 |
+ Cm7 | F7 | BbM7 | Bb7 Bb7#5 |
+ EbM7 | Ebm7 | Dm7 | G7 |
+ Cm7 | C7b9 F7 | Bb6 | Bb6 Bb7#5 |
+ Eb6 Eb7 | Eb6 Eb7 | BbM7 | BbM7 Bb7#5 |
+ Eb6 Eb7 | Eb6 Eb7 | F7 Fo7 | F7 Bo7 |
+ Cm7 | F7 | BbM7 | Dm7 G7#5 |
+ Cm7 | F7 | BbM7 | Bb7 Bb7#5 |
+ EbM7 | Ebm7 | Dm7 | G7b9 |
+ Cm7 | C7b9 F7 | Bb6 | Cm7 F7 |
+

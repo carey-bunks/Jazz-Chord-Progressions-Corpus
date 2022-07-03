@@ -1,0 +1,14 @@
+Title = Love Me Or Leave Me
+ComposedBy = Walter Donaldson and Gus Kahn
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Fm | G7 C7 | Fm | G7 C7 |
+ Ab | Bb7 Eb7 | Ab | Db7 C7 |
+ Fm | G7 C7 | Fm | G7 C7 |
+ Ab | Bb7 Eb7 | Ab | Ab |
+ Cm7b5 | F7 | Bbm F7 | Bbm |
+ Bbm7 | Eb7 | Ab Bo | Gm7b5 C7 |
+ Fm | G7 C7 | Fm | G7 C7 |
+ Ab | Bb7 Eb7 | Ab | Ab |
+

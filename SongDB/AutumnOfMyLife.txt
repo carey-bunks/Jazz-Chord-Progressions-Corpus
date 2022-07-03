@@ -1,0 +1,10 @@
+Title = The Autumn of My Life
+ComposedBy = Bobby Goldsboro
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 16
+ Eb | Cm | Ab | Eb |
+ Eb | Cm Cm7/Bb | Fm7/Bb | Bb7 Bb7 Bb7 Bb11 |
+ Eb | Gm/D | Ab/C | Eb/Bb G/B |
+ Cm | Bb11 Bb11 Bb11 Bb7 | Eb Fm7/Bb | Eb |
+

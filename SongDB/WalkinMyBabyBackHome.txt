@@ -1,0 +1,14 @@
+Title = Walkin' My Baby Back Home
+ComposedBy = Roy Turk and Fred E. Ahlert
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 Bb7#5 | EbM7 Bb7#5 | EbM7 Cm7 | F9 |
+ Fm7 Bb7 | Fm7 Bb7 | Fm7 Bb7 | Eb6 Eb6 Fm7 Bb7 |
+ EbM7 Bb7#5 | EbM7 Bb7#5 | EbM7 Cm7 | F9 |
+ Fm7 Bb7 | Fm7 Bb7 | Fm7 Bb7 | Eb6 Eb6 Am7b5 D7b9 |
+ Gm GmM7 | Gm7 Gm6 | Cm7 Cm7/Bb | Am7 D7 |
+ Gm7 GmM7 | Gm7 Gm6 | Cm7 F7 | Fm7 Bb7 |
+ EbM7 Bb7#5 | EbM7 Bb7#5 | EbM7 Cm7 | F9 |
+ Fm7 Bb7 | Fm7 Bb7 | Fm7 Bb7 | Eb6 Eb6 Fm7 Bb7 |
+

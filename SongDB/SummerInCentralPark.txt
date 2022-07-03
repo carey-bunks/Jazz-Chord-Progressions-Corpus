@@ -1,0 +1,16 @@
+Title = Summer In Central Park
+ComposedBy = Horace Silver
+DBKeySig = F
+TimeSig = 3 4
+Bars = 40
+ FM7 | A7alt | Dm7 | G7 |
+ DbM7 | GbM7 | Gm7 | A7b9 |
+ DM7 | DM7 | Dm7 | Dm7 |
+ DM7 | DM7 | Dm7 | Dm7 |
+ DM7 | DM7 | Dm7 | Dm7 |
+ DM7 | DM7 | Dm7 | Dm7 |
+ Gm7 C7b9 | FM7 | A7alt | Dm7 G7 |
+ DbM7 | GbM7 | AM7 | DM7 |
+ DbM7 | DbM7 | Gm7 | C7b9 |
+ AbM7 | GbM7 | FM7 | Gm7 C7b9 |
+

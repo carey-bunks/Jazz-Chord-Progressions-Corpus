@@ -1,0 +1,14 @@
+Title = Christmas Time is Here
+ComposedBy = Vince Guaraldi
+DBKeySig = F
+TimeSig = 3 4
+Bars = 32
+ FM7 | Eb9#11 | FM7 | Eb9#11 |
+ Bm7b5 Bbm Bbm | Am7 Abm Abm | Gm Gm Bbm/C | FM9 |
+ FM7 | Eb9#11 | FM7 | Eb9#11 |
+ Bm7b5 Bbm Bbm | Am7 Abm Abm | Gm Gm Bbm/C | FM9 |
+ DbM7 | Gb9#11 | DbM7 | Gb9#11 |
+ Am Am Gm7b5 | F#m7b5 F#m7b5 D7 | Gm Gm G9#5 | C9 |
+ FM7 | Eb9#11 | FM7 | Eb9#11 |
+ Bm7b5 Bbm Bbm | Am7 Abm Abm | Gm Gm Bbm/C | FM9 |
+

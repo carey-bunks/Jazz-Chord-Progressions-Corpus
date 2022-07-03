@@ -1,0 +1,14 @@
+Title = Everything Happens To Me
+ComposedBy = Matt Dennis and Tom Adair
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Cm7 F7 | Dm7 Dbo7 | Cm7 F7 | Dm7b5 G7 |
+ EbM7 Ebm | Dm7 G7 | Cm7 F7 | Bb G7 |
+ Cm7 F7 | Dm7 Dbo7 | Cm7 F7 | Dm7b5 G7 |
+ EbM7 Ebm | Dm7 G7 | Cm7 F7 | Bb |
+ Fm7 Bb7 | EbM7 | Fm7 Bb7 | EbM7 |
+ Em7 A7 | DM7 | Gm7 C7 | Cm7 F7 |
+ Cm7 F7 | Dm7 Dbo7 | Cm7 F7 | Dm7b5 G7 |
+ EbM7 Ebm | Dm7 G7 | Cm7 F7 | EbM7 |
+

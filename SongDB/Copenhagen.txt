@@ -1,0 +1,16 @@
+Title = Copenhagen
+ComposedBy = Charles Davis and Walter Melrose
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 40
+ EbM7 | Ebm6 | Bb | G7 |
+ C7 | F7 | Bb | Bb Bb7 |
+ EbM7 | Ebm6 | Bb | G7 |
+ C7 | F7 | Bb | Bb F7 |
+ Bb | Cm/Bb Dm/Bb | Bb | Gb |
+ Bb | F7 | Bb | Bb F7 |
+ Bb | Cm/Bb Dm/Bb | Bb | Gb |
+ Bb | F7 | Bb | Bb Bb7 |
+ EbM7 | Ebm6 | Bb | G7 |
+ C7 | F7 | Bb | Bb Bb7 |
+

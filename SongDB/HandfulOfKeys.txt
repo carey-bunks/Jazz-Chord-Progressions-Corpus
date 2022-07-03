@@ -1,0 +1,14 @@
+Title = A Handful of Keys
+ComposedBy = Fats Waller
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb Fm7 | Eb6 Gbo7 | Fm Fm7 | Fm6 Gbo7 |
+ Fm Fm7 | Fm6 Bb7 | Eb Cm7 | Fm7 Bb7 |
+ Eb Fm7 | Eb6 Gbo7 | Fm Fm7 | Fm6 Gbo7 |
+ Fm Fm7 | Fm6 Bb7 | Eb Bb7+ | Eb D7 |
+ G7 G7sus4 | Bbo7 G7 | C7 C7sus4 | Ebo7 C7 |
+ F7 F7sus4 | Abo7 F7 | Bb7 Bb7sus4 | Dbo7 Bb7 |
+ Eb Fm7 | Eb6 Gbo7 | Fm Fm7 | Fm6 Gbo7 |
+ Fm Fm7 | Fm6 Bb7 | Eb Bb7+ | Eb |
+

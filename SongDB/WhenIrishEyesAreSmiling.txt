@@ -1,0 +1,14 @@
+Title = When Irish Eyes Are Smiling
+ComposedBy = Ernest Ball
+DBKeySig = C
+TimeSig = 3 4
+Bars = 32
+ C | G7 | C | C7 |
+ F | F | C | C |
+ F | F | C | A7 |
+ D7 | D7 | G7 | G7 |
+ C | G7 | C | C |
+ F | F | C | C |
+ F | D7/F# | C/G | A7 |
+ D7 | G7 | C | G7 |
+

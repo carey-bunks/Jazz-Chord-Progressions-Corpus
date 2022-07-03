@@ -1,0 +1,26 @@
+Title = Gibraltar
+ComposedBy = Freddie Hubbard
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 80
+ Gm7 | C7 | Gm7 | C7 |
+ Gm7 | C7 | Gm7 | C7 |
+ Gm7 | C7 | Gm7 | C7 |
+ Gm7 | C7 | Gm7 | C7 Bb7alt |
+ EbM7 | A7alt | AbM7 | D7alt |
+ Gm7 | C7 | Gm7 | C7 |
+ Gm7 | C7 | Gm7 | C7 |
+ Gm7 | C7 | Gm7 | C7 |
+ Gm7 | C7 | Gm7 | C7 |
+ Gm7 | C7 | Gm7 | C7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ Fm7 | Fm7 | Fm7 | Fm7 |
+ Abm7 | Abm7 | Abm7 | Abm7 |
+ Bm7 | Bm7 | Bm7 | Gm7 |
+ Gm7 | C7 | Gm7 | C7 |
+ Gm7 | C7 | Gm7 | C7 |
+ Gm7 | C7 | Gm7 | C7 |
+ Gm7 | C7 | Gm7 | C7 Bb7alt |
+ EbM7 | A7alt | AbM7 | D7alt |
+ Gm7 | C7 | Gm7 | C7 |
+

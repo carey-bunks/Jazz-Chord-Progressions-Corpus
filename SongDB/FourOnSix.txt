@@ -1,0 +1,10 @@
+Title = Four On Six
+ComposedBy = Wes Montgomery
+DBKeySig = F
+TimeSig = 4 4
+Bars = 16
+ Gm7 C7 | Gm7 C7 | Gm7 C7 | Gm7 |
+ Cm7 F7 | Bbm7 Eb7 | Am7 D7 | Ebm7 Ab7 |
+ Gm7 C7 | Gm7 C7 | Gm7 C7 | Gm7 |
+ Bb | Eb7 D7alt | Gm7 | Am7b5 D7alt |
+

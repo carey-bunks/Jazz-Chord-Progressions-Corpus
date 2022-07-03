@@ -1,0 +1,13 @@
+Title = Elogie
+ComposedBy = Bud Powell
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 28
+ Cm7 | Cm7 | Cm7 | Cm7 |
+ Ebm11 | Ebm11 | Ebm11 | Ebm11 |
+ DbM7 | Db7/Ab | Gb9 | B13 |
+ F7sus4 | F7sus4 | F7sus4 | F7sus4 |
+ Ab7sus4 | Ab7sus4 | Ab7sus4 | Ab7sus4 |
+ DbM7 | Db7/Ab | Gb9 | B13 |
+ Ab7sus4 | Ab7sus4 | Ab7sus4 Ab7 | DbM7 |
+

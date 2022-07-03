@@ -1,0 +1,12 @@
+Title = Goodbye Pork Pie Hat
+ComposedBy = Charles Mingus
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ Ebm7 Abm7 | Ebm7 Abm7 | Ebm7 Abm7 | Ebm7 A7#5 |
+ Abm7 | B7 Bb7#5 | Ebm7 Abm7 | Ebm7 Ab7 |
+ Ebm7b5 F7#5#9 | F#m7 F#m7 B7 Bb7 | Ebm7 Ab7 | Ebm7 Ab7 |
+ Ebm7 | B7 | Ebm7 | B7 |
+ Abm7 | B7 Bb7#5 | Ebm7 Ab7 | Ebm7 Ab7 |
+ Cm7b5 F7 | F#m7 F#m7 B7 Bb7 | Ebm7 Ab7 | Ebm7 Ab7 |
+

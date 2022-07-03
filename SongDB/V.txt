@@ -1,0 +1,11 @@
+Title = V
+ComposedBy = John Scofield
+DBKeySig = C
+TimeSig = 4 4
+Bars = 23
+ AbM7#11 | Gm7 | F7sus4 | F7sus4 |
+ Em7 Em7 Em7 FM7#5 | Ebm7 | Dbm7 Bm7 | Cm7 |
+ BbM7 DbM7 | AbM7 BM7 | A | Bb |
+ A | Bb | A | Bb |
+ A | Bb | AM7 | BbM7#11 |
+ Eb13sus4 | G13sus4 E13sus4 | C13sus4 |

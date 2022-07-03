@@ -1,0 +1,14 @@
+Title = Corner Pocket (Until I Met You
+ComposedBy = Freddie Green and Don Wolf
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ Ebm7 | Ab7 | Db6 | Fm7 Bb7 |
+ Ebm7 | Ab7 | Db6 | Fm7 Bb7 |
+ Ebm7 | Ab7 | Db6 | Fm7 Bb7 |
+ Ebm7 | Ab7 | Db6 | Db6 |
+ Abm7 | Db7 | GbM7 | GbM7 |
+ Bbm7 | Eb7 | Ab7 | Ebm7 Ab7 |
+ Ebm7 | Ab7 | Db6 | Fm7 Bb7 |
+ Ebm7 | Ab7 | Db6 | Fm7 Bb7 |
+

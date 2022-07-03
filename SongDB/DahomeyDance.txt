@@ -1,0 +1,9 @@
+Title = Dahomey Dance
+ComposedBy = John Coltrane
+DBKeySig = G
+TimeSig = 4 4
+Bars = 12
+ G | F/G | G9 | G9 |
+ G/F | F7 | G9 | G9 |
+ G/D | F/D | G9 | G9 |
+

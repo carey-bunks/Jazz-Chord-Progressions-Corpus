@@ -1,0 +1,14 @@
+Title = I Wish You Love
+ComposedBy = Charles Trenet and Albert Beach
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Fm7 | Bb7 | Gm7 | Gbo7 |
+ Fm7 | Bb7 | Eb6 AbM7 | Gm7b5 C7b9 |
+ Fm7 | Bb7 | Gm7 | Gbo7 |
+ Fm7 | Bb7 | Bbm7 | Eb7 |
+ AbM7 | Abm7 Db7 | Eb69 Db9 | C7b9 |
+ Fm7 | F7#11 | Fm7 | Bb7 C7alt |
+ Fm7 | Bb7 | Gm7 | Gbo7 |
+ Fm7 | Bb7 | Eb6 | Gm7b5 C7b9 |
+

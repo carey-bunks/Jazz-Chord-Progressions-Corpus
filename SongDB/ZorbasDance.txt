@@ -1,0 +1,16 @@
+Title = Zorba's Dance
+ComposedBy = Mikis Theodorakis
+DBKeySig = C
+TimeSig = 4 4
+Bars = 42
+ G | G | G | G |
+ G | G | Am | Am |
+ G | Am D7 | G | G |
+ G | G | G | G |
+ Am | Am | G | Am D7 |
+ G | G | G | G |
+ G | G | G | G |
+ G | G | Am | Am |
+ Am | Am | G | G |
+ Am | Am D7 | G | G |
+ G | G |

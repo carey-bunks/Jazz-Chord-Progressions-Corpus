@@ -1,0 +1,15 @@
+Title = Green St. Caper
+ComposedBy = Woody Shaw
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 36
+ EbM7 | EbM7 | Ebm9 | Ebm9 |
+ FM7/Eb | EM7/Eb | EbM7 | EbM7 |
+ Fm7 | Fm7 Bb7 | EbM7 | EbM7 A13#11 |
+ Abm7 | Abm7 Db7 | GbM7 | Fm7 Bb7 |
+ EbM7 | EbM7 | Ebm9 | Ebm9 |
+ GM7 AM7 | FM7 GM7 | EbM7 D7alt | Db7 C7 |
+ Fm7 | Dm7b5 G7 | Cm7 | F7 |
+ Gm7 C7 | Fm7 Bb7 | Gm7 C7 | Fm7 Bb7 |
+ Gm7 C7 | Fm7 Bb7 | EbM7 | EbM7 |
+

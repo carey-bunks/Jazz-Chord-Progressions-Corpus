@@ -1,0 +1,14 @@
+Title = In Pursuit of the 27th Man
+ComposedBy = Horace Silver
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C7sus4b9 | C7sus4b9 | C7sus4b9 | C7sus4b9 |
+ C7sus4b9 | C7sus4b9 | C7sus4b9 | C7sus4b9 |
+ C7sus4b9 | C7sus4b9 | C7sus4b9 | C7sus4b9 |
+ C7sus4b9 | C7sus4b9 | C7sus4b9 | C7sus4b9 |
+ Gb7 | G7#9 | Cm7 | Cm7 |
+ Gb7 | G7#9 | Ab7 | G7#9 |
+ C7sus4b9 | C7sus4b9 | C7sus4b9 | C7sus4b9 |
+ C7sus4b9 | C7sus4b9 | C7sus4b9 | C7sus4b9 |
+

@@ -1,0 +1,14 @@
+Title = Once In A While
+ComposedBy = Michael Edwards
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Eb | Eb | C7 | C7 |
+ Fm7 | Fm7 Bb7 | Eb | Fm7 Bb7 |
+ Eb | Eb | C7 | C7 |
+ Fm7 | Fm7 Bb7 | Eb | Eb D7 |
+ G | Am7 D7 | G | Am7 D7 |
+ G | Am7 D7 | G7 C7 | Fm7 Bb7 |
+ Eb | Eb | C7 | C7 |
+ Fm7 | Fm7 Bb7 | Eb | Eb |
+

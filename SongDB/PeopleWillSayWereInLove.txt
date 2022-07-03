@@ -1,0 +1,18 @@
+Title = People Will Say We're In Love
+ComposedBy = Richard Rodgers
+DBKeySig = C
+TimeSig = 4 4
+Bars = 48
+ CM7 | G7+ | C CM7 | Dm7 G7 |
+ CM7 | A7b9 | Dm7 G7 | Dm7 G7 |
+ CM7 | Am7 | D7 | D7 |
+ Dm7 | G7b9 | CM7 C#o7 | Dm7 G7 |
+ CM7 | G7+ | C CM7 | Dm7 G7 |
+ CM7 | A7b9 | Dm7 G7 | Dm7 G7 |
+ CM7 | Am7 | D7 | D7 |
+ Dm7 | G7b9 | CM7 | CM7 |
+ Cm7 | F7 | BbM7 | BbM7 |
+ Bm7b5 E7b9 | A7 | Ab7#11 | G7 |
+ CM7 | Am7 | D7 | D7 |
+ Dm7 | G7 | CM7 Am7 | Dm7 G7 |
+

@@ -1,0 +1,15 @@
+Title = Allanjuneally
+ComposedBy = Kenny Werner
+DBKeySig = E
+TimeSig = 3 4
+Bars = 37
+ E/G# | AM7 | F#m7b5 | F/B |
+ C#m7b5 | C/D | CM7 | Esus2 |
+ E7b9 | Am7 | FM7/G | F#m7b5 |
+ FM7 | EM7 | Bm7 | A#m7b5 |
+ D#7#11 | G#m7 | AM7 | Am7 Am7 Dsus4 |
+ Bm7 Em7 Em7 | CM7 | C#m7b5 | E/B |
+ EM7/B | AM7 | G#7#9 | C#m7 |
+ F#7add13 | E/B | EM7/B | Am7/B |
+ B7b9 | Em7 | F#m7 | Cm7b5 |
+ Db7sus4 |

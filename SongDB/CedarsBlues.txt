@@ -1,0 +1,10 @@
+Title = Cedar's Blues
+ComposedBy = Cedar Walton
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ Bb7 | Bb7 | Bb7 | Bb7 Bb7 Bb7 Bb7#9 |
+ Eb7b9 | Eb7b9 Eb7b9 Eb7b9 Eb7b9 | Bb7b9 | Bb7b9 |
+ F | E/F | Eb/F | D/F |
+ Db/Eb | C/Eb | B/Eb | NC B7#9 B7#9 B7#9 |
+

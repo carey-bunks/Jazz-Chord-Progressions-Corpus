@@ -1,0 +1,14 @@
+Title = Blue Lou
+ComposedBy = E. Sampson
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Cm7b5 | F7 | Cm7b5 | F7 |
+ Bb | Eb | Cm7 | F7 |
+ Cm7b5 | F7 | Cm7b5 | F7 |
+ Bb | Eb | C7 F7 | Bb |
+ F | F#o | Gm7 | C7 |
+ F | F#o | Gm7 C7 | F7 |
+ Cm7b5 | F7 | Cm7b5 | F7 |
+ Bb | Eb | C7 F7 | Bb |
+

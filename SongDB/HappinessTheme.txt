@@ -1,0 +1,14 @@
+Title = Happiness Theme
+ComposedBy = Vince Guarldi
+DBKeySig = F
+TimeSig = 3 4
+Bars = 32
+ Bm7b5 | Eb7 | Am7 | Db7 |
+ Gm7 | C7 | Cm7 | F7 |
+ Bm7b5 | Eb7 | Am7 | Db7 |
+ Gm7 | C7 | F69 | F69 |
+ Em7 | A7+ A7+ A7 | Dm7 | DmM7 DmM7 Dm7 |
+ G7 | G7 | Gm7 | C7 |
+ Bm7b5 | Eb7 | Am7 | Db7 |
+ Gm7 | C7 | F69 | D7alt |
+

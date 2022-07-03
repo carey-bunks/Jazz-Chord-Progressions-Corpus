@@ -1,0 +1,14 @@
+Title = Chariots
+ComposedBy = John Scofield
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ E7 | A7 | E7 | A7 |
+ E7 | F#m7 F#m7 F#m7 F#m7 F#m7/G G/G# A B7 | E7 | A7 |
+ E7 | A7 | E7 | A7 |
+ E7 | F#m7 F#m7 F#m7 F#m7 F#m7/G G/G# A B7 | E7 | A7 |
+ NC NC E/Bb E/Bb Am Am C#7#9 D7sus | D7sus E7#9 | Bb7#11 | E7 |
+ NC A A Em11/B Em11/B C#7#9 C#7#9 D7sus | D7sus E7#9 | C#7#9 | CM7 |
+ E7 | A7 | E7 | A7 |
+ E7 | F#m7 F#m7 F#m7 F#m7 F#m7/G G/G# A B7 | E7 | A7 |
+

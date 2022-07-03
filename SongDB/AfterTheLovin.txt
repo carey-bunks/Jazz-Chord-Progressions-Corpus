@@ -1,0 +1,16 @@
+Title = After The Lovin'
+ComposedBy = Alan Bernstein and Ritchie Adams
+DBKeySig = C
+TimeSig = 4 4
+Bars = 40
+ C CM7 | C6 C | Dm DmM7 | Dm7 G7 |
+ Dm Bb/D | G/D G | C | G11 |
+ C CM7 | C6 C | Dm DmM7 | Dm7 G7 |
+ Dm Bb/D | G/D G | C | Gm7 C7 |
+ F | CM7 | G11 | CM7 |
+ Am AmM7 | Am7 D7 | Dm7 G7 | Dm7 G7 |
+ C CM7 | C6 C | Dm DmM7 | Dm7 G7 |
+ Dm Bb/D | G/D G | C | A7 |
+ F | E7 | Am Am AmM7 Am7 | D7 |
+ Dm7 Em7 | Dm7 Dm9/G | C | C |
+

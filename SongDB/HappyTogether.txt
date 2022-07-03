@@ -1,0 +1,14 @@
+Title = Happy Together
+ComposedBy = Garry Bonner and Alan Gordon
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ Em | Em | D | D |
+ C | C | B | B |
+ Em | Em | D | D |
+ C | C | B | B |
+ E | Bm7 | E | G |
+ E | Bm7 | E | G |
+ Em | Em | D | D |
+ C | C | B | B |
+

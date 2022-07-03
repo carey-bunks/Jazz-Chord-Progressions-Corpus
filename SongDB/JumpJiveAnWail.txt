@@ -1,0 +1,12 @@
+Title = Jump, Jive an' Wail
+ComposedBy = Louis Prima
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 24
+ Bb6 | Bb6 | Bb6 | Bb7 |
+ Eb7 | Eb7 | Bb6 | Bb6 |
+ Cm7 | F7 | Bb6 | Bb6 |
+ Bb6 | Bb6 | Bb6 | Bb7 |
+ Eb7 | Eb7 | Bb6 | Bb6 |
+ Cm7 | F7 | Bb6 Dbo7 | Cm7 F7 |
+

@@ -1,0 +1,14 @@
+Title = April in Paris
+ComposedBy = Vernon Duke
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Dm7b5/G Dm7b5/G B/F# CM7/G | CM7/G | Dm7b5/G Dm7b5/G Ab9 Dm7/G | Dm7/G |
+ CM7 CM7 Bo7 C6 | C6 CM7 Am7 Abo7 | Gm GmM7 | C7sus4 C9 |
+ G11 G11 Bo7 Am7 | Am7 | Bm7b5 Bm7b5 Abo7 Am7 | Am7 Am7/G |
+ F#m7b5 | B7 B7b9b13 | Bm7 E7 | Em7b5 A7/G |
+ F#m7b5 Fm7 | C/E Ebo7 | Dm7 G7sus4 | CM7 BbM7 Am7 Gm7 |
+ F#m7b5 F#m7b5 Bm7b5 E7 | Am Am/G | F#m7b5 B7b9b13 | EM7 G7sus4b9 |
+ Dm7b5/G Dm7b5/G B/F# CM7/G | CM7/G | Em7b5 | A7b9 |
+ Am9 D13#11 | Dm7 G7 | CM7 | CM7 G7b9 |
+

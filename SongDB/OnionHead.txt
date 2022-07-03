@@ -1,0 +1,9 @@
+Title = Onion Head
+ComposedBy = Donald Byrd
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 12
+ Bb7 | Eb7 Eo7 | Bb | Bb/F E13 |
+ Eb7 | Eo7 | Bb/F | G7b9 |
+ Cm7/F | Cm7/F | Bb Db9 | C7 B7 |
+

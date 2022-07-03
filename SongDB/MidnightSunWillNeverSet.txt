@@ -1,0 +1,14 @@
+Title = The Midnight Sun Will Never Set
+ComposedBy = Quncy Jones and Henri Salvador
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F Bb6 | FM7 | Gm7 Am7 | Gm7 |
+ Cm7 F7b9 | Bb Bb Gm6 A7 | Dm7 G7 G7 G7+ | C9 |
+ F Bb6 | FM7 | Gm7 Am7 | Gm7 |
+ Cm7 F7b9 | Bb Bb Gm6 A7 | Dm7 G9 Gm9 C7b9 | F |
+ Fm Fm7 | Bb7 Bb7 Fm7 Bb7 | Eb | Eb |
+ Bbm Gb | Bbm Db7 | Gm7 | C7 |
+ F Bb6 | FM7 | Gm7 Am7 | Gm7 |
+ Cm7 F7b9 | Bb Bb Gm6 A7 | Dm7 G9 Gm9 C7b9 | F |
+

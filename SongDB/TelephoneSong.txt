@@ -1,0 +1,15 @@
+Title = The Telephone Song
+ComposedBy = Roberto Menescal, Norman Gimbel, Ronaldo Boscoli
+DBKeySig = C
+TimeSig = 4 4
+Bars = 36
+ Dm7 G7 | Dm7 G7 | Dm7 G7 | Dm7 G7 |
+ Gm C7 | Gm C7 | Gm C7 | Gm C7 |
+ FM7 E7 | Am7 | D7 | Dm7 G7 |
+ Dm7 G7 | Dm7 G7 | Dm7 G7 | Dm7 G7 |
+ Gm C7 | Gm C7 | Gm C7 | Gm C7 |
+ FM7 E7 | Am7 | F#m7b5 B7#9 | Em7 |
+ F#m7b5 B7 | Em7 | F#m7b5 B7b9 | Em7 |
+ Dm7 G7 | Em7b5 A7 | Fm7 Bb7 | Em7b5 A7 |
+ Ebm7 Ab7 | Dm7 G7 | C6 | C6 |
+

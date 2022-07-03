@@ -1,0 +1,17 @@
+Title = A Summer Place
+ComposedBy = Max Steiner
+DBKeySig = G
+TimeSig = 6 4
+Bars = 45
+ NC Em7 | Am7 Am7 Am7 Am7 Am7 D7 | G Em7 | Am7 Am7 Am7 Am7 Am7 D7 |
+ GM7 | Am7 D7 | GM7 | Am7 D7 |
+ G Em7 | Am7 Am7 Am7 Am7 Am7 D7 | G Em7 | Am7 Am7 Am7 Am7 Am7 D7 |
+ G Em7 | Am7 Am7 Am7 Am7 Am7 D7 | GM7 | Am7 D7 |
+ GM7 | Am7 D7 | G Em7 | Am7 D7 |
+ G Em7 | Am7 D7 | Em G | Cb5 Am7 |
+ G Em7 | Am11 Cm6 | G Am | A9 |
+ D7 | D7 | G Em7 | Am7 Am7 Am7 Am7 Am7 D7 |
+ G Em7 | Am7 Am7 Am7 Am7 Am7 D7 | GM7 | Am7 D7 |
+ GM7 | Am7 D7 | G Em7 | Am7 D7 |
+ G Em7 | Am7 D7 | G Em7 | Am7 D7 |
+ G |

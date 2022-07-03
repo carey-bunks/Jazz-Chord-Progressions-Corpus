@@ -1,0 +1,11 @@
+Title = Up Where We Belong
+ComposedBy = Buffy Sainte-Marie and Jack Nitzsche
+DBKeySig = C
+TimeSig = 4 4
+Bars = 22
+ D G/D A/D A/D | G/D Gm6/D | D G/D A/D A/D | G/D Gm6/D |
+ D D7/F# | G D7/F# | Em7 | A |
+ D D/F# | G G/B | C D/C | A A G/A A |
+ D D/F# | G Bm | Em D/F# | C C G A |
+ D D/F# | G Bm | Em D/F# | F#/A# F#/A# Bm Gm |
+ D | G/D Gm/D |

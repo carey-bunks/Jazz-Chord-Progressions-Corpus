@@ -1,0 +1,14 @@
+Title = Allegheny Moon
+ComposedBy = Dick Manning and Al Hoffman
+DBKeySig = F
+TimeSig = 3 4
+Bars = 32
+ F | F | F | F |
+ F | F#o7 | Gm7 | Gm7 Bo7 Bo7 |
+ C7 | C7 | C7 | C7 |
+ C7 | C7#5 | F | F C+ C+ |
+ F | F | F | F |
+ F | F+ | Bb | Bb D7 D7 |
+ Gm | Bbm6 | F | D7 |
+ Gm | C7 | F | F C7 C7 |
+

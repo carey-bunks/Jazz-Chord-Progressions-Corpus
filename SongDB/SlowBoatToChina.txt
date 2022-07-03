@@ -1,0 +1,14 @@
+Title = Slow Boat To China
+ComposedBy = Frank Loesser
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 | Bo7 | Cm7 | Dbo7 |
+ Bb/D | D7 | EbM7 | Dm7b5 G7 |
+ Cm7 | Em7 A7 | BbM7/D Ab7b5 | G7 |
+ Gm7 | C7 | Cm7 Cm7 Cm7 Gb7 | F7 |
+ BbM7 | Bo7 | Cm7 | Dbo7 |
+ BbM7/D | D7 | EbM7 | Dm7b5 G7 |
+ Cm7 Cm7/Bb | Ab7#11 | BbM7 Ab7 | G7+ |
+ C7 | Cm7 F7 | Bb6 | Cm7 F7 |
+

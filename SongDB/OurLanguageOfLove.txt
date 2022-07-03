@@ -1,0 +1,14 @@
+Title = Our Language of Love
+ComposedBy = Monnot, Breffort, More, Heneker, Norman
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | Eb6 | EbM7 | Eb6 |
+ F7 | Abm6 Bb7 | Eb6 | Fm7/Bb |
+ EbM7 | Eb6 | EbM7 | Eb6 |
+ F7 | Abm6 Bb7 | Eb6 | Bbm7 Eb7 |
+ AbM7 | Ab6 | AbM7 | Ab6 |
+ Gm7 | C7 | Fm7 | Bb7 |
+ EbM7 | Eb6 | EbM7 | Eb6 |
+ F7 | Abm6 Bb7 | Eb6 | Fm7/Bb |
+

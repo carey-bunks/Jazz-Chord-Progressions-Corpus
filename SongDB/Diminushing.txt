@@ -1,0 +1,14 @@
+Title = Diminushing
+ComposedBy = Django Reinhardt
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ D9#5 | D9#5 | D9#5 | D9#5 |
+ D9#5 | D9#5 | C69 | C69 |
+ D9#5 | D9#5 | D9#5 | D9#5 |
+ D9#5 | D9#5 | C69 | C69 |
+ Gb Db7 | Gb Db7 | Gb Db7 | Gb Db7 |
+ Gb Db7 | Gb Db7 | Gb Db7 | Gb A7 |
+ D9#5 | D9#5 | D9#5 | D9#5 |
+ D9#5 | D9#5 | C69 | C69 |
+

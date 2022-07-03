@@ -1,0 +1,14 @@
+Title = High Society
+ComposedBy = Dan Swan, Allan Copeland, Mort Greene
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C | C G+ | C | C G+ |
+ C C C Co | C F | C | C C#o |
+ G7 | G7 Co | C | C Am7 |
+ D7 | D7 | Dm7 Fm7 | G7 G7+ |
+ C | C G+ | C | C G+ |
+ C C C Co | C F | C | C C7 |
+ F6 | F#o | C E7 | A7 |
+ D7 | G7 | C Dm7 | Co C |
+

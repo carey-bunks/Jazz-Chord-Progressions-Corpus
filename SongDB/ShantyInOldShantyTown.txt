@@ -1,0 +1,14 @@
+Title = A Shanty In Old Shanty Town
+ComposedBy = Ira Schuster and Jack Little
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | G7 | C7 | Gm7 C7 |
+ F7 | Gb7 | F7 | F7 |
+ Bb7 | Bb7 | Eb | Gm7 C7 |
+ F7 | F7 | Fm7 | Bb7 |
+ Eb | G7 | C7 | Gm7 C7 |
+ F7 | Gb7 | F7 | F7 |
+ Ab | Db7 | Eb | C7 |
+ Fm7 | Bb7 | Eb | Bb7 |
+

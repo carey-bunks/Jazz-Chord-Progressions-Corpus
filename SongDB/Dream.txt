@@ -1,0 +1,14 @@
+Title = Dream
+ComposedBy = Johnny Mercer
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ AbM7 | AbM7 | Dm7 | G7 |
+ AbM7 | AbM7 | Gb7 | F7 |
+ DbM7 | Gb7 | AbM7 | AbM7 |
+ Bb7 | Bb7 | Bbm7 | Eb7 |
+ AbM7 | AbM7 | Dm7 | G7 |
+ AbM7 | AbM7 | Gb7 | F7 |
+ DbM7 | Gb7 | AbM7 G7 | F7 |
+ Bbm7 | Eb7 | AbM7 | Bbm7 Eb7 |
+

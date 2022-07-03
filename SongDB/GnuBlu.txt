@@ -1,0 +1,12 @@
+Title = Gnu Blu
+ComposedBy = Ron Busch
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ C7 C7 Db7 C7 C7 C7 F#7 F7 | F7 | F7 | F7 |
+ Bb7 Eb7 | E7 G7 | C7 C7 C7 C7 C7 A7#11 A7#11 A7#11 | A7#11 |
+ A7#11 Ab7 Ab7 Ab7 | Ab7 G7sus G7sus G7sus | Bb7#11 Db7#11 Db7#11 E7#9 | E7#9 G7b9 G7b9 G7b9 |
+ C7 C7 Db7 C7 C7 C7 F#7 F7 | F7 | F7 | F7 |
+ Bb7 Eb7 | E7 G7 | C7 C7 C7 C7 C7 A7#11 A7#11 A7#11 | A7#11 |
+ A7#11 Ab7 Ab7 Ab7 | Ab7 G7sus G7sus G7sus | AbM7 AbM7 AbM7 B7 B7 B7 B7 G7#11 | G7#11 G7#11 G7#11 C13#11/F# C13#11/F# C13#11/F# C13#11/F# C13#11/F# |
+

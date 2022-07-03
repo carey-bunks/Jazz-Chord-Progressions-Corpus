@@ -1,0 +1,17 @@
+Title = Big Spender
+ComposedBy = Cy Coleman
+DBKeySig = F
+TimeSig = 4 4
+Bars = 46
+ Dm | Dm | Bb | E7 |
+ A7 | Dm | Bb7 | Bb7 A7#5 |
+ Dm | Dm | Bb | E7 |
+ Dm | Dm | Bb7 A7 | A7 |
+ Dm | Dm | Dm | NC |
+ D F#m | Bm D | Em B+ | Em7 |
+ Bb7 | A7 | Bb7 | A7 |
+ Dm | Dm | Bb | E7 |
+ A7 | Dm | Bb7 | Bb7 A7#5 |
+ Dm | Dm | Bb | E7 |
+ Dm | Dm | Bb7 A7 | A7 |
+ Dm | Dm |

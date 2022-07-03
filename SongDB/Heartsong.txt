@@ -1,0 +1,21 @@
+Title = Heartsong
+ComposedBy = Fresch Hersch
+DBKeySig = D
+TimeSig = 4 4
+Bars = 60
+ D/F# | Gadd9 | A | A |
+ G/B | G/B | Gm/Bb | Gm/Bb F#/A# |
+ Bm7 E7 | A | F#7+ | Bm7 |
+ Em7 | A7 | D/F# Gadd9 | Gadd9 |
+ D/F# Gadd9 | Gadd9 | D/F# Gadd9 | Gadd9 |
+ D/F# Gadd9 | Gadd9 | D/F# | Gadd9 |
+ A | A | G/B | G/B |
+ Gm/Bb | Gm/Bb F#/A# | Bm7 E7 | A |
+ F#7+ | Bm7 | Em7 | A7 |
+ B/D# Eadd9 | Eadd9 | B/D# Eadd9 | Eadd9 |
+ B/D# Eadd9 | Eadd9 | B/D# Eadd9 | Eadd9 |
+ B | Em/B | B/A | Em/G |
+ CM7 | CM7 | Bm7 | E7 |
+ Am7 | D7 | E/G# Aadd9 | Aadd9 |
+ E/G Aadd9 | Aadd9 | E/G Aadd9 | Aadd9 |
+

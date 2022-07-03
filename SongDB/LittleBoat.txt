@@ -1,0 +1,10 @@
+Title = Little Boat
+ComposedBy = Robert Menescal, Ronaldo Boscoli, and Buddy Kaye
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ BbM7 | BbM7 | Em7 A7 | Em7 A7 |
+ AbM7 | AbM7 | Dm7 G7 | Dm7 G7 |
+ GbM7 | GbM7 | Cm7 F7 | Cm7 F7 |
+ Dm7 | G7b9 | Cm7 | F7b9 |
+

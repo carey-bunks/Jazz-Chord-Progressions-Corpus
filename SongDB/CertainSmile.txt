@@ -1,0 +1,14 @@
+Title = A Certain Smile
+ComposedBy = Sammy Fain
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ Gm7 | C7 | FM7 | Dm7 |
+ Gm7 | C7 | FM7 | FM7 |
+ Em7 | A7 | DmM7 Dm7 | G7 |
+ CM7 Am7 | Dm7 G7 | Gm7 | C7 Dm7 |
+ Gm7 | C7 | FM7 | Dm7 |
+ Gm7 | C7 | A7 | D7 |
+ BbM7 | D7b9 | Gm7 | Bbm7 Eb7 |
+ FM7 Dm7 | Gm7 C7 | F69 | F69 |
+

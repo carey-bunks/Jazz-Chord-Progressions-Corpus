@@ -1,0 +1,14 @@
+Title = Belleville
+ComposedBy = Django Reinhardt
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ D Fo7 | Em7 A7 | D Fo7 | Em7 A7 |
+ D Fo7 | Em7 A7 | D | D D69 |
+ D Fo7 | Em7 A7 | D Fo7 | Em7 A7 |
+ D Fo7 | Em7 A7 | D | D |
+ Gm | Gm | D | D |
+ F# | Gdim | G#m7 C#9 | F# A7 |
+ D Fo7 | Em7 A7 | D Fo7 | Em7 A7 |
+ D Fo7 | Em7 A7 | D | D |
+

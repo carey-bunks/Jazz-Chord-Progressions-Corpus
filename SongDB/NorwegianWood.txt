@@ -1,0 +1,18 @@
+Title = Norwegian Wood
+ComposedBy = John Lennon and Paul McCartney
+DBKeySig = E
+TimeSig = 3 4
+Bars = 48
+ E | E | E | E |
+ E | Bm7 | E | E |
+ E | E | E | E |
+ E | Bm7 | E | E |
+ Em | Em | Em | Em |
+ A | A | A | A |
+ Em | Em | Em | Em |
+ F#m7 | F#m7 | B7 | B7 |
+ E | E | E | E |
+ E | Bm7 | E | E |
+ E | E | E | E |
+ E | Bm7 | E | E |
+

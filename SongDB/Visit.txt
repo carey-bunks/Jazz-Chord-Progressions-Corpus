@@ -1,0 +1,14 @@
+Title = The Visit
+ComposedBy = Pat Martino
+DBKeySig = G
+TimeSig = 6 8
+Bars = 32
+ G13 Ab13 | G13 Ab13 | G13 Ab13 | G13 |
+ G13 Ab13 | G13 Ab13 | G13 Ab13 | G13 |
+ C9 | B7#5 | Bb13 | A7#5 |
+ Ab13 | D7#9 | G13 Ab13 | G13 |
+ G13 Ab13 | G13 Ab13 | G13 Ab13 | G13 |
+ G13 Ab13 | G13 Ab13 | G13 Ab13 | G13 |
+ C9 | B7#5 | Bb13 | A7#5 |
+ Ab13 | D7#9 | G13 Ab13 | G13 |
+

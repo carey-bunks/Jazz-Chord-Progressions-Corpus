@@ -1,0 +1,16 @@
+Title = Today
+ComposedBy = Randy Sparks
+DBKeySig = F
+TimeSig = 3 4
+Bars = 42
+ F | Dm | Gm7 | C7 |
+ F | Dm | Gm7 | C7 |
+ F | F7 | Bb | Bbm |
+ F | Dm | Gm7 | C9 |
+ C7 | F | Dm | Gm7 |
+ C7 | F | Dm | Gm7 |
+ C7 | F | Dm | Gm7 |
+ C7 | F | F7 | Bb |
+ Bbm | F | Dm | Gm7 |
+ C9 | C7 | F | Dm |
+ Gm7 | F |

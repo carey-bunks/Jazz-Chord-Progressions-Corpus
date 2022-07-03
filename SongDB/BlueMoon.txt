@@ -1,0 +1,14 @@
+Title = Blue Moon
+ComposedBy = Richard Rodgers
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb Cm7 | Fm7 Bb7 | Eb Cm7 | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb Cm7 | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb | Eb |
+ Fm7 Bb7 | Eb | Fm7 Bb7 | Eb |
+ Abm7 Db7 | Gb | Bb F7 | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb Cm7 | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb | Eb |
+

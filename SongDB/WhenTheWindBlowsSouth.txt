@@ -1,0 +1,17 @@
+Title = When the Wind Blows South
+ComposedBy = Harold Arlen
+DBKeySig = C
+TimeSig = 4 4
+Bars = 45
+ C9 | Fm6 | Am Am Am7 Am6 | G7 |
+ C9 | Fm6 | C/G | G9 |
+ C9 | Fm6 | Am Am Am7 Am6 | G7 |
+ C9 | Fm6 | C/G | Abm/G |
+ C/G C9 | F7b5 Em7b5 | F7 | F7 |
+ C CM7 C7 C6 | C | Ab9b5 G7sus4 | C |
+ F7 | F7 | C CM7 C7 C6 | C |
+ Ab9b5 G7sus | Am Amadd9 Am Am7 | D7b5 D9 | G13b9 G13 |
+ C9 | Fm6 | Am Am Am7 Am6 | G7 |
+ C9 | Fm6 | C C/B Am Am/G | C |
+ FM7 C/E | D7b5 D9 | Dm7 Dm7 Ab9 G9sus | C6 C/B C/A C/G |
+ F9 |

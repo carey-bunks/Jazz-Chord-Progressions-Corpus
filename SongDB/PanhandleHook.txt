@@ -1,0 +1,18 @@
+Title = Panhandle Hook
+ComposedBy = Ernie Krivda
+DBKeySig = C
+TimeSig = 4 4
+Bars = 48
+ Dm | Dm | Dm | Dm |
+ Dm | Dm | Dm | Dm |
+ Dm | Dm | Dm | Dm |
+ Dm | Dm | Dm | Dm |
+ Bb7 | Bb7 | A7 | A7 |
+ Bb7 | Bb7 | A7alt | D7alt |
+ Gm7 C7 | Bm7b5 E7alt | Dm7b5/A A7#9/Eb | Dm |
+ E7alt/Bb | D7/Bb | E7alt/Bb | D7alt/Bb |
+ A7alt | A7alt | D7alt | D7alt |
+ Gm7 C7 | Bm7b5 E7alt | Dm7b5/A A7#9/Eb | Dm |
+ Gm7 C7 | Bm7b5 E7alt | Dm7b5/A A7#9/Eb | Dm |
+ Gm7 C7 | Bm7b5 E7alt | Dm7b5/A A7#9/Eb | Dm |
+

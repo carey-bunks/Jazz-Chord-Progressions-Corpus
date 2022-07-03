@@ -1,0 +1,12 @@
+Title = Teo
+ComposedBy = Thelonious Monk
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 24
+ Bbm6/G | Cm7b5 F7 | Bbm6/G | Cm7b5 F7 |
+ Bbm6/G | Cm7b5 F7 | Bbm6/G | Cm7b5 F7 |
+ Ebm7 | F7 Bb7 | Ebm7 | F7 Bb7 |
+ Ebm7 | F7 Bb7 | Gb7 | F7 |
+ Bbm6/G | Cm7b5 F7 | Bbm6/G | Cm7b5 F7 |
+ Bbm6/G | Cm7b5 F7 | Bbm6/G | Cm7b5 F7 |
+

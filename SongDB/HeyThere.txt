@@ -1,0 +1,14 @@
+Title = Hey There
+ComposedBy = Jerry Ross
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 37
+ Eb Cm7 | Fm7 Bb7 | Eb Cm7 | Fm7 Bb7 |
+ C7 | Fm7 Bb7 | EbM7 Cm7 | Am7 D7 |
+ G Em7 | Am7 D7 | G Em7 | Am7 D7 |
+ G7 | C7 | Fm7 Db7 | Fm7 Bb7 |
+ Eb Cm7 | Fm7 Bb7 | Eb Cm7 | Fm7 Bb7 |
+ C7 | Fm7 Bb7 | Bbm7 | Eb9 Eb9 Bbm7 Eb9 |
+ AbM7 | Am7b5 D7 | EbM7 Gm7 | Gm7b5 C7 |
+ Fm7 | Abm7 Db7 | EbM7 Db7 | Gm7b5 C7 |
+ Fm7 | Bb7 | Eb |  Fm7 Bb7 |

@@ -1,0 +1,10 @@
+Title = Ole'
+ComposedBy = John Coltrane
+DBKeySig = B
+TimeSig = 3 4
+Bars = 16
+ B | B | C/B | C/B |
+ D/B | C/B | B | B |
+ B | B | C/B B | B |
+ C/B | D/B | C B B | B |
+

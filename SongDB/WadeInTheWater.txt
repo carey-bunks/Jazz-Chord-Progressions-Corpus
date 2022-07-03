@@ -1,0 +1,10 @@
+Title = Wade in the Water
+ComposedBy = Traditional
+DBKeySig = G
+TimeSig = 4 4
+Bars = 16
+ Em | Em | Em | Em |
+ Em | Em | Em | D Em |
+ Em | Em | Em | D Em |
+ Em | Em | Em | D Em |
+

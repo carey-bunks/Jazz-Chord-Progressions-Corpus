@@ -1,0 +1,15 @@
+Title = I Didn't Know What Time It Was
+ComposedBy = Richard Rodgers
+DBKeySig = G
+TimeSig = 4 4
+Bars = 36
+ F#m7b5 B7 | Em | F#m7b5 B7 | Em |
+ Am7 D7 | Em7 Em7 Em7 Bm | CM7 CM7 CM7 Bm | Am Am Dm7 D7 |
+ F#m7b5 B7 | Em | F#m7b5 B7 | Em |
+ Am7 D7 | Em7 Em7 Em7 Bm | CM7 CM7 CM7 Bm | Am Am F6 D7 |
+ G | Am B7 | Am B7 | Em |
+ CM7 D7 | G | Em7 A7 | D7 |
+ F#m7b5 B7 | Em | F#m7b5 B7 | Em |
+ Am7 | Em7 Em7 Em7 Bm | CM7 CM7 CM7 Bm | Am7 Am7 Am7 Cm6 |
+ G G G B7 | Am7 D7 | G | Em6 D7 |
+

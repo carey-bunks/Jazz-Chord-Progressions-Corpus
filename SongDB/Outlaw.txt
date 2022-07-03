@@ -1,0 +1,16 @@
+Title = The Outlaw
+ComposedBy = Horace Silver
+DBKeySig = F
+TimeSig = 4 4
+Bars = 40
+ FM7 NC NC NC NC NC NC NC | Ebm7 Ebm7 Ab7 Ab7 Db6 Db6 Gb7 Gm7 | NC | B7 B7 NC NC NC NC Bb7 Bb7 NC NC NC A7+ A7+ A7+ A7+ A7+ |
+ A7+ A7+ A7#9 A7#9 A7#9 Ab7 Ab7 Ab7 | Gm7 | C7sus | C7sus |
+ Em7b5 A7 | Dm7 Dm7/C | Bm7b5 Bb13 | Am7 AbM7 |
+ Gm7 C7b9 | FM7 | FM7 NC NC NC NC NC NC NC | Ebm7 Ebm7 Ab7 Ab7 Db6 Db6 Gb7 Gm7 |
+ NC | B7 B7 NC NC NC NC Bb7 Bb7 NC NC NC A7+ A7+ A7+ A7+ A7+ | A7+ A7+ A7#9 A7#9 A7#9 Ab7 Ab7 Ab7 | Gm7 |
+ C7sus | C7sus | Em7b5 A7 | Dm7 Dm7/C |
+ Bm7b5 Bb13 | Am7 AbM7 | Gm7 C7b9 | FM7 |
+ Ebm7 Ab7 | DbM7 | Gb7b5 | E7b5 |
+ D7b5 | C7b5 | Gm7 Gm7 Gm7 Gm7 C7#9 C7#9 C7#9 FM7b5 | FM7b5 FM7b5 FM7b5 EM7b5 EM7b5 EM7b5 EM7b5 EbM7b5 |
+ EbM7b5 EbM7b5 EbM7b5 DM7b5 DM7b5 DM7b5 DM7b5 DbM7b5 | DbM7b5 | C7#9 | C7#9 |
+

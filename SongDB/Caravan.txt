@@ -1,0 +1,22 @@
+Title = Caravan
+ComposedBy = Juan Tizol, Duke Ellington
+DBKeySig = C
+TimeSig = 4 4
+Bars = 64
+ C7b9 | C7b9 | C7b9 | C7b9 |
+ C7b9 | C7b9 | C7b9 | C7b9 |
+ C7b9 | C7b9 | C7b9 | C7b9 |
+ Fm | Fm | Fm | Fm |
+ C7b9 | C7b9 | C7b9 | C7b9 |
+ C7b9 | C7b9 | C7b9 | C7b9 |
+ C7b9 | C7b9 | C7b9 | C7b9 |
+ Fm | Fm | Fm | Fm |
+ F7 | F7 | F7 | F7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Eb7 | Eb7 | Eb7 | Eb7 |
+ Ab | Ab | Gm7b5 | C7 |
+ C7b9 | C7b9 | C7b9 | C7b9 |
+ C7b9 | C7b9 | C7b9 | C7b9 |
+ C7b9 | C7b9 | C7b9 | C7b9 |
+ Fm | Fm | Fm | Fm |
+

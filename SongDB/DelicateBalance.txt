@@ -1,0 +1,17 @@
+Title = A Delicate Balance
+ComposedBy = Marian McPartland
+DBKeySig = Eb
+TimeSig = 3 4
+Bars = 44
+ EbM7 | DbM7 | GbM7 | E69 |
+ EbM7 | DbM7 | GbM7 | CbM7 |
+ Ab7 | Fm7add4 | GbM7 | GbM7 |
+ EbM7 | DbM7 | GbM7 | E69 |
+ EbM7 | DbM7 | GbM7 | CbM7 |
+ Ab7 | Fm7add4 | GbM7 | GbM7 |
+ DM7 | CM7 | DM9 | C6 |
+ DM7 | C69 | Ab/Bb | Ab/Bb |
+ EbM7 | DbM7 | GbM7 | E69 |
+ EbM7 | DbM7 | GbM7 | CbM7 |
+ Ab7 | Fm7add4 | GbM7 | GbM7 |
+

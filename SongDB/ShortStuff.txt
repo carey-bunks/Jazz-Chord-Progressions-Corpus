@@ -1,0 +1,8 @@
+Title = Short Stuff
+ComposedBy = Cedar Walton
+DBKeySig = C
+TimeSig = 4 4
+Bars = 8
+ Bb7 | Bb7 | Eb7 | Bb7 |
+ Eb7 | F7 | Bb7 Ab7 | Gb7 F7 |
+

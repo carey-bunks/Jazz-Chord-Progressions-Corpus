@@ -1,0 +1,12 @@
+Title = Under The Boardwalk
+ComposedBy = Artie Resnick and Kenny Young
+DBKeySig = C
+TimeSig = 4 4
+Bars = 26
+ C | C | G7 | G7 |
+ G7 | G7 | C | C |
+ F | F | C | C |
+ C | G7 | C | C |
+ Am | Am | G | G |
+ Am | Am | G | G |
+ Am | Am |

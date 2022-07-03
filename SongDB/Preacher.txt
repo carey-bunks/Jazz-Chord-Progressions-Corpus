@@ -1,0 +1,10 @@
+Title = The Preacher
+ComposedBy = Horace Silver
+DBKeySig = F
+TimeSig = 4 4
+Bars = 16
+ F | F7 | Bb7 Bo7 | F |
+ F | F | G7 | C7 |
+ F | F7 | Bb7 | A7 |
+ Bb Bo7 | F D7 | Gm7 C7 | F |
+

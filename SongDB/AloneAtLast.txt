@@ -1,0 +1,14 @@
+Title = Alone At Last
+ComposedBy = Victor Young and Robert Hilliard
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 | G7#5 | Cm7 | A7#5 |
+ DmM7 | Gm7 | Cm7 | Ab7 F7 |
+ BbM7 | Dbo7 | Cm7 | F7 |
+ Dm7b5 | G7#5 | Cm7 | Ab7 F7 |
+ BbM7 | G7#5 | Cm7 | A7#5 |
+ DmM7 | Gm7 | Cm7 | Am7b5 D7 |
+ Gm7 | Ebm7 Ab7 | BbM7 | Dm7b5 G7 |
+ Cm7 | Cm7 F7 | BbM7 | Cm7 F7 |
+

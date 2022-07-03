@@ -1,0 +1,28 @@
+Title = You've Got It
+ComposedBy = Mick Hucknall and Lamont Dozier
+DBKeySig = C
+TimeSig = 4 4
+Bars = 91
+ G | F C | G | F C |
+ G | F C | G | F C |
+ G | F C | D | F |
+ G | Em | Bm | D |
+ G | Em | Bm | D |
+ G B7 | Em C | G B7 | Em C |
+ G B7 | Em C | G/D | D7 |
+ D7 | G | F C | G |
+ F C | G | F C | D |
+ F | G | Em | Bm |
+ D | G | Em | Bm |
+ D | G B7 | Em C | G B7 |
+ Em C | G B7 | Em C | G/D |
+ D7 | D7 | D7 | D7 |
+ D7 | D7 | D7 | D7 |
+ G B7 | Em C | G B7 | Em C |
+ G B7 | Em C | G/D | D7 |
+ D7 | G | Em | Bm |
+ D | G | Em | Bm |
+ D | G B7 | Em C | G B7 |
+ Em C | G B7 | Em C | G/D |
+ D7 | D7 | D7 | D7 |
+ D7 | D7 | G G G |

@@ -1,0 +1,12 @@
+Title = If I Were A Carpenter
+ComposedBy = Tim Hardin
+DBKeySig = D
+TimeSig = 4 4
+Bars = 24
+ D | C | G | D |
+ D | C | G | D |
+ D | C | G | D |
+ D | C | G | D |
+ C | D | Em C | D |
+ D | C | G | D |
+

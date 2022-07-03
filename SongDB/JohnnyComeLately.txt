@@ -1,0 +1,14 @@
+Title = Johnny Come Lately
+ComposedBy = Billy Strayhorn
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Gm7 | Eb7 D7alt | Gm7 | Eb7 D7alt |
+ Gm7 | Eb7 D7alt | Gm7 | Eb7 D7alt |
+ Gm7 | Eb7 D7alt | Gm7 | Eb7 D7alt |
+ Gm7 | Eb7 D7alt | Gm7 | Fm7 Bb7 |
+ EbM7 Fm7 | Gm7 Fm7 | EbM7 Fm7 | Gm7 Fm7 |
+ EbM7 Fm7 | Gm7 C7 | Fm7 Bb7 | A7b9 D7alt |
+ Gm7 | Eb7 D7alt | Gm7 | Eb7 D7alt |
+ Gm7 | Eb7 D7alt | Gm7 | Eb7 D7alt |
+

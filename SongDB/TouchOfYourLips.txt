@@ -1,0 +1,14 @@
+Title = The Touch of Your Lips
+ComposedBy = Ray Noble
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C69 | Dm7 G7 | Em11 A7+ | Dm11 G13 |
+ C69 | F9 | Em7b5 | A7b9 A7 |
+ Dm7b5 | G7 | C69 Bb9#11 | Am7 B7+ |
+ EM7/B | B7sus4 B7 | EM7 | Dm7 G7 |
+ C69 | Dm7 G7 | Em11 A7+ | Dm11 G13 |
+ C69 | F9 | Em7b5 | A7b9 A7 |
+ Fm6 | Bb9 | Am7 | D7 |
+ Dm7 | G7sus4 G7 | C69 | C69 |
+

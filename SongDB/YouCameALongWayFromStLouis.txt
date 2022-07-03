@@ -1,0 +1,14 @@
+Title = You Came A Long Way From St. Louis
+ComposedBy = John Benson Brooks
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Eb Ab | Eb Eb Eb Bb7 | Eb Ab | Eb Eb Eb Bb7 |
+ Eb Eb/G | Ab Ab Fm9 Bb9 | Eb Ab | Eb |
+ Eb Ab | Eb Eb Eb Bb7 | Eb Ab | Eb |
+ Eb Eb/G | Ab Ab Fm9 Bb9 | Eb Ab | Eb |
+ Ab | Abm7 Db7 | Eb | Eb |
+ Ab | Abm7 Fm7b5 | Bb7 | Bb7 |
+ Eb Ab | Eb Eb Eb Bb7 | Eb Ab | Eb Eb Eb Bb7 |
+ Eb Eb/G | Ab Ab Fm9 Bb9 | Eb Ab | Eb |
+

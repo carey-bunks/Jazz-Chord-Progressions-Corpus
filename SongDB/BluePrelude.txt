@@ -1,0 +1,16 @@
+Title = Blue Prelude
+ComposedBy = Joe Bishop and Gordon Jenkins
+DBKeySig = F
+TimeSig = 4 4
+Bars = 40
+ Dm Dm/C | E7/B Em7b5/Bb | A7 | A7 |
+ Dm Dm/C | Bb7 A7 | Dm6 | Em7b5 A7 |
+ Dm Dm/C | E7/B Em7b5/Bb | A7 | A7 |
+ Dm Dm/C | Bb7 A7 | Dm6 | Dm6 A7 |
+ Dm | Fm | Dm6 | Em7b5 A7#5 |
+ Dm | Bb7 | A7 | A7#5 |
+ Bb7 | Bb7 | Dm7 | Dm6 |
+ Bb7 | Bb7 | A7 | A7#5 |
+ Dm Dm/C | E7/B Em7b5/Bb | A7 | A7 |
+ Dm Dm/C | Bb7 A7 | Dm6 | Em7b5 A7 |
+

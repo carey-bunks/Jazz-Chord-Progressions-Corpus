@@ -1,0 +1,23 @@
+Title = That's Entertainment
+ComposedBy = Arthur Schwartz
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 68
+ Bb | Bb+ Ebm Ebm Bb+ | Cm7 Cm7 Cm7 F7 | F7 |
+ Bb6 | Bo7 | Cm7 Cm7 Cm7 D7 | D7 |
+ Gm | Eb | C C Cm D7+ | D7+ D7 |
+ Cm7 | Cm7 Do7 | Cm7 | F7 |
+ Bb | Bb+ Ebm Ebm Bb+ | Cm7 Cm7 Cm7 F7 | F7 |
+ Bb6 | Bo7 | Cm7 Cm7 Cm7 D7 | D7 |
+ Gm GmM7/F# | Gm7/F Gm6/E | C C Cm D7+ | D7+ D7 |
+ Cm7 | Cm7 Do7 | F7 Bb9 | Cm6 Cm6 Cm6 Bb9 |
+ Eb | Eb+ | Eb6 Eb6 Eb6 Fm7 | Fm7 Fm7 Fm7 Bb7 |
+ Eb | Eb+ | Eb6 Eb6 Eb6 C7 | C7 |
+ F | F+ | F6 F6 F6 G9 | G9 |
+ F | Eb6 | Dm | Cm7 Cm7 Cm7 F7 |
+ Bb | Bb+ Ebm Ebm Bb+ | Cm7 Cm7 Cm7 F7 | F7 |
+ Bb6 | Bo7 | Cm7 Cm7 Cm7 D7 | D7 |
+ Gm | Eb | Bb Bb Bb C9 | C9 C9 C9 F7 |
+ Bb | Cm7 Cm7 Cm7 F7 | Bb | G7 C9 |
+ C7 | F7 | Bb Eb | Bb |
+

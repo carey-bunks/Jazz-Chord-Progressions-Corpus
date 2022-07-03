@@ -1,0 +1,13 @@
+Title = Blues For Yna Yna
+ComposedBy = Gerald Wilson
+DBKeySig = Bb
+TimeSig = 3 4
+Bars = 28
+ Gm | GmM7 | Gm7 | Gm6 |
+ Gm | GmM7 | Gm7 | Gm6 |
+ C7#9 | C7#9 | C7#9 | C7#9 |
+ Gm | GmM7 | Gm7 | Gm6 |
+ D7#9 | D7#9 | C7#9 | C7#9 |
+ Gm | GmM7 | Gm7 | Gm6 |
+ Gm | GmM7 | Gm7 | Gm6 |
+

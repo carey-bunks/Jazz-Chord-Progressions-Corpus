@@ -1,0 +1,10 @@
+Title = I Don't Know Why
+ComposedBy = Fred E. Ahlert and Roy Turk
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ Bb6 | Bb6 | Dm7 Dbo7 | Cm7 F7 |
+ F7 | Cm7 | F7 | Bb6 |
+ BbM7 Ab7 G7 G7 | C7 F7 | BbM7 C7 | Cm7 Cm7 F9 F7b9 |
+ BbM7 | Dm7 G7 | Cm7 F7b9 | Bb6 Bb6 Cm7 F7 |
+

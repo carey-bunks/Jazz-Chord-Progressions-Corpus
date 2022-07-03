@@ -1,0 +1,14 @@
+Title = Apple Blossom Time
+ComposedBy = Von Tilzer
+DBKeySig = C
+TimeSig = 3 4
+Bars = 32
+ C | C | Em | Em |
+ F | F | C | C C Eo7 |
+ G7 G7 Go7 | G7 | C | A7 |
+ D7 | D7 | G7 Co7 Eo7 | G7 |
+ C | C | Em | Em |
+ F | F | E | E E E7 |
+ A7 A7 Ao7 | A7 | D7 | D7 |
+ Fm6 Fm6 G7 | D7 D7 G7 | C | C |
+

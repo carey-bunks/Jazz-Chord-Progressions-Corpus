@@ -1,0 +1,22 @@
+Title = Vaya Con Dios
+ComposedBy = Larry Russell, Inez James, and Buddy Prepper
+DBKeySig = C
+TimeSig = 3 4
+Bars = 64
+ C | C6 | G7 | G7 |
+ Dm7 | G7 | C | C7 |
+ F | F | C | C |
+ G7 | Dm7 | C | C |
+ C | C6 | G7 | G7 |
+ Dm7 | G7 | C | C7 |
+ F | F | C | C |
+ G7 | Dm7 | C | C |
+ Gm7 | C7 | FM7 | FM7 |
+ Gm7 | C7 | F | F |
+ Am7 | D7 | G | G |
+ Am7 | D7 | G7 G7 Dm7 | G7 |
+ C | C6 | G7 | G7 |
+ Dm7 | G7 | C | C7 |
+ F | F | C | C |
+ G7 | Dm7 | C | C |
+

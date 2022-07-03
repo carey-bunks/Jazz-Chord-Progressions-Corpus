@@ -1,0 +1,17 @@
+Title = Wonderful Land
+ComposedBy = Jerry Lordan
+DBKeySig = C
+TimeSig = 4 4
+Bars = 47
+ G F | G F | G F | G F |
+ G | D | F | C |
+ Am | Dm | Bb | G7 |
+ C | Em | C | F |
+ Am | C | G7 | F |
+ Fm Fm7 | Cmaj7 Em | Em | Em G |
+ G | D | F | C |
+ Am | Dm | Bb | G7 |
+ C Em | F C | C Em | F |
+ C Em | Dm7 Dm | Em | Em |
+ Em G | G F | G F | G F |
+ G F | G F | C C C |

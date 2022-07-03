@@ -1,0 +1,10 @@
+Title = Diamonds Are A Girl's Best Friend
+ComposedBy = Leon Robin and Jule Styne
+DBKeySig = F
+TimeSig = 4 4
+Bars = 16
+ F | F | F F F Abo7 | C7 |
+ Gm7 | Gm7 | G7 | C9 C13 |
+ F9 Fo7 F9 F9 | Bb A Bb Bbm | F A Dm7 G7 | C7 |
+ F F/E | Cm6 D7 | Gm7 C7b9 | F Fo7 C7 C7 |
+

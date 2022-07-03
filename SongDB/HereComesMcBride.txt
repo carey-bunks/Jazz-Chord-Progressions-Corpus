@@ -1,0 +1,9 @@
+Title = Here Comes McBride
+ComposedBy = Dave Brubeck
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 12
+ Cm7 | Cm7 | Cm7 | Cm7 |
+ Fm7 | Fm7 | Cm7 | Cm7 |
+ G7#11 | F7#11 | Eb7#11 | Db7#11 |
+

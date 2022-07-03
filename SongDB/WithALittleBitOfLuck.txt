@@ -1,0 +1,31 @@
+Title = With A Little Bit Of Luck
+ComposedBy = Frederick Loewe
+DBKeySig = C
+TimeSig = 4 4
+Bars = 101
+ C CM7 | F G7 | C CM7 | C6 C6 F G7 |
+ C CM7 | C6 C6 F G7 | C CM7 | C6 C6 G C7 |
+ F | A7 | F FM7 | D7 F |
+ F | F D7 | G G G G9+ | C E7 |
+ F Co C F6 | C G7 | C | C |
+ G7 | G7 | C | C |
+ G7 | G7 F G7 | C | C |
+ C CM7 | F G7 | C CM7 | C6 C6 F G7 |
+ C CM7 | C6 C6 F G7 | C CM7 | C6 C6 G C7 |
+ F | F | A7 | F FM7 |
+ D7 F | F D7 | G G G G9+ | C E7 |
+ F Co C F6 | C G7 | C | C |
+ G7 | G7 | C | C |
+ G7 | G7 G7 F G7 | C | C |
+ F | F | F C | C Go |
+ G | D7 D7 C D7 | G | G |
+ C CM7 | F G7 | C CM7 | C6 C6 F C7 |
+ C CM7 | C6 C6 F G7 | C CM7 | C6 C6 G C7 |
+ F | F | A7 | F FM7 |
+ D7 D7 D7 F | F | F D7 | G G G G9+ |
+ C E7 | F Co C F6 | C G7 | C |
+ C | G7 | G7 | C |
+ C | G7 | G7 G7 F G7 | C |
+ C | G7 | G7 | C |
+ C | C | G7 | C |
+ C |

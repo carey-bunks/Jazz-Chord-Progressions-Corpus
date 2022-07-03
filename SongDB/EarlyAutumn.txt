@@ -1,0 +1,14 @@
+Title = Early Autumn
+ComposedBy = Ralph Burns and Woody Herman
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ CM7 | B7alt | BbM7 | A7alt |
+ AbM7 | G7alt | Em7 A7alt | Dm7 G7 |
+ CM7 | B7alt | BbM7 | A7alt |
+ AbM7 | G7alt | CM7 | CM7 |
+ Dm7 G7 | CM7 Ebo7 | Dm7 G7 | CM7 |
+ Cm7 F7 | BbM7 Eb7 | DM7 Db7 C7 B7alt | Bb7 AM7 Ab7 G7 |
+ CM7 | B7alt | BbM7 | A7alt |
+ AbM7 | G7alt | CM7 A7alt | Dm7 G7 |
+

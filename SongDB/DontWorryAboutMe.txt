@@ -1,0 +1,14 @@
+Title = Don't Worry About Me
+ComposedBy = Rube Bloom
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Bbm7 | Eb7b9 | AbM7 | F7 |
+ Bbm7 | Eb7b9 | AbM7 Bbm7 | Cm7 Bo7 |
+ Bbm7 | Bbm7 | Dbm7 | Gb7 Gb7 Gm7 C7b9 |
+ Fm7 | Bb7 | Bbm7 | Eb7 |
+ Bbm7 | Eb7b9 | AbM7 | Bbm7 Eb7 |
+ AbM7 | Ebm7 Ab7+ | DbM7 | Ebm7 Ab7 |
+ DbM7 | Gb7 | AbM7 G7+ | Gb7 F7b9 |
+ Bbm7 | Eb7 Eb7b9 | AbM7 | Cm7 F7 |
+

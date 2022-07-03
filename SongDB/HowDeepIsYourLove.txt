@@ -1,0 +1,19 @@
+Title = How Deep Is Your Love
+ComposedBy = Barry Gibb, Robin Gibb, and Maurice Gibb
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 52
+ Eb | Gm7 | Fm7 C7 | Fm7 G7 |
+ Ab/Bb | Eb Gm7 | Cm7 | Fm7 |
+ Ab/Bb | AbM7 | Gm7 | Fm7 |
+ Db9 | Gm7 | Ab/Bb | Eb |
+ EbM7 | AbM7 | Abm6 | Eb |
+ Bbm/Db | C7 | C7 | Fm7 |
+ Abm6 | Eb | Gm7 | Fm7 C7 |
+ Fm7 G7 | Ab/Bb | Eb Gm7 | Cm7 |
+ Fm7 | Ab/Bb | AbM7 | Gm7 |
+ Fm7 | Db9 | Gm7 | Ab/Bb |
+ Eb | EbM7 | AbM7 | Abm6 |
+ Eb | Bbm/Db | C7 | C7 |
+ Fm7 | Abm6 | Eb Gm7 | Ab/Bb |
+

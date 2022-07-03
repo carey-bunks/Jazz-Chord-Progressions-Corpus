@@ -1,0 +1,16 @@
+Title = Lines And Spaces
+ComposedBy = Joe Lovano
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 40
+ Ebo7 | D7 Dbm7 | Bm7 | Bm7 |
+ Bb7 Ebm7 | Am7b5 D7b9 | Gm7 | Ebm7 |
+ Abm7 | Bbo7 | BM7 | BM7 |
+ Ebo7 | D7 Dbm7 | Bm7 | Bm7 |
+ Ebo7 | D7 Dbm7 | Bm7 | Bm7 |
+ Bb7 Ebm7 | Am7b5 D7b9 | Gm7 | Ebm7 |
+ Abm7 | Bbo7 | BM7 | BM7 |
+ Ebo7 | D7 Dbm7 | Bm7 | Bm7 |
+ Am7 | Am7 | Am7 | Am7 |
+ Am7 | Am7 | Am7 | Am7 |
+

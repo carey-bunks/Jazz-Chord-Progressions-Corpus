@@ -1,0 +1,14 @@
+Title = Just A Settin' and A Rockin'
+ComposedBy = Duke Ellington and Billy Strayhorn
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Ab Ab/C | Db Db Bbm7 Ab6 Ab6 Ab6 Ab6 Ab6 | Db Ab/C | Bbm7 Bbm7 Eb7 Ab6 Ab6 Ab6 Ab6 Ab6 |
+ Db Ab/C | Bbm7 Bo7 | Ab Fm7 | Bbm7 Bbm7 Eb7 Ab6 Ab6 Ab6 Ab6 Ab6 |
+ Ab Ab/C | Db Db Bbm7 Ab6 Ab6 Ab6 Ab6 Ab6 | Db Ab/C | Bbm7 Bbm7 Eb7 Ab6 Ab6 Ab6 Ab6 Ab6 |
+ Db Ab/C | Bbm7 Bo7 | Ab Fm7 | Bbm7 Bbm7 Eb7 Ab6 Ab6 Ab6 Ab6 Ab6 |
+ Cm Cm#5 | Cm6 Cm#5 | Cm Cm#5 | Dm7 G7 |
+ C C+ | C6 C#o7 | Dm7 G7 | Bbm7 Eb7 |
+ Ab Ab/C | Db Db Bbm7 Ab6 Ab6 Ab6 Ab6 Ab6 | Db Ab/C | Bbm7 Bbm7 Eb7 Ab6 Ab6 Ab6 Ab6 Ab6 |
+ Db Ab/C | Bbm7 Bo7 | Ab Fm7 | Bbm7 Bbm7 Eb7 Ab6 Ab6 Ab6 Ab6 Ab6 |
+

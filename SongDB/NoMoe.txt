@@ -1,0 +1,14 @@
+Title = No Moe
+ComposedBy = Sonny Rollins
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb Gm7b5 | Eo7 F7 | Bb Gm7b5 | Eo7 F7 |
+ Bb Bb/D | Eb Eo7 | Bb/F | Bb/F |
+ Bb Gm7b5 | Eo7 F7 | Bb Gm7b5 | Eo7 F7 |
+ Bb Bb/D | Eb Eo7 | Bb/F | F7 Bb |
+ D7 | D7 | G7 | G7 |
+ C7 | C7 | F7 | F7 |
+ Bb Gm7b5 | Eo7 F7 | Bb Gm7b5 | Eo7 F7 |
+ Bb Bb/D | Eb Eo7 | Bb/F | Bb/F |
+

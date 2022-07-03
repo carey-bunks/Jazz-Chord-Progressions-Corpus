@@ -1,0 +1,14 @@
+Title = Nuttin' For Christmas
+ComposedBy = Roy Bennett and Sid Tepper
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F | Bb F | G7 C7 | F |
+ F | Bb F | G7 C7 | F |
+ F | Bb | C7 | F |
+ Dm | G7 | C7 | F C7 |
+ F | F | F | F |
+ C7 | C7 | C7 | C7 |
+ F | F | F | F |
+ C7 | C7 | F Bb | F |
+

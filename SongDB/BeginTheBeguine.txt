@@ -1,0 +1,31 @@
+Title = Begin the Beguine
+ComposedBy = Cole Porter
+DBKeySig = C
+TimeSig = 4 4
+Bars = 100
+ CM | C6 | CM7 | C6 |
+ CM | C6 C#o7 | Dm7 | G7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ Dm7 | G7 | CM7 | G7sus4 |
+ CM | C6 | CM7 | C6 |
+ CM | C6 C#o7 | Dm7 | G7 |
+ Dm7 | Dm7 | Dm7 | Dm7 |
+ Dm7 | G7 | CM6 | CM6 |
+ Cm7 | F7 | Bb6 | Bb6 |
+ Bbm7 | Eb7 | AbM7 | Ab6 |
+ Ao7 | Ao7 | G6 | Ab6 |
+ G6 | Fm7 | G7sus4 | G7 |
+ CM | C6 | CM7 | C6 |
+ CM | C7 | Dm7 | G7 |
+ Dm7b5 | Dm7b5 | Dm7b5 | Dm7b5 |
+ Dm7 | G7 | CM7 | C6 |
+ CM | C6 | CM7 | C6 |
+ CM | C6 | G7/D | G7 |
+ FM7 | Dm7 | Em7 | A7 |
+ Dm7 | G7 | CM7 | C6 C6 G9sus4 G7b9 |
+ CM | C6 | CM7 | C6 |
+ CM | Dm7/C C6 | G7/D | G7 |
+ FM7 | Dm7 | Em7 | A7b9 |
+ Dm7 | Dm7 | Dm7b5 | Fm6 |
+ G7sus4 | G7 | C6 | C6 |
+

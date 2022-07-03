@@ -1,0 +1,14 @@
+Title = Everybody's Talkin'
+ComposedBy = Fred Neil
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F | F | F7 | F7 |
+ C7 | C7 | F C | F C |
+ F | F | F7 | F7 |
+ C7 | C7 | F C | F C |
+ Gm7 | C7 | F | Cm7 F7 |
+ Gm7 | C7 | F | F7 |
+ Gm7 | C7 | F | F7 |
+ Bb | C7 | F C | F C |
+

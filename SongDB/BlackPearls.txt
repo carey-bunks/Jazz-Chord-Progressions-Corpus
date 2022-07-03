@@ -1,0 +1,15 @@
+Title = Black Pearls
+ComposedBy = John Coltrane
+DBKeySig = C
+TimeSig = 4 4
+Bars = 36
+ Em7 | A7 | Dm7 | G7b9 |
+ Em7 Eb9 | Dm7b5 G7b9 | FM7 FM7 Em7 Dm7 | C NC NC NC |
+ Em7 | A7 | Dm7 | G7b9 |
+ Em7 Eb9 | Dm7b5 G7b9 | FM7 FM7 Em7 Dm7 | C NC NC NC |
+ Gm7 | C7b9 | FM7 | FM7 |
+ Fm7 | Bb7b9 | EbM7 | Dm7 G7b9 |
+ Em7 | A7 | Dm7 | G7b9 |
+ Em7 Eb9 | Dm7b5 G7b9 | DbM7 | Eb13 |
+ AbM7 | DbM7 | C NC NC NC | NC |
+

@@ -1,0 +1,13 @@
+Title = Mandala
+ComposedBy = Bill Dobbins
+DBKeySig = C
+TimeSig = 3 2
+Bars = 28
+ E69 | Am7 D9 | C#m7 C#m7 C#m7 Cm7 Bm7 Bm7 | E7 |
+ Am7b5 | Ab13 | Dm7 Dm7 Dm7 Dbm7 Cm9 F7+ | BbM7 |
+ Em7b5 A7+ | Dm9 Dm9 Dm9 Ebm9 Cm9 Cm9 | Bm9 Bm9 Bm9 Cm9 Am9 Am9 | Abm11 Abm11 Abm11 Abm11 Abm11 Bbm11 Bbm11 Gm11 Gm11 Gm11 Gm11 Gm11 |
+ Fm7 Eb69 | E69 | Am7 D9 | C#m7 C#m7 C#m7 Cm7 Bm7 Bm7 |
+ E7 | Am9 | Cm9 | Ebm9 |
+ Ab13 | Db69 | Gb13#11 | F69 |
+ Bb69 Bb69 Bb69 Bb69 Bb69 Bbm11 Bbm11 Gm11 Gm11 Gm11 Gm11 Gm11 | Fm7 Eb69 | E69 | E69 |
+

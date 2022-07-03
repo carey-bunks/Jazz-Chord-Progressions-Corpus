@@ -1,0 +1,12 @@
+Title = Eighty One
+ComposedBy = Miles Davis
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ F13sus4 | F13sus4 | F13sus4 | F13sus4 |
+ Bb13sus4 | Bb13sus4 | F13sus4 | F13sus4 |
+ C13sus4 | Bb13sus4 | DbM7/F | DbM7/F |
+ F13sus4 | F13sus4 | F13sus4 | F13sus4 |
+ Bb13sus4 | Bb13sus4 | F13sus4 | F13sus4 |
+ C13sus4 | Bb13sus4 | F13sus4 | F13sus4 |
+

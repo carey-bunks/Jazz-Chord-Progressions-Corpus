@@ -1,0 +1,20 @@
+Title = I Whistle A Happy Tune
+ComposedBy = Richard Rodgers
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 57
+ Bb | Bb9 | Eb | Eb |
+ F7 | F7 F7 F7 F+ | Bb | Bb F7 |
+ Bb | Bb | Bb | Bb9 |
+ Eb | Eb | F7 | F7 F7 F7 F+ |
+ Bb | Bb F7 | Bb | Cm7 Cm7 Cm7 Bb |
+ Gb | Gb | Bb | Bb |
+ F | Fm6 | C7 | F7 |
+ F7 | Bb9 | Eb | Eb |
+ F7 | F7 F7 F7 F+ | Bb | F7 F7 Eb F7 |
+ Bb | Bb | Eb | Eb |
+ Bb | Bb | Eb | Eb |
+ Bb | Bb | Eb | Eb |
+ Bb | Bb | C7 | C7 |
+ Cm7 | Cm7 F7 | Bb | Bb |
+ Bb |

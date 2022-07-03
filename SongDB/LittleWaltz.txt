@@ -1,0 +1,14 @@
+Title = Little Waltz
+ComposedBy = Ron Carter
+DBKeySig = Ab
+TimeSig = 3 4
+Bars = 34
+ Fm7 | C7/E | Ebm7 | DbM7 |
+ G7 | C7 | Fm7 | C7 |
+ Fm7 | C7/E | Ebm7 | DbM7 |
+ G7 | C7 | Fm7 | C7 |
+ Fm7 | Fm7 C7/E Fm7/Eb | Dm7b5 | G7 |
+ C7 | F7 | Bbm7 | Eb7 |
+ Ab | G7 C7 C7 | Fm7 | C7/E |
+ Ebm7 | DbM7 | G7 | C7 |
+ F | F |

@@ -1,0 +1,14 @@
+Title = Five Foot Two
+ComposedBy = Ray Henderson
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C | E7 | A7 | A7 |
+ D7 | G7 | C | G7 |
+ C | E7 | A7 | A7 |
+ D7 | G7 | C | C |
+ E7 | E7 | A7 | A7 |
+ D7 | D7 | G7 | G7 |
+ C | E7 | A7 | A7 |
+ D7 | G7 | C | G7 |
+

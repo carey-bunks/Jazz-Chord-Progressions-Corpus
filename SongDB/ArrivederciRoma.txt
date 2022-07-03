@@ -1,0 +1,14 @@
+Title = Arrivederci Roma
+ComposedBy = Renato Rascel
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ G | Cm | G | G |
+ G | B7 | C E7 | Am D7 |
+ D7 | D7 | D7 | D7 |
+ D7 | D7 | G | G G G D7 |
+ G | Cm | G | G |
+ G | B7 | C E7 | Am D7 |
+ D7 | D7 | D7 | D7 |
+ D7 | D7 | G | G |
+

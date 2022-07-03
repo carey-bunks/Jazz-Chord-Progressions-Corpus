@@ -1,0 +1,14 @@
+Title = The Joint is Jumpin'
+ComposedBy = Fats Waller
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb Bo7 | Cm7 F7 | Bb Bo7 | Cm7 F7 |
+ Bb Bb7 | Eb Eo7 | Bb F7 | Bb |
+ D A7 | D A7 | D A7 | D C7 |
+ F C7 | F F#o7 | C7 | F7 |
+ Bb7 Eo7 | Bb7 | Eb Bb7 | Eb |
+ C7 | C7 | F9 C7+ | F7 |
+ Bb Bo7 | Cm7 F7 | Bb Bo7 | Cm7 F7 |
+ Bb Bb7 | Eb Eo7 | Bb F7 | Bb F7 |
+

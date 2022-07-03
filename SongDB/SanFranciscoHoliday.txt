@@ -1,0 +1,14 @@
+Title = San Francisco Holiday
+ComposedBy = Thelonious Monk
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Am7b5 D7b9 | Gm7b5 C7b9 | Bb7#5#9 | Fm9 Bb13b9 Bb13b9 Bb13b9 |
+ Am7b5 D7b9 | Gm7b5 C7b9 | Bb7#5#9 | Bb7b9#11 |
+ Am7b5 D7b9 | Gm7b5 C7b9 | Bb7#5#9 | Fm9 Bb13b9 Bb13b9 Bb13b9 |
+ Am7b5 D7b9 | Gm7b5 C7b9 | Bb7#5#9 | Bb7b9#11 Bb9 Bb9 Bb9 |
+ Cm7b5 | Cm7b5 F7b9 | Cm7b5 F7b9 | Cm7b5 F7b9 |
+ Cm7b5 | Cm7b5 F7b9 | Cm7b5 F7b9 | Cm7b5 F7b9 |
+ Am7b5 D7b9 | Gm7b5 C7b9 | Bb7#5#9 | Fm9 Bb13b9 Bb13b9 Bb13b9 |
+ Am7b5 D7b9 | Gm7b5 C7b9 | Bb7#5#9 | Db6 B/D# B/D# B/D# |
+

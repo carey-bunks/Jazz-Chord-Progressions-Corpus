@@ -1,0 +1,9 @@
+Title = Cheryl
+ComposedBy = Charlie Parker
+DBKeySig = C
+TimeSig = 4 4
+Bars = 12
+ C7 | C7 | Gm7 | C7 |
+ F7 | F7 | C7 | Em7b5 A7 |
+ Dm7 | G7 | C7 | Dm7 G7 |
+

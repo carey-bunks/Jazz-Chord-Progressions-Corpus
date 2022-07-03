@@ -1,0 +1,14 @@
+Title = Once in a Lifetime
+ComposedBy = Leslie Bricusse and Anthony Newley
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 33
+ Eb | Eb | Eb11 | Eb11 Eb11 Eb11 Bb7 |
+ Ebadd9 | Eb EbM7 Ab/Eb Ab/Eb | Eb11 Eb | Eb11 Eb7 |
+ AbM7 Gm7 | Fm7 Fm7 Eb Eb7 | AbM7 Gm7b5 | C7b5 C7b5 C7b5 C7 |
+ Fm7 Ebadd9 | Fm7 Gm7 | Fm7 F9 | Bb11 |
+ Eb | Eb | Eb11 | Eb11 Eb11 Eb11 Bb7 |
+ Ebadd9 | Eb EbM7 Ab/Eb Ab/Eb | Eb11 Eb | Eb11 Eb7 |
+ AbM7 Gm7 | Fm7 Fm7 Eb Eb7 | AbM7 Gm7b5 | C7b5 C7b5 C7b5 C7 |
+ Fm7 Ebadd9 | Fm7 Fm7 G11 G7 | Cm7 F7b5 Bb11 Bb11 | Eb |
+ Fm7 Bb13 |

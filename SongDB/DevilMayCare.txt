@@ -1,0 +1,17 @@
+Title = Devil May Care
+ComposedBy = Bob Dorough and Terrell Kirk
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 44
+ Bbm7 Gm7b5 | C7#9 F7#9 | Bbm7 Gm7b5 | C7#9 F7#9 |
+ Bbm7 | Gm7b5 | C7#9 | F7 |
+ Bbm7 Gm7b5 | C7#9 F7#9 | Bbm7 Gm7b5 | C7#9 F7#9 |
+ Cm7b5 | F7 | Bbm7 | Bbm7 Bb7#5b9 |
+ Ebm7 | Ab7sus4 Ab7 | DbM7 C7#9 | Fm7 Bb7#5b9 |
+ Ebm7 | Ab7sus4 Ab7 | DbM7 | Db6 |
+ Dbm9 | Gb7sus4 Gb7 | BM7 | BM7 |
+ C7#5#9 | F7#5#9 | Db69 C69 | F7#9 |
+ Bbm7 Gm7b5 | C7#9 F7#9 | Bbm7 Gm7b5 | C7#9 F7#9 |
+ Bbm7 | Gm7b5 | C7#5#9 | C7#5#9 |
+ Gm7b5 | F7#9 | Bbm7 | Bbm7 F7#9 F7#9 F7#9 |
+

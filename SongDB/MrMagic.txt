@@ -1,0 +1,10 @@
+Title = Mr. Magic
+ComposedBy = Ralph MacDonald and William Salter
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 18
+ Cm7 | F7 | Bb7sus4 | Cm7 |
+ Bbm7 Eb7 | AbM7 G7#5 | Cm7 | F7 |
+ EbM7 | AbM7 | EbM7 | AbM7 |
+ EbM7 | G7#9 | Cm7 | F7 |
+ Cm7 | F7 |

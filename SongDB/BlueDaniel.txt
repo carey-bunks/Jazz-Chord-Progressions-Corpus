@@ -1,0 +1,10 @@
+Title = Blue Daniel
+ComposedBy = Frank Rosolino
+DBKeySig = D
+TimeSig = 3 4
+Bars = 16
+ D69 | C7#11 | Bm7 | E7 |
+ Bm7 | E7 | Bm7 | E7 |
+ Gm7 | C7 | DM7 | C7#11 |
+ Em7 | A7 | D69 | D69 |
+

@@ -1,0 +1,17 @@
+Title = Why I Did For Love
+ComposedBy = Marvin Hamlisch and Edward Kleban
+DBKeySig = C
+TimeSig = 4 4
+Bars = 45
+ CM7 Dm7 | Em7 A7 | Dm7 Ab7b5 | G7 G7b9 |
+ C G/B | Am7 Eb9 | D7 | Dm7b5 |
+ Bb7 | G7 | G7 | CM7 Dm7 |
+ Em7 A7 | Dm7 Ab7b5 | G7 G7b9 | C G/B |
+ Am7 Eb9 | D7 | Dm7b5 | Bb7 |
+ G7 | E7 | Am7 Am7/G | FM7 E7 |
+ Am7 Am7/G | F#m7b5 B7b9 | Em EmM7 | A9sus4 A7 |
+ Dm7b5 Dm7 | G7 | CM7 Dm7 | Em7 A7 |
+ Dm7 Ab7b5 | G7 G7b9 | C G/B | Am7 Eb9 |
+ D7/F# | FM7 C/E | Dm7 G7 | C Bb9 |
+ Ab7b5 G7 | C Bb9 | Ab7b5 G7 | C6 |
+ Dm7 G7 |

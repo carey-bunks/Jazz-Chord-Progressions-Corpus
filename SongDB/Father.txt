@@ -1,0 +1,23 @@
+Title = Father
+ComposedBy = George Coleman
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 68
+ Cm7 Abm7 | Em7 Em7 Cm7 F7+ | BbM7 C7b9 | A7b9 F7b9 |
+ BbM7 A7+ | Ab7 G7b9 | GbM7 | BM7 |
+ BbM7 | Bm7 E7#11 | EbM7 | Ab7 |
+ Dm7 | C#o7 | Cm7 Bbm7 | Am7 D7b9 |
+ Gm7 | C7#11 | Cm7 Ebm7 | Cm7 F7#5#9 |
+ BbM7 A7+ | Ab7 G7b9 | GbM7 | BM7 |
+ BbM7 | Bm7 E7#11 | EbM7 | Ab7 |
+ Dm7 | Ebm7 Ab7 | BbM7/D | G7#5#9 |
+ Cm7 Abm7 | Em7 Em7 Cm7 F7+ | BbM7 C7b9 | A7b9 A7b9 F7b9 Bb69 |
+ BbM7 A7+ | Ab7 G7b9 | GbM7 | BM7 |
+ BbM7 | Bm7 E7#11 | EbM7 | Ab7 |
+ Dm7 | C#o7 | Cm7 Bbm7 | Am7 D7b9 |
+ Gm7 | C7#11 | Cm7 Ebm7 | Cm7 F7#5#9 |
+ BbM7 A7+ | Ab7 G7b9 | GbM7 | BM7 |
+ BbM7 | Bm7 E7#11 | EbM7 | Ab7 |
+ Dm7 | Ebm7 Ab7 | BbM7/D | G7#5#9 |
+ Cm7 Abm7 | Em7 Em7 Cm7 F7+ | BbM7 C7b9 | A7b9 A7b9 F7b9 Bb69 |
+

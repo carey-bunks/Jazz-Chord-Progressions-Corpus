@@ -1,0 +1,14 @@
+Title = Segment
+ComposedBy = Charlie Parker
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ Bbm | Cm7 F7 | Bbm | Cm7 F7 |
+ Bbm | Ebm6 Ebm6 Gb9 F7 | Bbm | F7#9 |
+ Bbm | Cm7 F7 | Bbm | Cm7 F7 |
+ Bbm | F9 | Bbm | Bbm |
+ Fm7 | Bb7 | Ebm | Ebm7 |
+ Ab9 | Ebm7 Ab9 | DbM7 | F7b9 |
+ Bbm | Cm7 F7 | Bbm | Cm7 F7 |
+ Bbm | F7b9 | Bbm | F7b9 |
+

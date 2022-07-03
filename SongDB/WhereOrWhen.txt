@@ -1,0 +1,16 @@
+Title = Where Or When
+ComposedBy = Richard Rodgers
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 40
+ Eb | Eb6 | EbM7 | Eb6 |
+ Ab | Ab | Ab | Fm7 Bb7sus |
+ Eb Cm7 | Fm7 Bb7 | Eb | Eb6 |
+ EbM7 | Eb6 | Ab | Ab |
+ Ab | Fm7 Bb7sus | Eb | Dm7b5 G7alt |
+ Cm7 | F7 | Dm7b5 | G7alt |
+ Cm | F7 | Cm7 F7 | Fm7 Bb7 |
+ Eb | Eb6 | EbM7 | Eb7+ |
+ Ab | Gm7 C7 | Fm | C7 |
+ Fm7 | Bb7 | Eb | Fm7 Bb7 |
+

@@ -1,0 +1,15 @@
+Title = Getting To Know You
+ComposedBy = Richard Rodgers
+DBKeySig = C
+TimeSig = 4 4
+Bars = 36
+ CM7 FM7 | Em7 Am7 | Dm7 | G7 |
+ Dm7 G7 | Dm7 G7 | CM7 Am7 | Dm7 G7 |
+ CM7 | CM7 C7 | FM7 | FM7 |
+ Am7 | D7 | Dm7 | G7 |
+ CM7 FM7 | Em7 Am7 | Dm7 | G7 |
+ Dm7 G7 | Dm7 G7 | C7 | C7 |
+ FM7 FM7/E | Dm7 G7 | CM7 C7 | FM7 |
+ CM7 A7b9 | Dm7 G7 | CM7 | Am7 D7 |
+ Dm7 | G7 | CM7 | Dm7 G7 |
+

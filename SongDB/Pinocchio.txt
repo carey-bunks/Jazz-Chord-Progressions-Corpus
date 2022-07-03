@@ -1,0 +1,10 @@
+Title = Pinocchio
+ComposedBy = Wayne Shorter
+DBKeySig = C
+TimeSig = 4 4
+Bars = 18
+ Ab13 | Ab13 G13 | Gb13 | Gb13 G13 |
+ Gb7#5 | Gb7#5 | F13b9 | F13b9 |
+ Gb7#5#9 | F13 A13 | Ab13 | Ab13 |
+ Db9 | Gb7#5 | F13#11 | Gb13 |
+ B13 | B13 |

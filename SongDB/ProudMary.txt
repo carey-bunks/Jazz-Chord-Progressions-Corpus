@@ -1,0 +1,11 @@
+Title = Proud Mary
+ComposedBy = J.C. Fogerty
+DBKeySig = G
+TimeSig = 4 4
+Bars = 20
+ G | G | G | G |
+ G | G | G | G |
+ D7 | D7 | Em | Em |
+ G | G | G | G |
+ G | G | G | G |
+

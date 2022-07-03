@@ -1,0 +1,14 @@
+Title = Silver Bells
+ComposedBy = Jay Livingston and Ray Evans
+DBKeySig = C
+TimeSig = 3 4
+Bars = 32
+ C | CM7 CM7 C7 | F | F |
+ G7 | G7 | F6 C C | C |
+ C | CM7 CM7 C7 | F | F |
+ G7 | G7 | C | G7 |
+ C | C | F | F |
+ G G D7 | G7 | C | C |
+ C | C | F | F |
+ G G D7 | G7 | C | C |
+

@@ -1,0 +1,15 @@
+Title = Swinging The Samba
+ComposedBy = Horace Silver
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 38
+ Fm | Fm | Fm | Gm7b5 C7 |
+ Gm7b5 C7 | C7 | Gm7b5 C7 | Fm |
+ Fm | Fm | Cm7b5 F7 | Bbm |
+ Bbm | Fm7 | G7 C7 | Fm |
+ Cm7b5 F7 | Bbm | Bbm7b5 Eb7 | AbM7 |
+ Abm7b5 Db7 | Gm7b5 C7 | Fm | Fm |
+ Fm | Gm7b5 C7 | Gm7b5 C7 | C7 |
+ Gm7b5 C7 | Fm | Fm | Fm |
+ Cm7b5 F7 | Bbm | Bbm | Fm7 |
+ G7 C7 | Fm |

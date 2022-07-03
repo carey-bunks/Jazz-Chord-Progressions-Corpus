@@ -1,0 +1,22 @@
+Title = Just One of Those Things
+ComposedBy = Cole Porter
+DBKeySig = C
+TimeSig = 4 4
+Bars = 64
+ Dm | Dm | Em7b5 | A7 |
+ F7 | F7 | Bm7b5 | Bbo |
+ F/A | Ab7 | Gm7 | C7 |
+ F | F#o | Gm7 | Em7b5 A7 |
+ Dm | Dm | Em7b5 | A7 |
+ F7 | F7 | Bm7b5 | Bbo |
+ F/A | Ab7 | Gm7 | C7 |
+ F | F#o | Fm7 | Bb7 |
+ Eb | Eo | Fm7 | Bb7 |
+ Eb | Eb | Dm7 | G7 |
+ C | Am7 | F#m7b5 | Fm |
+ Em7 | F#o | Gm7 | Em7b5 A7 |
+ Dm | Dm | Em7b5 | A7 |
+ F7 | F7 | Bm7b5 | Bbo |
+ Am7 | D7 | Gm7 | C7 |
+ F | F | Em7b5 | A7#9 |
+

@@ -1,0 +1,14 @@
+Title = Someday My Prince Will Come
+ComposedBy = Frank Churchill
+DBKeySig = F
+TimeSig = 3 4
+Bars = 32
+ BbM7 | D7#9 | EbM7 | G7#5 |
+ Cm7 | G7alt | Cm7 | F7 |
+ Dm7 | C#o7 | Cm7 | F7 |
+ Dm7 | C#o7 | Cm7 | F7 |
+ BbM7 | D7#9 | EbM7 | G7#5 |
+ Cm7 | G7alt | Cm7 | F7 |
+ BbM7 | D7#9 | EbM7 | Edim7 |
+ BbM7/F | G7 | Cm7 | F7 |
+

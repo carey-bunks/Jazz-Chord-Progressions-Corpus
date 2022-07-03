@@ -1,0 +1,14 @@
+Title = Mr. Lucky
+ComposedBy = Henry Mancini
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ D7 | D7 | Dm7 | G7 |
+ Cm7 | F7 | BbM7 | BbM7 |
+ Am7 | D7 | Bm7 | Em7 |
+ Cm7 | Am7 D7 | Dm7 | G7 |
+ D7 | D7 | Dm7 | G7 |
+ Cm7 | F7 | BbM7 | BbM7 |
+ EbM7 | Am7 D7 | Bm7 | Bb7 |
+ Am7 | Am7/D D7 | GM7 | GM7 |
+

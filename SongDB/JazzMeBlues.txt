@@ -1,0 +1,16 @@
+Title = Jazz Me Blues
+ComposedBy = Tom Delaney
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 40
+ Eb | Eb | Eb | F7 Bb7 |
+ Eb | Eb | Ebo7 | Bb7 Eb |
+ Eb | Eb | Eb | F7 Bb7 |
+ Eb | Eb | Fm7 Bb7 | Eb |
+ Bb7 | Bbo7 | Bb7 | Bb7 |
+ C7 | C7 | F7 | F7 |
+ Bb7 | Bb7 | Eb | Eb |
+ C7 | C7 | F7 | F7 |
+ Eb | G7 | Cm7 | Ebo7 |
+ F7 | Bb7 | Eb | Eb |
+

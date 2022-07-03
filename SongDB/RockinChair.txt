@@ -1,0 +1,14 @@
+Title = Rockin' Chair
+ComposedBy = Hoagy Carmichael
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | Bbm7 Eb7 | Ab | Db7 |
+ Gm7 | C7+ C7 | F7 | Fm7 Bb7 |
+ Eb | Bbm7 Eb7 | Am7b5 D7 | Gm7 |
+ Cm7b5 | F7 | F7 Bb7 | Eb |
+ Ab | Ab | Eb | Eb |
+ Am7b5 D7 | Gm7 | Cm7 F7 | Fm7 Bb7 |
+ Eb | Bbm7 Eb7 | Ab | Db7 |
+ Gm7 C7 | F7 Fm7/Bb | Eb | Fm7 Bb7 |
+

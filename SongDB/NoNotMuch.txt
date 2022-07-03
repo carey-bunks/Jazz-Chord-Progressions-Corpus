@@ -1,0 +1,14 @@
+Title = No, Not Much!
+ComposedBy = Al Stillman and Robert Allen
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F | F Cm | Gm C7 | Gm C7 |
+ F | F Cm | Gm C7 | Gm C7 |
+ F7 | F7 | Bbm Bb | Bb |
+ G7 | G7 | Gm7 | C7 |
+ F | F Cm | Gm C7 | Gm C7 |
+ Cm | D7 | Gm D7 | Gm |
+ Bb | Bbm | Cm | D7 |
+ Gm | C7 C7 Gm7 C7 | F Dm | Gm7 C7 |
+

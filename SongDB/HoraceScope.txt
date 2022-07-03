@@ -1,0 +1,14 @@
+Title = Horace Scope
+ComposedBy = Horace Silver
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 34
+ DbM7 | Em7 A7 | Ebm7 | Abm7 Db7 |
+ Dbm7 Dbm7 Dbm7 Dbm7 Dbm7 Dbm7 Dbm7 Ab7#5 | Ab7#5 Ab7#5 Ab7#5 G13 | G13 | G13 G13 G13 Gb7 Gb7 Gb7 Gb7 Gb7 |
+ Fm7 | Bbm7 | Ebm7 | Ab7#5 |
+ Db7#9 | Bb7b5#9 | A7 | Ab7#5#9 |
+ DbM7 | Em7 A7 | Ebm7 | Abm7 Db7 |
+ Dbm7 Dbm7 Dbm7 Dbm7 Dbm7 Dbm7 Dbm7 Ab7#5 | Ab7#5 Ab7#5 Ab7#5 G13 | G13 | G13 G13 G13 Gb7 Gb7 Gb7 Gb7 Gb7 |
+ Fm7 | Bbm7 | Ebm7 | Ab7#5 |
+ Db7#9 | Bb7b5#9 | A7 | Gbm7/Ab Db7#9 |
+ NC | NC |

@@ -1,0 +1,14 @@
+Title = Busch-Wacked
+ComposedBy = Jack Zucker
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 G7 | Cm F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Fm7 Bb7 Em7 | Em7 A7#5#9 | Abm7 Gm7 | Gm7 F7#5#9 F7#5#9 F7#5#9 |
+ BbM7 G7 | Cm F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Fm7 Bb7 Em7 | Em7 A7#5#9 | Abm7 Gm7 | Gm7 F7#5#9 F7#5#9 F7#5#9 |
+ D7#5#9 | D7#5#9 D7#5#9 D7#5#9 G7#5#9 | G7#5#9 | G7#5#9 |
+ C7#5#9 | C7#5#9 C7#5#9 C7#5#9 F7#5#9 | F7#5#9 | F7#5#9 |
+ BbM7 G7 | Cm F7 | Dm7 G7 | Cm7 F7 |
+ Fm7 Fm7 Bb7 Em7 | Em7 A7#5#9 | Abm7 Gm7 | Gm7 F7#5#9 F7#5#9 F7#5#9 |
+

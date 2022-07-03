@@ -1,0 +1,14 @@
+Title = Wise Maid
+ComposedBy = Traditional
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ D | D | G D | D A7 |
+ D | D | G D | A7 D |
+ D | D | G D | D A7 |
+ D | D | G D | A7 D |
+ D | D G | D A7 | D A7 |
+ G D | D A7 | G D | A7 D |
+ D | D G | D A7 | D A7 |
+ G D | D A7 | G D | A7 A7 D |
+

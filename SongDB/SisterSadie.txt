@@ -1,0 +1,14 @@
+Title = Sister Sadie
+ComposedBy = Horace Silver
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ G7 | G7 G7 G7 Ab7 | G7 | G7 G7 G7 Ab7 |
+ G7 | G7 G7 G7 Ab7 | G7 | G7 G7 G7 Ab7 |
+ G7 | G7 G7 G7 Ab7 | G7 | G7 G7 G7 Ab7 |
+ G7 | G7 G7 G7 Ab7 | G7 | G7 G7 G7 Ab7 |
+ C7 | C7 | G7 | G7 |
+ C7 | Bb7 | A7 | Ab7 |
+ G7 | G7 G7 G7 Ab7 | G7 | G7 G7 G7 Ab7 |
+ G7 | G7 G7 G7 Ab7 | G7 | G7 G7 G7 Ab7 |
+

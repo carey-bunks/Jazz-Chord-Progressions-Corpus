@@ -1,0 +1,9 @@
+Title = Blue Train
+ComposedBy = John Coltrane
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 12
+ NC NC NC Eb7#9 Eb7#9 Eb7#9 Eb7#9 Eb7#9 | NC | NC NC NC Eb7#9 Eb7#9 Eb7#9 Eb7#9 Eb7#9 | NC |
+ NC NC NC Ab7#11 Ab7#11 Ab7#11 Ab7#11 Ab7#11 | NC | NC NC NC Eb7#9 Eb7#9 Eb7#9 Eb7#9 Eb7#9 | NC |
+ NC NC NC Bb7#9 Bb7#9 Bb7#9 Bb7#9 Bb7#9 | NC | NC NC NC Eb7#9 Eb7#9 Eb7#9 Eb7#9 Eb7#9 | NC |
+

@@ -1,0 +1,14 @@
+Title = All Alone
+ComposedBy = Irving Berlin
+DBKeySig = F
+TimeSig = 3 4
+Bars = 32
+ F | F/C | C7 | C7 |
+ F | C7#5 | F | F/C |
+ C7 | C7 A7 A7 | Dm | Dm |
+ A/E | E7 | Am | C7 |
+ F7 | F7 | Bb | Bb Bb Bb7 |
+ G7 | G7 | C7 C7 C7b9 | C7 C7#5 C7#5 |
+ F | F7 | Bb/F | Gm7b5 |
+ F/C | C7 | F | Abo7 Gm C7b5 |
+

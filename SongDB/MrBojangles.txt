@@ -1,0 +1,17 @@
+Title = Mr. Bojangles
+ComposedBy = Jerry Jeff Walker
+DBKeySig = D
+TimeSig = 3 4
+Bars = 44
+ D | D/C# | D/B | D7/A |
+ G | G | A7sus4 | A7 |
+ D | D/C# | D/B | D7/A |
+ G | G | A7sus4 | A7 |
+ G | G | G | A7 |
+ Bm | Bm/A | E9 | E9 |
+ A7sus4 | A7sus4 | A7 | A7 |
+ Bm | Bm | A | A |
+ Bm | Bm | A | A |
+ Bm | Bm | A | A |
+ D | D/C# | D/B | D/A |
+

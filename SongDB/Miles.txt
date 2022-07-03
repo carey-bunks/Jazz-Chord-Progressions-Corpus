@@ -1,0 +1,16 @@
+Title = Miles (New Milestones)
+ComposedBy = Miles Davis
+DBKeySig = F
+TimeSig = 4 4
+Bars = 40
+ Gm7 Am7 | BbM7 Am7 | Gm7 Am7 | BbM7 Am7 |
+ Gm7 Am7 | BbM7 Gm7 | Am7 | Am7 |
+ Gm7 Am7 | BbM7 Am7 | Gm7 Am7 | BbM7 Am7 |
+ Gm7 Am7 | BbM7 Gm7 | Am7 | Am7 |
+ Am9 | Am9 | Am9 | Am9 |
+ Am9 | Am9 | Am9 | Am9 |
+ Am9 | Am9 | Am9 | Am9 |
+ Am9 | Am9 | Am9 | Am9 |
+ Gm7 Am7 | BbM7 Am7 | Gm7 Am7 | BbM7 Am7 |
+ Gm7 Am7 | BbM7 Gm7 | Am7 | Am7 |
+

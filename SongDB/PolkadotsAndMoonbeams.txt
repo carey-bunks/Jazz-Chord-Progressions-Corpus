@@ -1,0 +1,14 @@
+Title = Polkadots and Moonbeams
+ComposedBy = Jimmy Van Heusen
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F Dm7 | Gm7 C7 | F Dm7 | Em7b5 A7 |
+ Dm Bbm | F F Am7 Abm7 | Gm7 C7 | F C7 |
+ F Dm7 | Gm7 C7 | F Dm7 | Em7b5 A7 |
+ Dm Bbm | F F Am7 Abm7 | Gm7 C7 | F E7 |
+ A A#o | Bm7 E7 | A F#m7 | Bm7 E7 |
+ A A#o | Bm7 E7 | A7 D7 | Gm7 C7 |
+ F Dm7 | Gm7 C7 | F Dm7 | Em7b5 A7 |
+ Dm Bbm | F F Am7 Abm7 | Gm7 C7 | F |
+

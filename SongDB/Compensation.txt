@@ -1,0 +1,14 @@
+Title = Compensation
+ComposedBy = Kenny Werner
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Gm7 A7 | Ebm7 Ab7 | DbM7 E7 | AM7 |
+ Abm7 Db7 | Gm7 C7 | F#7 B7 | EM7#11 |
+ Eb7sus | AbM7/Eb | Eb7sus | AbM7/Eb |
+ F/G | CM7/G | Am7 | Abm7 Db7 Db7 Db7 |
+ Gm7 A7 | Ebm7 Ab7 | DbM7 E7 | AM7 |
+ Abm7 Db7 | F#m7 B7sus | E7sus | Ab7#9/E |
+ Eb7sus | Eb7sus | Eb7sus | Eb7sus |
+ D7#11 | D7#11 | D7#11 | D7#11 |
+

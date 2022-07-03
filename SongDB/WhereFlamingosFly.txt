@@ -1,0 +1,14 @@
+Title = Where Flamingos Fly
+ComposedBy = Harold Courlander, El Thea, and John Benson Brooks
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Am Am+ | Am6 Am+ | Am Am+ | Am6 Am+ |
+ Am7 C9 | F6 F6 Dm7 G7b9 | C6 | C6 |
+ Am Am+ | Am6 Am+ | Am Am+ | Am6 Am+ |
+ Am7 C9 | F6 F6 Dm7 G7b9 | C6 | C9 C9+ |
+ F7 | C6 | F7 | C6 |
+ F7 | Am7 | F9 | E7 |
+ Am Am+ | Am6 Am+ | Am Am+ | Am6 Am+ |
+ Am7 C9 | F6 F6 Dm7 G7b9 | C6 | Bm7b5 E7 |
+

@@ -1,0 +1,15 @@
+Title = Watch What Happens
+ComposedBy = Michel LeGrand
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 36
+ EbM7 | Eb6 | F7 | F7 |
+ Fm7 | Bb7 | EbM7 EM7 | FM7 EM7 |
+ EbM7 | Eb6 | F7 | F7 |
+ Fm7 | Bb7 | EbM7 EM7 | FM7 F#M7 |
+ GM7 | GM7 | Gm7 | C7 |
+ FM7 | FM7 | Fm7 | Bb7 |
+ EbM7 | Eb6 | F7 | F7 |
+ Fm7 | Bb7 | EbM7 | EM7 DM7 |
+ EbM7 | EM7 DM7 | EbM7 | Bb7+ |
+

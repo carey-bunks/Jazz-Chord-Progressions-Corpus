@@ -1,0 +1,14 @@
+Title = I Don't Know About You
+ComposedBy = Duke Ellington
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 32
+ Ebm7 Ab7 | DbM7 | Gb7 F7 | Ab7 A7 Bb7 Bb7 |
+ Eb7 | Ebm7 Ab7 | F7 Bb7 | Eb7 A7 Bb7 Bb7 |
+ Ebm7 Ab7 | DbM7 | Gb7 F7 | Ab7 A7 Bb7 Bb7 |
+ Eb7 | Ebm7 Ab7 | DbM7 | DbM7 |
+ Abm7 Db7 | Abm7 Db7 | GbM7 | GbM7 |
+ F#m7 B7 | F#m7 B7 | EM7 | Eb7 D7 |
+ Ebm7 Ab7 | DbM7 | Gb7 F7 | Ab7 A7 Bb7 Bb7 |
+ Eb7 | Ebm7 Ab7 | DbM7 | DbM7 Bb7 |
+

@@ -1,0 +1,15 @@
+Title = N.Y.C.
+ComposedBy = Charles Strouse
+DBKeySig = G
+TimeSig = 4 4
+Bars = 36
+ G | F G7 | C | Cm6 |
+ G | D7sus4 D7 | G | D7sus4 D7 |
+ G | F G7 | C | Cm6 |
+ G | D7sus4 D7 | G | G G GM7 G7 |
+ C Co7 | F G7 | F | E7+ E7 |
+ A Ao7 | Bm7 E7 | A A Bm7 E7 | A7sus4 A7 D7sus4 D7 |
+ G | F G7 | C | Cm6 |
+ G | D7sus4 | Dm7 G7 | C Cm6 |
+ G | D7sus4 D7 | G | D7sus4 D7 |
+

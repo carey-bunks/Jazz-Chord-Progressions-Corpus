@@ -1,0 +1,10 @@
+Title = Beatrice
+ComposedBy = Sam Rivers
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ FM7 | GbM7#11 | FM7 | EbM7#11 |
+ Dm7 | EbM7 | Dm7 | Bbm7 |
+ Am7 | BbM7 | Em7b5 A7#9 | Dm7 |
+ Gm7 | GbM7#11 | Fm7 | GbM7#11 |
+

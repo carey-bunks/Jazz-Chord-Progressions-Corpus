@@ -1,0 +1,12 @@
+Title = Big Blues
+ComposedBy = Jim Hall
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ F7#9 | Bb7 | F7#9 | F7#9 |
+ Bb7 | Bb7 | F7#9 | F7#9 |
+ C7#9 | C7#9 | F7#9 | F7 |
+ F7#9 | Bb7 | F7#9 | F7#9 |
+ Bb7 | Bb7 | F7#9 | F7#9 |
+ C7#9 | C7#9 | F7#9 | F7#9 |
+

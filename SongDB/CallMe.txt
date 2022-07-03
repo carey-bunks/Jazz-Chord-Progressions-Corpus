@@ -1,0 +1,20 @@
+Title = Call Me
+ComposedBy = Tony Hatch
+DBKeySig = G
+TimeSig = 4 4
+Bars = 56
+ GM7 | GM7 | Gm7 | C7 |
+ FM7 | FM7 | Fm7 | Bb7 |
+ EbM7 | AbM7#11 | EbM7 | AbM7#11 |
+ EbM7 | AbM7#11 | GM7 | D7alt |
+ GM7 | GM7 | Gm7 | C7 |
+ FM7 | FM7 | Fm7 | Bb7 |
+ EbM7 | AbM7#11 | EbM7 | AbM7#11 |
+ EbM7 | AbM7#11 | GM7 | GM7 |
+ Am7 D7 | Am7 D7 | GM7 | Bm7 E7alt |
+ Am7 D7 | Am7 D7 | Bm7 E7 | Am7 D7 |
+ GM7 | GM7 | Gm7 | C7 |
+ FM7 | FM7 | Fm7 | Bb7 |
+ EbM7 | AbM7#11 | EbM7 | AbM7#11 |
+ EbM7 | AbM7#11 | GM7 | GM7 |
+

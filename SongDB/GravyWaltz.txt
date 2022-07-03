@@ -1,0 +1,14 @@
+Title = Gravy Waltz
+ComposedBy = Ray Brown
+DBKeySig = C
+TimeSig = 3 4
+Bars = 32
+ G6 | C7 | G6 G6 B7 | Em7 |
+ C#m7b5 C#m7b5 Cm7 | Bm7b5 Bm7b5 E7 | A7 A7 D7 | GM7 |
+ G6 | C7 | G6 G6 B7 | Em7 |
+ C#m7b5 C#m7b5 Cm7 | Bm7b5 Bm7b5 E7 | A7 A7 D7 | GM7 |
+ C7 | G6 | C7 | G6 |
+ C7 | G6 G6 Em7 | A7 G6/B A7/C# | D7 C7/E D7/F# |
+ G6 | C7 | G6 G6 B7 | Em7 |
+ C#m7b5 C#m7b5 Cm7 | Bm7b5 Bm7b5 E7 | A7 A7 D7 | GM7 |
+

@@ -1,0 +1,11 @@
+Title = Wes Side Stroll
+ComposedBy = Gary Aprile
+DBKeySig = C
+TimeSig = 4 4
+Bars = 20
+ Dm7 G7 | Dm7 G7 | Dm7 G7 | Dm7 G7 |
+ Dm7 G7 | Dm7 G7 | Dm7 G7 | Dm7 G7 |
+ Cm7 F7 | Cm7 F7 | Cm7 F7 | Cm7 F7 |
+ Dm7 G7 | Dm7 G7 | Dm7 G7 | Dm7 G7 |
+ Fm7 Bb7 | Fm7 Bb7 | Em7 A7 | Em7 A7 |
+

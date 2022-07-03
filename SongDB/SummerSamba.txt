@@ -1,0 +1,14 @@
+Title = Summer Samba
+ComposedBy = Marcos Valle, Paulo Sergio Valee, and Norman Gimbel
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ FM7 | FM7 | Bm7 | E7 |
+ BbM7 | BbM7 | Eb7 | Eb7 |
+ Am7 | D7b9 | Gm7 | Em7b5 A7alt |
+ Dm7 | G7 | Gm7 | Db7 C7 |
+ FM7 | FM7 | Bm7 | E7 |
+ BbM7 | BbM7 | Eb7 | Eb7 |
+ Am7 | D7b9 | Gm7 | C7 |
+ FM7 | Bb7 | FM7 | Gm7 C7 |
+

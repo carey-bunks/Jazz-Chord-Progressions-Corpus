@@ -1,0 +1,14 @@
+Title = Brian's Song
+ComposedBy = Michel Legrand
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ G G/F# | C/E D7 | G G/F# | C/E D7 |
+ G G/F# | Em G/D | Csus4 C | C/D D7 |
+ G G/F# | C/E D7 | G G/F# | Em6 |
+ Bm7 | Em7 | A7sus4 A7 | DM7 |
+ Dm7 | DM7 | Dm7 | Am7 Am7/G |
+ F | Aadd9 | Am7/G D/F# | C/E C/E C/D D7 |
+ G G/F# | C/E D7 | G G/F# | Fo7 |
+ CM7 | G/B Em7 | Am7 D7 | G G Am7 D7 |
+

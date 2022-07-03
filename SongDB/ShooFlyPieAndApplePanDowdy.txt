@@ -1,0 +1,14 @@
+Title = Shoo Fly Pie and Apple Pan Dowdy
+ComposedBy = Guy Wood and Sammy Galllop
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F6 F7/A | BbM7 C7 | F6 Abo7 | G7 C7 |
+ F6 F7/A | BbM7 F/A | F6 BbM7 | C7 F6 |
+ F6 F7/A | BbM7 C7 | F6 Abo7 | G7 C7 |
+ F6 F7/A | BbM7 F/A | F6 BbM7 | C7 F6 |
+ A7 | A7 | D7 | D7 |
+ G7 | G7 | C7 Co7 | Gm7 C7 |
+ F6 F7/A | BbM7 C7 | F6 Abo7 | G7 C7 |
+ F6 F7/A | BbM7 F/A | F6 BbM7 | C7 F6 |
+

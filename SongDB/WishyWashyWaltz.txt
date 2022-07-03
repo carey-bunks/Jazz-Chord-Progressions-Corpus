@@ -1,0 +1,14 @@
+Title = Wishy Washy Waltz
+ComposedBy = Unknown
+DBKeySig = C
+TimeSig = 3 4
+Bars = 32
+ G | G7 | C | Cm |
+ G | D7 | G | D7 |
+ G | G | C | Cm |
+ G | D7 | G | G7 |
+ C | C | G | G |
+ A7 | A7 | Am7 | D7+ |
+ G | G7 | C | Cm |
+ G | A7 A7 D7 | G | Am Am D7+ |
+

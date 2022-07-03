@@ -1,0 +1,10 @@
+Title = Greensleeves
+ComposedBy = Traditional
+DBKeySig = G
+TimeSig = 3 4
+Bars = 16
+ Em7 | DM7 DM7 D#o7 | Em7 Em7 F#7 | B7 |
+ Em7 | DM7 DM7 D#o7 | Em7 Em7 B7 | Em7 |
+ GM7 | DM7 DM7 D#o7 | Em7 Em7 F#7 | B7 |
+ GM7 | DM7 DM7 D#o7 | Em7 Em7 B7 | Em7 |
+

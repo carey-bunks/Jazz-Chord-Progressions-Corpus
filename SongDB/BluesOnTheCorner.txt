@@ -1,0 +1,9 @@
+Title = Blues On The Corner
+ComposedBy = McCoy Tyner
+DBKeySig = C
+TimeSig = 4 4
+Bars = 12
+ Bb7 | Eb7 Eo7 | Bb7 Bb7sus4 Ab7sus4 | F#7sus4 E7sus4 D7sus4 |
+ Eb7 | Bb7#5#9 | Bb7 Eb7sus4 | D7alt G7alt |
+ Cm7 | F7sus4 | Bb7 G7#5#9 | C7alt F7alt |
+

@@ -1,0 +1,15 @@
+Title = I'm Just Wild About Harry
+ComposedBy = Noble Sissle and Eubie Blake
+DBKeySig = C
+TimeSig = 4 4
+Bars = 36
+ C | C | Dm7 | G7 |
+ G7 | G7 | C | C |
+ C | C | Dm7 | Dm7 Fm6 |
+ C C C G+ | G+ | C | C G7 |
+ C | C | Dm7 | G7 |
+ G7 | G7 | Am | Am Dm |
+ D7 | D7 | Em Em B G7 | A Cm6 G7 G7 |
+ C C C F6 | F6 G7 | C C C Fm6 | Fm6 G7 |
+ C C C F6 | F6 G7 | C Co C G+ | C+ Am G+ G+ |
+

@@ -1,0 +1,14 @@
+Title = All This and Heaven Too
+ComposedBy = Jimmy Van Heusen
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Gm7 Gm7 Am C7 | FM7 | Gm7 Gm7 Am C7 | Cm6 D7 |
+ Gm C9 | A+ D7 | Gm7 C7b9 | F F C7sus4 C7 |
+ Gm7 Gm7 Am C7 | FM7 FM7 FM7 F6 | Gm7 Gm7 Am C7 | Cm6 D7 |
+ Gm C9 | A+ D7 | Gm7 C7b9 | F6 |
+ Cm | Cm F7 | Bb | A7 Bb |
+ Cm | Cm F7 | D7 Cm Co7 Ebm6 | G9 G9 Gm7 C9 |
+ Gm7 Gm7 Am C7 | FM7 FM7 FM7 F6 | Gm7 Gm7 Am C7 | Cm6 D7 |
+ Gm C9 | A+ D7 | Gm7 C7b9 | F6 Fo7 C7sus4 C7 |
+

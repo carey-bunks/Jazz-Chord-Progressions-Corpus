@@ -1,0 +1,14 @@
+Title = All About Ronnie
+ComposedBy = Joe Green
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 34
+ Eb9#11 | Eb9#11 | Bb69 F9sus4 | Bb69 G7#5b9 |
+ Cm9 | F9sus4 F7b9 | Bb69 F9sus4 | Bb69 EbM9 |
+ Dm7b5 | G7b9 | Cm7 G7#5 | Cm7 |
+ Em7b5 | A7b9 | Cm7 Gb9 | F9sus4 |
+ Eb9#11 | Eb9#11 | Bb69 F9sus4 | Bb69 G7#5b9 |
+ Cm9 | F9sus4 F7b9 | Am9 | D7#5 |
+ Cm9 | F9sus4 F7b9 | Am9 | D7#5 |
+ EbM7 | Ebm7 | Bb69 G7#5b9 | C7#5b9 C7b9 F7#5b9 F7#5b9 |
+ Bb69 | Bb69 |

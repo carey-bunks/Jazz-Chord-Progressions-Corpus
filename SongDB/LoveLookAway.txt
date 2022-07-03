@@ -1,0 +1,14 @@
+Title = Love, Look Away
+ComposedBy = Richard Rodgers
+DBKeySig = C
+TimeSig = 4 4
+Bars = 34
+ CM7 | CM7 | F6 | CM7 |
+ Bm7b5 E7b9 | Am7 | Dm7 | Dm7/G |
+ CM7 | F6 | CM7 | CM7 |
+ Bm7b5 E7b9 | Am7 | Dm7 | Gm7 C7 |
+ FM7 | Dm7 G7 | CM7 | Gm7 C7 |
+ FM7 | Dm7 G7 | Em7 A7 | Dm7 G7 |
+ CM7 | CM7 | F6 | CM7 |
+ Bm7b5 E7b9 | Am7 Dm7b5 | Em7 A7 | Dm7 G7 |
+ C6 | Dm7 G7 |

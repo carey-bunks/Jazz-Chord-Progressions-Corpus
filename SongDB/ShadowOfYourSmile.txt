@@ -1,0 +1,14 @@
+Title = The Shadow of Your Smile
+ComposedBy = Johnny Mandel
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ F#m7 | B7 | Em | Em |
+ Am7 | D7 | GM7 | CM7 |
+ F#m7b5 | B7 | Em | Em7/D |
+ C#m7b5 | F#7 | F#m7b5 | B7 |
+ F#m7 | B7 | Em | Em |
+ Am7 | D7 | Bm7b5 | E7 |
+ Am7 | Cm7 F7 | G Bm7b5 | E7 |
+ A7 | Am7 D7 | G | G |
+

@@ -1,0 +1,14 @@
+Title = Moonray
+ComposedBy = Horace Silver
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Cm Am7b5 | Dm7b5 G7 | Cm Eb7 | Dm7b5 G7 |
+ Cm7 Am7b5 | D7 G7 | Cm | Dm7 G7 |
+ Cm Am7b5 | Dm7b5 G7 | Cm Eb7 | Dm7b5 G7 |
+ Cm7 Am7b5 | D7 G7 | Cm | Cm |
+ Gm7b5 | C7b5 | Gm7b5 | C7b5 |
+ Am7b5 | D7b9 | Dm7b5 | G7 |
+ Cm Am7b5 | Dm7b5 G7 | Cm Eb7 | Dm7b5 G7 |
+ Cm7 Am7b5 | D7 G7 | Cm | Dm7 G7 |
+

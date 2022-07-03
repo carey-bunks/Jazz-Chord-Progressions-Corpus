@@ -1,0 +1,22 @@
+Title = Desert Air
+ComposedBy = Chick Corea
+DBKeySig = C
+TimeSig = 3 4
+Bars = 66
+ DbM7/F DbM7/F DbM7/F Cm7/F | Cm7/F | Cm7/F GbM7/F GbM7/F GbM7/F | Fm7 |
+ Fm7 CM7 | CM7 DbM7 DbM7 DbM7 | E7#9 | E7#9 Fm7 |
+ Fm7 | Fm7 Fm7 Fm7 GM7 | GM7 AbM7/G | AbM7/G |
+ GM7 GM7 GM7 AbM7/G | AbM7/G | AbM7/G EM7 EM7 EM7 | Am7/E |
+ Am7/E EM7 | EM7 Am7/E Am7/E Am7/E | Am7/E Am7/E Am7/E BM7 | BM7 CM7#11/B |
+ CM7#11/B | CM7#11/B CM7#11/B CM7#11/B Bbm7b5 | Bbm7b5 | Bbm7b5 Bbm7b5 Bbm7b5 Bbm7b5 |
+ C7b9 C7b9 C7b9 DbM7/F | DbM7/F Cm7/F | Cm7/F | GbM7/F GbM7/F GbM7/F Fm7 |
+ Fm7 | Fm7 CM7 CM7 CM7 | DbM7 DbM7 DbM7 E7#9 | E7#9 |
+ E7#9 Fm7 Fm7 Fm7 | Fm7 | Fm7 GM7 | GM7 AbM7/G AbM7/G AbM7/G |
+ AbM7/G AbM7/G AbM7/G GM7 | GM7 AbM7/G | AbM7/G | EM7 EM7 EM7 Am7/E |
+ Am7/E | Am7/E EM7 EM7 EM7 | Am7/E | Am7/E BM7 |
+ BM7 CM7#11/B CM7#11/B CM7#11/B | CM7#11/B CM7#11/B CM7#11/B CM7#11/B | CM7#11/B Bbm7b5 | Bbm7b5 Eb7b9 Eb7b9 Eb7b9 |
+ Abm7b5 Abm7b5 Abm7b5 Db7b9 | Db7b9 E#m7b5 | E#m7b5 Am7 Am7 Am7 | CmM7 CmM7 CmM7 Ebo7 |
+ Ebo7 Em7 | Em7 Gm7 Gm7 Gm7 | Bbm6 Bbm6 Bbm6 Dbm7b5 | Dbm7b5 Dm |
+ Dm Bm7b5 Bm7b5 Bm7b5 | BbM7#11 BbM7#11 BbM7#11 Bbm7 | Bbm7 Fm7 | Fm7 GbM7/F GbM7/F GbM7/F |
+ Fm7 Fm7 Fm7 GbM7/F | GbM7/F Fm7 | Fm7 GbM7/F GbM7/F GbM7/F | Fm7 Fm7 Fm7 GbM7/F |
+ GbM7/F Fsus4 | Fsus4 |

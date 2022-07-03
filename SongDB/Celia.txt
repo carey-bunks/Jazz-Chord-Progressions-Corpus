@@ -1,0 +1,14 @@
+Title = Celia
+ComposedBy = Bud Powell
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Bb69 | Cm7b5 | Dm7 | Ebm7 Ab7 |
+ Dm7 Dbm7 | Cm7 B7#11 | Bb69 G7#5#9 | Cm7 F7b9#11 |
+ Bb69 | Cm7b5 | Dm7 | Ebm7 Ab7 |
+ Dm7 Dbm7 | Cm7 B7#11 | Bb69 | Bb69 |
+ Am7 | D13 | Gm7 | Gm6 |
+ Gm7 | C13#11 | Cm7 | F13#11 |
+ Bb69 | Cm7b5 | Dm7 | Ebm7 Ab7 |
+ Dm7 Dbm7 | Cm7 B7#11 | Bb69 | Cm7b5 F13b9 |
+

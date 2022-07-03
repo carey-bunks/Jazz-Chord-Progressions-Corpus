@@ -1,0 +1,19 @@
+Title = Misirlou
+ComposedBy = N. Roubanis
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 52
+ D | D | D | D |
+ D | D | D | D |
+ Cm/D | Cm/D Cm/D Cm/D Ao7 | D | D |
+ Cm/D Cm/D Cm/D Ao7 | D7b9 D7b9 D7b9 D7 | D7 | D7 |
+ Gm | Gm | F6 | F6 |
+ Eb | Eb7 | D | D |
+ D | D | D | D |
+ D | D | Gm | Gm |
+ Gm | Gm | F6 | F6 |
+ Eb | Eb7 | D | D |
+ D | D | D | D |
+ D | D | Gm | Gm |
+ Gm | Eb7 | D | Gm |
+

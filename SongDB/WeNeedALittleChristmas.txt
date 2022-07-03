@@ -1,0 +1,24 @@
+Title = We Need A Little Christmas
+ComposedBy = Jerry Herman
+DBKeySig = G
+TimeSig = 4 4
+Bars = 72
+ G | G6 | GM7 | G6 |
+ G G6 | GM7 G6 | Dm6 Dm6 Dm6 Em7 | Em7 E7b9 |
+ Am7 | D7 | Am Am7 | D7 |
+ Am7 | Am7b5 | D7 | D7 |
+ Dm6 | Dm6 | E7 | Am6 E7 |
+ Am | D7 | G GM7 | G6 G7#5 |
+ Am | D7 | G GM7 | G6 G7 |
+ C | D7 | G GM7 | G6 |
+ A7 | A7 | D7 | D7 |
+ G | G6 | GM7 | G6 |
+ G G6 | GM7 G6 | Dm6 Dm6 Dm6 Em7 | Em7 E7b9 |
+ Am7 | D7 | Am Am7 | D7 |
+ Am7 | Am7b5 | D7 | D7 |
+ Dm6 | Dm6 | E7 | Am6 E7 |
+ Am | D7 | G GM7 | G6 G7#5 |
+ Am | D7 | G GM7 | G6 G7 |
+ C | D7 | G GM7 | G6 |
+ Am7 | D7 | G | D7 |
+

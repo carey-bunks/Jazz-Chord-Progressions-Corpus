@@ -1,0 +1,17 @@
+Title = Unit Seven
+ComposedBy = Sam Jones
+DBKeySig = F
+TimeSig = 4 4
+Bars = 44
+ C7 | C7 | C7 | C7 |
+ F7 | F7 | C7 | A7alt |
+ AbM7 | G7 | C7 A7alt | Dm7 G7 |
+ C7 | C7 | C7 | C7 |
+ F7 | F7 | C7 | A7alt |
+ AbM7 | G7 | C7 | A7alt |
+ Dm7 | G7 | Em7 | A7alt |
+ Dm7 | G7 | Em7 A7alt | Dm7 G7 |
+ C7 | C7 | C7 | C7 |
+ F7 | F7 | C7 | A7alt |
+ AbM7 | G7 | C7 A7alt | Dm7 G7 |
+

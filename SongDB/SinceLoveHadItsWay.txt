@@ -1,0 +1,14 @@
+Title = Since Love Had Its Way
+ComposedBy = Dave Brubeck
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb6 | Cm7 | Fm7 Gm7 | AbM7 Bb9 |
+ EbM9 | EbM9 | Cm | F9 |
+ BbM7 Gm7 | Cm7 F13 | BbM7 Gm | Eb7#11 D7 |
+ Gm Gm7 | C9 | Fm7 | Bb9 |
+ Eb6 G7 | Cm7 F7 | Fm7 Gm7 | AbM7 Bb9 |
+ EbM9 Fm | Gm AbM7 | Cm | F9 |
+ Cm7 EbM7 | EbM7 Gm7 | Cm7b5 Cm7 | F7#11 F#o7 |
+ Gm7 Cm7 | Fm7 Bb7b9 | Eb6 Cm7 | F9 Bb9 |
+

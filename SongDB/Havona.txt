@@ -1,0 +1,11 @@
+Title = Havona
+ComposedBy = Jaco Pastorius
+DBKeySig = C
+TimeSig = 4 4
+Bars = 22
+ EM7#11 | EM7#11 | CM7 | CM7 |
+ BM7#11 | BM7#11 | GM7 | GM7 |
+ Em7 | EM7#11 | CM7 | CM7 |
+ BM7#11 | BM7#11 | GM7 | GM7 |
+ Asus4 Bsus4 Bsus4 Bsus4 | Bsus4 | Asus4 Bsus4 Bsus4 Bsus4 | Bsus4 |
+ Asus4 Bsus4 Bsus4 Bsus4 | NC |

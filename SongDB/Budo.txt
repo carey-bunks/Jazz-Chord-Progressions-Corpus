@@ -1,0 +1,14 @@
+Title = Budo
+ComposedBy = Miles Davis, Bud Powell
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ AbM7 AbM7 AbM7 AbM7 AbM7 AbM7 AbM7 G7#5 | G7#5 G7#5 C7b9 C7b9 C7b9 F7 F7 F7 | Bbm7 Eb7 | AbM7 Ab7#5 |
+ Db7 Do7 | Cm7b5/Eb F7 | Bbm7 Eb7 | Cm7 B7#5 EM7 A7b5 |
+ AbM7 AbM7 AbM7 AbM7 AbM7 AbM7 AbM7 G7#5 | G7#5 G7#5 C7b9 C7b9 C7b9 F7 F7 F7 | Bbm7 Eb7 | AbM7 Ab7#5 |
+ Db7 Do7 | Cm7b5/Eb F7 | Bbm7 Eb7 | AbM7 G7#5 |
+ Cm7 | F#m7 B7 | BbM7 Cm7 | Dm7 G7b5 |
+ Dbm7 Gb7 | Cm7 F7 | Bm7 E7 | Bbm7 Eb7 |
+ AbM7 AbM7 AbM7 AbM7 AbM7 AbM7 AbM7 G7#5 | G7#5 G7#5 C7b9 C7b9 C7b9 F7 F7 F7 | Bbm7 Eb7 | AbM7 Ab7#5 |
+ Db7 Do7 | Cm7b5/Eb F7 | Bbm7 Eb7 | AbM7 |
+

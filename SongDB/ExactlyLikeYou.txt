@@ -1,0 +1,14 @@
+Title = Exactly Like You
+ComposedBy = Jimmy McHugh and Dorothy Fields
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C6 | C6 | D7 | D7 |
+ G7 | Dm7 G7 | C6 | Dm7 G7 |
+ C6 | C6 | D7 | D7 |
+ G7 | Dm7 G7 | C6 | Gm7 C7 |
+ FM7 | Fm7 | C6 | C7 |
+ FM7 | Fm7 | C6 A7 | D7 G7 |
+ C6 | C6 | D7 | D7 |
+ G7 | Dm7 G7 | C6 | Dm7 G7 |
+

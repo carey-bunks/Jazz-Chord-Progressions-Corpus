@@ -1,0 +1,14 @@
+Title = Juke Box Saturday Night
+ComposedBy = Paul McGrane
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F | F | F F Bb C7 | F7 |
+ Bb | Bb | F Abo7 Gm7 C7 | F F Db9 C9 |
+ F | F | F F Bb C7 | F7 |
+ Bb | Bb | F Abo7 Gm7 C7 | F Gb F F |
+ Cm7 F7 | Cm7 F7 | Bb F+ | Bb6 |
+ Dm7 G7 | Dm7 G7 | C7 Gm7 | Gm7 C7 |
+ F | F | F F Bb C7 | F7 |
+ Bb | Bb | F Abo7 Gm7 C7 | F |
+

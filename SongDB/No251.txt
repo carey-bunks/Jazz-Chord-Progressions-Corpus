@@ -1,0 +1,14 @@
+Title = No. 251
+ComposedBy = Jackie Byard
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Am7b5 D7b9 | Gm7 C7#9 | Fm7 E | Eb |
+ Am7b5 D7b9 | Gm7 C7#9 | Fm7 E | Eb |
+ Dm7b5 G7b9 | Cm7 F7#9 | Bbm7 B | Ab |
+ Am7b5 D7b9 | Gm7 C7#9 | Bbm7 B | Ab |
+ Dm7 G7#11 | Em7 A7#11 | Dm7 G7#11 | C |
+ Cm7 F7 | Dm7 G7 | Cm7 F7 | Bb7 |
+ Am7b5 D7b9 | Gm7 C7#9 | Fm7 E | Eb |
+ Am7b5 D7b9 | Gm7 C7#9 | Fm7 E | Eb |
+

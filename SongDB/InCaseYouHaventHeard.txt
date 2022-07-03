@@ -1,0 +1,22 @@
+Title = In Case You Haven't Heard
+ComposedBy = Woody Shaw
+DBKeySig = C
+TimeSig = 4 4
+Bars = 64
+ Bb Ab | Bb Ab | Ab GbM7 | GbM7 |
+ Ab Gb | Ab Gb | Ab Bb | CM7 |
+ CM7 DbM7#11 | DbM7#11 BM7#11 | BM7#11 F7alt E7alt Eb7alt | Eb7alt |
+ Gm7 Am7 | Abm7 Bbm7 | Am7 Bm7 | D7 |
+ Bb Ab | Bb Ab | Ab GbM7 | GbM7 |
+ Ab Gb | Ab Gb | Ab Bb | CM7 |
+ GbM7#11 | Ebm7 | GbM7#11 | Bm7 E7 |
+ GbM7#11 | EM7#11 | DM7#11 | Bm7 E7 |
+ BM7#11 | BM7#11 | BM7#11 | BM7#11 |
+ BM7#11 | BM7#11 | BM7#11 | BM7#11 |
+ DM7#11 | DM7#11 | DM7#11 | DM7#11 |
+ DM7#11 | DM7#11 | DM7#11 | DM7#11 |
+ FM7#11 | FM7#11 | FM7#11 | FM7#11 |
+ FM7#11 | FM7#11 | FM7#11 | FM7#11 |
+ AbM7#11 | AbM7#11 | AbM7#11 | AbM7#11 |
+ AbM7#11 | AbM7#11 | AbM7#11 | AbM7#11 |
+

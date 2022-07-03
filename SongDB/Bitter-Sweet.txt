@@ -1,0 +1,14 @@
+Title = Bitter-Sweet
+ComposedBy = Charlie Rouse
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Am7b5 | D7b9 | Gm7 Gm7/F | Em7b5 |
+ Am7b5/Eb | D7 | Eo7 | BM7 |
+ Am7b5 | D7b9 | Gm7 Gm7/F | Em7b5 |
+ Am7b5/Eb | D7b5 | Gm7 | Gm7 G7 |
+ Cm7 | F7 | BbM7 Ab7 | G7 |
+ Cm7 | F7 | BbM7 EbM7 | D7 |
+ Am7b5 | D7b9 | Gm7 Gm7/F | Em7b5 |
+ Am7b5/Eb | D7b9 | Gm7 | Gm7 |
+

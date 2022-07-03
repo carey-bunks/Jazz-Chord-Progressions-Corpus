@@ -1,0 +1,15 @@
+Title = With Every Breath I Take
+ComposedBy = Cy Coleman
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 39
+ Gm7 | Cm7 | F7 D7b9 | Gm7 |
+ G9sus G7b9 | Cm7 | Eb/Bb F7/A | Eb7 D7b9 |
+ Gm7 | C7 | Gm7 | C7 |
+ Cm7 Cm7/Bb | Am7b5 D7b9 | Gm7 Gm7 Gm7 Gm7/F | EbM7 |
+ A7+ | D7b9 | Gm7 | C7 |
+ EbM7 | Gm7/D | AbM7 | DbM7 |
+ D7 Ab/D | Gm7 | Cm7 | F7 D7b9 |
+ Gm7 | G9sus G7b9 | Cm7 | Eb/F F/Eb |
+ Bb/D Bb/D Fm7 E7 | EbM7 | Bb/D | B/D |
+ D7#11 Ab7 | Gm7 | C7 |

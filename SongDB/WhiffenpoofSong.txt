@@ -1,0 +1,14 @@
+Title = Whiffenpoof Song
+ComposedBy = Tod B. Galloway
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Eb | Eb Eo | Fm7 | Bb7 |
+ Fm7 | Bb7 | Eb | Fm7 Bb7 |
+ Eb | Eb Eo | Fm7 | Bb7 |
+ Fm7 | Bb7 | Eb | Eb G7 |
+ Cm | Cm | Ab | Ab |
+ Bb7 | Bb7 | Eb | Eb |
+ Gm7b5 | C7 | Fm | Fm |
+ Fm7 | Bb7 | Eb | Eb |
+

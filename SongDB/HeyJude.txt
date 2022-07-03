@@ -1,0 +1,15 @@
+Title = Hey Jude
+ComposedBy = John Lennon and Paul McCartney
+DBKeySig = F
+TimeSig = 4 4
+Bars = 36
+ F | C | C7 C7sus4 C7sus4 C7 | F |
+ Bb | F | C7 | F |
+ F | C | C7 C7sus4 C7sus4 C7 | F |
+ Bb | F | C7 | F |
+ F | C | C7 C7sus4 C7sus4 C7 | F |
+ Bb | F | C7 | F |
+ F7 | Bb | Gm7 | C7 |
+ F | F7 | Bb | Gm7 |
+ C7 | F | F7 C7 | C7 |
+

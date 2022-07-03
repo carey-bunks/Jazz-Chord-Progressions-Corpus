@@ -1,0 +1,14 @@
+Title = I Could Write A Book
+ComposedBy = Richard Rodgers
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 C7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+ EbM7 | EbM7 Eo7 | Fm7 | Dm7b5 G7alt |
+ Cm CmM7 | Cm7 Cm6 | Am7b5 D7alt | Gm |
+ C7 | Cm7 F7 | Fm7 | Bb7 |
+ EbM7 C7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+ EbM7 | EbM7 Eo7 | Fm7 | Dm7b5 G7alt |
+ Cm | Cm | Bbm7 Eb7 | AbM7 Db7 |
+ EbM7 C7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+

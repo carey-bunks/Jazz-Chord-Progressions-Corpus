@@ -1,0 +1,14 @@
+Title = Rockin' Around the Christmas Tree
+ComposedBy = Johnny Marks
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C | C | G7 | G7 |
+ G7 | G7 | G7 | C |
+ C | C | G7 | G7 |
+ G7 | G7 | G7 | C |
+ F | F | Em | Em |
+ Am E+ | Am7 | D7 | G7 |
+ C | C | G7 | G7 |
+ G7 | G7 | G7 | C |
+

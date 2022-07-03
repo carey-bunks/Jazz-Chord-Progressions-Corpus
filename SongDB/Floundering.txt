@@ -1,0 +1,13 @@
+Title = Floundering
+ComposedBy = Unknown
+DBKeySig = C
+TimeSig = 4 4
+Bars = 31
+ Bbm6 | Bm6 | Bbm6 | Bm6 |
+ Ebm6 | Em6 | Ebm6 | Fm6 |
+ Cm6 | F7+ | Bbmaj9 | Bbmaj9 |
+ Bbm7 | Eb7#5#9 | Abmaj9 | Abmaj9 |
+ Bmaj7 | Db7alt | Gbmaj7 | Bbm6 |
+ Cm7 | Cm7 | Cm7b5 | F7alt |
+ Bbm6 | Bm6 | Bbm6 | Bm6 |
+ Bbm6 | Bm6 | Bbmaj9 |

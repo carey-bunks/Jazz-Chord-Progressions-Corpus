@@ -1,0 +1,14 @@
+Title = Cry Me A River
+ComposedBy = Arthur Hamliton
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Cm Cm+ | Cm6 Cm7 | Fm7 Bb7 | EbM7 EbM7 Dm7b5 G7+ |
+ Gm7b5 C7alt | F7 | Fm7 Bb7 | EbM7 EbM7 Dm7b5 G7+ |
+ Cm Cm+ | Cm6 Cm7 | Fm7 Bb7 | Eb G7 |
+ Gm7b5 C7 | F7 | Fm7 Bb7 | EbM7 EbM7 Am7b5 D7b9 |
+ Gm | Am7b5 D7 | Gm | Am7b5 D7 |
+ Gm | Am7b5 D7 | GM7 | Dm7 Dm7 G7 G7+ |
+ Cm Cm+ | Cm6 Cm7 | Fm7 Bb7 | EbM7 EbM7 Dm7b5 G7+ |
+ Gm7b5 C7alt | F7 | Fm7 Bb7 | EbM7 EbM7 Dm7b5 G7+ |
+

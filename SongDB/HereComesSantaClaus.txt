@@ -1,0 +1,10 @@
+Title = Here Comes Santa Claus
+ComposedBy = Gene Autry and Oakley Haldeman
+DBKeySig = F
+TimeSig = 4 4
+Bars = 16
+ F | F | C7 C7 C7 Co7 | C7 |
+ C7 | C7 | F F F Fo7 | F F7 |
+ Bb6 E7 | F D7 | Gm Gm7 C7 C7 | F F7 |
+ Bb6 E7 | F D7 | Gm Gm7 C7 C7 | F |
+

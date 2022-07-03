@@ -1,0 +1,8 @@
+Title = Countdown
+ComposedBy = Dave Brubeck
+DBKeySig = Ab
+TimeSig = 5 4
+Bars = 11
+ Fm | Fm Fm Fm Fm Bb6 | Fm | Bb |
+ Bb Bb Bb Bb Eb | Fm | Fm | C7 |
+ Bb69 | Ab69 | Gb69 |

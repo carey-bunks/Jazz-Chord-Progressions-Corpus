@@ -1,0 +1,14 @@
+Title = Limehouse Blues
+ComposedBy = Philip Braham and Douglas Furber
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Db7 | Db7 | Db7 | Db7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Ab | Ab | C7 | Fm |
+ Bb7 | Bb7 | Eb7 | Eb7 |
+ Db7 | Db7 | Db7 | Db7 |
+ Bb7 | Bb7 | Bb7 | Bb7 |
+ Ab | F7 | Db | Dbm |
+ Bbm7 | Eb7 | Ab | Ab |
+

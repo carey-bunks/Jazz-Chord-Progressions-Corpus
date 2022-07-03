@@ -1,0 +1,10 @@
+Title = Amazing Grace
+ComposedBy = John Newton
+DBKeySig = G
+TimeSig = 3 4
+Bars = 16
+ G | G G D7 | Em Em Em C | G |
+ G | G G D7 | G | G |
+ G | G | C | G |
+ Em Em G | G G D7 | G GM7 C | G |
+

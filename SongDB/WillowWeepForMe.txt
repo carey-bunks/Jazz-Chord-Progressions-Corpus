@@ -1,0 +1,14 @@
+Title = Willow Weep For Me
+ComposedBy = Ann Ranell
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ G7 C7 | G7 C7 | G7 Am7 | Bm7 Bm7 Dm7 Db7#11 |
+ C7 | C7 D7+ | G7 C7 | G7 C7 |
+ G7 C7 | G7 C7 | G7 Am7 | Bm7 Bm7 Dm7 Db7#11 |
+ C7 | C7 D7+ | G7 C7 | G7 G7+ |
+ Cm7 Am7b5 | Gm7 G7+ | Cm7 F7 Bb7 Eb7 | Ab7 G7 |
+ Cm7 Am7b5 | Gm7 G7+ | Cm7 F7 Bb7 Eb7 | Ab7 D7+ |
+ G7 C7 | G7 C7 | G7 Am7 | Bm7 Bm7 Dm7 Db7#11 |
+ C7 | C7 D7+ | G7 C7 | G7 D7 |
+

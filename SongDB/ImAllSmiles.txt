@@ -1,0 +1,25 @@
+Title = I'm All Smiles
+ComposedBy = Michael Leonard
+DBKeySig = C
+TimeSig = 3 4
+Bars = 78
+ D7alt | Gm7 | Db7alt | CM7 |
+ Am7 | D7 | Bm7 | E7 |
+ C#m7 | F#7 | BM7 | G#m7 |
+ Em7 | A7 | DM7 | DM7 |
+ D7alt | Gm7 | Db7alt | CM7 |
+ Am7 | D7 | Bm7 | E7 |
+ C#m7 | F#7 | BM7 | G#m7 |
+ Em7 | A7 | DM7 | DM7 |
+ GbM7 | Ab7 | Fm7 | Bb7 |
+ Gm7b5 | C7b9 | FM7 | BbM7 |
+ Em7 | A7 | DM7 | GM7 |
+ F#m7 | B7#11 | Bb7 | A7 |
+ D7alt | Gm7 | Db7alt | CM7 |
+ Am7 | D7 | Bm7 | E7 |
+ C#m7 | F#7 | BM7 | G#m7 |
+ Em7 | A7 | DM7 | D7 |
+ GM7 | E7/G# | A7 | A7/G |
+ F#m7 | Bm7 | Em7 | Em7/A |
+ F#7 | Bm7 | Em7 | Em7/A A7 |
+ DM7 | DM7 |

@@ -1,0 +1,20 @@
+Title = Samba de Orfeu
+ComposedBy = Luiz Bonfa and Anotonio Maria
+DBKeySig = C
+TimeSig = 4 4
+Bars = 56
+ CM7 | CM7 | CM7 | CM7 |
+ CM7 F9#11 | Em7 A7 | Dm7 | G7 |
+ Dm7 | G7 | Dm7 | G7 |
+ Dm7 | G7 | Bb9#11 A7 | Dm7 G7 |
+ CM7 | CM7 | CM7 | CM7 |
+ CM7 F9#11 | Em7 A7 | Dm7 | G7 |
+ Dm7 | G7 | Dm7 | G7 |
+ Dm7 | G7 | C6 | C6 |
+ Gm7 | C7 | FM7 F6 | FM7 |
+ Fm7 | Bb7 | EbM7 | Dm7 G7 |
+ CM7 | CM7 | CM7 | CM7 |
+ CM7 F9#11 | Em7 A7 | Dm7 | G7 |
+ Dm7 | G7 | Dm7 | G7 |
+ Dm7 | G7 | Bb9#11 A7 | Dm7 G7 |
+

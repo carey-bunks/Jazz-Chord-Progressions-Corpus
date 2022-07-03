@@ -1,0 +1,9 @@
+Title = Quincy Boogie
+ComposedBy = Quincy Jones
+DBKeySig = C
+TimeSig = 4 4
+Bars = 12
+ C | C7 C7 C7 F | C | C7 |
+ F | F7 | C | Em7 A7 |
+ Dm7 Go7 | Dm7 Go7 | Dm7 G7 | C |
+

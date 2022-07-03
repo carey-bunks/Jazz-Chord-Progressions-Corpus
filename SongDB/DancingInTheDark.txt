@@ -1,0 +1,14 @@
+Title = Dancing In The Dark
+ComposedBy = Arthur Schwartz
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Eb | Eb | Gbo | Gbo |
+ Fm7 | Fm7 | Fm7b5 | Fm7b5 Bb7 |
+ Eb | Ebm | Gm7b5 | C7 |
+ Fm7b5 | E7 | E7 B7 | Bb7 |
+ Eb | Eb | Gbo | Gbo |
+ Fm7 | Fm7 | Fm7b5 | Fm7b5 Bb7 |
+ Eb | Ebm | Dbm | Do |
+ Eb | Abm | Eb | Eb |
+

@@ -1,0 +1,15 @@
+Title = The Egyptian
+ComposedBy = Curtis Fuller
+DBKeySig = A
+TimeSig = 4 4
+Bars = 40
+ Asus4 | Asus4 | Asus4 | Asus4 |
+ Asus4 | Asus4 | Asus4 | Asus4 |
+ Asus4 | Asus4 | Asus4 | Asus4 |
+ Asus4 | Asus4 | Asus4 | Asus4 |
+ E7b9 | E7b9 | E7b9 | E7b9 |
+ E7b9 | E7b9 | E7b9 | E7b9 |
+ E7b9 | E7b9 | E7b9 | E7b9 |
+ E7b9 | E7b9 | E7b9 | E7b9 |
+ Asus4 | Asus4 | Asus4 | Asus4 |
+ Asus4 | Asus4 | Asus4 | Asus4 |

@@ -1,0 +1,14 @@
+Title = Seven Steps to Heaven
+ComposedBy = Victor Feldman
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ FM7 BbM7 | Em7b5 A7 | Dm7 Ab7 | G7 |
+ Gm7 | C7 | Eb6 E6 | F6 |
+ FM7 BbM7 | Em7b5 A7 | Dm7 Ab7 | G7 |
+ Gm7 | C7 | Eb6 E6 | F6 |
+ CM7 | Dm7 G7 | CM7 | Fm7 Bb7 |
+ EbM7 | Abm7 Db7 | GbM7 | Gm7 C7 |
+ FM7 BbM7 | Em7b5 A7 | Dm7 Ab7 | G7 |
+ Gm7 | C7 | Eb6 E6 | F6 |
+

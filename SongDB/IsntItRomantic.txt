@@ -1,0 +1,14 @@
+Title = Isn't It Romantic?
+ComposedBy = Richard Rodgers
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Eo7 | Fm7 Bb7 |
+ EbM7 C7 | Fm7 Bb7 | EbM7 | Bbm7 Eb7 |
+ AbM7 | Bb7 G7 | Cm7 G7b9 | Bbm7 Eb7 |
+ AbM7 C7 | Fm7 Fm7 Dm7b5 G7b9 | Cm7 F7 | Bb7alt Bb7 |
+ EbM7 Cm7 | Fm7 Bb7 | EbM7 Eo7 | Fm7 Bb7 |
+ EbM7 C7 | Fm7 Bb7 | EbM7 | Bbm7 Eb7 |
+ AbM7 | Dm7b5 G7b9 | Cm7 Cm7/Bb | Am7b5 Abm6 |
+ Gm7 Gb7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+

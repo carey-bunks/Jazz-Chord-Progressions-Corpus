@@ -1,0 +1,14 @@
+Title = Angel Eyes
+ComposedBy = Matt Dennis
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Dm Dm Bb7 A7 | Dm Dm Bb7 A7 | Dm | Em7b5 A7 |
+ Dm Dm Bb7 A7 | Dm Bb7 | Dm A7+ | Dm A7 |
+ Dm Dm Bb7 A7 | Dm Dm Bb7 A7 | Dm | Em7b5 A7 |
+ Dm Dm Bb7 A7 | Dm Bb7 | Dm A7+ | Dm |
+ Cm7 F7 | Bb | Cm7 F7 | Bb |
+ Bm7 E7 | A | Ab7 | A7 |
+ Dm Dm Bb7 A7 | Dm Dm Bb7 A7 | Dm | Em7b5 A7 |
+ Dm Dm Bb7 A7 | Dm Bb7 | Dm A7+ | Dm |
+

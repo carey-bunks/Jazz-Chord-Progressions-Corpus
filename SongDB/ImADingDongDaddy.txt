@@ -1,0 +1,10 @@
+Title = I'm A Ding Dong Daddy
+ComposedBy = P. Baxter
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ Bb Eb | Bb G7 | C7 F7 | Bb Bb Bb F7 |
+ Bb Eb | Bb G7 | C7 | F7 |
+ Bb | Bb7 | Gm | C7 F7 |
+ Bb Eb | Bb G7 | C7 F7 | Bb |
+

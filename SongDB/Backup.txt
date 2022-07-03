@@ -1,0 +1,8 @@
+Title = Backup
+ComposedBy = Larry Young
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 11
+ F | F | F | F |
+ Bb | Bb | F | F F F Gb13 |
+ Gb13 Ab13 A13 B13 | C7sus4 F13 | F13 |

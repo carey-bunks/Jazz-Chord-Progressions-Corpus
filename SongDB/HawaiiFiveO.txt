@@ -1,0 +1,10 @@
+Title = Hawaii Five-O
+ComposedBy = Mort Stevens
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 17
+ Cm | Bb | Cm | Eb |
+ Cm | Bb | Cm | Eb |
+ G7 | Cm | Cm | F7 |
+ Ab Bb | Cm | Ab Bb | Cm |
+ Cm |

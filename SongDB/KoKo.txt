@@ -1,0 +1,14 @@
+Title = Ko Ko
+ComposedBy = Charlie Parker
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb | Bb | Fm7 | Bb7 |
+ Eb | Eb | Ab7 | Ab7 |
+ Bb | Bb | C7 | C7 |
+ Cm7 | G7 | Cm7 | F7 |
+ Bb | Bb | Fm7 | Bb7 |
+ Eb | Eb | Ab7 | Ab7 |
+ Bb | Bb | C7 | C7 |
+ Cm7 | F7 | Bb | Bb |
+

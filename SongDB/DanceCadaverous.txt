@@ -1,0 +1,22 @@
+Title = Dance Cadaverous
+ComposedBy = Wayne Shorter
+DBKeySig = C
+TimeSig = 3 4
+Bars = 64
+ CmM7 | CmM7 | DbmM7 | DbmM7 |
+ Dm7b5 | Dm7b5 | G7#5#9 | G7#5#9 |
+ CmM7 | CmM7 | DbmM7 | DbmM7 |
+ Gm7 | Gm7 | Gm7 | Gm7 |
+ AbM7 | AbM7 | Db7#9 | Db7#9 |
+ Db7#9 | Db7#9 | CM7 | CM7 |
+ Gbm7b5 | Gbm7b5 | B7#5#9 | B7#5#9 |
+ Bm/E | Bm/E | Dm7b5 | G7b9 |
+ CmM7 | CmM7 | DbmM7 | DbmM7 |
+ Dm7b5 | Dm7b5 | G7#5#9 | G7#5#9 |
+ CmM7 | CmM7 | Bbm7 | Eb7b9 |
+ AbM7b5 | AbM7b5 | AbM7b5 | AbM7b5 |
+ Dm7b5 | Dm7b5 | Db7#9 | Db7#9 |
+ Db7#9 | Db7#9 | CM7 | CM7 |
+ Ebm7 | Ebm7 | Dm7b5 | Dm7b5 |
+ DbM7 | DbM7 | DbM7 | DbM7 |
+

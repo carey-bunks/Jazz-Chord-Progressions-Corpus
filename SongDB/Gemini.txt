@@ -1,0 +1,12 @@
+Title = Gemini
+ComposedBy = Jimmy Heath
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 24
+ Eb | Db/Eb | Eb | Db/Eb |
+ Eb | Db/Eb | Eb | Db/Eb |
+ Ebm7 | Ab7/Gb | Ebm7 | Ab7/Gb |
+ Eb | Db/Eb | Eb Eb G7#9 | C7#9 |
+ F7b9 | F7b9 | B7#5 | B7#5 C7#9 Bb7#9 |
+ Eb | Db/Eb | Eb | Db/Eb |
+

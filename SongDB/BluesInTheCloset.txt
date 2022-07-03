@@ -1,0 +1,9 @@
+Title = Blues in the Closet
+ComposedBy = Oscar Pettiford
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 12
+ Ab | Ab | Ab | Ab7 |
+ Db7 | Db7 | Ab | Ab |
+ Bbm7 | Eb7 | Ab | Ab |
+

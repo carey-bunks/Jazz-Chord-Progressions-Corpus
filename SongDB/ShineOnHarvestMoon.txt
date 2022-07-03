@@ -1,0 +1,10 @@
+Title = Shine on Harvest Moon
+ComposedBy = Nora Bayes
+DBKeySig = F
+TimeSig = 4 4
+Bars = 16
+ D7 | D7 | G7 | G7 |
+ Gm7 | C7 | F Gm7 | G#o7 F/A |
+ D7 | D7 | G7 | G7 |
+ Gm7 | C7 | F | F |
+

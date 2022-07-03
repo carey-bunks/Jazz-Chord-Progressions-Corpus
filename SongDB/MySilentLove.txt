@@ -1,0 +1,14 @@
+Title = My Silent Love
+ComposedBy = Dana Suesse and Edward Heyman
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | Bb7+ | Eb | Gm7b5 C7 |
+ Fm7 | Fm7b5 Bb7 | Eb | Fm7 Bb7 |
+ Eb | Bb7+ | Eb | Gm7b5 C7 |
+ Fm7 | Fm7b5 Bb7 | Eb | Eb7 |
+ Ab | Abm | Eb | Eb Eb7 |
+ Ab | Abm | F7 | Bb7 |
+ Eb | Bb7+ | Eb | Gm7b5 C7 |
+ Fm7 | Fm7b5 Bb7 | Eb | Eb |
+

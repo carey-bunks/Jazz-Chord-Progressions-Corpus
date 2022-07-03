@@ -1,0 +1,14 @@
+Title = If I Give My Heart To You
+ComposedBy = Jimmie Crane, Al Jacobs, and Jimmy Brewster
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C CM7 | C6 | Dm7 | G7 |
+ Dm7 G7 | Dm7 G7 | C C#o7 | Dm7 G7 |
+ C CM7 | C6 | Dm7 | G7 |
+ Dm7 G7 | Dm7 G7 | C F6 | C |
+ F | F#o7 | C/G | A9 |
+ Dm7 | D9 | Dm7 Fm6 | G7 |
+ C CM7 | C6 | Dm7 | G7 |
+ Dm7 G7 | Dm7 G7 | C Fm7 | C69 |
+

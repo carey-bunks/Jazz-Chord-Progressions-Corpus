@@ -1,0 +1,32 @@
+Title = The Best Is Yet To Come
+ComposedBy = Cy Coleman
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 104
+ AbM7 AbM7 AbM7 AbM7 Ab7 Ab7 Ab7 Ab6 | Ab6 Ab6 Ab+ Ab | AbM7 AbM7 AbM7 AbM7 Ab7 Ab7 Ab7 Ab6 | Ab6 Ab6 Ab+ Ab |
+ AbM7 AbM7 AbM7 AbM7 Ab7 Ab7 Ab7 Ab6 | Ab6 Ab6 Ab+ Ab | F9 F9 F9 F9 F7b9 F7b9 F7b9 F7 | F7 F7 FM7 F7 |
+ Bbm7 | Eb7 | AbM7 | Dm7 G7 |
+ CM7 CM7 CM7 CM7 C7 C7 C7 C6 | C6 C6 C+ C | CM7 CM7 CM7 CM7 C7 C7 C7 C6 | C6 C6 C+ C |
+ CM7 CM7 CM7 CM7 C7 C7 C7 C6 | C6 C6 C+ C | A9 A9 A9 A9 A7b9 A7b9 A7b9 A7 | A7 A7 AM7 A7 |
+ Dm7 | G7 | C6 Dm7 | D#o7 C6/G |
+ Dm7 | G7 | C6 | Eb9sus4 Eb9 |
+ AbM7 AbM7 AbM7 AbM7 Ab7 Ab7 Ab7 Ab6 | Ab6 Ab6 Ab+ Ab | F9 F9 F9 F9 F7b9 F7b9 F7b9 F7 | F7 F7 FM7 F7 |
+ Bb9 Bb7b9 | Eb9 | AbM7 AbM7 AbM7 AbM7 Ab7 Ab7 Ab7 Ab6 | Ab6 Ab6 Ab+ Ab |
+ AbM7 AbM7 AbM7 AbM7 Ab7 Ab7 Ab7 Ab6 | Ab6 Ab6 Ab+ Ab | AbM7 AbM7 AbM7 AbM7 Ab7 Ab7 Ab7 Ab6 | Ab6 Ab6 Ab+ Ab |
+ AbM7 AbM7 AbM7 AbM7 Ab7 Ab7 Ab7 Ab6 | Ab6 Ab6 Ab+ Ab | F9 F9 F9 F9 F7b9 F7b9 F7b9 F7 | F7 F7 FM7 F7 |
+ Bbm7 | Eb7 | AbM7 | Dm7 G7 |
+ CM7 CM7 CM7 CM7 C7 C7 C7 C6 | C6 C6 C+ C | CM7 CM7 CM7 CM7 C7 C7 C7 C6 | C6 C6 C+ C |
+ CM7 CM7 CM7 CM7 C7 C7 C7 C6 | C6 C6 C+ C | A9 A9 A9 A9 A7b9 A7b9 A7b9 A7 | A7 A7 AM7 A7 |
+ Dm7 | G7 | C6 Dm7 | D#o7 C6/G |
+ Dm7 | G7 | C6 | Eb9sus4 Eb9 |
+ AbM7 AbM7 AbM7 AbM7 Ab7 Ab7 Ab7 Ab6 | Ab6 Ab6 Ab+ Ab | F9 F9 F9 F9 F7b9 F7b9 F7b9 F7 | F7 F7 FM7 F7 |
+ Bb9 Bb7b9 | Eb9 | Ab6 | G7#5b9 C7#5b9 |
+ Fm Db7/F | Fm7 Db7/F | Fm7 Db7/F | Fm6 Fm6 E9 Eb9sus4 |
+ Ab9 D9#11 | Db9 Eb7b9 | Ab13 | G7#5b9 C7b9 |
+ Fm6 | Db9 | Fm6 | Db9 |
+ Fm6 | Db9 | Bb9sus4 | Bb7 |
+ Ebm7 Fm7 | Gb69 Ab9 | Db6 Ebm7 | Do7 Db6/F |
+ Ebm7 Fm7 | Gb69 Ab9 | Db6 E13 | AbM7 AbM7 AbM7 AbM7 Ab7 Ab7 Ab7 Ab6 |
+ Ab6 Ab6 Ab+ Ab6 | F#9 | F#9 | B9 |
+ E9 | AM7 | AM7 | AM7 |
+

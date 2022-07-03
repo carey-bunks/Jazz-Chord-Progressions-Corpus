@@ -1,0 +1,14 @@
+Title = Don't Fence Me In
+ComposedBy = Cole Porter
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ FM7 | FM7 | FM7 D7b9 | Gm7 C7 |
+ Gm7 C7 | Gm7 C7 | Gm7 C7 | FM7 |
+ FM7 | Cm7 F7 | BbM7 | BbM7 Bbm7 |
+ FM7 Gm7 | Am7b5 D7b9 | G7 C7 | F F7 F7 F7 |
+ BbM7 | BbM7 | FM7 | Cm7 F7#5 |
+ BbM7 | BbM7 | Am7 D7 | Gm7 C7 |
+ FM7 | Cm7 F7 | Bb | BbM7 Bbm7 |
+ FM7 Gm7 | Am7b5 D7b9 | G7 C7 | F C7sus4 |
+

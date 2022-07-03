@@ -1,0 +1,11 @@
+Title = The Happy Organ
+ComposedBy = Ken Wood, David Clowney, and James J. Kriegsmann
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 20
+ Db | Db | Db | Db |
+ Db | Db | Db | Ab7 Db |
+ Db | Db | Db | Ab7 Db |
+ Gb | Ab7 | Db | Db |
+ Ab7 | Gb | Db | Db |
+

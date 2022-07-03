@@ -1,0 +1,10 @@
+Title = I Heard the Bells On Christmas Day
+ComposedBy = John Marks
+DBKeySig = F
+TimeSig = 4 4
+Bars = 16
+ F F+ | Bb C7 | Dm | E7 Am |
+ Gm7 C7 | Am7b5 D7 | Gm D7 Gm D7 | G7 C7 |
+ F F+ | Bb C7 | Dm | E7 Am |
+ Gm7 C7 | Am7b5 D7 | Gm D7 Gm D7 | Gm7 C7 F F |
+

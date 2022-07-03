@@ -1,0 +1,14 @@
+Title = Time After Time
+ComposedBy = Jule Styne
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C Am7 | Dm7 G7 | C Am7 | Dm7 G7 |
+ C | C | Bm7b5 | E7alt |
+ Am Am7/G | F#m7b5 B7b9 | Em7 | A7b9 |
+ Dm | Em7b5 A7b9 | Ab9#11 | G7 |
+ C Am7 | Dm7 G7 | C Am7 | Dm7 G7 |
+ C | Gm7 C7 | F | Fm Bb7 |
+ Gbm7b5 | Fm6 | Em7 | Ebo7 |
+ Em7 A7alt | Dm7/G G7 | C | Dm7 G7 |
+

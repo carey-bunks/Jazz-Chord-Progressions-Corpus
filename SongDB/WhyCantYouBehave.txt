@@ -1,0 +1,17 @@
+Title = Why Can't You Behave
+ComposedBy = Cole Porter
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 44
+ Eb | F7 Bb7 | Eb | Eb Eb Eb Bb7 |
+ Eb | G7b5 C7 C7 F7 | Bb | Bb |
+ Bbm7 Eb7b9 | Ab | G7 G7 C7+ C7 | F7 F7 Fm7 Bb7 |
+ Eb | F7 Bb7 | Eb | Eb Eb Eb Bb7 |
+ Eb | G7b5 C7 C7 F7 | Bb | Bb |
+ Bbm7 Eb7b9 | Ab | G7 G7 C7+ C7 | F7 F7 Fm7 Bb7 |
+ Eb | F7 Bb7 | Eb | Eb Eb Eb Bb7 |
+ Eb Eb Bb7+ Eb | F7 Bb7 | Eb | Eb |
+ Eb Eb Bb7+ Eb | G7b5 G7b5 C7 F7 | Bb | Bb |
+ Bbm7 Eb7b9 | Ab | G7 G7 C7+ C7 | F7 F7 Fm7 Bb7 |
+ Eb | F7 Bb7 | Eb | Eb Bb7 |
+

@@ -1,0 +1,14 @@
+Title = I'll Be Around
+ComposedBy = Alec Wilder
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ CM7 Dm7 | Em7 FM7 | G7 G#o7 | F/A G7/B |
+ CM7 Am7 | Dm7 G7 | CM7 EbM7 | AbM7 DbM7 |
+ CM7 Dm7 | Em7 FM7 | G7 G#o7 | F/A G7/B |
+ CM7 Am7 | Dm7 G7 | CM7 Dm7 | Ebo7 C/E |
+ Db7/Ab Gm7 | GbM7 | Db7/Ab Gm7/C Gm7/C | FM7 |
+ Ab7/Eb Dm7 | DbM7 | Em7 Ebo7 | Dm7 G7 |
+ CM7 Dm7 | Em7 FM7 | G7 G#o7 | F/A G7/B |
+ CM7 Am7 | Dm7 G7 | CM7 EbM7 | AbM7 DbM7 |
+

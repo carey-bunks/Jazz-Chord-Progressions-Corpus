@@ -1,0 +1,13 @@
+Title = Yesterday
+ComposedBy = John Lennon and Paul McCartney
+DBKeySig = F
+TimeSig = 4 4
+Bars = 29
+ FM7 | Em7 A7 | Dm7 Dm7 Dm7 Dm7/C | Bb C7 |
+ FM7 FM7 FM7 C | Dm7 G7 | Bb FM7 FM7 FM7 | FM7 |
+ Em7 A7 | Dm7 Dm7 Dm7 Dm7/C | Bb C7 | FM7 FM7 FM7 C |
+ Dm7 G7 | Bb FM7 FM7 FM7 | Em7 A7 | Dm7 Dm7/C Bb F/A |
+ Gm7 C7 | FM7 | Em7 A7 | Dm7 Dm7/C Bb F/A |
+ Gm7 C7 | FM7 | FM7 | Em7 A7 |
+ Dm7 Dm7 Dm7 Dm7/C | Bb C7 | FM7 FM7 FM7 C | Dm7 G7 |
+ Bb FM7 FM7 FM7 |

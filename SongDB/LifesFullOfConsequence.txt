@@ -1,0 +1,15 @@
+Title = Life's Full of Consequence
+ComposedBy = Harold Arlen
+DBKeySig = C
+TimeSig = 4 4
+Bars = 37
+ C Dm7 | C Gm7 | C Dm7 | Gm7 Gm7 Gm7 G7 |
+ C Dm7 | C Gm7 | C Dm7 | Dm7 E7 |
+ Am | F | Dm | Dm F+ Dm7 G+ |
+ C | C C Gm7 Do7 | Am Am C+ Am7 | Dm7 Dm7 Dm7 E7 |
+ Am6 Am6 Fm6 G7 | C | Gm7 G7 | C Dm7 |
+ C Gm7 | C Dm7 | Gm7 Gm7 Gm7 G7 | C Dm7 |
+ C Gm7 | C Dm7 | Dm7 E7 | Am |
+ F | Dm | Dm F+ Dm7 G+ | C Dm7 |
+ C C Gm7 Do7 | Am Am C+ Am7 | Dm7 Dm7 Dm7 E7 | Am6 Am6 Fm6 G7 |
+ C |

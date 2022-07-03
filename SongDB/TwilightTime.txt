@@ -1,0 +1,14 @@
+Title = Twilight Time
+ComposedBy = Morty Nevins, Al Nevins, and Artie Dunn
+DBKeySig = C
+TimeSig = 4 4
+Bars = 33
+ CM7 | E7 | Am7 | C7 |
+ F6 Fm6 | CM7 A7 | D7 | G7 |
+ CM7 | E7 | Am7 | C7 |
+ F6 Fm6 | CM7 A7 | D7 G7 | CM7 |
+ E7 | E7 | Am7 | Am7 |
+ D7 | D7 | G7 | G7 Ao7 G7/B G7 |
+ CM7 | E7 | Am7 | C7 |
+ F6 Fm6 | CM7 A7 | D7 | G7 |
+ CM7 G7+ |

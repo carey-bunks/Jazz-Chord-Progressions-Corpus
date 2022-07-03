@@ -1,0 +1,14 @@
+Title = Wait Till the Sun Shines, Nellie
+ComposedBy = Harry Von Tilzer
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb | Bb Bb Bb D7 | Eb | Bb |
+ F7 | F7/A | Bb Bbo7 | Bb Bb F7/C Bb7/D |
+ Eb6 | Ebo7 | Bb/F | F#o7 G7 |
+ C7 | C7 | F7 | F7 |
+ Bb | Bb Bb Bb D7 | Eb | Bb |
+ F7 | F7 A7b5/Eb | D | D |
+ G+ | G7 | C7 | Co7 C7 |
+ Bb/F | F7 | Bb F7/Eb | Dm F7/C |
+

@@ -1,0 +1,22 @@
+Title = Exotica
+ComposedBy = John Coltrane
+DBKeySig = C
+TimeSig = 4 4
+Bars = 64
+ E/G | E/G | G7 | G7 |
+ E7 Eb7 | AbM7 B7 | E G7 | Abm7 Db7 |
+ E/G | E/G | G7 | G7 |
+ E7 Eb7 | AbM7 B7/F# | E Dm11 | Dm7 G7 |
+ E/G | E/G | G7 | G7 |
+ E7 Eb7 | AbM7 B7 | E G7 | Abm7 Db7 |
+ E/G | E/G | G7 | G7 |
+ E7 Eb7 | AbM7 B7/F# | E Dm11 | Dm7 G7 |
+ Em7 | A7 | Em7 | A7 |
+ D C7 | F7 B7 | Bb7 A7 | DM7 |
+ Dm7 | G7 | Dm7 | G7 |
+ C Bb7 | Eb7 Gb7 | B7 D7 | Dm7 G7 |
+ E/G | E/G | G7 | G7 |
+ E7 Eb7 | AbM7 B7 | E G7 | Abm7 Db7 |
+ E/G | E/G | G7 | G7 |
+ E7 Eb7 | AbM7 B7/F# | E Dm11 | Dm7 G7 |
+

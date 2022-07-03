@@ -1,0 +1,20 @@
+Title = Do You Hear What I Hear?
+ComposedBy = Noel Regney and Gloria Shayne
+DBKeySig = C
+TimeSig = 4 4
+Bars = 56
+ C C F/A G/B | C | C C2 C C | C C2 C C |
+ C C F/A G/B | C | C C2 C C | C C2 C C |
+ Am | Em | F G | Cadd9 G/B Am Am/G |
+ F G7 | Csus4 C | C C F Gsus4 | C |
+ C C2 C C | C C2 C C | Am | Em |
+ F G | C G/B Am G | F | G7 |
+ Em Fadd9 | F G7 | Csus4 C | Am |
+ Em | F G | Aadd9 | FM7 FM7 G7sus4 G7 |
+ C Csus4 C C | C C F Gsus4 | C C C Csus4/G | C |
+ C C2 C C | C C2 C C | Amadd9 | Em7 |
+ F G | C G/B Am Em/G | F F G7sus4 G7 | Em Fadd9 |
+ F G7 | Fadd9 C/E | Dm7 G7sus4 | C C2 C C2 |
+ Am7 | F G7 | Dm7add11 Dm7 C/E C/E | F F G7sus4 G7 |
+ C F69 | C Fadd9 | Cadd9 | Cadd9 |
+

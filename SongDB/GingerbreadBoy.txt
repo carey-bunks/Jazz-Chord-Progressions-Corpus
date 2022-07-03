@@ -1,0 +1,10 @@
+Title = Gingerbread Boy
+ComposedBy = Jimmy Heath
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 16
+ Bb7 | Bb7 Bb7 Bb7 Bb7#9 | Bb7#9 | Bb7#9 |
+ Eb7 E7 | Eb7 Eb7 Eb7 Bb7#9 | Bb7#9 | Bb7#9 |
+ Bb7 | G7 | C7 | F7 |
+ Bb7#9 | Bb7#9 | Bb7#9 | Bb7#9 |
+

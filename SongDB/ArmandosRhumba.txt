@@ -1,0 +1,21 @@
+Title = Armando's Rhumba
+ComposedBy = Chick Corea
+DBKeySig = C
+TimeSig = 4 4
+Bars = 60
+ Cm6 | D7 | G7 | Cm6 |
+ Cm6 | D7 | G7 | Cm6 |
+ C7b9 | Fm7 | D7b9/F# | Gm7 |
+ Abo7 | D7/A | Eb/Bb | Eb/Bb |
+ Abm/Bb | Abm7/Bb Abm7/Bb G7 Cm7 | NC E7 F7 F#7 | G7 G7 G7 G7+ G7+ G7+ G7+ G7+ |
+ Cm6 | D7 | G7 | Cm6 |
+ Cm6 | D7 | G7 | Cm6 |
+ C7b9 | Fm7 | D7b9/F# | Gm7 |
+ Abo7 | D7/A | Eb/Bb | Eb/Bb |
+ Abm/Bb | Abm7/Bb Abm7/Bb G7 Cm7 | NC E7 F7 F#7 | G7 G7 G7 G7+ G7+ G7+ G7+ G7+ |
+ Cm7 | D7 | G7b9 | Cm7 |
+ Cm7 | D7 | G7b9 | Cm7 |
+ C7b9 | Fm7 | D7b9/F# | Gm7 |
+ Abo7 | D7/A | Eb/Bb | Eb/Bb |
+ Abm/Bb | Abm7/Bb Abm7/Bb G7 Cm7 | NC E7 F7 F#7 | G7 G7 G7 G7+ G7+ G7+ Cm Cm |
+

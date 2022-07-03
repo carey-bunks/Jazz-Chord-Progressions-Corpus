@@ -1,0 +1,11 @@
+Title = Mona Lisa
+ComposedBy = Jay Livingston and Ray Evans
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 20
+ Eb6 | Eb6 | EbM7 C7b9 | Fm7 Bb7 |
+ Fm7 | Bb7 | Fm7 Bb7 | EbM7 Bb7 |
+ Eb6 | Eb6 | EbM7 Eb7 | AbM7 |
+ Abm7 Db7 | EbM7 C7b9 | Fm7 Bb7 | EbM7 Eb7 |
+ AbM7 Ao7 | Gm7 C7b9 | Fm7 Bb7 | Eb6 Eb6 Fm7 Bb7 |
+

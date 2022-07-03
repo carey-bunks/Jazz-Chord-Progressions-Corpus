@@ -1,0 +1,14 @@
+Title = The Gypsy
+ComposedBy = B. Reid
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Bbmaj7 | Dm7 Dm7 G7#5 G7b9 | C7 | C7 |
+ Cm7 F7 | Cm7b5 F7b9 | Bb Bdim | Cm7 F7 |
+ Bbmaj7 | Dm7 Dm7 G7#5 G7b9 | C7 | C7 |
+ Cm7 F7 | Cm7b5 F7 | Bb6 Bb6 Ab6 A6 | Bb6 G7b9 |
+ Cm7 F7 | Bb6 G7 | Cm7 Cm7 F7 F7#5 | Bb |
+ Dm | Dm | Cm | F7 F7#5 |
+ Bbmaj7 | Dm7 Dm7 G7#5 G7b9 | C7 | C7 |
+ Cm7 F7 | Cm7 Cm7 C9 B9 | Bb6 Gm7 | Cm7 F9 |
+

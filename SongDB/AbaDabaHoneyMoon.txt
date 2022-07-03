@@ -1,0 +1,14 @@
+Title = The Aba Daba Honeymoon
+ComposedBy = Arthur Fields, Walter Donovan
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C | C | C | C |
+ C | C | G7 | G7 |
+ G7 | G7 | C | C |
+ D7 | D7 | G7 Dm7 | G7 |
+ C | C | C | C |
+ E7 E7 E7 Bm7 | E7 E7 D E7 | Am E7 Am E7 | Am |
+ F | F | C | C C C Ab7 |
+ Dm7 | G7 | C | G7alt |
+

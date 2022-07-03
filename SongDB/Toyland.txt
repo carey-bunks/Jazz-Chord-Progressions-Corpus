@@ -1,0 +1,14 @@
+Title = Toyland
+ComposedBy = Victor Herbert
+DBKeySig = F
+TimeSig = 3 4
+Bars = 32
+ F | F6 | FM7 | F6 |
+ Gm7 | C7 | Bo7 | F/C |
+ Bb/D | Bbm/Db | Am/C | D7 |
+ G7 | G7/B | C9sus4 | C7 |
+ F | F6 | FM7 | F6 |
+ Gm7 | C7 | Bo7 | F/C |
+ Bb/D | Bbm/Db | Am/C | D7 |
+ Gm7 | C7 | F | C7 |
+

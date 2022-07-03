@@ -1,0 +1,13 @@
+Title = Cutie
+ComposedBy = Sonny Rollins
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 29
+ Cm7 F7 | Co7/Bb Bb6 | Cm7 F7 | Co7/Bb Bb6 |
+ Cm7 F7 | Dm7 G7 | Cm7 F7 | Gm7 Gm6 |
+ Cm7 F7 | Co7/Bb Bb6 | Cm7 F7 | Co7/Bb Bb6 |
+ Cm7 F7 | Dm7 G7 | Cm7 F7 | Gm7 Gm6 |
+ Cm7 F7 | Bb6 | Em7 A7 | Cm7 F7 |
+ Cm7 F7 | Co7/Bb Bb6 | Cm7 F7 | Co7/Bb Bb6 |
+ Cm7 F7 | Dm7 G7 | Cm7 C7 | Cm7 F7 |
+ Bb6 |

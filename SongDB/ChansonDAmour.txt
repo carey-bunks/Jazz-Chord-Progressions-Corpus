@@ -1,0 +1,14 @@
+Title = Chanson D'Amour
+ComposedBy = Wayne Shanklin
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ FM7 | G9 | Gm7 | Gm7 |
+ C7 | C+ | FM7 | A7 |
+ D7 | Cm6 Cm6 Cm6 D7 | Gm7 | Gm7 |
+ C7 | C+ | FM7 | Gm7 C7 |
+ FM7 | G9 | Gm7 | Gm7 |
+ C7 | C+ | FM7 | A7 |
+ D7 | Cm6 Cm6 Cm6 D7 | Gm7 | Gm7 |
+ C7 C7 C7 Gm7 | C7+ C7+ C7+ Gb7 | F6 | Gm7 Gb7 F6 F6 |
+

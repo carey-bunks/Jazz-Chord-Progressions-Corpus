@@ -1,0 +1,14 @@
+Title = Steeplechase
+ComposedBy = Charlie Parker
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb | Cm7 F7 | Bb G7 | Cm7 F7 |
+ Bb | Cm7 F7 | Bb G7 | Cm7 F7 Bb Bb |
+ Bb | Cm7 F7 | Bb G7 | Cm7 F7 |
+ Bb | Cm7 F7 | Bb G7 | Cm7 F7 Bb Bb |
+ D7 | D7 | G7 | G7 |
+ C7 | C7 | F7 | F7 |
+ Bb | Cm7 F7 | Bb G7 | Cm7 F7 |
+ Bb | Cm7 F7 | Bb G7 | Cm7 F7 Bb Bb |
+

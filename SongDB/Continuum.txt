@@ -1,0 +1,11 @@
+Title = Continuum
+ComposedBy = Jaco Pastorius
+DBKeySig = E
+TimeSig = 4 4
+Bars = 20
+ EM7 | EM7 | EM7 | EM7 |
+ AM7 | AM7 | EM7 | EM7 |
+ EM7 | EM7 | EM7 | Bbm7 |
+ Am7 | Eo7 EM7 | EM7 | Eb7sus4 |
+ D7sus4 | EM7 | Bm7/E Am7/E | EM7 |
+

@@ -1,0 +1,14 @@
+Title = Hi Beck
+ComposedBy = Lee Konitz
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ CM7 | CM7 C#o7 | DM7 | Db7 |
+ CM7 | CM7 | DM7 | DbM7 |
+ C7 | C7 | F6 | F6 |
+ D7 | D7 | G7 | G7 |
+ CM7 | CM7 C#o7 | DM7 | Db7 |
+ Gm7b5 | C7 | FM7 | FM7 |
+ FM7 | Bb7 | EbM7 | DbM7 |
+ Dm7 | G7 | CM7 | Dm7 G7 |
+

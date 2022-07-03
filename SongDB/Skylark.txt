@@ -1,0 +1,14 @@
+Title = Skylark
+ComposedBy = Hoagy Carmichael
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb6 Eb6 Fm7 Gbo7 | Gm7 Ab7 | Eb A7 | AbM7 AbM7 Gm7 Cm7 |
+ F7sus4 F7 | Bb7sus4 Bb7 | Eb6 Eb6 Am7b5 D7alt | Gm7 C13 BM7 Bb13 |
+ Eb6 Eb6 Fm7 Gbo7 | Gm7 Ab7 | Eb A7 | AbM7 AbM7 Gm7 Cm7 |
+ F7sus4 F7 | Bb7sus4 Bb7 | Eb6 Bb7+ | EbM7 Eb7b9 |
+ AbM7 F7b9 | Bbm7 Eb7 | AbM7 | Gm7b5 C7b9 |
+ Fm7 Db7 | Bbm7 Eb7 AbM7 AbM7 | GM7 Em7 | A7 D7 G6 Bb13 |
+ Eb6 Eb6 Fm7 Gbo7 | Gm7 Ab7 | Eb A7 | AbM7 AbM7 Gm7 Cm7 |
+ F7sus4 F7 | Bb7sus4 Bb7 | Eb6 Eb6 Bb7alt Bb7b9 | Eb6 Bb7sus4 |
+

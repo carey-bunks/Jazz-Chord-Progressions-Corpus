@@ -1,0 +1,12 @@
+Title = Civilization (Bongo, Bongo, Bongo
+ComposedBy = Bob Hilliard and Carl Sigman
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ C | C | C | C |
+ C | C C#o7 | Dm7 G7 | G7 |
+ Dm7 G9 | Dm7 G7 | Dm7 Dm7 G7 Dm7 | Bbm6 G7 |
+ Dm7 G7 | G9 G7 | C | C |
+ C | Em | Gm | A7 |
+ Dm7 | G7 G7 Dm7 Bo7 | C | C |
+

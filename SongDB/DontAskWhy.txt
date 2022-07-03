@@ -1,0 +1,14 @@
+Title = Don't Ask Why
+ComposedBy = Alan Broadbent
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 34
+ Fm69 Dm7b5 | Gm7b5 C7b9 | Fm69 Dm7b5 | Bbm7 Eb7b9 |
+ Ebm7 Ab7b9 | Dbm7 Bb7b9 | Bm7 E7b9 | Am7 Abm7 Gm7 Gbm7 |
+ Fm69 Dm7b5 | Gm7b5 C7b9 | Fm69 Dm7b5 | Bbm7 Eb7b9 |
+ Ebm7 Ab7b9 | Dbm7 Bb7b9 | CbM7 EM7 | Fm7 Bb7b9 |
+ EbM7 EbM7 BbM7 DbM7 | EbM7 EbM7 CbM7 DbM7 | EbM7 EbM7 DbM7 D7 | EbM7 Ab7/D |
+ DbM7 DbM7 AM7 CbM7 | DbM7 DbM7 Ab7sus Ao7 | Bbm7 GbM7 | Gm7b5 C7b9 |
+ FM7 FM7 Dm7 D7b9 | Gm7 Gm7 C7 Eb7/Bb | Am7 Dm7 | Bbm7 Eb7b9 |
+ Ebm7 Ab7 Dm7 G7 | Dbm7 Gb7 | Cm7 F7#9 | Bbm7b5 Eb7b9 |
+ GbM7/Ab | Gbm7 |

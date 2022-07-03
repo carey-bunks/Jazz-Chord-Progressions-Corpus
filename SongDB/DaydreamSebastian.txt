@@ -1,0 +1,10 @@
+Title = Daydream
+ComposedBy = John B. Sebastian
+DBKeySig = C
+TimeSig = 4 4
+Bars = 16
+ C | A7 | Dm7 | G7 |
+ C | A7 | Dm7 | G11 G7 |
+ F D7 | C A7 | F D7 | C A7 |
+ F D7 | C A7 | Dm7 | G7sus4 G7 |
+

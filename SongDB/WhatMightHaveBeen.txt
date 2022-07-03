@@ -1,0 +1,15 @@
+Title = What Might Have Been
+ComposedBy = Mike Stearn
+DBKeySig = F
+TimeSig = 4 4
+Bars = 38
+ Dm Dm/C | Dm/C | Em7b5 | A7/C# |
+ Dmadd9 Dmadd9 BbM7 Am7 | Dm Dm/C | BbM7#11 BbM7#11 Am7 Gm7 | Em7b5 A7/C# |
+ Dm BbM13#11 | Dm BbM13#11 | Dm Dm/C | Dm/C |
+ Em7b5 | A7/C# | Dmadd9 Dmadd9 BbM7 Am7 | Dm Dm/C |
+ BbM7#11 BbM7#11 Am7 Gm7 | Em7b5 A7/C# | Dm BbM13#11 | Dm BbM13#11 |
+ Fm Fm Db Cm | Bbm Bbm Bbm#5 Bbm | Fm Db | Cm Abm/Cb |
+ Bbm Bbm Gb Fm | Ebm Db | CbM7 | Cm7 Cm7 Cm#5 Cm7 |
+ Dm Dm/C | Dm/C | Em7b5 | A7/C# |
+ Dmadd9 Dmadd9 BbM7 Am7 | Dm Dm/C | BbM7#11 BbM7#11 Am7 Gm7 | Em7b5 A7/C# |
+ Dm BbM13#11 | Dm BbM13#11 |

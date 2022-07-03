@@ -1,0 +1,9 @@
+Title = Blues a la Mode
+ComposedBy = McCoy Tiner
+DBKeySig = C
+TimeSig = 4 4
+Bars = 12
+ Bb7 | Eb7 | Bb7 | Gm7 Fm7 Eo7 Eo7 |
+ Eb7 | Ab7 | Bb7 | Cm7 Fm7 G7 G7 |
+ Dbm7 Gb7 | Gbm7 Gbm7 B7 Bb7 | G7 Gb7 | F7 |
+

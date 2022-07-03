@@ -1,0 +1,20 @@
+Title = Come Fly with Me
+ComposedBy = Jimmy van Heusen
+DBKeySig = C
+TimeSig = 4 4
+Bars = 56
+ CM7 C6 | Em7 Ebo7 | Dm7 | G7 |
+ CM7 C6 | Gm7 C7 | FM7 | Bb7 |
+ CM7 C6 | F7 | E7 A7 | D7 G7 |
+ CM7 C6 | Em7 Ebo7 | Dm7 | G7 |
+ CM7 C6 | Gm7 C7 | FM7 | Bb7 |
+ CM7 C6 | F7 G7sus4 | C6 F6 | C6 |
+ AbM7 | Ab6 | DbM7 | Bbm7 |
+ Eb7 | Eb7 | Ab6 | Bbm7 Eb7sus4 |
+ AbM7 | Ab6 | GM7 | Em7 |
+ Am7 | D7 | G7 | G7 |
+ CM7 C6 | Em7 Ebo7 | Dm7 | G7 |
+ CM7 C6 | Gm7 C7 | FM7 | Bb7 |
+ CM7 C6 | F7 | Em7b5 Bb7 | A7 Eb9#11 |
+ D7 | Dm7 G7 | C6 | Dm7 G7 |
+

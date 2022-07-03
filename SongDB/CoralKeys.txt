@@ -1,0 +1,13 @@
+Title = Coral Keys
+ComposedBy = Freddie Hubbard
+DBKeySig = F
+TimeSig = 4 4
+Bars = 30
+ Gm7 | C7 | Gm7 | C7 |
+ Fm7 | Bb7 | Fm7 | Bb7 |
+ EbM7 | DM7 | DbM7 | Gm7 C7alt |
+ FM7 | A7alt | Dm7 | G7 |
+ Abm7 | Db7 | Gm7 | C7 |
+ Gm7 | C7 | Fm7 | Bb7 |
+ Fm7 | Bb7 | EbM7 | D7alt |
+ EbM7 | D7alt |

@@ -1,0 +1,12 @@
+Title = Children's Play Song
+ComposedBy = Bill Evans
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ CM7 FM7 Em7 Am7 | Dm7 G9#11 Em7 Am7 | Dm7 G7 Em7 Am7 | D7 Em7 FM7 G9 |
+ CM7 FM7 Em7 Am7 | Dm7 G9#11 C9sus4 C7 | FM7 Bm7b5 Em7 Am7 | D7 G9 Csus4 C |
+ G7sus4 | G7sus4 | G7sus4 | G7sus4 |
+ G7sus4 | G7sus4 | G7sus4 | G7sus4 |
+ CM7 FM7 Em7 Am7 | Dm7 G9#11 Em7 Am7 | Dm7 G7 Em7 Am7 | D7 Em7 FM7 G9 |
+ CM7 FM7 Em7 Am7 | Dm7 G9#11 C9sus4 C7 | FM7 Bm7b5 Em7 Am7 | D7 G9 Csus4 C |
+

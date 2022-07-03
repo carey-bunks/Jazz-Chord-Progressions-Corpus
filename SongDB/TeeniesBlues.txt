@@ -1,0 +1,9 @@
+Title = Teenie's Blues
+ComposedBy = Oliver Nelson
+DBKeySig = C
+TimeSig = 4 4
+Bars = 12
+ F7 | Bb7 | F7 | F7 |
+ Bb7 | Bb7 | F7 | Am7 D7 |
+ Gm7 | C7 | Am7 D7 | Gm7 C7 |
+

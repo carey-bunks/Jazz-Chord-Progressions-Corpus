@@ -1,0 +1,14 @@
+Title = Soon
+ComposedBy = George Gershwin
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Eb | Eb | Gm7b5 | C7+ C7 |
+ Fm | Fm | Abm | Bb7+ Bb7 |
+ Eb | Bbm7 Eb7 | Ab | Gm7b5 C7 |
+ Fm7 | Bb7 | Gm7 Cm7 | Fm7 Bb7 |
+ Eb | Eb | Gm7b5 | C7+ C7 |
+ Fm | Fm | Abm | Bb7+ Bb7 |
+ Eb | Bbm7 Eb7 | Ab | Db7 |
+ Gm Cm | Fm Bb7 | Eb | Eb |
+

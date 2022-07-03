@@ -1,0 +1,14 @@
+Title = I'll Be Home For Christmas
+ComposedBy = Kim Gannon and Walter Kent
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ C | Co7 | Dm7 G7 | Dm7 G7 |
+ Am | Gm Gm Gm A7 | Dm7 | Dm7 |
+ Dm | Fm Fm Fm G7 | C C C G/B | Am |
+ Am D7 | Am7 Am7 Am7 D7 | G7 | Dm7 Dm7 Dm7 G7 |
+ C | Co7 | Dm7 G7 | Dm7 G7 |
+ Am | Gm Gm Gm A7 | Dm | Dm |
+ Dm | Fm | C Gm | A7 |
+ Dm7 | Dm7 G7 | C | Dm7 G7 |
+

@@ -1,0 +1,14 @@
+Title = Antigua
+ComposedBy = Roland Prince
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Dm | Em7b5 A7 | Dm | Em7b5 A7 |
+ Dm | Em7b5 A7 | Dm | Em7b5 A7 |
+ Dm | Em7b5 A7 | Dm | Em7b5 A7 |
+ Dm | Gm7 C7 | FM7 | Cm7 F7 |
+ BbM7 | Bm7b5 | Am7 | D7 |
+ Gm7 | C7 | F | Cm7 F7 |
+ BbM7 | Bm7b5 | Am7 | D7 |
+ Gm7 | C7 | F | Em7b5 A7 |
+

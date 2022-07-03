@@ -1,0 +1,18 @@
+Title = Together Wherever We Go
+ComposedBy = Jule Styne
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 48
+ Bb Bb Bb Cm7 | Cm7 Cm7 Cm7 F7 | Bb Bb Bb Cm7 | Cm7 Cm7 Cm7 F7 |
+ Bb | Bb | F7 Eb | Fo7 Fo7 Fo7 F7 |
+ Bb Bb Bb Cm7 | Cm7 Cm7 Cm7 F7 | Bb Bb Bb Cm7 | Cm7 Cm7 Cm7 F7 |
+ Bb | Bb C7 C7 C7 | Fo7 Eb6 | F7 |
+ Bbm | Bbm C7b9 | Fm | Fm Fm Fm Db7 |
+ Gb | Gb Ab7+ | Db | Db |
+ Cb | Cb | Bbm6 | Bbm6 |
+ C7 | C7 | F7 | Cm7 F7 |
+ Bb Bb Bb Cm7 | Cm7 Cm7 Cm7 F7 | Bb Bb Bb Cm7 | Cm7 Cm7 Cm7 F7 |
+ Bb | Gm7 | Cm6 | D7 |
+ Gm | Bb+ | Gm7 | C7 |
+ Bb6 | Cm7 Cm7 Cm7 F9 | Bb | Bb |
+

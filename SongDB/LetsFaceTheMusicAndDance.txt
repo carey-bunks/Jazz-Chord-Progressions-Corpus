@@ -1,0 +1,20 @@
+Title = Let's Face the Music and Dance
+ComposedBy = Irving Berlin
+DBKeySig = C
+TimeSig = 4 4
+Bars = 56
+ Cm | Cm | Cm Cm6 | CmM7 Cm7 |
+ Cm | Cm | Dm7b5 | G7b9 |
+ CM7 | Gm7 C7 | F6 | Bb9 |
+ C6 Ebm6 | Dm7b5 G7#5 | Cm | Cm |
+ Cm Cm6 | CmM7 Cm7 | G7 | Ab7 |
+ D7/A | Dm7 | G7 | G7/F |
+ Em7 | A7 | Dm7 | Bb9 |
+ C6 | Bbm7 Eb7 | AbM7 | AbM7 Eb7 |
+ AbM7 | AbM7 Eb7 | AbM7 | AbM7 |
+ G7 | G7#5 | Cm | Cm |
+ Cm Cm6 | CmM7 Cm7 | Cm | Cm |
+ Dm7b5 | G7b9 | CM7 | Gm7 C7 |
+ F6 | Bb9 | Am7 | Ab7b5 |
+ Dm9/G | Dm7 G7sus4 | C6 Ebm6 | Dm7b5 G7#5 |
+

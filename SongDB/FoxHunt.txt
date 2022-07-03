@@ -1,0 +1,14 @@
+Title = Fox Hunt
+ComposedBy = J.J. Johnson
+DBKeySig = Ab
+TimeSig = 4 4
+Bars = 32
+ Ab Ao7 | Bbm7 Eb7 | Ab Ao7 | Bbm7 Eb7 |
+ Ab Ab7 | Db Do7 | Ab Eb7 | Ab |
+ Ab Ao7 | Bbm7 Eb7 | Ab Ao7 | Bbm7 Eb7 |
+ Ab Ab7 | Db Do7 | Ab Eb7 | Ab |
+ D7b5 | D7b5 | G7b5 | G7b5 |
+ Cm7b5 | F7b5 | E7b5 | A7b5 |
+ Ab Ao7 | Bbm7 Eb7 | Ab Ao7 | Bbm7 Eb7 |
+ Ab Ab7 | Db Do7 | Ab Eb7 | Ab |
+

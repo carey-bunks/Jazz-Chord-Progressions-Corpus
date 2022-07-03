@@ -1,0 +1,14 @@
+Title = You've Changed
+ComposedBy = Bill Carey and Carl Fischer
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb | D7alt | Gm7b5 | C7alt |
+ F7 | B7 Bb7 | Eb C7 | Fm7 Bb7+ |
+ Eb | D7alt | Gm7b5 | C7alt |
+ F7 | B7 Bb7 | Eb | Bbm7 Eb7 |
+ Ab | Abm7 | Eb | Bbm7 Eb7 |
+ Ab | Abm7 Db7 | Gm7 Gbm7 | Fm7 Bb7+ |
+ Eb | D7alt | Gm7b5 | C7alt |
+ F7 | B7 Bb7 | Eb | Fm7 Bb7+ |
+

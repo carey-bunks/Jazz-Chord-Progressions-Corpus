@@ -1,0 +1,14 @@
+Title = Full Moon and Empty Arms
+ComposedBy = Buddy Kaye, Ted Mossman (Rachmaninoff)
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ Bb69 | BM7 | BbM7 | Ab13 |
+ Gb/F | F7 | BbM7 | BbM7 |
+ D7 | Gm7 | F/A | BbM7 |
+ Gm GmM7 | Gm7 C7 | Gb7#11 | F7 |
+ Bb69 | BM7 | BbM7 | Ab13 |
+ Gb/F | F7 | BbM7 | BbM7 |
+ D7 | Gm7 | F/A | BbM7 |
+ Cm7 | F7sus F7sus F7sus F7 | Bb69 | Cm7 F7 |
+

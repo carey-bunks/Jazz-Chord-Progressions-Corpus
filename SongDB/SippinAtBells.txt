@@ -1,0 +1,9 @@
+Title = Sippin' At Bells
+ComposedBy = Miles Davis
+DBKeySig = F
+TimeSig = 4 4
+Bars = 12
+ FM7 | Fm7 Bb7 | Am7 Gm7 | F#m7 B7 |
+ Bb7 | Bbm7 Eb7 | Am7 | Abm7 Db7 |
+ Gm7 C7 | C#m7 F#7 | Am7 Ab7 | DbM7 Gb7 |
+

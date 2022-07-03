@@ -1,0 +1,14 @@
+Title = You Don't Know What Love Is
+ComposedBy = Don Raye and Gene DePaul
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Fm Dm7b5 | G7b9 C7+ | Fm Fm Gm7b5 C7+ | Db7 B7b5 |
+ Bb7 Bb7 Gm7b5 C7alt | D7#9 | Abm7 Db7 | Gm7b5 C7 |
+ Fm Dm7b5 | G7b9 C7+ | Fm Fm Gm7b5 C7+ | Db7 B7b5 |
+ Bb7 Bb7 Gm7b5 C7alt | D7#9 | Abm7 Db7 Gm7b5 C7 | Fm7 Fm7 Fm7 Bo7 |
+ Bbm7 Eb7 | Cm7 F7 | Bbm7 Eb7 | AbM7 |
+ Dm7 G7 | CM7 Eb7 | AbM7 Db7b5 | Gm7b5/C C7+ |
+ Fm Dm7b5 | G7b9 C7+ | Fm Fm Gm7b5 C7+ | Db7 B7b5 |
+ Bb7 Bb7 Gm7b5 C7 | D7#9 | Abm7 Db7 Gm7b5 C7 | Fm |
+

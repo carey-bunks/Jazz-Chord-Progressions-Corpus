@@ -1,0 +1,12 @@
+Title = Inner Urge
+ComposedBy = Joe Henderson
+DBKeySig = C
+TimeSig = 4 4
+Bars = 24
+ F#m7b5 | F#m7b5 | F#m7b5 | F#m7b5 |
+ FM7#11 | FM7#11 | FM7#11 | FM7#11 |
+ EbM7#11 | EbM7#11 | EbM7#11 | EbM7#11 |
+ DbM7#11 | DbM7#11 | DbM7#11 | DbM7#11 |
+ EM7#11 | DbM7#11 | DM7#11 | BM7#11 |
+ CM7 | AM7 | BbM7 | GM7 |
+

@@ -1,0 +1,14 @@
+Title = Green Eyes
+ComposedBy = Nilo Menendez
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ EbM7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+ EbM7 | Gm7 C7 | Fm7 | Bb7 |
+ EbM7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+ Db7 C7 | F7 | Fm7 | Bb7 |
+ EbM7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+ Gm7b5 | C7 | Fm7 | Bb7 |
+ AbM7 | Fm7 Bb7 | EbM7 Ab7 | Gm7 C7 |
+ F7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 |
+

@@ -1,0 +1,14 @@
+Title = I've Heard That Song Before
+ComposedBy = Jule Styne
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ CM7 C6 | C6 | Bm7 E7 | E7 |
+ A7 | A7 | D7 | D7 |
+ Dm7/G G7 | Dm7 G7 | C6 G7#5 | C6 |
+ Am7 | D7 | Dm7/G | G7 |
+ CM7 C6 | C6 | Bm7 E7 | E7 |
+ A7 | A7 | Dm7 A7 | Dm7 |
+ F6 | Bb7 | C6 B7 | BbM7 A7 |
+ Dm7 | Ab7b5 G7 | C6 | Dm7 G7 |
+

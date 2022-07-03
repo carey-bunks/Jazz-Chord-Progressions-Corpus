@@ -1,0 +1,14 @@
+Title = You Are Too Beautiful
+ComposedBy = Richard Rodgers
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ Dm7 G7 | Em7 A7b9 | Dm7 G7b9 | CM7 CM7 Em7 Eb7 |
+ Dm7 Dm7 Fm7 Bb7 | Am7 D7 | Dm7 G7 | Em7 A7b9 |
+ Dm7 G7 | Em7 A7b9 | Dm7 G7b9 | CM7 CM7 Em7 Eb7 |
+ Dm7 Dm7 Fm7 Bb7 | Am7 D7 | D7 D7 Dm7 G7 | C69 |
+ FM7 F#o7 | CM7/G A7 | Dm7 G7 | CM7 |
+ Bm7b5 E7b9 | Am AmM7 | Am7 D7 | Dm7 G7 |
+ Dm7 G7 | Em7 A7b9 | Dm7 G7b9 | CM7 CM7 Em7 Eb7 |
+ Dm7 Dm7 Fm7 Bb7 | Am7 D7 | Dm7 G7 | C6 C6 Em7b5 A7 |
+

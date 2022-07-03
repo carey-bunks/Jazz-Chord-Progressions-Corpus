@@ -1,0 +1,13 @@
+Title = The Odd Couple
+ComposedBy = Neal Hefti
+DBKeySig = F
+TimeSig = 4 4
+Bars = 30
+ Dm7 G9 | Dm7 G7 | Dm G Dm7 G | Dm7 Dm7 G Dm |
+ Gm7 C9 | Gm7 C7 | Cm C Gm7 C | Gm7 Gm7 C Gm |
+ F7 F13#11 | BbM7 Bb6 | Em7 A7 | Dm7 G9 BbM7 A7b9 |
+ Dm7 F7 | Em7b5 A7 | Dm7 G9 | Dm7 G7 |
+ Dm G Dm7 G | Dm7 Dm7 G Dm | Gm7 C9 | Gm7 C7 |
+ Cm C Gm7 C | Gm7 Gm7 C Gm | F7 F13#11 | BbM9 Bb6 |
+ BbM7 A7b9 | Dm7 F7 | Bb6 Gm7 | C9sus4 |
+ F F Bb FM7 | Bb9 A7b9 |

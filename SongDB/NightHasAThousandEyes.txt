@@ -1,0 +1,18 @@
+Title = The Night Has a Thousand Eyes
+ComposedBy = Jerry Brainin and Buddy Bernier
+DBKeySig = G
+TimeSig = 4 4
+Bars = 48
+ GM9 | GM9 | Am7/G | Am7/G |
+ GM9 | GM9 | Am7/G | Am7/G |
+ Dm9 | G13b9 | CM9 | F13#11 |
+ Bm9 Bbo7 | Am9 D13b9 | GM9 | GM9 |
+ GM9 | GM9 | Am7/G | Am7/G |
+ GM9 | GM9 | Am7/G | Am7/G |
+ Dm9 | G13b9 | CM9 | F13#11 |
+ Bm9 Bbo7 | Am9 D13b9 | GM9 | GM9 |
+ Cm9 | F7+ | BbM9 | BbM9 |
+ Bbm9 | Eb7+ | AbM9 | AbM9 |
+ Am9 | D13 | Bm9 | E13 |
+ Am9 | D13b9 | GM9 | GM9 |
+

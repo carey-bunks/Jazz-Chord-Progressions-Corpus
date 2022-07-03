@@ -1,0 +1,12 @@
+Title = Guachi Guaro (Soul Sauce
+ComposedBy = Dizzy Gillespie and Chano Pozo
+DBKeySig = F
+TimeSig = 4 4
+Bars = 24
+ NC | NC | NC NC NC Gm7 | C7 |
+ NC | NC | NC NC NC Gm7 | C7 |
+ C7 | C7 | C7 | C7 |
+ C7 | C7 | C7 | C7 |
+ C7 | C7 | C7 | C7 |
+ C7 | C7 | C7 | C7 |
+

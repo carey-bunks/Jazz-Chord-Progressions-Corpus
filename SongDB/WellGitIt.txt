@@ -1,0 +1,32 @@
+Title = Well Git It
+ComposedBy = Sy Oliver
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 106
+ Ab6 Ab9 | Ab6 Ab9 | Eb Bb7+ Eb6 Eb6 | Eb6 Bb7+ Eb6 Eb6 |
+ Fm7 Bb7+ | Fm7 | Ab6 Ab6 Ab6 Eb | Ab Ab Ab Eb Eb Eb Eb Eb |
+ Eb | Eb | Eb | Eb Eb7 |
+ Ab6 Ab9 | Ab6 Ab9 | Eb Bb7+ Eb6 Eb6 | Eb6 Bb7+ Eb6 Eb6 |
+ Fm7 Bb7+ | Fm7 | Ab6 Ab6 Ab6 Eb | Ab Ab Ab Eb NC NC NC NC |
+ NC | NC | NC NC NC A9 | Ab9 |
+ Ab9 | Eb6 | Eb6 Ao7 | Ab9 |
+ Ab9 | Eb6 | Eb6 Eb9 | Ab7 |
+ Ab7 | Eb | Eb | Fm7 |
+ Bb7 | Eb | Eb7 | Ab7 |
+ Ab7 | Eb | Eb | Fm7 |
+ Bb7 | Eb | Eb | Ab7 |
+ Ab7 | Db6 Dbm6 | Ab6 Ab7 | Db6 |
+ Ab6 F9 | Bb9 | Eb9 | Ab7 |
+ Ab7 | Db6 | C7 | Db6 Db6 Db6 Do7 |
+ Ab6 | Bb Eb7 | Ab Eb7+ | Ab7 |
+ Ab7 | Db6 Dbm6 | Ab6 Ab7 | Db6 |
+ Ab6 F9 | Bb9 | Eb9 | Ab7 |
+ Ab7 | Db6 | C7 | Db6 Db6 Db6 Do7 |
+ Ab6 | Bb Eb7 | Ab6 | Ab9 |
+ Eb7+ Ab9 | A9 | Eb7+ A9 | Bb9 |
+ F7+ Bb9 | B9 C9 Db9 D9 | Eb9 A9 | Ab9 |
+ Db9 | Ab6 | Ab7 | Db7 |
+ Db7 | Ab6 | Bbm7 | Bbm7b5 |
+ Ab6 | Ab6 A9 Ab9 Ab9 | NC | NC |
+ NC | NC | Ab7 | Db Db Do7 Ab6 |
+ NC | NC A9 Ab9 Ab9 |

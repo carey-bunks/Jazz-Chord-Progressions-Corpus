@@ -1,0 +1,14 @@
+Title = Ruby, My Dear
+ComposedBy = Thelonious Monk
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Fm7 Bb7b9 | EbM7 EbM7 EbM7 Fm7 F#m7 Gm7 Ab6 Gb/Bb | Gm7 C7b9 | FM7 Gm7 Abm7 Am7 |
+ Bbm7 Eb7b9 | AbM7 AbM7 Bbm7 Bm7 Cm7 Cm7 Cm7 Cm7 | Bbm11 Aadd9 | E7sus4 Bb7b5 |
+ Fm7 Bb7b9 | EbM7 EbM7 EbM7 Fm7 F#m7 Gm7 Ab6 Gb/Bb | Gm7 C7b9 | FM7 Gm7 Abm7 Am7 |
+ Bbm7 Eb7b9 | AbM7 AbM7 Bbm7 Bm7 Cm7 Cm7 Cm7 Cm7 | Bbm11 Aadd9 | Bm11 Bb7b5 |
+ AM7 | Bm7 E7b9 | A69 | Bb6 G7b9/B |
+ Cm CmM7 Cm7 Cm7 | Cm7 Dm7 | Ebm7 | Ab13#11 Eb |
+ Fm7 Bb7b9 | EbM7 EbM7 EbM7 Fm7 F#m7 Gm7 Ab6 Gb/Bb | Gm7 C7b9 | FM7 Gm7 Abm7 Am7 |
+ Bbm7 Eb7b9 | AbM7 AbM7 Bbm7 Bm7 Cm7 Cm7 Cm7 Cm7 | Bbm11 E11 | F#69 F#69 B7b9 Bb7b9 |
+

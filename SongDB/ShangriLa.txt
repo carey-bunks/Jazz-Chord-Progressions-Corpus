@@ -1,0 +1,14 @@
+Title = Shangri-La
+ComposedBy = Matt Malneck and Robert Maxwell
+DBKeySig = F
+TimeSig = 4 4
+Bars = 32
+ F | Dm7 | Gm | Gm7 C7b9 |
+ F | Dm7 | Gm | Gb7 C7b9 |
+ FM7 | F6 | Ab7 | DbM7 |
+ Gb7 | FM7 FM7 FM7 F6 | BbM7 | Eb7 |
+ Gm7 | C7b9 | F | Dm7 |
+ Gm | Gm7 C7b9 | F | Dm7 |
+ Gm7 | Gb7 C7b9 | Am7b5 | D7b9 D7b9 D7b9 D7 |
+ Gm7 | Gb7 Gb7 C7b9 | FM7 Gb9b5 | FM7 FM7 Gm7 C7 |
+

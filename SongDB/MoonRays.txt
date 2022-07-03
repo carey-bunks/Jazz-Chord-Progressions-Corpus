@@ -1,0 +1,22 @@
+Title = Moon Rays
+ComposedBy = Horace Silver
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 64
+ Fm7/Bb | Bb7 | EbM7/Bb | EbM7/Bb |
+ F#m7/Bb | B7/Bb | Fm7/Bb | Bb7 |
+ Fm7/Bb Fm7/Bb Fm7/Bb Am7/Bb | Abm7 | Gm7b5 | C7alt |
+ Fm7 | Bb7#5 | EbM7 AbM7#11 | EbM7 AbM7#11 |
+ Fm7/Bb | Bb7 | EbM7/Bb | EbM7/Bb |
+ F#m7/Bb | B7/Bb | Fm7/Bb | Bb7 |
+ Fm7/Bb Fm7/Bb Fm7/Bb Am7/Bb | Abm7 | Gm7b5 | C7alt |
+ Fm7 | Bb7#5 | EbM7 AbM7#11 | EbM7 AbM7#11 |
+ Am7/D | D7b9 | GM7/D | GM7/D |
+ Bbm7/D | Eb7/D | Am7 | D7 |
+ Dm7 Dm7 Dm7 Dbm7 | CmM7 | Bm7b5 | E7alt |
+ Am7 | D7alt | Gm7 C7 | Fm7 Bb7 |
+ Fm7/Bb | Bb7 | EbM7/Bb | EbM7/Bb |
+ F#m7/Bb | B7/Bb | Fm7/Bb | Bb7 |
+ Fm7/Bb Fm7/Bb Fm7/Bb Am7/Bb | Abm7 | Gm7b5 | C7alt |
+ Fm7 | Bb7#5 | EbM7 AbM7#11 | EbM7 AbM7#11 |
+

@@ -1,0 +1,14 @@
+Title = Anniversary Waltz
+ComposedBy = Dubin-Franklin
+DBKeySig = C
+TimeSig = 3 4
+Bars = 32
+ C | C | C | C |
+ C | Eo7 | G7 | G7 |
+ G7 | Dm | G7 | G7 |
+ Dm | G7 G7 G+ | C C Eo7 | G7 |
+ C7 | C7+ | F | Dm |
+ A | A+ | D7 | G+ |
+ C | C | C | A7 |
+ D7 | G7 | C | C |
+

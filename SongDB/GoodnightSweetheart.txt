@@ -1,0 +1,14 @@
+Title = Goodnight, Sweetheart
+ComposedBy = Jimmy Campbell, Reg Connelly, and Ray Noble
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ CM7 | CM7 | CM7 | CM7 |
+ G7 | G7 | G7 | G7 |
+ Am7 | Am7 | Dm7 | G7 |
+ CM7 | Am7 | Dm7 | G7 |
+ CM7 | CM7 | CM7 | CM7 |
+ G7 | G7 | G7 | G7 |
+ Am7 | Am7 | D7 | Ebo7 |
+ CM7 | G7 | CM7 | G7 |
+

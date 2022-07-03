@@ -1,0 +1,14 @@
+Title = Jingle Bells
+ComposedBy = J. Pierpont
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ G | G | G | C |
+ Am | D7 | D7 | G |
+ G | G | G | C |
+ Am | D7 | D7 | G |
+ G | G | G | G |
+ C | G | A7 | D D7 |
+ G | G | G | G |
+ C | G | D7 | G |
+

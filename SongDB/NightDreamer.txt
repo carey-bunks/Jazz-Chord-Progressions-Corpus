@@ -1,0 +1,10 @@
+Title = Night Dreamer
+ComposedBy = Wayne Shorter
+DBKeySig = C
+TimeSig = 3 4
+Bars = 16
+ GM7 GM7 Fm7 | EbM7 EbM7 D7alt | GM7 GM7 Fm7 | EbM7 EbM7 D7alt |
+ GM7 GM7 Fm7 | EbM7 EbM7 D7alt | Ebm7 | Ab7 |
+ Bm7/E | Bm7/E | Cm7/F | Cm7/F |
+ GM7 GM7 Fm7 | EbM7 EbM7 D7alt | GM7 GM7 Fm7 | EbM7 EbM7 D7alt |
+

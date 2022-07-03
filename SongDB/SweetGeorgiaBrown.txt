@@ -1,0 +1,14 @@
+Title = Sweet Georgia Brown
+ComposedBy = Ben Bernie
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ D7 | D7 | D7 | D7 |
+ G7 | G7 | G7 | G7 |
+ C7 | C7 | C7 | C7 |
+ FM7 | FM7 | FM7 | Em7 A7#9 |
+ D7 | D7 | D7 | D7 |
+ G7 | G7 | G7 | G7 |
+ Dm7 | Em7b5 A7alt | Dm7 | Em7b5 A7alt |
+ F7 E7 | Eb7 D7 | G7 C7 | FM7 A7alt |
+

@@ -1,0 +1,10 @@
+Title = Liberia (soloing changes
+ComposedBy = John Coltrane
+DBKeySig = F
+TimeSig = 4 4
+Bars = 16
+ A7b9 | Dm | Em A7 | Dm |
+ A7b9 | Dm | Em A7 | Dm |
+ A7b9 | Dm | Em A7 | Dm |
+ A7b9 | Dm | Em A7 | Dm |
+

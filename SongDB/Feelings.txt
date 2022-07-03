@@ -1,0 +1,18 @@
+Title = Feelings
+ComposedBy = Morris Albert and Louis Gaste
+DBKeySig = G
+TimeSig = 4 4
+Bars = 48
+ Em | Em/D# | Em7/D | A/C# |
+ Am | D7 | G | F#m B7 |
+ Em | Em/D# | Em7/D | A/C# |
+ Am | D7 | G | E7 |
+ C | Am D7 | Bm | E7 |
+ Am | D7 | Bm | E7 |
+ C | Am D7 | Bm | E7 |
+ Am | D7 | F#m7 | B7 B7b9 |
+ Em | Em/D# | Em7/D | A7 |
+ Am | D7 | G | E7+ E7 |
+ C | Am D7 | Bm | E7 |
+ Am | D7 | F#m7 | B9 B7b9 |
+

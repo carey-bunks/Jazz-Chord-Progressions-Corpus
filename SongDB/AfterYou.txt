@@ -1,0 +1,14 @@
+Title = After You
+ComposedBy = Cole Porter
+DBKeySig = C
+TimeSig = 4 4
+Bars = 32
+ CM9 | G13b9 | CM9 G9#5 | CM7 E7#5 |
+ Am7 | D9 | Dm7add11 | G7 |
+ CM9 | G13b9 | CM9 G9#5 | CM7 E7#5 |
+ Am7 | D9 | GM9 | D7b9 |
+ Gm9 | C9 | FM7 C7b9 | F69 |
+ Fm9 | Bb9 | Dm7b5 | G7b9 |
+ CM9 | G13b9 | CM9 A9 | Dm7 Fm6 |
+ Em7 Am7 | D7 G13 | G69 | Dm7 G7 |
+

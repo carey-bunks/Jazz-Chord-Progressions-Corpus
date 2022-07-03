@@ -1,0 +1,12 @@
+Title = Midnight Mood
+ComposedBy = Joe Zawinul
+DBKeySig = Db
+TimeSig = 4 4
+Bars = 24
+ DbM7 | Ebm7b5/Db | DbM7 | Ebm7b5/Db |
+ DbM7 | Ebm7b5/Db | DbM7 | G7b5b9 |
+ GbM7 | C7#9 | Fm7 | Bbm7 |
+ Ebm7 | Ebm7/Ab | Abm7/Db | Abm7/Db G7b5b9 G7b5b9 |
+ GbM7 | C7#9 | Fm7 | Bb7#9 |
+ Ebm7 | Ab7 | DbM7 | Ebm7b5/Db |
+

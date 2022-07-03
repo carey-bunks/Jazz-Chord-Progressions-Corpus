@@ -1,0 +1,14 @@
+Title = Bill Bailey
+ComposedBy = Hughie Cannon
+DBKeySig = Bb
+TimeSig = 4 4
+Bars = 32
+ BbM7 | Cm7/F | BbM7 | Cm7/F |
+ BbM7 EbM7 | Dm7 G7 | Cm7 | F7 |
+ Cm7 | F7 | Cm7 | F7 Cm7 |
+ F7 | Dm7 G7 | Cm7 F7 | BbM7 |
+ Cm7/F | BbM7 | Cm7/F | BbM7 |
+ Fm7 Bb7 | EbM7 | G7alt | Cm7 |
+ C#o7 | Dm7 | G7 | C7 |
+ F7 | BbM7 | Cm7 F7 | F7 |
+

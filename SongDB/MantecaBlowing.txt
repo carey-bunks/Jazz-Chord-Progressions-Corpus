@@ -1,0 +1,16 @@
+Title = Manteca
+ComposedBy = Dizzy Gillespie, Walter G. Fuller, and Chano Pozo
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 40
+ Bb G7alt | Cm7 F7 | Dm7 G7alt | Cm7 F7 |
+ Bb7 Bb7/D | Eb6 Eo7 | Bb/F G7alt | Cm7 Cm7 F7 F7alt |
+ Bb G7alt | Cm7 F7 | Dm7 G7alt | Cm7 F7 |
+ Bb7 Bb7/D | Eb6 Eo7 | Bb/F G7alt | Cm7 Cm7 F7 F7alt |
+ Abm7 | Db7 | GbM7 | GbM7 |
+ Bb7#11 | Eb7#11 | AbM7 | AbM7 |
+ Abm7 | Db7alt | GbM7 | F#m7 B7 |
+ Fm7 | Bb7alt | Ebm7 | F#m7 B7 |
+ Bb G7alt | Cm7 F7 | Dm7 G7alt | Cm7 F7 |
+ Bb7 Bb7/D | Eb6 Eo7 | Bb/F G7alt | Cm7 F7alt |
+
