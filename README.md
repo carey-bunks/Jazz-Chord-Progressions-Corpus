@@ -1,11 +1,10 @@
 # Corpus of Jazz Chord Progressions
-This repository contains a corpus of symbolic chord progressions similar to those found in jazz fake books, such as the Real Book. The progressions are mainly jazz 
-standards, but also include some blues, jazz-blues, modal jazz, traditional, and pop tunes. At the moment, the corpus contains 2,612 songs, consisting of 134,182 chords, of 
-which there are 1,542 unique symbols.  This is the largest collection of jazz chord progressions that we know of.  
+This repository contains a corpus of symbolic chord progressions similar to those found in jazz fake books such as the *Real Book*. The progressions are mainly from jazz 
+standards, but also include some blues, jazz-blues, modal jazz, traditional songs, and pop tunes. At the moment, the corpus contains 2,612 songs, consisting of 134,182 chords, of 
+which there are 1,542 unique symbols.  The database contains a handful of duplicated reharmonized songs. This is the largest collection of jazz chord progressions the maintanier knows of.  
 
-The corpus is derived from a collection distributed with *Impro-Visor*, an open-source music notation program intended to help musicians learn improvisation (see 
-https://www.cs.hmc.edu/~keller/jazz/improvisor/). Our modifications remove control information used by the Impro-Visor application, retaining the musical content, 
-however, there are now significant differences between the Impro-Visor collection and this repository.  Many errors have been corrected, and missing information added. Morever, a number of songs not in the Impro-Visor collection have been added by the maintainer of this repository -- contributions from others are welcome (please take care to follow the format below).
+The corpus is originally derived from a collection of files called the *Imaginary Book*, distributed with the open-source music notation program, *Impro-Visor* (see 
+https://www.cs.hmc.edu/~keller/jazz/improvisor/). The Imaginary Book files were modified to remove control information used by the Impro-Visor application, and to retain the music-specific content.  However, there are now significant differences between the Impro-Visor collection and this repository.  Many errors have been corrected, and missing information has been added. Morever, a number of songs not in the Imaginary Book collection have been added by the maintainer of this repository -- contributions from others are welcome (please take care to follow the format below).
 
 ## Content Description
 Each chord progression is contained in its own file, the file name being derived from the song's title.  The data is in ASCII format, and the first several lines of 
