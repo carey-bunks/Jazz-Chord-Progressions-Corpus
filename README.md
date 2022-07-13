@@ -13,8 +13,7 @@ The SongDB directory contains all the songs in the corpus, one file per song.  E
 Each chord progression is contained in its own file.  The first several lines of 
 each file contain metadata consisting of the title, the name of the composer(s), the song's key and time signatures, and the total number of bars.  
 
-The metadata is followed by the chord progression in symbolic form.  The progressions are fully written out, unwrapping any lead sheet abbreviations such as repeat 
-symbols or multiple endings.  The progression is provided as four bars (or measures) per line, and each bar is terminated by a vertical "pipe" symbol (|).  The last bar of the song is also terminated in this way.  A bar can contain multiple chords.  A chord gets a beat value according to the time signature, and the number of other chords in the same bar.  For example, for a time signature 3 4 (three quarter notes per bar), a single chord in the bar would get three beats, and three chords in a bar would each get a single beat.  
+The metadata is followed by the chord progression in symbolic form.  The progressions are fully written out, unwrapping any lead sheet abbreviations such as repeat symbols or multiple endings.  The progression is provided as four bars (or measures) per line, and each bar is terminated by a vertical "pipe" symbol (|).  The last bar of the song is also terminated in this way.  The beats available in a bar are shared equally by the chords it contains. For example, a song with a 4/4 time signature gets four quarter notes per bar, and a bar containing G7 CM7 would assign two quarter note beats to each chord.  Rhythmic variations are specified through the use of repeated chords and the no-chord symbol (NC).
 
 An example of the contents for the song "Have You Met Miss Jones?" is illustrated here:
 
