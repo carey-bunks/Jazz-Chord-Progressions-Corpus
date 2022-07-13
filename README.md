@@ -13,7 +13,9 @@ The SongDB directory contains all the songs in the corpus, one file per song.  E
 Each chord progression is contained in its own file.  The first several lines of 
 each file contain metadata consisting of the title, the name of the composer(s), the song's key and time signatures, and the total number of bars.  
 
-The metadata is followed by the chord progression in symbolic form.  The progressions are fully written out, unwrapping any lead sheet abbreviations such as repeat symbols or multiple endings.  The progression is provided as four bars (or measures) per line, and each bar is terminated by a vertical "pipe" symbol (|).  The last bar of the song is also terminated in this way.  The beats available in a bar are shared equally by the chords it contains. For example, a song with a 4/4 time signature gets four quarter notes per bar, and a bar containing G7 CM7 would assign two quarter note beats to each chord.  Rhythmic variations are specified through the use of repeated chords and the no-chord symbol (NC).
+The metadata is followed by the chord progression in symbolic form.  The progressions are fully written out, unwrapping any lead sheet abbreviations such as repeat symbols or multiple endings.  The progression is provided as four bars (or measures) per line, and each bar is terminated by a vertical "pipe" symbol (|).  The last bar of the song is also terminated in this way.  
+
+The beats available in a bar are shared equally by the chords it contains. For example, a song with a 4/4 time signature gets four quarter notes per bar, and a bar containing *G7 CM7* would assign two quarter note beats to each chord.  Rhythmic variations are specified through the use of repeated chords and the no-chord symbol, *NC*, for example, a bar with *NC G7 CM7 CM7* would specify a beat of silence followed by a beat of G7 and two beats of CM7.
 
 An example of the contents for the song "Have You Met Miss Jones?" is illustrated here:
 
@@ -31,4 +33,4 @@ An example of the contents for the song "Have You Met Miss Jones?" is illustrate
     FM7 | F#o | Gm7 | C7 |
     Am7 D7 | Gm7 C7 | FM7 | FM7 |
  
-In addition to the song's title, Richard Rogers is identified as the composer, the key signature is F, the time signature is 4/4, and the completely written out song consists of 32 bars.  Each bar is terminiated by the "|" symbol, including the last one.  Chords and pipes are separated from each other by a space.
+In addition to the song's title, Richard Rogers is identified as the composer, the key signature is F, the time signature is 4/4, and the completely written out song consists of 32 bars.  Each bar is terminiated by the | symbol, including the last one.  Chords and pipes are separated from each other by a space.
