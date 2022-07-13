@@ -33,4 +33,4 @@ An example of the contents for the song "Have You Met Miss Jones?" is illustrate
     FM7 | F#o | Gm7 | C7 |
     Am7 D7 | Gm7 C7 | FM7 | FM7 |
  
-In addition to the song's title, Richard Rogers is identified as the composer, the key signature is F, the time signature is 4/4, and the completely written out song consists of 32 bars.  Each bar is terminiated by the | symbol, including the last one.  Chords and pipes are separated from each other by a space.
+In addition to the song's title, Richard Rogers is identified as the composer, the key signature is F, the time signature is 4/4, and the completely written out song consists of 32 bars.  Each bar is terminated by the | symbol, including the last one.  Chords and pipes are separated from each other by a space.
