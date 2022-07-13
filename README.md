@@ -17,7 +17,7 @@ The metadata is followed by the chord progression in symbolic form.  The progres
 
 The beats available in a bar are shared equally by the chords it contains. For example, a song with a 4/4 time signature gets four quarter notes per bar, and a bar containing *G7 CM7* would assign two quarter note beats to each chord.  Rhythmic variations are specified through the use of repeated chords and the no-chord symbol, *NC*, for example, a bar with *NC G7 CM7 CM7* would specify a beat of silence followed by a beat of G7 and two beats of CM7.
 
-An example of the contents for the song "Have You Met Miss Jones?" is illustrated here:
+An example of the contents for the song *Have You Met Miss Jones?* is illustrated here:
 
     Title = Have You Met Miss Jones
     ComposedBy = Richard Rodgers
