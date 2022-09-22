@@ -1,13 +1,13 @@
 Title = On A Misty Night
-ComposedBy = Tadd Dameron
-DBKeySig = Eb
+DB Key = Eb
 TimeSig = 4 4
-Bars = 28
+Bars = 32
  EbM7 Gm7 | Cm7 Gm7 F#m7 Fm7 | Fm7 | Fm7 |
  Db7#11 | B7#11 Bb7 | Gm7 C7 | Fm7 Bb7 |
  EbM7 Gm7 | Cm7 Gm7 F#m7 Fm7 | Fm7 | Fm7 |
  Db7#11 | B7#11 Bb7 | EbM7 | EbM7 |
  Bm7 E7 | Bbm7 Eb7 | AbM7 Bbm7 | AbM7 |
- Em7 F#7 | Cm7 Gm7 F#m7 Fm7 | Fm7 | Fm7 |
+ Dbm7 Gb7 | Cm7 F7 | Fm7 | Bb7alt |
+ EbM7 Gm7 | Cm7 Gm7 F#m7 Fm7 | Fm7 | Fm7 |
  Db7#11 | B7#11 Bb7 | EbM7 C7 | Fm7 Bb7 |
 
