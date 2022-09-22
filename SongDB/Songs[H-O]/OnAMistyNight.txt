@@ -1,4 +1,5 @@
 Title = On A Misty Night
+ComposedBy = Tadd Dameron
 DB Key = Eb
 TimeSig = 4 4
 Bars = 32
