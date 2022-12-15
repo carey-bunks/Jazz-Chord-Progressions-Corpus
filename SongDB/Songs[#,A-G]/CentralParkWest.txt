@@ -1,5 +1,5 @@
 Title = Central Park West
-ComposedBy = Jonn Coltrane
+ComposedBy = John Coltrane
 DBKeySig = B
 TimeSig = 4 4
 Bars = 20

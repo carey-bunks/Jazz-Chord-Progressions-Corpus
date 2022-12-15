@@ -1,5 +1,5 @@
 Title = After You've Gone
-ComposedBy = Turner Layton and Henry Creamer
+ComposedBy = Turner Layton
 DBKeySig = Bb
 TimeSig = 4 4
 Bars = 20
