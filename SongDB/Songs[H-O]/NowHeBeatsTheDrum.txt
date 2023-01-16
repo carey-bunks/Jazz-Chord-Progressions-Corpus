@@ -1,5 +1,5 @@
 Title = Now He Beats the Drum, Now He Stops
-ComposedBy = Chic k Corea
+ComposedBy = Chick Corea
 DBKeySig = Eb
 TimeSig = 4 4
 Bars = 32

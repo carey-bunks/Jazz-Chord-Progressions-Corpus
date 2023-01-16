@@ -1,0 +1,16 @@
+Title = Straight Life
+ComposedBy = Art Pepper
+DBKeySig = G
+TimeSig = 4 4
+Bars = 32
+ C | C | Cm | Cm7 F7 |
+ G |  G | E7 | E7 |
+ A7 | A7 | Am7 | D7 |
+ G | EbM7 | Dm7 | G7 |
+ C | C | Cm7 | Cm7 F7 |
+ G | G | E7 | E7 |
+ Am7 | E7 | Am7 | D7 |
+ G | B7 | Em7 | Am7 |
+ D7 | G | Am7 | D7 |
+
+

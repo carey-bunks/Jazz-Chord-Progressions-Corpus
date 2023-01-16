@@ -2,7 +2,7 @@ Title = I Want More
 ComposedBy = Dexter Gordon
 DBKeySig = Ab
 TimeSig = 4 4
-Bars = 48
+Bars = 40
  Bbm7 | Eb7 | AbM7 | AbM7 |
  Ebm7 | Ab7 | DbM7 | DbM7 |
  Dm7b5 | G7alt | Cm7 | F7 |
@@ -11,8 +11,6 @@ Bars = 48
  Bbm7 | Eb7 | AbM7 | AbM7 |
  Bbm7 | Eb7 | AbM7 | AbM7 |
  Ebm7 | Ab7 | DbM7 | DbM7 |
- Dm7b5 | G7alt | Cm7 | F7 |
- Bbm7 | Eb7 | AbM7 | AbM7 |
  Dm7b5 | G7alt | Cm7 | F7 |
  Bbm7 | Eb7 | AbM7 | AbM7 |
 

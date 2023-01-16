@@ -2,8 +2,8 @@ Title = Serene
 ComposedBy = Eric Dolphy
 DBKeySig = Eb
 TimeSig = 4 4
-Bars = 13
+Bars = 12
  EbM7 | Ab7#11 | Db7 | Eb7 |
  Ab7 | D7b5 | EbM7 | Dbm7 Gb7 |
  Fm7b5 | Bb7b5 Bb7b5 Bm7 E7 | Ab7#11 GbM7 | F7#9 A9 |
- A9 |
+

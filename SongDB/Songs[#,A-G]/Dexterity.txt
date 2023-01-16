@@ -1,5 +1,5 @@
 Title = Dexterity
-ComposedBy = Dexter Gordon
+ComposedBy = Charlie Parker
 DBKeySig = Bb
 TimeSig = 4 4
 Bars = 32
