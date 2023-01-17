@@ -1,10 +1,14 @@
 Title = Card Board
 ComposedBy = Charlie Parker
-DBKeySig = C
+DBKeySig = A
 TimeSig = 4 4
-Bars = 16
- C | Ebo7 | Dm7 G7 | Dm7 Ebm7 |
- Dm7 | G7 | C | C C C G7 |
- C | Ebo7 | Dm7 | G7 |
- Dm7 | G7 | C Ebo7 | Dm7 G7 |
+Bars = 32
+ A | Cdim | Bm7 | E7 F#7b9 |
+ Bm7 | E7 | A | Bm7 E7 |
+ A | Cdim | Bm7 | E7 F#7b9 |
+ Bm7 | E7b9 | C#m7 F7 | Bm7 E7 |
+ A | Cdim | Bm7 | E7 F#7b9 |
+ Bm7 | E7 | A | Em7 A7 |
+ D6 | G9#11 | C#m7 | F#7 |
+ Bm7 | E7 | A | Bm7 E7 |
 

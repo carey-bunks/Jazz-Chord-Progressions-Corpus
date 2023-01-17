@@ -3,12 +3,12 @@ ComposedBy = Chick Corea
 DBKeySig = Eb
 TimeSig = 4 4
 Bars = 32
- Ebm69 Ebm69 Ebm69 Cm7 | G7 | Cm69 | G/A D7#9 |
- Em7 | Cm7 Bbm7 | Gm7 Gbm7 | Fm7 Bb7 |
- Eb/F Db/Eb | Eb/F Db/Eb | Db/Eb B/Db | Db/Eb B/Db |
- B/C B/C B/C A/B A/B A/B B/C# B/C# | A/B | Ebm7b5 | G7 |
- Cm | G7+ | Cm69 | G/A D7#9 |
- Bm7 | Cm7 Bbm7 | Gm7 Gbm7 | Fm7 Bb7b9 |
- Eb7#9 D7#9 | Db7#9 C7#9 | Ab69 | Db7sus |
- Eb69 | F7 | Fm7 Bb7 | Ab7 G7+ |
+ Cm69 | G13 | Cm69 | Am7 D7#9 |
+ Em11 | Db69 DbM7/Ab | Bb69 E69 | Fm7 Bb7#11 |
+ Eb69 Eb9sus4 | Eb69 Eb9sus4 | Ab9sus4 | Ab9sus4 |
+ B69 B9sus4 | B69 B9sus4 | F7b9 | G7#5 |
+ Cm69 | G13 | Cm69 | Am7 D7#9 |
+ Em11 | Db69 DbM7/Ab | Bb69 E69 | Fm7 Bb7#11 |
+ Eb7#9 | Eb7#9 | Ab69 | Db9sus4 |
+ BM7#11 | F13 | Fm7 Bb7 | Eb69 G7#9 |
 

@@ -3,12 +3,12 @@ ComposedBy = Harry Warren
 DBKeySig = Bb
 TimeSig = 4 4
 Bars = 34
- Dm7 F7 | Dm7 Bb6 | F7 F7 F7sus4 F7 | Bb6 Bb |
- Dm7 F7 | Dm7 Bb6 | F7 F7 F7sus4 F7 | Bb |
- Dm7 F7 | Dm7 Bb6 | F7 F7 F7sus4 F7 | Bb6 Bb |
- Dm7 F7 | Dm7 Bb6 | F7 F7 F7sus4 F7 | Bb |
- Fm7 Gm | EbM9 Eb6 | Fm7 Fm7 Gm Bb7 | EbM7 Eb Eb6 Eb6 |
- Gm7 Am | FM7 Em7 | Gm7 Gm7 Am C7 | F7sus4 F7 |
- Dm7 F7 | Dm7 Bb6 | F7 F7 F7sus4 F7 | Bb6 Bb |
- Dm7 F7 | Fm6 G7 | Cm7 Cm7 F7sus4 F7 | Bb G7 |
- Cm7 Cm7 F7sus4 F7 | Bb |
+ Cm7 F7 | Bb6 | Cm7 F7 | Bb6 |
+ Cm7 F7 | Bb6 | Cm7 F7 | Bb |
+ Cm7 F7 | Bb6 | Cm7 F7 | Bb6 |
+ Cm7 F7 | Bb6 | Cm7 F7 | Bb |
+ Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 | EbM7 |
+ Gm7 C7 | FM7 Dm7 | Gm7 C7 | F7 |
+ Cm7 F7 | Bb6 | Cm7 F7 | Bb6 |
+ Cm7 F7 | Dm7 G7 | Cm7 F7 | Bb G7 |
+ Cm7 F7 | Bb |
