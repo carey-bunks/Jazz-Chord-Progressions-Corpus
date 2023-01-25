@@ -1,6 +1,6 @@
 Title = Groovin' High
 ComposedBy = Dizzy Gillespie
-DBKeySig = C
+DBKeySig = Eb
 TimeSig = 4 4
 Bars = 32
  EbM7 | EbM7 | Am7 | D7 |

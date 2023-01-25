@@ -1,6 +1,6 @@
 Title = Good Bait
 ComposedBy = Tadd Dameron and Count Basie
-DBKeySig = C
+DBKeySig = Bb
 TimeSig = 4 4
 Bars = 32
  Bb G7alt | Cm7 F7 | Dm7 G7 | Cm7 F7 |

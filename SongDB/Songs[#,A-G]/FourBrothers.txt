@@ -1,6 +1,6 @@
 Title = Four Brothers
 ComposedBy = Jimmy Guiffre
-DBKeySig = Eb
+DBKeySig = Ab
 TimeSig = 4 4
 Bars = 32
  Bb7 | Bbm7 Eb7#5 | Ab | F7 |

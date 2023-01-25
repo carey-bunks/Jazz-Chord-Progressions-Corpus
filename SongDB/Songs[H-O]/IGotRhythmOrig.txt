@@ -3,12 +3,12 @@ ComposedBy = George Gershwin
 DBKeySig = Bb
 TimeSig = 4 4
 Bars = 34
- Bb Bb Bb Bb Bb Bb6/F Bb6/F Bb6/F | Cm7 F7 | Bb6/F Bb6/F Bb6/F Bb6/F Bb6/F Eo7/F Eo7/F Eo7/F | Cm7 F7 |
- Bb Bb Bb Bb Bb Bb6/F Bb6/F Bb6/F | Cm7 Cm7 F7 Ebm6 | Bb/F F7 | Bb C#o7 C#o7 F7/C |
- Bb Bb Bb Bb Bb Bb6/F Bb6/F Bb6/F | Cm7 F7 | Bb6/F Bb6/F Bb6/F Bb6/F Bb6/F Eo7/F Eo7/F Eo7/F | Cm7 F7 |
- Bb Bb Bb Bb Bb Bb6/F Bb6/F Bb6/F | Cm7 Cm7 F7 Ebm6 | Bb F7 | Bb |
+ Bb Bb6/F | Cm7 F7 | Bb6/F Eo7/F | Cm7 F7 |
+ Bb Bb6/F | Cm7 Cm7 F7 Ebm6 | Bb/F F7 | Bb C#o7 C#o7 F7/C |
+ Bb Bb6/F | Cm7 F7 | Bb6/F Eo7/F | Cm7 F7 |
+ Bb Bb6/F | Cm7 Cm7 F7 Ebm6 | Bb F7 | Bb |
  D7/A Am7/D | Fm6/D D7 | G D+ | Dm/G G7/D |
  C7/G Gm7/C | Ebm6/C C9 | C7b5/Gb | F7 F7 C7 F7 |
- Bb Bb Bb Bb Bb Bb6/F Bb6/F Bb6/F | Cm7 F7 | Bb6/F Bb6/F Bb6/F Bb6/F Bb6/F Eo7/F Eo7/F Eo7/F | Cm7 F7 |
- Bb Bb Bb Bb Bb Bb6/F Bb6/F Bb6/F | Cm7 Cm7 F7 Ebm | Bb Fm/Ab | G7 |
+ Bb Bb6/F | Cm7 F7 | Bb6/F Eo7/F | Cm7 F7 |
+ Bb Bb6/F | Cm7 Cm7 F7 Ebm | Bb Fm/Ab | G7 |
  C7 F7 | Bb Ab Gb Db |

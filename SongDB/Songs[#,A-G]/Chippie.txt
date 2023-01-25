@@ -1,6 +1,6 @@
 Title = Chippie
 ComposedBy = Ornette Coleman
-DBKeySig = C
+DBKeySig = F
 TimeSig = 4 4
 Bars = 32
  FM7 Gm7 | Am7 Gm7 | Eb7 D7 | Gm7b5 C7 |

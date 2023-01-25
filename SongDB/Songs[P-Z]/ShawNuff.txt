@@ -1,6 +1,6 @@
 Title = Shaw Nuff
 ComposedBy = Charlie Parker and Dizzy Gillespie
-DBKeySig = C
+DBKeySig = Bb
 TimeSig = 4 4
 Bars = 34
  Bb6 Gm7 | Cm7 F7 | Bb6 G7#5b9 | Cm7 F7 |

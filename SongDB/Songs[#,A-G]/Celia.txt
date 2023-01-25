@@ -1,6 +1,6 @@
 Title = Celia
 ComposedBy = Bud Powell
-DBKeySig = C
+DBKeySig = Bb
 TimeSig = 4 4
 Bars = 32
  Bb69 | Cm7b5 | Dm7 | Ebm7 Ab7 |

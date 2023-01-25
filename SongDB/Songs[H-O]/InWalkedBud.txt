@@ -1,6 +1,6 @@
 Title = In Walked Bud
 ComposedBy = Thelonious Monk
-DBKeySig = C
+DBKeySig = Ab
 TimeSig = 4 4
 Bars = 32
  Fm | FmM7/E | Fm7/Eb | Bb7 Eb7 |
