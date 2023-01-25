@@ -1,0 +1,13 @@
+Title = September In The Rain MS version
+ComposedBy = Harry Warren
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 32
+ Eb Gm | C Gm | Fm | AbM7 |
+ Abm6 | Bb6 | Eb | Eb |
+ Gm | C Gm | Fm | AbM7 |
+ Abm6 | Bb6 | Eb | Eb |
+ Bbm7 Eb7 | Bbm7 Eb7 | Ab6 AbM7 | AbM7 | 
+ Cm7 F7 | Cm7 F7 | Bb7 Fm7 | Bb7 Bb+ | 
+ Eb Gm | C Gm | Fm | AbM7 |
+ Abm6 | Bb6 | Eb | Eb |
