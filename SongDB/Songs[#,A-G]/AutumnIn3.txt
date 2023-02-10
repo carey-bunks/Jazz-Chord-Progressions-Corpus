@@ -15,7 +15,7 @@ Bars = 66
  AM7 | Ab7 | CM7 | Dm7/C |
  C7#11 | F#7 | FM7#11 | E7b9 |
  AM7 | B/A | G7sus4 | CM7 |
- E\FM7 | E\FM7 | GM7 | Am/C |
+ FM7#9b5 | FM7#9b5 | GM7 | Am/C |
  D/F# | B7sus4 B7sus4 B | CM7 | C#o7 |
  Cm7 | F7 | C7sus4 | A/C# |
  D7sus4 | B/D# | Em | G7sus4 |

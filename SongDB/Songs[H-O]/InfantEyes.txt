@@ -3,10 +3,10 @@ ComposedBy = Wayne Shorter
 DBKeySig = C
 TimeSig = 4 4
 Bars = 27
- Gm7 | Fm7 | EbM7 | Gb\A7 |
+ Gm7 | Fm7 | EbM7 | A13b9 |
  GbM7#11 | Cm7/F | Ebm7 | Bb9sus4 |
- G\Bb7 | EbM7 | EM7/D# | EbM7#11 |
+ Bb13b9 | EbM7 | EM7/D# | EbM7#11 |
  EM7 | BM7 | Bb9sus4 | Abm7 |
- Eb9sus4 | Ab\D7 | Gm7 | Fm7 |
- EbM7 | Gb\A7 | GbM7#11 | Cm7/F |
+ Eb9sus4 | D7b9b5 | Gm7 | Fm7 |
+ EbM7 | A13b9 | GbM7#11 | Cm7/F |
  Ebm7 | Bb9sus4 | Bb9sus4 |

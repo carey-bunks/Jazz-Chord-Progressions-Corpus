@@ -4,7 +4,7 @@ DBKeySig = Eb
 TimeSig = 4 4
 Bars = 22
  EbM7 | Fm7/Eb Bb7b9/Eb | EbM7 | Fm7/Eb |
- Gphryg G7#9 | Cm7 C7b9 | FmM7 Fm7 | Db7#11 |
+ G7b9sus4 G7#9 | Cm7 C7b9 | FmM7 Fm7 | Db7#11 |
  EbM7/Bb | AbM7/Bb | EbM7 Fm7/Eb | Ebo7 EbM7 |
  Db7sus4 Db7#11 | Gbsus2 Bb7sus4 | EbM7 | Gb/Ab Ab6 Ab7sus4 Ab7sus4 |
  G7#9 | Cm | B+ | EbM7/Bb Ab/Bb |

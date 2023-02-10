@@ -6,11 +6,11 @@ Bars = 64
  BbmM7 | Bbm6 | AbmM7 | Abm6 |
  BbmM7 | Bbm6 | Abm7 | Db7 |
  Abm7 | Db7 | GbM7 Db7#9 | C7#9 |
- B\F7 | B\F7 F7#5 | BbmM7 | BbmM7 |
+ F7b5b9 | F7b5b9 F7#5 | BbmM7 | BbmM7 |
  BbmM7 | Bbm6 | AbmM7 | Abm6 |
  BbmM7 | Bbm6 | Abm7 | Db7 |
  Abm7 | Db7 | GbM7 Db7#9 | C7#9 |
- B\F7 | B\F7 F7#5 | BbmM7 | BbmM7 |
+ F7b5b9 | F7b5b9 F7#5 | BbmM7 | BbmM7 |
  Ebm7/Ab | Ebm7/Ab | DbM7 | Fm7b5 Bb7 |
  Eb9 | Ebm7/Ab | DbM7 | Em7 A7 |
  Ebm7/Ab | Ebm7/Ab | DbM7 | Fm7b5 Bb7 |
@@ -18,5 +18,5 @@ Bars = 64
  BbmM7 | Bbm6 | AbmM7 | Abm6 |
  BbmM7 | Bbm6 | Abm7 | Db7 |
  Abm7 | Db7 | GbM7 Db7#9 | C7#9 |
- B\F7 | B\F7 F7#5 | BbmM7 | BbmM7 |
+ F7b5b9 | F7b5b9 F7#5 | BbmM7 | BbmM7 |
 
