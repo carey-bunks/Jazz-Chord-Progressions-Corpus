@@ -34,3 +34,12 @@ An example of the contents for the song *Have You Met Miss Jones?* is illustrate
     Am7 D7 | Gm7 C7 | FM7 | FM7 |
  
 In addition to the song's title, Richard Rogers is identified as the composer, the key signature is F, the time signature is 4/4, and the completely written out song consists of 32 bars.  Each bar is terminated by the | symbol, including the last one.  Chords and pipes are separated from each other by a space.
+
+## Paper and Code
+The jazz chord progression corpus was assembled for experiments in modeling and measuring harmonic similarity.  The methods and results are reported in the paper:
+> Bunks, C., Dixon, S., Weyde, T. and Di Giorgi, B., 2023. Modeling
+Harmonic Similarity for Jazz Using Co-occurrence Vectors and the
+Membrane Area. In Proceedings of the International Society for
+Music Information Retrieval Conference (ISMIR), Milan, Italy, 2023.
+
+The paper is included in the repository, as is code for generating the main results.  Please refer to the citation above when using the corpus.
