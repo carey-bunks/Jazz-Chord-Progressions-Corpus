@@ -1,6 +1,5 @@
 import numpy as np
 from itertools import groupby
-from gensim.models import Word2Vec
 
 def distinct_chords(corpus):
     """
@@ -52,23 +51,6 @@ def compute_co_occurrence_matrix(corpus, window_size=2):
     for j in word2ind:
         for x, y in word2ind[j]:
             M[x][y] += 1
-    return M, word_idx
-
-def compute_word2vec_matrix(corpus, window_size=1):
-    """
-    Return the co-occurrence matrix of the distinct chords based on the
-    collection of songs in the corpus
-    """
-
-    model = Word2Vec(sentences=corpus, vector_size=63, window=window_size, min_count=1, workers=4)
-
-    words = distinct_chords(corpus)
-    word_idx = dict(zip(words,range(len(words))))
-
-    K = len(words)
-    M = np.zeros((K,K))
-    for j,w in enumerate(words):
-        M[j] = model.wv[w]
     return M, word_idx
 
 def compute_compressed_co_occurrence_matrix(corpus, window_size=2):
