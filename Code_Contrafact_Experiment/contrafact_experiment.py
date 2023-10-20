@@ -33,6 +33,12 @@ originals= list(df.originals)
 Ncontrafacts = len(contrafacts)
 
 ################################################################################
+# Read in all the chord progression data
+# NB: Songs are split across three subdirectories
+################################################################################
+songdb_paths = ['../SongDB/Songs[#,A-G]', '../SongDB/Songs[H-O]', '../SongDB/Songs[P-Z]']
+
+################################################################################
 # The chord progression for each song is converted to roman numeral
 # notation.  This requires key estimation.  The entire corpus is
 # structured into lists for the progressions (corpus_romans), the
@@ -40,21 +46,20 @@ Ncontrafacts = len(contrafacts)
 # (corpus_titles).
 ################################################################################
 
-# Make corpus of roman chrod progressions from the collection of all songs
-songdb_path = '../SongDB/'
-files = os.listdir(songdb_path)
 corpus_romans = []
 corpus_titles = []
 corpus_meters = []
-for f in files:
-    song_name, composer, dbkey, timesig, nbars, progression = getsong(songdb_path+'/'+f)
-    ranked_keys = estimatekey(timesig[0], progression)
-    bestkey = ranked_keys[0][0]
-    roman_prog = map2roman(bestkey, progression)
-    beats = get_beats(timesig, roman_prog)
-    corpus_romans.append(['<START>'] + strip_bars(roman_prog) + ['<END>'])
-    corpus_meters.append([0] + beats + [0])
-    corpus_titles.append(f)
+for sdb in songdb_paths:
+    files = os.listdir(sdb)
+    for f in files:
+        song_name, composer, dbkey, timesig, nbars, progression = getsong(sdb+'/'+f)
+        ranked_keys = estimatekey(timesig[0], progression)
+        bestkey = ranked_keys[0][0]
+        roman_prog = map2roman(bestkey, progression)
+        beats = get_beats(timesig, roman_prog)
+        corpus_romans.append(['<START>'] + strip_bars(roman_prog) + ['<END>'])
+        corpus_meters.append([0] + beats + [0])
+        corpus_titles.append(f)
 
 ################################################################################
 # As per equation (1) in the paper cited above, compute the
@@ -85,14 +90,13 @@ print('-'*80)
 print('{:^5} {:<34} {:<33} {:>5}'.format('#/N','Contrafact File','Original File','Rank'))
 print('-'*80)
 
+################################################################################
+# For each contrafact, compute the membrane area between it and each
+# of the other songs in the corpus
+################################################################################
 for cfact_num, cfact_file in enumerate(contrafacts):
     # cfact_num is the index of the contrafact in the contrafact list
     # and cfact_file is the filename containing the data of that contrafact
-
-    # Get the cfact data
-    song_name, composer, dbkey, timesig, nbars, progression = getsong(songdb_path+'/'+cfact_file)
-    ranked_keys = estimatekey(timesig[0], progression)
-    bestkey = ranked_keys[0][0]
 
     # orig_file is the filename containing the data of the original song
     orig_file = originals[cfact_num]
